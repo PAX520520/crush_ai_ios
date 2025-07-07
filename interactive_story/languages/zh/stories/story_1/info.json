@@ -4,55 +4,55 @@
   "title": "失忆者：诱惑与陷阱",
   "description": "一个以权力为驱动的欲望、背叛和复仇之网，故事发生在一个神秘的现代都市。主角在失忆后醒来，在神秘的索菲亚引导下进入一个充满财富和诱惑的世界，每个女人都隐藏着危险的秘密。",
   "tags": ["悬疑", "浪漫", "权力", "背叛", "复仇"],
-  "background_image": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/backgrounds/story_1_bg.jpg",
+  "background_image": "/resources/backgrounds/story_1_bg.jpg",
   "characters": [
     {
       "id": "char_001",
       "name": "Dylan",
       "description": "失忆的主角，原名莱德，曾是一个强大的黑帮老大，在背叛后失去记忆",
-      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_1/dylan.png"
+      "avatar_url": "/resources/characters/story_1/dylan.png"
     },
     {
       "id": "char_002",
       "name": "Sophia",
       "description": "聪明狡猾的黑帮老大利奥的女儿，声称是迪伦的朋友，但有自己的议程",
-      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_1/sophia.png"
+      "avatar_url": "/resources/characters/story_1/sophia.png"
     },
     {
       "id": "char_003",
       "name": "Luna",
       "description": "诱人的顶级模特，声称他们曾经是恋人，但背叛了主角",
-      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_1/luna.png"
+      "avatar_url": "/resources/characters/story_1/luna.png"
     },
     {
       "id": "char_004",
       "name": "Claire",
       "description": "坚强的女商人，冷静理性，但暗中想利用迪伦对付她的丈夫",
-      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_1/claire.png"
+      "avatar_url": "/resources/characters/story_1/claire.png"
     },
     {
       "id": "char_005",
       "name": "Eve",
       "description": "迪伦梦中的神秘女人，他失忆前的真爱",
-      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_1/eve.png"
+      "avatar_url": "/resources/characters/story_1/eve.png"
     },
     {
       "id": "char_006",
       "name": "Max",
       "description": "反派，迪伦的前得力助手，背叛了他并取代了他的位置",
-      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_1/max.png"
+      "avatar_url": "/resources/characters/story_1/max.png"
     },
     {
       "id": "char_007",
       "name": "Leo",
       "description": "强大的黑帮老大，索菲亚的父亲，复仇计划中的关键人物",
-      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_1/leo.png"
+      "avatar_url": "/resources/characters/story_1/leo.png"
     },
     {
       "id": "char_008",
       "name": "Jack",
       "description": "忠诚的盟友，在迪伦计划复仇时帮助他",
-      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_1/jack.png"
+      "avatar_url": "/resources/characters/story_1/jack.png"
     }
   ],
   "chapters": [
