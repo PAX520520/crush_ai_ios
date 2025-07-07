@@ -1,0 +1,65 @@
+{
+  "id": 1,
+  "category_id": 1,
+  "title": "Amnesic: Seduction and Traps",
+  "description": "A power-driven web of desire, betrayal, and revenge set in a mysterious modern city. The protagonist awakens with amnesia, guided by the enigmatic Sophia into a world of wealth and temptation, where every woman harbors dangerous secrets.",
+  "tags": ["suspense", "romance", "power", "betrayal", "revenge"],
+  "background_image": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/backgrounds/story_1_bg.jpg",
+  "characters": [
+    {
+      "id": "char_001",
+      "name": "Dylan",
+      "description": "The amnesiac protagonist, formerly known as Ryder, a powerful mob boss who lost his memory after betrayal",
+      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_1/dylan.png"
+    },
+    {
+      "id": "char_002",
+      "name": "Sophia",
+      "description": "Smart and cunning daughter of mob boss Leo, claims to be Dylan's friend but has her own agenda",
+      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_1/sophia.png"
+    },
+    {
+      "id": "char_003",
+      "name": "Luna",
+      "description": "A seductive top model who claims they were once lovers, but betrayed the protagonist",
+      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_1/luna.png"
+    },
+    {
+      "id": "char_004",
+      "name": "Claire",
+      "description": "A strong businesswoman, calm and rational, but secretly wants to use Dylan against her husband",
+      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_1/claire.png"
+    },
+    {
+      "id": "char_005",
+      "name": "Eve",
+      "description": "The mysterious woman from Dylan's dreams, his true love from before the amnesia",
+      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_1/eve.png"
+    },
+    {
+      "id": "char_006",
+      "name": "Max",
+      "description": "The villain, Dylan's former right-hand man who betrayed him and now rules in his place",
+      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_1/max.png"
+    },
+    {
+      "id": "char_007",
+      "name": "Leo",
+      "description": "Powerful mob boss and Sophia's father, key figure in the revenge plot",
+      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_1/leo.png"
+    },
+    {
+      "id": "char_008",
+      "name": "Jack",
+      "description": "A loyal ally who helps Dylan when he plans his revenge",
+      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_1/jack.png"
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "The Mist of Memory",
+      "file_path": "chapters/chapter_1.json"
+    }
+  ]
+}

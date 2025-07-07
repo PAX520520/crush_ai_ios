@@ -1,0 +1,54 @@
+{
+  "id": 2,
+  "category_id": 2,
+  "title": "读心游戏：掌控爱情与心灵",
+  "description": "一个刚毕业的内向大学生意外获得了读心术和操控情感的能力。当他在繁华的纽约城中运用这些新获得的能力时，他必须在利用力量获取个人利益和发现真正连接的意义之间做出选择。",
+  "tags": ["超自然", "浪漫", "心理", "力量", "转变"],
+  "background_image": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/backgrounds/story_2_bg.jpg",
+  "characters": [
+    {
+      "id": "daniel",
+      "name": "Daniel",
+      "description": "一个 20岁 的内向男子，刚从大学毕业，住在纽约但经常躲在自己的小公寓里。他对社交互动感到极度焦虑，尤其是与女性交往，但内心深处渴望真正的爱情。",
+      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_2/daniel.png"
+    },
+    {
+      "id": "yumiko",
+      "name": "Yumiko",
+      "description": "一名大学生兼职咖啡师，有着棕色卷发和绿色眼睛。她有着明亮甜美的笑容，在大学期间 Daniel 帮助过她后，一直暗恋着他。",
+      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_2/yumiko.png"
+    },
+    {
+      "id": "gloria",
+      "name": "Gloria",
+      "description": "一位高级律师，有着短金发和锐利的蓝眼睛。她坚强冷漠的外表让人难以接近，但内心隐藏着脆弱和不安全感。",
+      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_2/gloria.png"
+    },
+    {
+      "id": "claire",
+      "name": "Claire",
+      "description": "一位心理学教授，有着长长的黑发，身材纤细优雅。她成为 Daniel 的导师，帮助他理解自己的能力和人性的复杂性。",
+      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_2/claire.png"
+    },
+    {
+      "id": "carter",
+      "name": "Carter",
+      "description": "Daniel 的高中同学和室友，有着金发，外向开朗。随着 Daniel 能力的增长，他们的友谊受到挑战，Carter 感到被抛在后面。",
+      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_2/carter.png"
+    },
+    {
+      "id": "ethan",
+      "name": "Ethan",
+      "description": "一个神秘的反派，有着黑发和精致的服装。他冷酷狡猾，拥有类似的读心能力，但将其用于控制和操纵。",
+      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_2/ethan.png"
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_id": "chapter_001",
+      "title": "我获得了超能力！",
+      "file_path": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/languages/zh/stories/story_2/chapters/chapter_1.json"
+    }
+  ]
+}

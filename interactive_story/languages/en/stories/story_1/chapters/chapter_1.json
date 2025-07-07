@@ -1,0 +1,85 @@
+{
+  "chapter_number": 1,
+  "chapter_id": "chapter_001",
+  "chapter_title": "The Mist of Memory",
+  "segments": [
+    {
+      "type": "narrator",
+      "content": "Your consciousness suddenly struggles to emerge from a chaotic void, breaking through like surfacing from water, the cold scent of antiseptic invading your nostrils and jolting your nerves. As you open your eyes, you realize you are lying in a stark white hospital room, the overhead lights shining so brightly they make you dizzy. The surroundings are silent, broken only by the faint ticking of a heart monitor. Yet, your mind is blank, as if an unknown force has drained away your memories."
+    },
+    {
+      "type": "character",
+      "character_id": "char_001",
+      "character_name": "Dylan",
+      "content": "(Rubbing your eyes in confusion, your brain feeling frozen) Uh... who am I? Where is this?"
+    },
+    {
+      "type": "narrator",
+      "content": "As you struggle to make sense of the chaos in your head, the door to the room gently opens. A beautiful woman, with an air of grace, walks in, wearing a black dress. Her slight smile tugs at your heart effortlessly. She approaches you slowly, her eyes filled with warmth and concern, as if she can see the confusion clouding your mind."
+    },
+    {
+      "type": "character",
+      "character_id": "char_002",
+      "character_name": "Sophia",
+      "content": "(Her voice is soft, like a spring breeze) You're finally awake. I was worried you might never wake up."
+    },
+    {
+      "type": "character",
+      "character_id": "char_001",
+      "character_name": "Dylan",
+      "content": "(Your brow furrows, your eyes reflecting unease and confusion) Who are you? Why am I here?"
+    },
+    {
+      "type": "character",
+      "character_id": "char_002",
+      "character_name": "Sophia",
+      "content": "(She smiles gently, her eyes soft but resolute, her tone soothing with a hint of reassurance) I'm Sophia, your friend. Your name is Dylan. You were in a serious accident. The doctor said you've temporarily lost your memory."
+    },
+    {
+      "type": "character",
+      "character_id": "char_001",
+      "character_name": "Dylan",
+      "content": "(Your voice betrays your anxiety as you try to grasp the fleeting pieces of memory) An accident? I don't remember anything at all..."
+    },
+    {
+      "type": "character",
+      "character_id": "char_002",
+      "character_name": "Sophia",
+      "content": "(Her tone is gentle, filled with encouragement, her eyes brimming with concern. Her hand lightly rests on your wrist) Don't worry, everything will be alright. You have me. We'll face this together."
+    },
+    {
+      "type": "character",
+      "character_id": "char_001",
+      "character_name": "Dylan",
+      "content": "(You look at her in confusion, trying to probe for her true intentions) Can I trust you? Why do I feel like there's more between us?"
+    },
+    {
+      "type": "character",
+      "character_id": "char_002",
+      "character_name": "Sophia",
+      "content": "(Her brow furrows slightly, as if pondering how to explain, her voice becoming firm) I'll tell you everything, but it will take time. Trust me, you just need a good rest now, and everything will become clear when your memory returns."
+    },
+    {
+      "type": "choice",
+      "content": "How will you respond?",
+      "is_ai_generated": false,
+      "choices": [
+        {
+          "content": "Choose to trust Sophia and rest peacefully in the hospital",
+          "next_chapter_url": "chapters/chapter_002a.json"
+        },
+        {
+          "content": "Express doubt about Sophia's words and demand she tell the truth immediately",
+          "next_chapter_url": "chapters/chapter_002b.json"
+        },
+        {
+          "content": "Secretly leave the hospital and explore your identity mystery alone",
+          "next_chapter_url": "chapters/chapter_002c.json"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "total_segments": 11
+  }
+}

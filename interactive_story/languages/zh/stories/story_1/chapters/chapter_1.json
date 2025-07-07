@@ -1,0 +1,85 @@
+{
+  "chapter_number": 1,
+  "chapter_id": "chapter_001",
+  "chapter_title": "记忆的迷雾",
+  "segments": [
+    {
+      "type": "narrator",
+      "content": "你的意识突然挣扎着从混沌的虚空浮现，如同破水而出，刺鼻的消毒水味钻进鼻孔，刺激着你的神经。当你睁开眼睛，发现自己躺在一间洁白的病房里，头顶的灯光亮得让你头晕目眩。周围一片寂静，只有心脏监护仪微弱的滴答声。然而，你的脑海一片空白，仿佛一股未知的力量抽走了你的记忆。"
+    },
+    {
+      "type": "character",
+      "character_id": "char_001",
+      "character_name": "Dylan",
+      "content": "(困惑地揉了揉眼睛，大脑仿佛僵住了) 呃…… 我是谁？这是哪儿？"
+    },
+    {
+      "type": "narrator",
+      "content": "就在你努力理清脑海中的混乱时，病房门轻轻打开。一位优雅的美女走了进来，身着黑色连衣裙。她浅浅的微笑轻易地牵动着你的心。她缓缓走近你，眼中充满温暖与关切，仿佛能看穿你心中的迷茫。"
+    },
+    {
+      "type": "character",
+      "character_id": "char_002",
+      "character_name": "Sophia",
+      "content": "(声音轻柔，如春风拂面) 你终于醒了。我还担心你再也醒不过来呢。"
+    },
+    {
+      "type": "character",
+      "character_id": "char_001",
+      "character_name": "Dylan",
+      "content": "(眉头紧皱，眼中透露出不安与困惑) 你是谁？我为什么会在这儿？"
+    },
+    {
+      "type": "character",
+      "character_id": "char_002",
+      "character_name": "Sophia",
+      "content": "(温柔地微笑着，眼神柔和却又坚定，语气带着安抚与一丝宽慰) 我是 Sophia，你的朋友。你叫 Dylan。你遭遇了一场严重的事故。医生说你暂时失忆了。"
+    },
+    {
+      "type": "character",
+      "character_id": "char_001",
+      "character_name": "Dylan",
+      "content": "(试图抓住那转瞬即逝的记忆碎片，声音中透露出焦虑) 事故？我什么都不记得了……"
+    },
+    {
+      "type": "character",
+      "character_id": "char_002",
+      "character_name": "Sophia",
+      "content": "(语气温柔，充满鼓励，眼中满是关切，手轻轻搭在你的手腕上) 别担心，一切都会好起来的。有我在。我们一起面对。"
+    },
+    {
+      "type": "character",
+      "character_id": "char_001",
+      "character_name": "Dylan",
+      "content": "(困惑地看着她，试图探寻她的真实意图) 我能信任你吗？为什么我感觉我们之间不止如此？"
+    },
+    {
+      "type": "character",
+      "character_id": "char_002",
+      "character_name": "Sophia",
+      "content": "(微微皱眉，似乎在思考如何解释，声音变得坚定) 我会告诉你一切，但这需要时间。相信我，你现在只需好好休息，等你记忆恢复，一切都会明朗。"
+    },
+    {
+      "type": "choice",
+      "content": "你会如何回应?",
+      "is_ai_generated": false,
+      "choices": [
+        {
+          "content": "选择相信 Sophia，安心留在医院休养",
+          "next_chapter_url": "chapters/chapter_002a.json"
+        },
+        {
+          "content": "对 Sophia 说的话表示怀疑，要求她说出真相",
+          "next_chapter_url": "chapters/chapter_002b.json"
+        },
+        {
+          "content": "偷偷离开医院，独自探寻自己的身份之谜",
+          "next_chapter_url": "chapters/chapter_002c.json"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "total_segments": 11
+  }
+}

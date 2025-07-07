@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "悬疑",
+      "description": "充满神秘与紧张感的惊悚故事"
+    },
+    {
+      "id": 2,
+      "name": "浪漫",
+      "description": "充满情感深度的激情爱情故事"
+    },
+    {
+      "id": 3,
+      "name": "冒险",
+      "description": "激动人心的旅程和大胆的探索"
+    }
+  ]
+}

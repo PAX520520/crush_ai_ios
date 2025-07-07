@@ -1,0 +1,22 @@
+.DS_Store
+**/.DS_Store
+
+# idea
+.idea
+.idea/
+/.idea
+
+# vscode
+.vscode
+.vscode/
+/.vscode
+
+# trae
+.trae
+.trae/
+/.trae
+
+# cursor
+.cursor
+.cursor/
+/.cursor

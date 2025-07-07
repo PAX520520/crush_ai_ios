@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Suspense",
+      "description": "Thrilling stories filled with mystery and tension"
+    },
+    {
+      "id": 2,
+      "name": "Romance",
+      "description": "Passionate love stories with emotional depth"
+    },
+    {
+      "id": 3,
+      "name": "Adventure",
+      "description": "Exciting journeys and daring quests"
+    }
+  ]
+}

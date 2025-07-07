@@ -1,0 +1,55 @@
+{
+  "chapter_number": 1,
+  "chapter_id": "chapter_001",
+  "chapter_title": "I Got Superpowers?!",
+  "segments": [
+    {
+      "type": "narrator",
+      "content": "One ordinary morning, you wake up as usual and prepare to go to a nearby coffee shop for coffee. You see a familiar figure—the shop's regular barista, Yumiko."
+    },
+    {
+      "type": "narrator",
+      "content": "Her smile is always warm and bright, but you, being socially anxious, never muster the courage to say much to her. Today is no exception, and you plan to grab your coffee and leave quickly. After placing your order, you pass the time by playing on your phone."
+    },
+    {
+      "type": "narrator",
+      "content": "You come across a video on Instagram of a handsome influencer in a bar, flirting with multiple women and dancing with drinks. A pang of jealousy and sadness hits you, thinking, 'Ugh, this will never happen to me.' Suddenly, an ad pops up on your screen with a game, its simple words flashing: 'Do you want to read people's minds? Do you want to possess unknown powers? Try this game for free!' You scoff, 'These game ads are getting ridiculous.'"
+    },
+    {
+      "type": "narrator",
+      "content": "Just as you're about to close the page, a sharp pain hits your head, and you feel a sudden dizziness… After a while, you groggily hear a whisper in your ear, 'He ordered this coffee flavor again today. He must really like it.'"
+    },
+    {
+      "type": "narrator",
+      "content": "Disbelievingly, you lift your head, your eyes landing on Yumiko making coffee. Then, you hear another whisper, 'I hope he talks to me today… I wonder if he still remembers me…' Your gaze catches Yumiko's attention, and another thought echoes in your head, 'Ah, why's he looking at me? I'm so nervous!'"
+    },
+    {
+      "type": "narrator",
+      "content": "You suddenly realize that this might be her inner voice?! Your eyes widen in disbelief, and your heart races. Mind reading? Impossible! But the voices felt so real. Unable to suppress your shock, you hurriedly flee the coffee shop in a near panic."
+    },
+    {
+      "type": "choice",
+      "content": "What should you do next?",
+      "choices": [
+        {
+          "id": "choice_1",
+          "text": "Return to the coffee shop immediately to test if you can really read Yumiko's mind.",
+          "next_chapter": null
+        },
+        {
+          "id": "choice_2",
+          "text": "Go home and try to calm down, thinking this might just be a hallucination.",
+          "next_chapter": null
+        },
+        {
+          "id": "choice_3",
+          "text": "Find a crowded place to test if you can read other people's minds too.",
+          "next_chapter": null
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "total_segments": 7
+  }
+}

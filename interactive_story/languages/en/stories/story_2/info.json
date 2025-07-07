@@ -1,0 +1,54 @@
+{
+  "id": 2,
+  "category_id": 2,
+  "title": "Mind Reading Game: Master Love and Heart",
+  "description": "A young introverted college graduate accidentally gains the power to read minds and manipulate emotions. As he navigates his newfound abilities in the bustling city of New York, he must choose between using his powers for personal gain or discovering the true meaning of genuine connection.",
+  "tags": ["supernatural", "romance", "psychology", "power", "transformation"],
+  "background_image": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/backgrounds/story_2_bg.jpg",
+  "characters": [
+    {
+      "id": "daniel",
+      "name": "Daniel",
+      "description": "A 20-year-old introverted man who has just graduated from college, living in New York but often hiding away in his small apartment. He feels extremely anxious about social interaction, especially with women, but deep down longs for genuine love.",
+      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_2/daniel.png"
+    },
+    {
+      "id": "yumiko",
+      "name": "Yumiko",
+      "description": "A university student and part-time barista with brown curly hair and green eyes. She has a bright and sweet smile and harbors a secret crush on Daniel after he helped her during college.",
+      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_2/yumiko.png"
+    },
+    {
+      "id": "gloria",
+      "name": "Gloria",
+      "description": "A high-powered lawyer with short blonde hair and piercing blue eyes. Her strong and cold exterior makes her difficult to approach, but she hides vulnerability and insecurity beneath.",
+      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_2/gloria.png"
+    },
+    {
+      "id": "claire",
+      "name": "Claire",
+      "description": "A psychology professor with long black hair, thin and elegant. She becomes Daniel's mentor figure, helping him understand his power and the complexities of human nature.",
+      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_2/claire.png"
+    },
+    {
+      "id": "carter",
+      "name": "Carter",
+      "description": "Daniel's high school classmate and roommate with blonde hair, outgoing and cheerful. Their friendship is challenged as Daniel's powers grow and Carter feels left behind.",
+      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_2/carter.png"
+    },
+    {
+      "id": "ethan",
+      "name": "Ethan",
+      "description": "A mysterious antagonist with black hair and refined attire. He's ruthless and cunning, possessing similar mind-reading powers but using them for control and manipulation.",
+      "avatar_url": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/resources/characters/story_2/ethan.png"
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_id": "chapter_001",
+      "title": "I Got Superpowers?!",
+      "file_path": "https://raw.githubusercontent.com/PAX520520/crush_ai/main/interactive_story/languages/en/stories/story_2/chapters/chapter_1.json"
+    }
+  ]
+}
