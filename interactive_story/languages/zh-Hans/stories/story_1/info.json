@@ -53,6 +53,7 @@
   "chapters": [
     {
       "id": "chapter_001",
+      "number": 1,
       "title": "记忆的迷雾",
       "file_path": "languages/zh/stories/story_1/chapters/chapter_1.json"
     }

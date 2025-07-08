@@ -53,6 +53,7 @@
   "chapters": [
     {
       "id": "chapter_001",
+      "number": 1,
       "title": "The Mist of Memory",
       "file_path": "languages/en/stories/story_1/chapters/chapter_1.json"
     }
