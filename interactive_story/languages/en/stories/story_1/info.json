@@ -1,10 +1,5 @@
 {
-  "id": 1,
-  "category_id": 1,
-  "title": "Amnesic: Seduction and Traps",
-  "description": "A power-driven web of desire, betrayal, and revenge set in a mysterious modern city. The protagonist awakens with amnesia, guided by the enigmatic Sophia into a world of wealth and temptation, where every woman harbors dangerous secrets.",
-  "tags": ["suspense", "romance", "power", "betrayal", "revenge"],
-  "background_image": "/resources/backgrounds/story_1_bg.jpg",
+  "story_id": "story_1",
   "characters": [
     {
       "id": "char_001",
@@ -57,9 +52,9 @@
   ],
   "chapters": [
     {
-      "chapter_number": 1,
+      "id": "chapter_001",
       "title": "The Mist of Memory",
-      "file_path": "chapters/chapter_1.json"
+      "file_path": "languages/en/stories/story_1/chapters/chapter_1.json"
     }
   ]
 }

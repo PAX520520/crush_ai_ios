@@ -1,10 +1,5 @@
 {
-  "id": 1,
-  "category_id": 1,
-  "title": "失忆者：诱惑与陷阱",
-  "description": "一个以权力为驱动的欲望、背叛和复仇之网，故事发生在一个神秘的现代都市。主角在失忆后醒来，在神秘的索菲亚引导下进入一个充满财富和诱惑的世界，每个女人都隐藏着危险的秘密。",
-  "tags": ["悬疑", "浪漫", "权力", "背叛", "复仇"],
-  "background_image": "/resources/backgrounds/story_1_bg.jpg",
+  "story_id": "story_1",
   "characters": [
     {
       "id": "char_001",
@@ -57,10 +52,9 @@
   ],
   "chapters": [
     {
-      "chapter_number": 1,
-      "chapter_id": "chapter_001",
+      "id": "chapter_001",
       "title": "记忆的迷雾",
-      "file_path": "chapters/chapter_1.json"
+      "file_path": "languages/zh/stories/story_1/chapters/chapter_1.json"
     }
   ]
 }

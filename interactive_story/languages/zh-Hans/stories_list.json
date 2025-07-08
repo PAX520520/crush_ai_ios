@@ -1,0 +1,24 @@
+{
+  "stories": [
+    {
+      "id": "story_1",
+      "title": "失忆者：诱惑与陷阱",
+      "description": "一个以权力为驱动的欲望、背叛和复仇之网，故事发生在一个神秘的现代都市。主角在失忆后醒来，在神秘的索菲亚引导下进入一个充满财富和诱惑的世界，每个女人都隐藏着危险的秘密。",
+      "category_id": 1,
+      "tags": ["失忆", "权力", "背叛", "复仇", "神秘"],
+      "cover_image": "resources/covers/story_1_cover.png",
+      "background_image": "resources/backgrounds/story_1_bg.jpg",
+      "info_path": "languages/zh/stories/story_1/info.json"
+    },
+    {
+      "id": "story_2",
+      "title": "读心游戏：掌控爱情与心灵",
+      "description": "一个刚毕业的内向大学生意外获得了读心术和操控情感的能力。当他在繁华的纽约城中运用这些新获得的能力时，他必须在利用力量获取个人利益和发现真正连接的意义之间做出选择。",
+      "category_id": 2,
+      "tags": ["读心术", "心理", "力量", "转变", "情感操控"],
+      "cover_image": "resources/covers/story_2_cover.png",
+      "background_image": "resources/backgrounds/story_2_bg.jpg",
+      "info_path": "languages/zh/stories/story_2/info.json"
+    }
+  ]
+}

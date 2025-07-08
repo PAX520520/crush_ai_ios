@@ -30,21 +30,16 @@
     {
       "type": "choice",
       "content": "What should you do next?",
+      "is_ai_generated": true,
       "choices": [
         {
-          "id": "choice_1",
-          "text": "Return to the coffee shop immediately to test if you can really read Yumiko's mind.",
-          "next_chapter": null
+          "content": "Return to the coffee shop immediately to test if you can really read Yumiko's mind."
         },
         {
-          "id": "choice_2",
-          "text": "Go home and try to calm down, thinking this might just be a hallucination.",
-          "next_chapter": null
+          "content": "Go home and try to calm down, thinking this might just be a hallucination."
         },
         {
-          "id": "choice_3",
-          "text": "Find a crowded place to test if you can read other people's minds too.",
-          "next_chapter": null
+          "content": "Find a crowded place to test if you can read other people's minds too."
         }
       ]
     }

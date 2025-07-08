@@ -30,21 +30,16 @@
     {
       "type": "choice",
       "content": "你接下来应该怎么做？",
+      "is_ai_generated": true,
       "choices": [
         {
-          "id": "choice_1",
-          "text": "立即返回咖啡店，测试你是否真的能读懂 Yumiko 的心思。",
-          "next_chapter": null
+          "content": "立即返回咖啡店，测试你是否真的能读懂 Yumiko 的心思。"
         },
         {
-          "id": "choice_2",
-          "text": "回家冷静一下，认为这可能只是幻觉。",
-          "next_chapter": null
+          "content": "回家冷静一下，认为这可能只是幻觉。"
         },
         {
-          "id": "choice_3",
-          "text": "找一个人多的地方，测试你是否也能读懂其他人的心思。",
-          "next_chapter": null
+          "content": "找一个人多的地方，测试你是否也能读懂其他人的心思。"
         }
       ]
     }
