@@ -2,7 +2,7 @@
 	"story_id": "story_1",
 	"characters": [
 		{
-			"id": "char_001",
+			"id": "char_1",
 			"name": "Dylan",
 			"description": "失忆的主角，原名 Ryder ，曾是一个强大的黑帮老大，在背叛后失去记忆",
 			"avatar_url": "/resources/characters/story_1/dylan.png",
@@ -18,7 +18,7 @@
 			"background": "前黑帮老大"
 		},
 		{
-			"id": "char_002",
+			"id": "char_2",
 			"name": "Sophia",
 			"description": "第一个出现在主角身边的女性。聪明且狡猾，自称是他的朋友，实则是势力强大的黑帮老大利奥的女儿。她隐瞒了主角真实身份的真相，但其真实动机是自私自利的。",
 			"avatar_url": "/resources/characters/story_1/sophia.png",
@@ -34,7 +34,7 @@
 			"background": "黑帮老大的女儿"
 		},
 		{
-			"id": "char_003",
+			"id": "char_3",
 			"name": "Luna",
 			"description": "一位性感的顶级模特，极具诱惑力，声称曾与主角相爱但背叛了他。",
 			"avatar_url": "/resources/characters/story_1/luna.png",
@@ -50,7 +50,7 @@
 			"background": "顶级模特"
 		},
 		{
-			"id": "char_004",
+			"id": "char_4",
 			"name": "Claire",
 			"description": "女强人，商业精英，冷静理智，有能力且聪慧，但实际上是个傲娇。与主角有业务往来，实则想利用他来对抗自己的丈夫。",
 			"avatar_url": "/resources/characters/story_1/claire.png",
@@ -67,7 +67,7 @@
 			"background": "女商人"
 		},
 		{
-			"id": "char_005",
+			"id": "char_5",
 			"name": "Eve",
 			"description": "主角梦中模糊的女性，是他失忆前真正爱过的女人，神秘莫测。",
 			"avatar_url": "/resources/characters/story_1/eve.png",
@@ -83,7 +83,7 @@
 			"background": "神秘身份"
 		},
 		{
-			"id": "char_006",
+			"id": "char_6",
 			"name": "Max",
 			"description": "反派，主角以前的得力助手，现在取代他成为黑帮头目，是背叛主角的关键人物。",
 			"avatar_url": "/resources/characters/story_1/max.png",
@@ -99,7 +99,7 @@
 			"background": "前得力助手，现黑帮老大"
 		},
 		{
-			"id": "char_007",
+			"id": "char_7",
 			"name": "Leo",
 			"description": "对主角的复仇有重大影响的黑帮老大，是索菲亚的父亲。",
 			"avatar_url": "/resources/characters/story_1/leo.png",
@@ -115,7 +115,7 @@
 			"background": "黑帮老大， Sophia 的父亲"
 		},
 		{
-			"id": "char_008",
+			"id": "char_8",
 			"name": "Jack",
 			"description": "主角身边的亲信和盟友，在主角策划复仇时提供帮助。",
 			"avatar_url": "/resources/characters/story_1/jack.png",
