@@ -135,26 +135,22 @@
 		{
 			"id": "chapter_1",
 			"number": 1,
-			"title": "记忆的迷雾",
-			"file_path": "languages/zh/stories/story_1/chapters/chapter_1.json"
+			"title": "记忆的迷雾"
 		},
 		{
 			"id": "chapter_2a",
 			"number": 2,
-			"title": "安心休养",
-			"file_path": "languages/zh/stories/story_1/chapters/chapter_2a.json"
+			"title": "安心休养"
 		},
 		{
 			"id": "chapter_2b",
 			"number": 2,
-			"title": "探寻真相",
-			"file_path": "languages/zh/stories/story_1/chapters/chapter_2b.json"
+			"title": "探寻真相"
 		},
 		{
 			"id": "chapter_2c",
 			"number": 2,
-			"title": "独自探索",
-			"file_path": "languages/zh/stories/story_1/chapters/chapter_2c.json"
+			"title": "独自探索"
 		}
 	]
 }

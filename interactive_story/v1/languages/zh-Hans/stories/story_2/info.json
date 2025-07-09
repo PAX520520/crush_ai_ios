@@ -106,10 +106,9 @@
 	],
 	"chapters": [
 		{
-			"id": "chapter_001",
+			"id": "chapter_1",
 			"number": 1,
-			"title": "我获得了超能力？！",
-			"file_path": "languages/zh/stories/story_2/chapters/chapter_1.json"
+			"title": "我获得了超能力？！"
 		}
 	]
 }
