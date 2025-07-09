@@ -1,30 +1,30 @@
 {
-    "chapter_number": 2,
-    "chapter_id": "chapter_2b",
-    "chapter_title": "探寻真相",
+    "number": 2,
+    "id": "chapter_2b",
+    "title": "探寻真相",
     "segments": [
         {
             "type": "protagonist",
-            "character_id": "char_1",
-            "character_name": "Dylan",
+            "id": "char_1",
+            "name": "Dylan",
             "content": "(目光坚定地看着 Sophia) 我不能就这样不明不白地等下去。你必须现在就告诉我真相。"
         },
         {
             "type": "character",
-            "character_id": "char_2",
-            "character_name": "Sophia",
+            "id": "char_2",
+            "name": "Sophia",
             "content": "(眼中闪过一丝无奈和纠结，犹豫了一下) 你现在还不能知道全部的真相，这对你来说太危险了。"
         },
         {
             "type": "protagonist",
-            "character_id": "char_1",
-            "character_name": "Dylan",
+            "id": "char_1",
+            "name": "Dylan",
             "content": "(情绪有些激动) 危险？你越是这样说，我就越觉得可疑。你到底在隐瞒什么？"
         },
         {
             "type": "character",
-            "character_id": "char_2",
-            "character_name": "Sophia",
+            "id": "char_2",
+            "name": "Sophia",
             "content": "(叹了口气，缓缓说道) 好吧，我可以告诉你一部分。你卷入了一场非常复杂的事件，有人想要伤害你。我一直在保护你，但现在还不是你知道全部的时候。"
         },
         {
@@ -33,8 +33,8 @@
         },
         {
             "type": "character",
-            "character_id": "char_3",
-            "character_name": "Mysterious Man",
+            "id": "char_3",
+            "name": "Mysterious Man",
             "content": "(冷冷地看着你和 Sophia) 看来你们聊得很愉快啊。"
         },
         {

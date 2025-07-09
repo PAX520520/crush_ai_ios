@@ -1,12 +1,12 @@
 {
-    "chapter_number": 2,
-    "chapter_id": "chapter_2c",
-    "chapter_title": "独自探寻",
+    "number": 2,
+    "id": "chapter_2c",
+    "title": "独自探寻",
     "segments": [
         {
             "type": "protagonist",
-            "character_id": "char_1",
-            "character_name": "Dylan",
+            "id": "char_1",
+            "name": "Dylan",
             "content": "(趁 Sophia 离开病房的间隙，悄悄穿上衣服，准备离开) 我必须自己去寻找答案。"
         },
         {
@@ -15,20 +15,20 @@
         },
         {
             "type": "character",
-            "character_id": "char_4",
-            "character_name": "Security Guard",
+            "id": "char_4",
+            "name": "Security Guard",
             "content": "(拦住你的去路) 你不能离开医院，你还在治疗期间。"
         },
         {
             "type": "protagonist",
-            "character_id": "char_1",
-            "character_name": "Dylan",
+            "id": "char_1",
+            "name": "Dylan",
             "content": "(焦急地解释) 我有重要的事情要做，让我出去。"
         },
         {
             "type": "character",
-            "character_id": "char_4",
-            "character_name": "Security Guard",
+            "id": "char_4",
+            "name": "Security Guard",
             "content": "(不为所动) 不行，除非有医生的许可。"
         },
         {
