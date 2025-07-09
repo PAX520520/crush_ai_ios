@@ -1,0 +1,81 @@
+{
+	"chapter_number": 1,
+	"chapter_id": "chapter_001",
+	"chapter_title": "我获得了超能力？！",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "一个平凡的早晨，你像往常一样醒来，准备去附近的咖啡店喝咖啡。你看到了一个熟悉的身影——店里的常驻咖啡师，Yumiko。"
+		},
+		{
+			"type": "narrator",
+			"content": "她的笑容总是温暖明亮，但你打算快速拿到咖啡就离开。点完单后，你用手机打发时间。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_001",
+			"character_name": "Daniel",
+			"content": "(看着手机上的视频，心中涌现一股复杂情绪) 唉，这种事永远不会发生在我身上。"
+		},
+		{
+			"type": "narrator",
+			"content": "Instagram 上，一个帅气网红在酒吧与多个女性调情、举杯共舞。突然，一个游戏广告弹出，文字闪烁：'你想读懂别人的心思吗？你想拥有未知的力量吗？免费试玩这个游戏！'"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_001",
+			"character_name": "Daniel",
+			"content": "(冷笑着轻声自语) 这些游戏广告越来越荒谬了。"
+		},
+		{
+			"type": "narrator",
+			"content": "就在你准备关闭页面时，头部突然传来一阵剧痛，你感到一阵眩晕。"
+		},
+		{
+			"type": "narrator",
+			"content": "迷迷糊糊中，你听到耳边有个声音在窃窃私语：'他今天又点了这个口味的咖啡。他一定很喜欢这个味道。'"
+		},
+		{
+			"type": "narrator",
+			"content": "你抬起头，目光落在正在制作咖啡的 Yumiko 身上。"
+		},
+		{
+			"type": "narrator",
+			"content": "另一个声音在你脑中响起：'我希望他今天能和我说话……不知道他还记不记得我……'"
+		},
+		{
+			"type": "narrator",
+			"content": "你的目光引起了 Yumiko 的注意，接着又有一个想法传入脑海：'啊，他为什么看着我？我好紧张！'"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_001",
+			"character_name": "Daniel",
+			"content": "(内心震惊，双眼瞪大，心跳加快) 那是……她的内心声音？这不可能……读心术？！"
+		},
+		{
+			"type": "narrator",
+			"content": "你无法抑制震惊与慌乱，匆忙逃离咖啡店，几乎是在恐慌中奔跑。"
+		},
+		{
+			"type": "choice",
+			"content": "你接下来应该怎么做？",
+			"is_ai_generated": true,
+			"choices": [
+				{
+					"content": "立即返回咖啡店，测试你是否真的能读懂 Yumiko 的心思。"
+				},
+				{
+					"content": "回家冷静一下，认为这可能只是幻觉。"
+				},
+				{
+					"content": "找一个人多的地方，测试你是否也能读懂其他人的心思。"
+				}
+			]
+		}
+	],
+	"metadata": {
+		"total_segments": 13
+	},
+	"summary": "社交焦虑的主角在咖啡店看到游戏广告后突然获得了读心术能力，能够听到咖啡师 Yumiko 的内心想法。震惊之下匆忙逃离，面临是否回去测试能力、回家冷静还是寻找其他人测试的选择。"
+}

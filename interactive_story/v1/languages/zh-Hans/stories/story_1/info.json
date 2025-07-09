@@ -1,0 +1,142 @@
+{
+	"story_id": "story_1",
+	"characters": [
+		{
+			"id": "char_001",
+			"name": "Dylan",
+			"description": "失忆的主角，原名 Ryder ，曾是一个强大的黑帮老大，在背叛后失去记忆",
+			"avatar_url": "/resources/characters/story_1/dylan.png",
+			"role": "男主角",
+			"importance": "主要人物",
+			"gender": "男性",
+			"age": "30岁",
+			"personality": [
+				"坚强",
+				"迷茫",
+				"有领导力"
+			],
+			"background": "前黑帮老大"
+		},
+		{
+			"id": "char_002",
+			"name": "Sophia",
+			"description": "第一个出现在主角身边的女性。聪明且狡猾，自称是他的朋友，实则是势力强大的黑帮老大利奥的女儿。她隐瞒了主角真实身份的真相，但其真实动机是自私自利的。",
+			"avatar_url": "/resources/characters/story_1/sophia.png",
+			"role": "女主角",
+			"importance": "主要人物",
+			"gender": "女性",
+			"age": "25岁",
+			"personality": [
+				"聪明",
+				"狡猾",
+				"自私"
+			],
+			"background": "黑帮老大的女儿"
+		},
+		{
+			"id": "char_003",
+			"name": "Luna",
+			"description": "一位性感的顶级模特，极具诱惑力，声称曾与主角相爱但背叛了他。",
+			"avatar_url": "/resources/characters/story_1/luna.png",
+			"role": "重要女性角色",
+			"importance": "重要人物",
+			"gender": "女性",
+			"age": "28岁",
+			"personality": [
+				"诱人",
+				"背叛",
+				"美丽"
+			],
+			"background": "顶级模特"
+		},
+		{
+			"id": "char_004",
+			"name": "Claire",
+			"description": "女强人，商业精英，冷静理智，有能力且聪慧，但实际上是个傲娇。与主角有业务往来，实则想利用他来对抗自己的丈夫。",
+			"avatar_url": "/resources/characters/story_1/claire.png",
+			"role": "重要女性角色",
+			"importance": "重要人物",
+			"gender": "女性",
+			"age": "35岁",
+			"personality": [
+				"坚强",
+				"冷静",
+				"理性",
+				"有心机"
+			],
+			"background": "女商人"
+		},
+		{
+			"id": "char_005",
+			"name": "Eve",
+			"description": "主角梦中模糊的女性，是他失忆前真正爱过的女人，神秘莫测。",
+			"avatar_url": "/resources/characters/story_1/eve.png",
+			"role": "真爱女主角",
+			"importance": "主要人物",
+			"gender": "女性",
+			"age": "27岁",
+			"personality": [
+				"神秘",
+				"温柔",
+				"真诚"
+			],
+			"background": "神秘身份"
+		},
+		{
+			"id": "char_006",
+			"name": "Max",
+			"description": "反派，主角以前的得力助手，现在取代他成为黑帮头目，是背叛主角的关键人物。",
+			"avatar_url": "/resources/characters/story_1/max.png",
+			"role": "主要反派",
+			"importance": "主要人物",
+			"gender": "男性",
+			"age": "32岁",
+			"personality": [
+				"背叛",
+				"野心",
+				"狡猾"
+			],
+			"background": "前得力助手，现黑帮老大"
+		},
+		{
+			"id": "char_007",
+			"name": "Leo",
+			"description": "对主角的复仇有重大影响的黑帮老大，是索菲亚的父亲。",
+			"avatar_url": "/resources/characters/story_1/leo.png",
+			"role": "重要反派",
+			"importance": "重要人物",
+			"gender": "男性",
+			"age": "55岁",
+			"personality": [
+				"强大",
+				"权威",
+				"复仇心重"
+			],
+			"background": "黑帮老大， Sophia 的父亲"
+		},
+		{
+			"id": "char_008",
+			"name": "Jack",
+			"description": "主角身边的亲信和盟友，在主角策划复仇时提供帮助。",
+			"avatar_url": "/resources/characters/story_1/jack.png",
+			"role": "忠诚盟友",
+			"importance": "次要人物",
+			"gender": "男性",
+			"age": "29岁",
+			"personality": [
+				"忠诚",
+				"可靠",
+				"勇敢"
+			],
+			"background": "Dylan 的忠实盟友"
+		}
+	],
+	"chapters": [
+		{
+			"id": "chapter_001",
+			"number": 1,
+			"title": "记忆的迷雾",
+			"file_path": "languages/zh/stories/story_1/chapters/chapter_1.json"
+		}
+	]
+}

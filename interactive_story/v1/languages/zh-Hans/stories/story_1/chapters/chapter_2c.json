@@ -1,0 +1,59 @@
+{
+    "chapter_number": 2,
+    "chapter_id": "chapter_2c",
+    "chapter_title": "独自探寻",
+    "segments": [
+        {
+            "type": "protagonist",
+            "character_id": "char_001",
+            "character_name": "Dylan",
+            "content": "(趁 Sophia 离开病房的间隙，悄悄穿上衣服，准备离开) 我必须自己去寻找答案。"
+        },
+        {
+            "type": "narrator",
+            "content": "你小心翼翼地走出病房，沿着走廊向前走去。然而，还没走多远，就被医院的保安发现了。"
+        },
+        {
+            "type": "character",
+            "character_id": "char_004",
+            "character_name": "Security Guard",
+            "content": "(拦住你的去路) 你不能离开医院，你还在治疗期间。"
+        },
+        {
+            "type": "protagonist",
+            "character_id": "char_001",
+            "character_name": "Dylan",
+            "content": "(焦急地解释) 我有重要的事情要做，让我出去。"
+        },
+        {
+            "type": "character",
+            "character_id": "char_004",
+            "character_name": "Security Guard",
+            "content": "(不为所动) 不行，除非有医生的许可。"
+        },
+        {
+            "type": "narrator",
+            "content": "你无奈之下，只好寻找机会摆脱保安。你趁着保安不注意，冲进了旁边的电梯，按下了一楼的按钮。当电梯门打开时，你发现自己来到了一个陌生的地方，周围人来人往，你完全不知道该往哪里走。"
+        },
+        {
+            "type": "choice",
+            "content": "你接下来会怎么做？",
+            "is_ai_generated": true,
+            "choices": [
+                {
+                    "content": "随便找个人问问路，希望能找到一些线索"
+                },
+                {
+                    "content": "观察周围的环境，看看有没有什么可疑的地方"
+                },
+                {
+                    "content": "回到医院，向 Sophia 道歉，重新寻求她的帮助"
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "total_segments": 7
+    },
+    "summary": "主角偷偷离开医院，被保安拦住，摆脱保安后在陌生的地方迷路，面临着不同的选择。"
+}

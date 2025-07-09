@@ -1,0 +1,61 @@
+{
+    "chapter_number": 2,
+    "chapter_id": "chapter_2b",
+    "chapter_title": "探寻真相",
+    "segments": [
+        {
+            "type": "protagonist",
+            "character_id": "char_001",
+            "character_name": "Dylan",
+            "content": "(目光坚定地看着 Sophia) 我不能就这样不明不白地等下去。你必须现在就告诉我真相。"
+        },
+        {
+            "type": "character",
+            "character_id": "char_002",
+            "character_name": "Sophia",
+            "content": "(眼中闪过一丝无奈和纠结，犹豫了一下) 你现在还不能知道全部的真相，这对你来说太危险了。"
+        },
+        {
+            "type": "protagonist",
+            "character_id": "char_001",
+            "character_name": "Dylan",
+            "content": "(情绪有些激动) 危险？你越是这样说，我就越觉得可疑。你到底在隐瞒什么？"
+        },
+        {
+            "type": "character",
+            "character_id": "char_002",
+            "character_name": "Sophia",
+            "content": "(叹了口气，缓缓说道) 好吧，我可以告诉你一部分。你卷入了一场非常复杂的事件，有人想要伤害你。我一直在保护你，但现在还不是你知道全部的时候。"
+        },
+        {
+            "type": "narrator",
+            "content": "就在这时，病房门突然被推开，一个穿着黑色西装的男人走了进来，他的眼神冰冷而锐利，让人不寒而栗。"
+        },
+        {
+            "type": "character",
+            "character_id": "char_003",
+            "character_name": "Mysterious Man",
+            "content": "(冷冷地看着你和 Sophia) 看来你们聊得很愉快啊。"
+        },
+        {
+            "type": "choice",
+            "content": "你会如何应对这个神秘男人？",
+            "is_ai_generated": true,
+            "choices": [
+                {
+                    "content": "向神秘男人询问情况，试图了解真相"
+                },
+                {
+                    "content": "和 Sophia 一起警惕地看着他，准备应对可能的危险"
+                },
+                {
+                    "content": "假装镇定，试图拖延时间，寻找逃跑的机会"
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "total_segments": 7
+    },
+    "summary": "主角对 Sophia 的话表示怀疑，要求她说出真相。Sophia 无奈之下透露了一部分信息，这时一个神秘男人突然闯入病房，主角面临着不同的应对选择。"
+}
