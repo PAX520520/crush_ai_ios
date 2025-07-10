@@ -1,36 +1,36 @@
 {
 	"generation_rules": {
 		"rules": [
-			"1. 生成互动小说章节内容，需严格保持角色名称原文（如Sophia/Dylan）",
-			"2. 每个选择分支必须：a) 逻辑连贯 b) 推动主线剧情 c) 提供独特情感体验（紧张/诱惑/悲伤三选一）",
-			"3. 非最终章必须在结尾生成一个 choice 项，包含3个选项，最终章不包含",
-			"4. 选项必须随机生成（不固定模式），且影响：角色关系变化、关键剧情转折、结局分支",
-			"5. 每章逐步揭示：主人公身份线索（1处）、情感矛盾（1处）、复仇计划进展（1处）",
-			"6. 新角色首次登场：女性角色必须包含外貌描写（如'红唇微启'），男性角色突出气质特征",
-			"7. 语言要求：a) 基督山伯爵式华丽比喻 b) 伯恩身份式悬疑节奏 c) 情感冲突具象化",
-			"8. 每3-4段对话插入环境描写/细节伏笔（如可疑物品、记忆闪回）"
+			"1. Generate interactive novel chapter content, strictly maintaining the original character names (e.g., Sophia/Dylan)",
+			"2. Each choice branch must: a) be logically coherent b) advance the main plot c) provide a unique emotional experience (choose one from tension/temptation/sadness)",
+			"3. Non-final chapters must end with a choice item containing 3 options; final chapters must not",
+			"4. Options must be randomly generated (no fixed pattern) and affect: changes in character relationships, key plot twists, ending branches",
+			"5. Each chapter gradually reveals: one clue about the protagonist's identity, one emotional conflict, one progress in the revenge plan",
+			"6. For the first appearance of a new character: female characters must include appearance descriptions (e.g., 'her red lips slightly parted'), male characters highlight temperament characteristics",
+			"7. Language requirements: a) The Count of Monte Cristo-style ornate metaphors b) Bourne Identity-style suspenseful pacing c) emotional conflicts visualized",
+			"8. Insert environmental descriptions/detailed foreshadowing (e.g., suspicious items, memory flashes) every 3-4 dialogue segments"
 		],
-		"min_segments": 20,
+		"min_segments": 25,
 		"max_segments": 50,
 		"choices_count": 3
 	},
 	"output_format": {
-		"id": "章节ID（如chapter_x）",
-		"number": "章节序号（整数）",
-		"title": "5-8字标题（概括本章核心冲突）",
-		"summary": "45-50字摘要（含关键转折点）",
+		"id": "Chapter ID (e.g., chapter_x)",
+		"number": "Chapter number (integer)",
+		"title": "5-8 character title (summarizing the core conflict of the chapter)",
+		"summary": "45-50 character summary (including key turning points)",
 		"segments": [
 			{
-				"type": "必填，枚举值 narrator|protagonist|character",
-				"id": "当type=character/protagonist时必填（角色 ID 如 char_1 ）",
-				"name": "当type=protagonist/character时必填（角色名如Dylan）",
-				"content": "格式规则：(动作表情描述) 对话内容 😊 示例：(手指轻敲桌面) 这不可能...Max不会背叛我 😠"
+				"type": "Required, enum values narrator|protagonist|character",
+				"id": "Required when type=character/protagonist (character ID e.g., char_1)",
+				"name": "Required when type=protagonist/character (character name e.g., Dylan)",
+				"content": "Format rules: (action/expression description) dialogue content 😊 Example: (fingers tapping lightly on the table) That's impossible... Max wouldn't betray me 😠"
 			}
 		],
 		"choice": {
-			"prompt": "18-20字引导文本（含当前困境提示）",
+			"prompt": "18-20 character guiding text (including a hint of the current dilemma)",
 			"options": [
-				"数组包含3个选项, 每个选择将影响角色关系, 改变剧情走向, 触发不同结局分支"
+				"Array containing 3 options, each choice will affect character relationships, change the plot direction, and trigger different ending branches"
 			]
 		}
 	}
