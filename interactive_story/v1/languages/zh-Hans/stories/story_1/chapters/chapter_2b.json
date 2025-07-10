@@ -39,7 +39,7 @@
             "content": "(冷冷地看着你和 Sophia) 看来你们聊得很愉快啊。"
         }
     ],
-	"choices": {
+	"choice": {
 		"prompt": "你会如何应对这个神秘男人？",
         "is_ai_generated": true,
 		"options": [

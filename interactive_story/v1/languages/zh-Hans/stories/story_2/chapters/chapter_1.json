@@ -59,7 +59,7 @@
 			"content": "你无法抑制震惊与慌乱，匆忙逃离咖啡店，几乎是在恐慌中奔跑。"
 		}
 	],
-	"choices": {
+	"choice": {
 		"prompt": "你接下来应该怎么做？",
         "is_ai_generated": true,
 		"options": [

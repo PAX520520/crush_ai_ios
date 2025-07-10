@@ -27,7 +27,7 @@
             "content": "(心中涌起一丝不安，坐起身来) 刚才是有人来过吗？"
         }
     ],
-	"choices": {
+	"choice": {
 		"prompt": "你打算怎么做？",
         "is_ai_generated": true,
 		"options": [
