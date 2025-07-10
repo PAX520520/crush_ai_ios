@@ -28,7 +28,9 @@
 				"content": "必填，当type=narrator时，纯叙述文本",
 				"id": "当type=character时必填，角色唯一ID",
 				"name": "当type=protagonist/character时必填",
-				"choices": "当type=choice时必填，数组包含3个选项, 每个选择将影响角色关系, 改变剧情走向, 触发不同结局分支"
+				"choices": [
+					"当type=choice时必填，数组包含3个选项, 每个选择将影响角色关系, 改变剧情走向, 触发不同结局分支"
+				]
 			}
 		],
 		"summary": "string 格式，50字内章节摘要"
