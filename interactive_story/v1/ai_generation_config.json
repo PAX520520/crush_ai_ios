@@ -11,8 +11,7 @@
 			"8. 语言应该生动而富有想象力，类似于基督山伯爵。这个故事的灵感来自《伯恩身份》的互动小说风格，充满了悬念和情感冲突，带领读者进入一个欲望和权力交织的世界。"
 		],
 		"required_fields": [
-			"第一层: id, number, title, segments, summary",
-			"第二层: id: 可选的 (protagonist, character 必须),name: 可选的 (protagonist, character 必须), type: 必须的 (narrator, protagonist, character, choice), content: 必须的"
+			"id, number, title, summary, segments, choices"
 		],
 		"min_segments": 30,
 		"max_segments": 50,
