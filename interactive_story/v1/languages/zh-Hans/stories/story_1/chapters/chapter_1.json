@@ -2,6 +2,7 @@
 	"number": 1,
 	"id": "chapter_1",
 	"title": "记忆的迷雾",
+	"summary": "失忆的主角 Dylan 在医院醒来，遇到了声称是朋友的神秘女子 Sophia。Sophia 告诉他遭遇了事故导致失忆，但 Dylan 对她的话感到怀疑，面临是否信任她、要求真相还是独自离开的选择。",
 	"segments": [
 		{
 			"type": "narrator",
@@ -58,26 +59,23 @@
 			"id": "char_2",
 			"name": "Sophia",
 			"content": "(微微皱眉，似乎在思考如何解释，声音变得坚定) 我会告诉你一切，但这需要时间。相信我，你现在只需好好休息，等你记忆恢复，一切都会明朗。"
-		},
-		{
-			"type": "choice",
-			"content": "你会如何回应?",
-            "is_ai_generated": false,
-            "choices": [
-                {
-                    "content": "选择相信 Sophia，安心留在医院休养",
-                    "next_chapter_id": "chapter_2a"
-                },
-                {
-                    "content": "对 Sophia 说的话表示怀疑，要求她说出真相",
-                    "next_chapter_id": "chapter_2b"
-                },
-                {
-                    "content": "偷偷离开医院，独自探寻自己的身份之谜",
-                    "next_chapter_id": "chapter_2c"
-                }
-            ]
 		}
 	],
-	"summary": "失忆的主角 Dylan 在医院醒来，遇到了声称是朋友的神秘女子 Sophia。Sophia 告诉他遭遇了事故导致失忆，但 Dylan 对她的话感到怀疑，面临是否信任她、要求真相还是独自离开的选择。"
+	"choices": {
+		"prompt": "你会如何回应:",
+		"options": [
+			{
+				"content": "选择相信 Sophia，安心留在医院休养",
+				"next_chapter_id": "chapter_2a"
+			},
+			{
+				"content": "对 Sophia 说的话表示怀疑，要求她说出真相",
+				"next_chapter_id": "chapter_2b"
+			},
+			{
+				"content": "偷偷离开医院，独自探寻自己的身份之谜",
+				"next_chapter_id": "chapter_2c"
+			}
+		]
+	}
 }

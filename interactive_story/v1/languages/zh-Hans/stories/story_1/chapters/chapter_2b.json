@@ -2,6 +2,7 @@
     "number": 2,
     "id": "chapter_2b",
     "title": "探寻真相",
+    "summary": "主角对 Sophia 的话表示怀疑，要求她说出真相。Sophia 无奈之下透露了一部分信息，这时一个神秘男人突然闯入病房，主角面临着不同的应对选择。",
     "segments": [
         {
             "type": "protagonist",
@@ -36,23 +37,21 @@
             "id": "char_3",
             "name": "Mysterious Man",
             "content": "(冷冷地看着你和 Sophia) 看来你们聊得很愉快啊。"
-        },
-        {
-            "type": "choice",
-            "content": "你会如何应对这个神秘男人？",
-            "is_ai_generated": true,
-            "choices": [
-                {
-                    "content": "向神秘男人询问情况，试图了解真相"
-                },
-                {
-                    "content": "和 Sophia 一起警惕地看着他，准备应对可能的危险"
-                },
-                {
-                    "content": "假装镇定，试图拖延时间，寻找逃跑的机会"
-                }
-            ]
         }
     ],
-    "summary": "主角对 Sophia 的话表示怀疑，要求她说出真相。Sophia 无奈之下透露了一部分信息，这时一个神秘男人突然闯入病房，主角面临着不同的应对选择。"
+	"choices": {
+		"prompt": "你会如何应对这个神秘男人？",
+        "is_ai_generated": true,
+		"options": [
+			{
+				"content": "向神秘男人询问情况，试图了解真相"
+			},
+			{
+				"content": "和 Sophia 一起警惕地看着他，准备应对可能的危险"
+			},
+			{
+				"content": "假装镇定，试图拖延时间，寻找逃跑的机会"
+			}
+		]
+	}
 }

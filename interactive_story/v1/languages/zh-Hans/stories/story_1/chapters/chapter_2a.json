@@ -2,6 +2,7 @@
     "number": 2,
     "id": "chapter_2a",
     "title": "安心休养",
+    "summary": "主角选择相信 Sophia，留在医院安心休养。Sophia 悉心陪伴，主角心情逐渐放松。然而，一天晚上主角听到脚步声，醒来却发现走廊空无一人，主角面临着不同的选择。",
     "segments": [
         {
             "type": "protagonist",
@@ -24,23 +25,21 @@
             "id": "char_1",
             "name": "Dylan",
             "content": "(心中涌起一丝不安，坐起身来) 刚才是有人来过吗？"
-        },
-        {
-            "type": "choice",
-            "content": "你打算怎么做？",
-            "is_ai_generated": true,
-            "choices": [
-                {
-                    "content": "告诉 Sophia 这件事，寻求她的帮助"
-                },
-                {
-                    "content": "自己悄悄去查看走廊，看看是否能发现什么"
-                },
-                {
-                    "content": "当作是自己的错觉，继续睡觉"
-                }
-            ]
         }
     ],
-    "summary": "主角选择相信 Sophia，留在医院安心休养。Sophia 悉心陪伴，主角心情逐渐放松。然而，一天晚上主角听到脚步声，醒来却发现走廊空无一人，主角面临着不同的选择。"
+	"choices": {
+		"prompt": "你打算怎么做？",
+        "is_ai_generated": true,
+		"options": [
+			{
+				"content": "告诉 Sophia 这件事，寻求她的帮助"
+			},
+			{
+				"content": "自己悄悄去查看走廊，看看是否能发现什么"
+			},
+			{
+				"content": "当作是自己的错觉，继续睡觉"
+			}
+		]
+	}
 }

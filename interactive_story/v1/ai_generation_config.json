@@ -22,17 +22,20 @@
 		"id": "string 格式，示例: chapter_1",
 		"number": "integer 格式，示例: 1",
 		"title": "string 格式，5-10字概括本章走向",
+		"summary": "string 格式，50字内章节摘要",
 		"segments": [
 			{
-				"type": "枚举值[narrator|protagonist|character|choice]",
-				"content": "必填，当type=narrator时，纯叙述文本",
-				"id": "当type=character时必填，角色唯一ID",
-				"name": "当type=protagonist/character时必填",
-				"choices": [
-					"当type=choice时必填，数组包含3个选项, 每个选择将影响角色关系, 改变剧情走向, 触发不同结局分支"
-				]
+				"type": "必填，枚举值[narrator|protagonist|character]",
+				"content": "必填，角色的语气、动作、表情、内心想法描述角色的对话，尽量不使用引号。（在角色的演讲中酌情添加表情符号😄）。(语气、动作、表情、内向想法使用英文圆括弧包裹)",
+				"id": "当type=character/protagonist时必填，角色唯一ID",
+				"name": "当type=protagonist/character时必填，角色名称"
 			}
 		],
-		"summary": "string 格式，50字内章节摘要"
+		"choices": {
+			"prompt": "20字以内引导文本",
+			"options": [
+				"数组包含3个选项, 每个选择将影响角色关系, 改变剧情走向, 触发不同结局分支"
+			]
+		}
 	}
 }
