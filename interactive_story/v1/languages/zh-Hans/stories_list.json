@@ -17,9 +17,8 @@
 				"[中间情节：欲望与复仇]: 索菲亚带领他穿过犯罪黑社会和精英圈子，暴露了她与地下势力的联系，并试图把他拖入一个更大的计划中。他与几个女人纠缠在复杂的情感关系中。事故发生后，他的记忆完全恢复了，他意识到他实际上是一个被他信任的盟友Max背叛的黑帮老大。主人公决定假装他还失忆，并秘密地开始策划复仇。",
 				"[剧情晚：复仇与命运]: 当主人公无情地摧毁背叛他的势力时，复仇计划展开了。然而，在复仇的过程中，他要么重新点燃了对夏娃的感情，要么发现了更大的阴谋。在完成复仇后，他发现自己迷失在空虚中，不确定是与某人分享他的生活，还是继续走黑暗之路。"
 			],
-			"cover_image": "resources/covers/story_1_cover.png",
-			"background_image": "resources/backgrounds/story_1_bg.jpg",
-			"info_path": "languages/zh/stories/story_1/info.json"
+			"cover_image_url": "resources/covers/story_1_cover.png",
+			"background_image_url": "resources/backgrounds/story_1_bg.jpg"
 		},
 		{
 			"id": "story_2",
@@ -39,9 +38,8 @@
 				"高潮：权力背后的代价 随着主人公更频繁地使用权力，事情开始出错。他发现自己逐渐失去对权力的控制，有时会不自觉地触发它，即使在他不希望它生效的情况下。更糟糕的是，他开始感觉到一股黑暗的力量在操纵他。事实证明，这种力量是由 Ethan 领导的一个神秘组织实验的结果。主人公必须做出最终决定：继续使用这种力量，成为组织的奴隶，或者摆脱它，回到原来的自己，尽管这可能意味着他失去与他人正常互动的能力。",
 				"结局：人生的巅峰还是回归平凡？有多种可能的结局，有创作自由的空间。-小说的语言应该生动而富有表现力，模仿《基督山伯爵》的风格，情节可以从《伯恩身份》中汲取灵感。这个故事应该充满悬念和情感冲突，带领读者进入一个欲望和权力交织在一起的世界。"
 			],
-			"cover_image": "resources/covers/story_2_cover.png",
-			"background_image": "resources/backgrounds/story_2_bg.jpg",
-			"info_path": "languages/zh/stories/story_2/info.json"
+			"cover_image_url": "resources/covers/story_2_cover.png",
+			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
 		}
 	]
 }
