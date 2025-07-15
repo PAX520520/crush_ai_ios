@@ -95,7 +95,7 @@
 	"chapters": [
 		{
 			"id": "chapter_1",
-			"number": 1,
+			"index": 1,
 			"title": "我获得了超能力？！"
 		}
 	]
