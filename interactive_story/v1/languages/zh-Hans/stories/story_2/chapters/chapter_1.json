@@ -13,6 +13,10 @@
 			"content": "她的笑容总是温暖明亮，但你打算快速拿到咖啡就离开。点完单后，你用手机打发时间。"
 		},
 		{
+			"type": "narrator",
+			"content": "Instagram 上，一个帅气网红在酒吧与多个女性调情、举杯共舞。"
+		},
+		{
 			"type": "protagonist",
 			"character_id": "char_1",
 			"character_name": "Daniel",
@@ -20,7 +24,7 @@
 		},
 		{
 			"type": "narrator",
-			"content": "Instagram 上，一个帅气网红在酒吧与多个女性调情、举杯共舞。突然，一个游戏广告弹出，文字闪烁：'你想读懂别人的心思吗？你想拥有未知的力量吗？免费试玩这个游戏！'"
+			"content": "突然，一个游戏广告弹出，文字闪烁：'你想读懂别人的心思吗？你想拥有未知的力量吗？免费试玩这个游戏！'"
 		},
 		{
 			"type": "protagonist",
