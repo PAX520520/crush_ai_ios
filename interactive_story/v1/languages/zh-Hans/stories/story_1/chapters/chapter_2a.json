@@ -6,14 +6,14 @@
     "segments": [
         {
             "type": "protagonist",
-            "id": "char_1",
-            "name": "Dylan",
+            "character_id": "char_1",
+            "character_name": "Dylan",
             "content": "(深吸一口气，缓缓点头) 好吧，我相信你。我会好好休息的。"
         },
         {
             "type": "character",
-            "id": "char_2",
-            "name": "Sophia",
+            "character_id": "char_2",
+            "character_name": "Sophia",
             "content": "(微笑着，轻轻拍了拍你的手) 这就对了。你好好休息，我会一直陪着你的。"
         },
         {
@@ -22,8 +22,8 @@
         },
         {
             "type": "protagonist",
-            "id": "char_1",
-            "name": "Dylan",
+            "character_id": "char_1",
+            "character_name": "Dylan",
             "content": "(心中涌起一丝不安，坐起身来) 刚才是有人来过吗？"
         }
     ],

@@ -22,8 +22,8 @@
 		"segments": [
 			{
 				"type": "Required, enum values narrator|protagonist|character",
-				"id": "Required when type=character/protagonist (character ID e.g., char_1)",
-				"name": "Required when type=protagonist/character (character name e.g., Dylan)",
+				"character_id": "Required when type=character/protagonist (character ID e.g., char_1)",
+				"character_name": "Required when type=protagonist/character (character name e.g., Dylan)",
 				"content": "Format rules: (action/expression description) dialogue content 😊 Example: (fingers tapping lightly on the table) That's impossible... Max wouldn't betray me 😠"
 			}
 		],
@@ -32,6 +32,7 @@
 			"options": [
 				"Array containing 3 options, each choice will affect character relationships, change the plot direction, and trigger different ending branches"
 			]
-		}
+		},
+		"completed": "Optional, boolean value (true/false)，true means the story is completed, false means the story is not completed"
 	}
 }

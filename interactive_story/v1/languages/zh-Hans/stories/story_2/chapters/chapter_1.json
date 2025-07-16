@@ -14,8 +14,8 @@
 		},
 		{
 			"type": "protagonist",
-			"id": "char_1",
-			"name": "Daniel",
+			"character_id": "char_1",
+			"character_name": "Daniel",
 			"content": "(看着手机上的视频，心中涌现一股复杂情绪) 唉，这种事永远不会发生在我身上。"
 		},
 		{
@@ -24,8 +24,8 @@
 		},
 		{
 			"type": "protagonist",
-			"id": "char_1",
-			"name": "Daniel",
+			"character_id": "char_1",
+			"character_name": "Daniel",
 			"content": "(冷笑着轻声自语) 这些游戏广告越来越荒谬了。"
 		},
 		{
@@ -50,8 +50,8 @@
 		},
 		{
 			"type": "protagonist",
-			"id": "char_1",
-			"name": "Daniel",
+			"character_id": "char_1",
+			"character_name": "Daniel",
 			"content": "(内心震惊，双眼瞪大，心跳加快) 那是……她的内心声音？这不可能……读心术？！"
 		},
 		{
