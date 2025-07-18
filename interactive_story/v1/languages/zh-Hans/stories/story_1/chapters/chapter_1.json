@@ -1,5 +1,4 @@
 {
-	"id": "chapter_1",
 	"index": 1,
 	"title": "记忆的迷雾",
 	"summary": "失忆的主角 Dylan 在医院醒来，遇到了声称是朋友的神秘女子 Sophia。Sophia 告诉他遭遇了事故导致失忆，但 Dylan 对她的话感到怀疑，面临是否信任她、要求真相还是独自离开的选择。",
@@ -66,15 +65,15 @@
 		"options": [
 			{
 				"content": "选择相信 Sophia，安心留在医院休养",
-				"next_chapter_id": "chapter_2a"
+				"next_chapter_file_name": "chapter_2a"
 			},
 			{
 				"content": "对 Sophia 说的话表示怀疑，要求她说出真相",
-				"next_chapter_id": "chapter_2b"
+				"next_chapter_file_name": "chapter_2b"
 			},
 			{
 				"content": "偷偷离开医院，独自探寻自己的身份之谜",
-				"next_chapter_id": "chapter_2c"
+				"next_chapter_file_name": "chapter_2c"
 			}
 		]
 	}

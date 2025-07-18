@@ -117,22 +117,22 @@
 	],
 	"chapters": [
 		{
-			"id": "chapter_1",
+			"fileName": "chapter_1",
 			"index": 1,
 			"title": "记忆的迷雾"
 		},
 		{
-			"id": "chapter_2a",
+			"fileName": "chapter_2a",
 			"index": 2,
 			"title": "安心休养"
 		},
 		{
-			"id": "chapter_2b",
+			"fileName": "chapter_2b",
 			"index": 2,
 			"title": "探寻真相"
 		},
 		{
-			"id": "chapter_2c",
+			"fileName": "chapter_2c",
 			"index": 2,
 			"title": "独自探索"
 		}

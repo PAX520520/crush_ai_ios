@@ -15,7 +15,6 @@
 		"choices_count": 3
 	},
 	"output_format": {
-		"id": "Chapter ID (e.g., chapter_x)",
 		"index": "Chapter index (integer)",
 		"title": "5-8 character title (summarizing the core conflict of the chapter)",
 		"summary": "45-50 character summary (including key turning points)",
