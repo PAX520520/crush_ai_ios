@@ -10,7 +10,8 @@
 			"type": "protagonist",
 			"character_id": "char_1",
 			"character_name": "Dylan",
-			"content": "(困惑地揉了揉眼睛，大脑仿佛冻结了) 呃…… 我是谁？这是哪儿？"
+			"content": "(困惑地揉了揉眼睛，大脑仿佛冻结了) 呃…… 我是谁？这是哪儿？",
+			"image_url": "/resources/images/story_1/chapter_1_1.png"
 		},
 		{
 			"type": "narrator",
@@ -20,7 +21,8 @@
 			"type": "character",
 			"character_id": "char_2",
 			"character_name": "Sophia",
-			"content": "(声音轻柔，如春风拂面) 你终于醒了。我还担心你再也醒不过来呢。"
+			"content": "(声音轻柔，如春风拂面) 你终于醒了。我还担心你再也醒不过来呢。",
+			"image_url": "/resources/images/story_1/chapter_1_2.png"
 		},
 		{
 			"type": "protagonist",
@@ -61,18 +63,16 @@
 	],
 	"choice": {
 		"prompt": "你会如何回应:",
+		"is_ai_generated": true,
 		"options": [
 			{
-				"content": "选择相信 Sophia，安心留在医院休养",
-				"next_chapter_file_name": "chapter_2a"
+				"content": "选择相信 Sophia，安心留在医院休养"
 			},
 			{
-				"content": "对 Sophia 说的话表示怀疑，要求她说出真相",
-				"next_chapter_file_name": "chapter_2b"
+				"content": "对 Sophia 说的话表示怀疑，要求她说出真相"
 			},
 			{
-				"content": "偷偷离开医院，独自探寻自己的身份之谜",
-				"next_chapter_file_name": "chapter_2c"
+				"content": "偷偷离开医院，独自探寻自己的身份之谜"
 			}
 		]
 	}
