@@ -1,0 +1,45 @@
+{
+	"stories": [
+		{
+			"id": "story_1",
+			"title": "Hafızasız: Baştan Çıkarma ve Tuzaklar",
+			"description": "Bir zamanlar güçlü bir adam hafızasını kaybetmiş halde uyanır ve dünya tamamen değişmiştir. Güzel bir kadın kendisini arkadaşı olarak tanıtır, ancak sözleri belirsizdir ve sırlar saklar. Güç ve arzunun iç içe geçtiği bu şehirde, ya hafızasını geri kazanmalı ya da onların kurduğu tuzaklarda tamamen kaybolmalıdır.",
+			"category_id": 1,
+			"tags": [
+				"Hafıza Kaybı",
+				"Güç",
+				"İhanet",
+				"İntikam",
+				"Gizem"
+			],
+			"plot_direction": [
+				"[Hikaye: Hafıza Kaybı ve Gizem]: Başkahraman hastanede uyanır ve hafızasının olmadığını fark eder. Sofia'nın rehberliğinde, arzu ve gücün hüküm sürdüğü bir şehre girer ve orada yeni bir kimlik kazanır: Dylan, bir iş eliti. Zenginlik ve baştan çıkarmayla çevrili yaşamı, Luna ve Claire gibi birkaç kadınla iç içe geçer. Her birinin kendine özgü tarzı vardır, ancak hepsi tehlikeli bir çekiciliğe sahiptir. Başkahraman bu kadınların gizli motivasyonları olduğunu fark etmeye başlar. Bu sırada, rüyalarında sürekli bulanık bir kadın yüzü görür - Eve - ancak onun yüz hatıralarını net olarak hatırlayamaz.",
+				"[Orta Kısım: Arzu ve İntikam]: Sofia onu suç dünyası ve elit çevreler arasında gezdirir, yeraltı güçleriyle olan bağlantılarını ortaya çıkarır ve onu daha büyük bir plana dahil etmeye çalışır. Birkaç kadınla karmaşık duygusal ilişkiler yaşar. Bir kaza sonrasında hafızası tamamen geri gelir ve aslında güvendiği müttefiki Max tarafından ihanete uğramış bir çete lideri olduğunu anlar. Başkahraman hala hafızasını kaybetmiş gibi davranmaya ve gizlice intikam planları yapmaya karar verir.",
+				"[Son Kısım: İntikam ve Kader]: İntikam planı, başkahraman ona ihanet eden güçleri acımasızca yok ederken açığa çıkar. Ancak intikam sürecinde ya Eve'e olan duygularını yeniden alevlendirir ya da daha büyük bir komployu keşfeder. İntikamını tamamladıktan sonra kendini boşlukta kaybolmuş bulur, hayatını biriyle paylaşmak mı yoksa karanlık yolda devam etmek mi gerektiğinden emin değildir."
+			],
+			"cover_image_url": "resources/covers/story_1_cover.png",
+			"background_image_url": "resources/backgrounds/story_1_bg.jpg"
+		},
+		{
+			"id": "story_2",
+			"title": "Zihin Oyunları: Aşk ve Zihin Kontrolü",
+			"description": "İçine kapanık, utangaç bir üniversite mezunu bir gün uyandığında zihin okuma ve duygu kontrolü yeteneği kazanır. Sosyal fobisi olan küçük dairesinden çıkarak, New York'un gürültülü sokaklarında daha önce hiç sahip olmadığı bir dünyayı keşfetmeye başlar - ancak gerçek zorluk 'başkalarını duymak' değil, 'kendini anlamak'tır. Aşk ve güç iç içe geçtiğinde, baştan çıkarma ve gerçek duygular arasında kendi sesini bulmalıdır.",
+			"category_id": 2,
+			"tags": [
+				"Zihin Okuma",
+				"Psikoloji",
+				"Güç",
+				"Değişim",
+				"Duygu Kontrolü"
+			],
+			"plot_direction": [
+				"Başlangıç: Bir gün, başkahraman, yeni mezun olmuş genç bir adam, bir kafede telefonundan internete göz atarken kazara zihin okuma ve başkalarının duygularını kontrol etme yeteneği kazanır. Başlangıçta, bu ani güce şaşırır ve kafası karışır, ancak kullanmaya başladığında, özellikle kadınlarla konuşurken artık gergin hissetmediği için, başkalarıyla korkusuzca etkileşime girebileceğini fark eder. Bu güç sayesinde, başkalarının, özellikle de kızların ilgisini ve sevgisini kazanmaya başlar.",
+				"Orta Aşama: Büyüme, Değişim ve Zorluklar Başkahramanın hayatı büyük değişiklikler geçirir. Bu güç sayesinde çevresindeki kızları kendine çeker, çeşitli partilere ve toplantılara katılmaya başlar ve yavaş yavaş yalnız biri olarak geçmişini geride bırakarak sosyal çevresinin merkezi haline gelir. Ancak sosyal hayatında başarı elde ederken, bu gücün bedelsiz olmadığını da fark etmeye başlar. Sosyal kaygısını geçici olarak yenmiş olsa da, sahte ilişkiler içinde kaybolmaya başlar ve kimin gerçekten ona yaklaştığını, kimin sadece gücü tarafından manipüle edildiğini ayırt edemez.",
+				"Doruk Noktası: Gücün Ardındaki Bedel Başkahraman gücü daha sık kullandıkça, işler ters gitmeye başlar. Güç üzerindeki kontrolünü yavaş yavaş kaybettiğini ve bazen istemediği durumlarda bile farkında olmadan tetiklediğini keşfeder. Daha da kötüsü, kendisini manipüle eden karanlık bir güç hissetmeye başlar. Bu gücün Ethan'ın liderliğindeki gizemli bir organizasyonun deneyinin sonucu olduğu ortaya çıkar. Başkahraman son bir karar vermek zorundadır: bu gücü kullanmaya devam edip organizasyonun kölesi olmak ya da ondan kurtulup eski haline dönmek, bu başkalarıyla normal etkileşim kurma yeteneğini kaybetmek anlamına gelse bile.",
+				"Son: Hayatın Zirvesi mi yoksa Sıradanlığa Dönüş mü? Birçok olası son var, yaratıcı özgürlük için alan mevcut. Roman canlı ve etkileyici bir dile sahip olmalı, 'Monte Kristo Kontu'nun tarzını taklit etmeli ve 'Bourne Identity'den ilham almalı. Hikaye gerilim ve duygusal çatışmalarla dolu olmalı, okuyucuyu arzu ve gücün iç içe geçtiği bir dünyaya sürüklemeli."
+			],
+			"cover_image_url": "resources/covers/story_2_cover.png",
+			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		}
+	]
+}

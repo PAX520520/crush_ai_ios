@@ -1,0 +1,93 @@
+{
+	"title": "Die erste innere Stimme",
+	"summary": "Der sozial ängstliche Daniel kommt zufällig in einem Café mit einer mysteriösen Spielewerbung in Kontakt und erhält unerwartet die Fähigkeit, Gedanken zu lesen. Er hört die innere Stimme der Barista Yumiko. Dieser Moment verändert seine Wahrnehmung völlig. Verwirrt flieht er und fragt sich: Ist das Einbildung? Oder das Erwachen übernatürlicher Kräfte?",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Es ist ein ganz gewöhnlicher Morgen. Sonnenlicht fällt durch die Vorhänge auf die zerknitterten Laken in deinem kleinen New Yorker Apartment. Mit schweren Schritten machst du dich auf den Weg zum Café, das du jeden Tag besuchst - ein Ritual, das dich mit der Welt 'verbunden' hält."
+		},
+		{
+			"type": "narrator",
+			"content": "Als du die Tür zum Café öffnest, umgibt dich der vertraute Duft von Kaffee und einem Hauch Zimt. Du siehst die bekannte Gestalt hinter der Theke: Yumiko. Sie ist die Teilzeit-Barista hier, mit braunen Locken und grünen Augen, stets ein warmes Lächeln auf den Lippen. Ihr kennt euch nicht wirklich, aber jedes Mal, wenn du sie siehst, schlägt dein Herz ein wenig schneller."
+		},
+		{
+			"type": "narrator",
+			"content": "Daniel hatte ihr einmal zufällig in einem Universitätskurs geholfen, und seitdem nickt sie dir manchmal lächelnd zu. Aber du hast nie den Mut gefunden, ein vollständiges Gespräch mit ihr zu führen."
+		},
+		{
+			"type": "narrator",
+			"content": "Heute trägt sie eine hellgrüne Schürze und konzentriert sich darauf, den Dampfhebel der Kaffeemaschine einzustellen. Das Sonnenlicht fällt durch das Fenster auf ihr Profil und zeichnet ihre Konturen wie mit weichem Fokus nach. Du senkst den Kopf und tust so, als würdest du dein Handy durchsehen, um nicht zu zeigen, dass du sie heimlich beobachtest."
+		},
+		{
+			"type": "narrator",
+			"content": "Du findest, ihr Lächeln hat etwas magisch Beruhigendes, aber wie gewohnt senkst du den Blick, bestellst schnell und gehst zu einem Platz in der Ecke."
+		},
+		{
+			"type": "narrator",
+			"content": "Du öffnest dein Handy und versuchst, die innere Stille mit dem Lärm sozialer Medien zu übertönen. Auf dem Bildschirm siehst du Influencer, die in einem Club mit einigen Mädchen lachend anstoßen - diese Selbstsicherheit und Leichtigkeit scheint einer anderen Spezies anzugehören.",
+			"image_url": "/resources/images/story_2/chapter_1_1.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(Flüstert innerlich) Wie weit entfernt ist dieses Leben von meinem...?"
+		},
+		{
+			"type": "narrator",
+			"content": "Plötzlich erscheint eine Werbung: 'Möchtest du die Gedanken anderer lesen können? Echte Kontrolle erleben? - Spiele 'Portal der Gedanken' kostenlos!' Der Text blinkt ständig, als würde er direkt in deine Seele blicken."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(Lächelt bitter) Wieder so eine Klickbait-Werbung..."
+		},
+		{
+			"type": "narrator",
+			"content": "Als du sie wegwischen willst, durchzuckt plötzlich ein stechender Schmerz deine Schläfen, dein Bewusstsein wird verschwommen wie von einem Hammerschlag."
+		},
+		{
+			"type": "narrator",
+			"content": "Ein Flüstern streift dein Ohr - 'Er ist heute wieder da... und bestellt wieder denselben Kaffee. Das muss sein Lieblingsgeschmack sein.'"
+		},
+		{
+			"type": "narrator",
+			"content": "Du hebst ruckartig den Kopf. Yumiko konzentriert sich auf die Kaffeezubereitung, aber diese Stimme hallt noch in deinem Kopf nach."
+		},
+		{
+			"type": "narrator",
+			"content": "'Ich wünschte, er würde mal mit mir sprechen... Ob er sich noch an mich erinnert? Nach der Abschlussprüfung damals...'"
+		},
+		{
+			"type": "narrator",
+			"content": "Du schaust zu ihr hinüber, sie hebt plötzlich den Kopf und eure Blicke treffen sich. Sie zuckt leicht zusammen. Im nächsten Moment dringt eine neue Gedankenstimme in deinen Kopf: 'Oh, er sieht mich an... Habe ich etwa Kaffeeflecken im Gesicht?!'",
+			"image_url": "/resources/images/story_2/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(Mit geweiteten Pupillen, das Herz rast) Das ist keine Einbildung... Ich habe wirklich ihre Gedanken gehört?!"
+		},
+		{
+			"type": "narrator",
+			"content": "Von Panik und Neugier ergriffen, springst du wie von einer Flamme verbrannt von deinem Platz auf und stürmst hinaus. Im Lärm der Straße hörst du nur noch dein eigenes Herzklopfen."
+		}
+	],
+	"choice": {
+		"prompt": "War das eben real? Du musst herausfinden, ob es nur eine Halluzination war.",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Sofort ins Café zurückkehren und versuchen, wieder Yumikos Gedanken zu 'hören'."
+			},
+			{
+				"content": "Zurück in deine Wohnung gehen und prüfen, ob es noch andere ungewöhnliche Wahrnehmungen gibt."
+			},
+			{
+				"content": "Zum Central Park gehen und in der Menge testen, ob du die Gedanken anderer Menschen hören kannst."
+			}
+		]
+	}
+}

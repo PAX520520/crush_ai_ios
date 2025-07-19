@@ -1,0 +1,14 @@
+{
+	"categories": [
+		{
+			"id": 1,
+			"name": "🎭 Mysterium",
+			"description": "Spannende Thriller-Geschichten voller Geheimnisse und Nervenkitzel"
+		},
+		{
+			"id": 2,
+			"name": "💘 Romantik",
+			"description": "Leidenschaftliche Liebesgeschichten voller emotionaler Tiefe"
+		}
+	]
+}

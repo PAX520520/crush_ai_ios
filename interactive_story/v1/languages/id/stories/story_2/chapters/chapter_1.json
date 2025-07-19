@@ -1,0 +1,93 @@
+{
+	"title": "Suara Hati yang Pertama",
+	"summary": "Daniel yang mengalami kecemasan sosial secara tidak sengaja menemukan iklan game misterius di kedai kopi, dan tiba-tiba mendapatkan kemampuan membaca pikiran, mendengar suara hati Yumiko si barista. Momen ini mengubah total persepsinya. Dia melarikan diri dalam kepanikan, dipenuhi pertanyaan: Apakah ini khayalan? Atau kebangkitan kekuatan super?",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Ini adalah pagi yang sangat biasa. Sinar matahari menembus celah tirai, menyinari seprai berantakan di apartemen kecilmu di New York. Dengan langkah berat, kamu berjalan menuju kedai kopi yang kamu kunjungi setiap hari—sebuah ritual untuk tetap 'terhubung' dengan dunia."
+		},
+		{
+			"type": "narrator",
+			"content": "Mendorong pintu kedai kopi, udara dipenuhi aroma kopi yang familiar dan wangi kayu manis yang samar. Kamu melihat sosok yang familiar berdiri di balik counter: Yumiko. Dia adalah barista paruh waktu di sini, dengan rambut ikal cokelat dan mata hijau, selalu mengenakan senyum hangat. Kalian tidak terlalu akrab, tapi setiap kali melihatnya, jantungmu selalu berdetak sedikit lebih cepat."
+		},
+		{
+			"type": "narrator",
+			"content": "Daniel pernah tidak sengaja membantunya sekali dalam suatu mata kuliah di universitas, dan sejak saat itu dia kadang-kadang tersenyum dan mengangguk padamu. Tapi kamu tidak pernah berani mengucapkan satu kalimat lengkap padanya."
+		},
+		{
+			"type": "narrator",
+			"content": "Hari ini dia mengenakan celemek hijau muda, fokus mengatur kenop uap mesin kopi. Sinar matahari dari jendela jatuh di wajah sampingnya, membuat profilnya terlihat seperti sketsa lembut. Kamu menundukkan kepala, pura-pura melihat ponsel, tidak ingin dia menyadari tatapanmu yang diam-diam."
+		},
+		{
+			"type": "narrator",
+			"content": "Kamu selalu merasa senyumnya memiliki kekuatan magis yang menenangkan, tapi kamu masih secara naluriah menundukkan pandangan, cepat-cepat memesan, dan berjalan ke kursi di sudut."
+		},
+		{
+			"type": "narrator",
+			"content": "Kamu membuka ponsel, mencoba menggunakan hiruk pikuk media sosial untuk menutupi keheningan dalam hati. Di layar, seorang influencer tertawa dan mengangkat gelas dengan beberapa gadis di bawah lampu klub malam—kepercayaan diri dan kebebasan seperti itu, seolah milik spesies lain.",
+			"image_url": "/resources/images/story_2/chapter_1_1.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(Berbisik dalam hati) Kehidupan seperti ini... seberapa jauh dariku?"
+		},
+		{
+			"type": "narrator",
+			"content": "Tiba-tiba, sebuah iklan muncul: 'Ingin membaca pikiran orang lain? Rasakan kendali sejati?—Mainkan gratis 《Gerbang Pikiran》' Teks berkedip terus-menerus, seolah menatap langsung ke jiwamu."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(Tersenyum getir) Lagi-lagi iklan clickbait seperti ini..."
+		},
+		{
+			"type": "narrator",
+			"content": "Saat kamu hendak menggesernya, tiba-tiba rasa sakit tajam menyerang pelipismu, kesadaranmu menjadi kabur seperti dipukul palu."
+		},
+		{
+			"type": "narrator",
+			"content": "Sebuah bisikan melintas di telinga—'Dia datang lagi hari ini... dan memesan kopi yang sama. Mungkin itu rasa kesukaannya.'"
+		},
+		{
+			"type": "narrator",
+			"content": "Kamu mengangkat kepala dengan cepat, Yumiko sedang menunduk fokus membuat kopi, tapi suara itu masih bergema dalam pikiranmu."
+		},
+		{
+			"type": "narrator",
+			"content": "'Kuharap dia mau berbicara denganku... Apa dia masih ingat padaku? Setelah ujian akhir waktu itu...'"
+		},
+		{
+			"type": "narrator",
+			"content": "Kamu memandang ke arahnya, dia tiba-tiba mengangkat kepala, pandangan kalian bertemu. Dia sedikit terkejut. Detik berikutnya, suara hati baru memasuki pikiranmu: 'Ah, dia melihatku... Apa ada noda kopi di wajahku?!'",
+			"image_url": "/resources/images/story_2/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(Pupil mengecil drastis, jantung berdebar kencang) Ini bukan khayalanku... Aku benar-benar mendengar suara hatinya?!"
+		},
+		{
+			"type": "narrator",
+			"content": "Dengan panik dan penasaran bercampur aduk, kamu melompat dari kursi seperti terbakar api dan mendorong pintu keluar. Keramaian jalan hanya menyisakan gema detak jantungmu."
+		}
+	],
+	"choice": {
+		"prompt": "Apakah yang baru saja terjadi itu nyata? Kamu harus memastikan apakah ini hanya halusinasi.",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Segera kembali ke kedai kopi, mencoba untuk 'mendengar' pikiran Yumiko lagi."
+			},
+			{
+				"content": "Kembali ke apartemenmu, memeriksa apakah ada sensasi aneh lainnya."
+			},
+			{
+				"content": "Pergi ke Central Park untuk menguji apakah kamu bisa mendengar pikiran orang lain di keramaian."
+			}
+		]
+	}
+}

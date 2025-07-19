@@ -1,0 +1,87 @@
+{
+	"title": "記憶の霧",
+	"summary": "記憶喪失の主人公 Dylan が病院で目覚め、友人だと名乗る謎の女性 Sophia と出会う。Sophia は事故で記憶を失ったと告げるが、Dylan は彼女の言葉に疑念を抱き、彼女を信じるか、真実を求めるか、それとも一人で去るかの選択に直面する。",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "意識が突然、混沌とした虚空から浮かび上がってきた。まるで水面から顔を出したかのように、鼻を突く消毒液の匂いが神経を刺激する。目を開けると、真っ白な病室のベッドに横たわっていた。頭上の明かりは眩しすぎて目が眩む。周囲は静寂に包まれ、心電図モニターのかすかな音だけが響いている。しかし、頭の中は真っ白で、何か得体の知れない力に記憶を抜き取られたかのようだ。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(困惑して目をこすり、頭が凍りついたように) うっ……私は誰？ここはどこ？",
+			"image_url": "/resources/images/story_1/chapter_1_1.png"
+		},
+		{
+			"type": "narrator",
+			"content": "体を起こそうとするも、力が入らずマットレスに押し戻される。不安と戸惑いの中、病室のドアがそっと開いた。彼女が現れた——黒いワンピースを纏った優雅な女性が、安定した足取りで入ってきた。その瞳には言葉にできない感情が宿っている。彼女の美しさは親しみやすい柔らかさではなく、黒曜石のように鋭く魅惑的で、危険でありながら人を惹きつけるものだった。"
+		},
+		{
+			"type": "narrator",
+			"content": "どこかで会ったことがあるような気がする……夢の中？それとも失われた記憶の欠片の中？彼女はあなたを見つめ、まるで計算されたかのような笑みを浮かべた。"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(春風のように優しい声で) やっと目が覚めたのね。もう二度と目覚めないんじゃないかって心配していたわ。",
+			"image_url": "/resources/images/story_1/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(警戒した様子で周りを見回しながら) あなたは誰？なぜ……ここにいるの？私がここにいる理由は？"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(優しいが断固とした口調で、意味深な笑みを浮かべながら) 私は Sophia よ、あなたの友達。あなたは Dylan。重大な事故に遭って、医師の診断では一時的な記憶喪失なの。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(一瞬の記憶の欠片を掴もうとして、不安げな声で) 事故？何も思い出せない……"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(優しく励ますような口調で、目に思いやりを湛え、手首に軽く触れながら) 心配しないで、すべて上手くいくわ。私がいるから。一緒に乗り越えましょう。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(困惑した表情で彼女を見つめ、真意を探ろうとして) 信じていいの？なぜか私たちの関係はそれだけじゃないような気がする…"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(眉をわずかに寄せ、説明の仕方を考えるように、声は確固として) すべて話すわ、でも時間が必要なの。信じて、今はゆっくり休んで。記憶が戻れば、すべてが明らかになるわ。"
+		},
+		{
+			"type": "narrator",
+			"content": "彼女の言葉の一つ一つは完璧すぎるほど整っているのに、どこか違和感を覚える。彼女は一体誰なのか？本当に信じていいのだろうか？"
+		}
+	],
+	"choice": {
+		"prompt": "どう応答しますか：",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Sophia を信じ、安心して病院で療養する"
+			},
+			{
+				"content": "Sophia の言葉に疑いを示し、真実を話すよう求める"
+			},
+			{
+				"content": "こっそり病院を抜け出し、自分のアイデンティティの謎を独りで探る"
+			}
+		]
+	}
+}

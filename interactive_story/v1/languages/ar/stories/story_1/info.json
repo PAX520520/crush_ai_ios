@@ -1,0 +1,125 @@
+{
+	"story_id": "story_1",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Dylan",
+			"description": "بطل فقد ذاكرته، اسمه الحقيقي Ryder، كان زعيم عصابة قوي سابقاً، فقد ذاكرته بعد خيانة",
+			"avatar_url": "/resources/characters/story_1/dylan.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"قوي",
+				"حائر",
+				"قيادي"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Sophia",
+			"description": "أول امرأة تظهر بجانب البطل. ذكية وماكرة، تدعي أنها صديقته، لكنها في الواقع ابنة زعيم العصابة القوي ليو. أخفت الحقيقة عن هوية البطل الحقيقية، ودوافعها أنانية",
+			"avatar_url": "/resources/characters/story_1/sophia.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"ذكية",
+				"ماكرة",
+				"أنانية"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Luna",
+			"description": "عارضة أزياء مثيرة من الطراز الأول، جذابة للغاية، تدعي أنها كانت تحب البطل لكنها خانته",
+			"avatar_url": "/resources/characters/story_1/luna.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"مغرية",
+				"خائنة",
+				"جميلة"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "امرأة قوية، نخبة في عالم الأعمال، هادئة وعقلانية، قادرة وذكية، لكنها في الواقع متكبرة. لديها تعاملات تجارية مع البطل، لكنها تريد استخدامه لمواجهة زوجها",
+			"avatar_url": "/resources/characters/story_1/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 35,
+			"personality": [
+				"قوية",
+				"هادئة",
+				"عقلانية",
+				"ماكرة"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Eve",
+			"description": "امرأة غامضة في أحلام البطل، كانت حبه الحقيقي قبل فقدان ذاكرته، غامضة جداً",
+			"avatar_url": "/resources/characters/story_1/eve.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 27,
+			"personality": [
+				"غامضة",
+				"حنونة",
+				"صادقة"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Max",
+			"description": "الشرير، كان المساعد القوي للبطل سابقاً، والآن حل محله كزعيم للعصابة، شخصية رئيسية في خيانة البطل",
+			"avatar_url": "/resources/characters/story_1/max.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 32,
+			"personality": [
+				"خائن",
+				"طموح",
+				"ماكر"
+			]
+		},
+		{
+			"id": "char_7",
+			"name": "Leo",
+			"description": "زعيم عصابة له تأثير كبير على انتقام البطل، وهو والد صوفيا",
+			"avatar_url": "/resources/characters/story_1/leo.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 55,
+			"personality": [
+				"قوي",
+				"مهيب",
+				"انتقامي"
+			]
+		},
+		{
+			"id": "char_8",
+			"name": "Jack",
+			"description": "حليف وصديق مخلص للبطل، يساعده في خطة انتقامه",
+			"avatar_url": "/resources/characters/story_1/jack.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 29,
+			"personality": [
+				"مخلص",
+				"موثوق",
+				"شجاع"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "ضباب الذكريات"
+		}
+	]
+}

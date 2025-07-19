@@ -1,0 +1,87 @@
+{
+	"title": "Mgła wspomnień",
+	"summary": "Cierpiący na amnezję protagonista Dylan budzi się w szpitalu i spotyka tajemniczą kobietę Sophię, która twierdzi, że jest jego przyjaciółką. Sophia mówi mu, że stracił pamięć w wyniku wypadku, ale Dylan ma wątpliwości co do jej słów i musi zdecydować, czy jej zaufać, zażądać prawdy, czy odejść samotnie.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Twoja świadomość nagle wyłania się z chaotycznej pustki, jak wynurzenie się z wody. Ostry zapach środka dezynfekującego drażni twoje nozdrza i pobudza nerwy. Gdy otwierasz oczy, odkrywasz, że leżysz w sterylnie białej sali szpitalnej, a światło nad głową jest tak jasne, że wywołuje zawroty głowy. Wokół panuje cisza, przerywana jedynie cichym pikaniem kardiomonitora. Jednak twój umysł jest pusty, jakby jakaś nieznana siła wymazała wszystkie wspomnienia."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Zdezorientowany pociera oczy, jego umysł wydaje się zamrożony) Uch... Kim jestem? Gdzie ja jestem?",
+			"image_url": "/resources/images/story_1/chapter_1_1.png"
+		},
+		{
+			"type": "narrator",
+			"content": "Próbujesz się podnieść, ale uczucie słabości przyciska cię z powrotem do materaca. W momencie twojego niepokoju, drzwi sali delikatnie się otwierają. Pojawia się ona - elegancka kobieta w czarnej sukience, o pewnym kroku, ale z niewypowiedzianymi emocjami kryjącymi się w oczach. Jej piękno nie jest łagodne i przystępne, lecz raczej jak ostry i kuszący obsydian - niebezpieczne, ale przyciągające."
+		},
+		{
+			"type": "narrator",
+			"content": "Czujesz, że już ją kiedyś widziałeś... we śnie? A może w jakimś zapomnianym fragmencie wspomnień? Spogląda na ciebie z uśmiechem, który wydaje się być starannie zaplanowany."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Delikatnym głosem, jak powiew wiosennego wiatru) Wreszcie się obudziłeś. Martwiłam się, że już nigdy nie odzyskasz przytomności.",
+			"image_url": "/resources/images/story_1/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Czujnym tonem, rozglądając się dookoła) Kim jesteś? Jak... jak się tu znalazłaś? Dlaczego tu jestem?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Łagodnym, ale stanowczym tonem, z znaczącym uśmiechem na ustach) Jestem Sophia, twoja przyjaciółka. Nazywasz się Dylan. Miałeś poważny wypadek, a lekarze mówią, że tymczasowo straciłeś pamięć."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Próbując uchwycić ulotne fragmenty wspomnień, z niepokojem w głosie) Wypadek? Nic nie pamiętam..."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Łagodnym, zachęcającym tonem, z troską w oczach, delikatnie kładąc dłoń na twoim nadgarstku) Nie martw się, wszystko będzie dobrze. Jestem przy tobie. Razem przez to przejdziemy."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Patrząc na nią ze zmieszaniem, próbując odgadnąć jej prawdziwe intencje) Czy mogę ci zaufać? Dlaczego czuję, że jest między nami coś więcej?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Lekko marszcząc brwi, jakby zastanawiając się nad wyjaśnieniem, jej głos staje się stanowczy) Powiem ci wszystko, ale to wymaga czasu. Zaufaj mi, teraz musisz po prostu odpocząć. Gdy odzyskasz pamięć, wszystko stanie się jasne."
+		},
+		{
+			"type": "narrator",
+			"content": "Każde jej słowo brzmi perfekcyjnie, a jednak czujesz niewytłumaczalny dysonans. Kim ona jest? Czy naprawdę możesz jej zaufać?"
+		}
+	],
+	"choice": {
+		"prompt": "Jak zareagujesz:",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Zaufaj Sophii i zostań w szpitalu na rekonwalescencję"
+			},
+			{
+				"content": "Wyraź wątpliwości wobec słów Sophii i zażądaj prawdy"
+			},
+			{
+				"content": "Potajemnie opuść szpital i samodzielnie odkryj tajemnicę swojej tożsamości"
+			}
+		]
+	}
+}

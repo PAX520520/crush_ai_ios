@@ -1,0 +1,102 @@
+{
+	"story_id": "story_2",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Daniel",
+			"description": "En innadvendt 20 år gammel mann som nylig har fullført universitetet og bor i New York, men ofte gjemmer seg i sin lille leilighet. Han er ekstremt engstelig for sosiale interaksjoner, spesielt med kvinner, men lengter dypt inne etter ekte kjærlighet.",
+			"avatar_url": "/resources/characters/story_2/daniel.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"innadvendt",
+				"engstelig",
+				"lengter etter kjærlighet",
+				"snill"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Yumiko",
+			"description": "En universitetsstudent som jobber deltid som barista, med brunt krøllete hår og grønne øyne. Hun har et lyst og søtt smil og har hatt et hemmelig crush på Daniel siden han hjalp henne på universitetet.",
+			"avatar_url": "/resources/characters/story_2/yumiko.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 19,
+			"personality": [
+				"søt",
+				"forelsket",
+				"mild",
+				"hardtarbeidende"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Gloria",
+			"description": "En senior advokat med kort blondt hår og skarpe blå øyne. Hennes sterke og kalde ytre gjør henne vanskelig å nærme seg, men hun skjuler sårbarhet og usikkerhet på innsiden.",
+			"avatar_url": "/resources/characters/story_2/gloria.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 32,
+			"personality": [
+				"sterk",
+				"kald",
+				"sårbar",
+				"profesjonell"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "En professor i psykologi med langt svart hår og en slank, elegant figur. Hun blir Daniels mentor og hjelper ham med å forstå sine evner og menneskenaturens kompleksitet.",
+			"avatar_url": "/resources/characters/story_2/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 38,
+			"personality": [
+				"klok",
+				"elegant",
+				"forståelsesfull",
+				"profesjonell"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Carter",
+			"description": "Daniels tidligere klassekamerat fra videregående og romkamerat, med blondt hår og en utadvendt personlighet. Etter hvert som Daniels evner vokser, blir vennskapet deres utfordret, og Carter føler seg etterlatt.",
+			"avatar_url": "/resources/characters/story_2/carter.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"utadvendt",
+				"livlig",
+				"sjalu",
+				"vennlig"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Ethan",
+			"description": "En mystisk antagonist med svart hår og raffinerte klær. Han er kald og utspekulert, med lignende tankelesingsevner som han bruker til å kontrollere og manipulere.",
+			"avatar_url": "/resources/characters/story_2/ethan.png",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"kald",
+				"utspekulert",
+				"kontrollerende",
+				"mystisk"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Tankenes begynnelse"
+		}
+	]
+}

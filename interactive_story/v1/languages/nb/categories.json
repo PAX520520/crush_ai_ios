@@ -1,0 +1,14 @@
+{
+	"categories": [
+		{
+			"id": 1,
+			"name": "🎭 Mysterie",
+			"description": "Spennende thrillere fulle av mysterier og spenning"
+		},
+		{
+			"id": 2,
+			"name": "💘 Romantikk",
+			"description": "Lidenskapelige kjærlighetshistorier fulle av følelsesmessig dybde"
+		}
+	]
+}

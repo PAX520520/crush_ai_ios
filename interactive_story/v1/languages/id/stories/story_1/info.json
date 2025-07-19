@@ -1,0 +1,125 @@
+{
+	"story_id": "story_1",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Dylan",
+			"description": "Protagonis yang kehilangan ingatan, nama aslinya Ryder, dulunya adalah pemimpin geng yang kuat sebelum kehilangan ingatannya karena pengkhianatan",
+			"avatar_url": "/resources/characters/story_1/dylan.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Kuat",
+				"Bingung",
+				"Memiliki jiwa kepemimpinan"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Sophia",
+			"description": "Wanita pertama yang muncul di sekitar protagonis. Pintar dan licik, mengaku sebagai temannya, padahal dia adalah putri dari Leo, pemimpin geng yang berkuasa. Dia menyembunyikan identitas asli protagonis karena motif egoisnya.",
+			"avatar_url": "/resources/characters/story_1/sophia.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"Pintar",
+				"Licik",
+				"Egois"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Luna",
+			"description": "Model papan atas yang seksi dan menggoda, mengaku pernah mencintai protagonis tapi mengkhianatinya.",
+			"avatar_url": "/resources/characters/story_1/luna.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"Menggoda",
+				"Pengkhianat",
+				"Cantik"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "Wanita karir yang sukses, eksekutif bisnis, tenang dan rasional, cakap dan cerdas, tapi sebenarnya tsundere. Memiliki hubungan bisnis dengan protagonis, tapi sebenarnya ingin memanfaatkannya untuk melawan suaminya sendiri.",
+			"avatar_url": "/resources/characters/story_1/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 35,
+			"personality": [
+				"Kuat",
+				"Tenang",
+				"Rasional",
+				"Manipulatif"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Eve",
+			"description": "Sosok wanita samar dalam mimpi protagonis, wanita yang benar-benar dicintainya sebelum kehilangan ingatan, sangat misterius.",
+			"avatar_url": "/resources/characters/story_1/eve.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 27,
+			"personality": [
+				"Misterius",
+				"Lembut",
+				"Tulus"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Max",
+			"description": "Antagonis, mantan asisten terpercaya protagonis yang sekarang mengambil alih posisinya sebagai pemimpin geng, tokoh kunci dalam pengkhianatan terhadap protagonis.",
+			"avatar_url": "/resources/characters/story_1/max.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 32,
+			"personality": [
+				"Pengkhianat",
+				"Ambisius",
+				"Licik"
+			]
+		},
+		{
+			"id": "char_7",
+			"name": "Leo",
+			"description": "Pemimpin geng yang memiliki pengaruh besar dalam balas dendam terhadap protagonis, ayah dari Sophia.",
+			"avatar_url": "/resources/characters/story_1/leo.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 55,
+			"personality": [
+				"Kuat",
+				"Berwibawa",
+				"Pendendam"
+			]
+		},
+		{
+			"id": "char_8",
+			"name": "Jack",
+			"description": "Orang kepercayaan dan sekutu protagonis yang membantunya dalam rencana balas dendam.",
+			"avatar_url": "/resources/characters/story_1/jack.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 29,
+			"personality": [
+				"Setia",
+				"Dapat diandalkan",
+				"Berani"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Kabut Ingatan"
+		}
+	]
+}

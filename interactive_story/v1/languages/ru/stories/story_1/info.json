@@ -1,0 +1,125 @@
+{
+	"story_id": "story_1",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Dylan",
+			"description": "Главный герой, страдающий амнезией, чье настоящее имя Ryder. Бывший могущественный лидер банды, потерявший память после предательства",
+			"avatar_url": "/resources/characters/story_1/dylan.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Сильный",
+				"Растерянный",
+				"Лидерский"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Sophia",
+			"description": "Первая женщина, появившаяся рядом с главным героем. Умная и хитрая, называет себя его другом, но на самом деле является дочерью могущественного главаря банды Лео. Она скрывает правду о настоящей личности главного героя, но ее истинные мотивы эгоистичны.",
+			"avatar_url": "/resources/characters/story_1/sophia.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"Умная",
+				"Хитрая",
+				"Эгоистичная"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Luna",
+			"description": "Сексуальная топ-модель с сильной харизмой, утверждающая, что когда-то любила главного героя, но предала его.",
+			"avatar_url": "/resources/characters/story_1/luna.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"Соблазнительная",
+				"Предательская",
+				"Красивая"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "Сильная деловая женщина, бизнес-элита, спокойная и рациональная, способная и умная, но на самом деле цундере. Имеет деловые отношения с главным героем, но на самом деле хочет использовать его против своего мужа.",
+			"avatar_url": "/resources/characters/story_1/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 35,
+			"personality": [
+				"Сильная",
+				"Спокойная",
+				"Рациональная",
+				"Расчетливая"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Eve",
+			"description": "Размытая женская фигура в снах главного героя, женщина, которую он действительно любил до потери памяти, очень таинственная.",
+			"avatar_url": "/resources/characters/story_1/eve.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 27,
+			"personality": [
+				"Таинственная",
+				"Нежная",
+				"Искренняя"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Max",
+			"description": "Антагонист, бывший надежный помощник главного героя, теперь занявший его место в качестве лидера банды, ключевая фигура в предательстве главного героя.",
+			"avatar_url": "/resources/characters/story_1/max.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 32,
+			"personality": [
+				"Предательский",
+				"Амбициозный",
+				"Хитрый"
+			]
+		},
+		{
+			"id": "char_7",
+			"name": "Leo",
+			"description": "Главарь банды, имеющий большое влияние на месть главному герою, отец Софии.",
+			"avatar_url": "/resources/characters/story_1/leo.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 55,
+			"personality": [
+				"Могущественный",
+				"Авторитетный",
+				"Мстительный"
+			]
+		},
+		{
+			"id": "char_8",
+			"name": "Jack",
+			"description": "Верный соратник и союзник главного героя, помогающий ему в планировании мести.",
+			"avatar_url": "/resources/characters/story_1/jack.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 29,
+			"personality": [
+				"Верный",
+				"Надежный",
+				"Храбрый"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Туман воспоминаний"
+		}
+	]
+}

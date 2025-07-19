@@ -1,0 +1,102 @@
+{
+	"story_id": "story_2",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Daniel",
+			"description": "Ein introvertierter 20-jähriger Mann, der gerade sein Studium abgeschlossen hat und in New York lebt, wo er sich oft in seiner kleinen Wohnung versteckt. Er ist extrem ängstlich bei sozialen Interaktionen, besonders mit Frauen, sehnt sich aber im tiefsten Inneren nach wahrer Liebe.",
+			"avatar_url": "/resources/characters/story_2/daniel.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"introvertiert",
+				"ängstlich",
+				"liebesuchend",
+				"gütig"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Yumiko",
+			"description": "Eine Studentin, die nebenbei als Barista arbeitet, mit braunen lockigen Haaren und grünen Augen. Sie hat ein strahlendes, süßes Lächeln und schwärmt heimlich für Daniel, seit er ihr während des Studiums geholfen hat.",
+			"avatar_url": "/resources/characters/story_2/yumiko.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 19,
+			"personality": [
+				"süß",
+				"heimlich verliebt",
+				"sanft",
+				"fleißig"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Gloria",
+			"description": "Eine hochrangige Anwältin mit kurzen blonden Haaren und durchdringenden blauen Augen. Ihre starke und kühle Außenseite macht sie schwer zugänglich, aber im Inneren verbirgt sie Verletzlichkeit und Unsicherheit.",
+			"avatar_url": "/resources/characters/story_2/gloria.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 32,
+			"personality": [
+				"stark",
+				"kühl",
+				"verletzlich",
+				"professionell"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "Eine Psychologieprofessorin mit langem schwarzen Haar und einer schlanken, eleganten Figur. Sie wird Daniels Mentorin und hilft ihm, seine Fähigkeiten und die Komplexität der menschlichen Natur zu verstehen.",
+			"avatar_url": "/resources/characters/story_2/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 38,
+			"personality": [
+				"weise",
+				"elegant",
+				"verständnisvoll",
+				"professionell"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Carter",
+			"description": "Daniels Mitschüler aus der Highschool und Mitbewohner mit blonden Haaren, extrovertiert und lebhaft. Als Daniels Fähigkeiten wachsen, wird ihre Freundschaft auf die Probe gestellt, und Carter fühlt sich zurückgelassen.",
+			"avatar_url": "/resources/characters/story_2/carter.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"extrovertiert",
+				"lebhaft",
+				"eifersüchtig",
+				"freundlich"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Ethan",
+			"description": "Ein mysteriöser Antagonist mit schwarzem Haar und eleganter Kleidung. Er ist kalt und gerissen, besitzt ähnliche gedankenlesende Fähigkeiten, nutzt diese aber zur Kontrolle und Manipulation.",
+			"avatar_url": "/resources/characters/story_2/ethan.png",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"kalt",
+				"gerissen",
+				"kontrollierend",
+				"geheimnisvoll"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Die ersten Stimmen"
+		}
+	]
+}

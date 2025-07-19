@@ -1,0 +1,45 @@
+{
+	"stories": [
+		{
+			"id": "story_1",
+			"title": "Den minnesförlorade: Förförelse och fällor",
+			"description": "En man som en gång var mäktig vaknar upp utan minnen, och världen har vänts upp och ner. En vacker kvinna påstår att hon är en vän, men hennes ord är undvikande och döljer hemligheter. I denna stad där makt och begär flätas samman måste han återfå sina minnen - eller förlora sig helt i fällorna som de har lagt ut.",
+			"category_id": 1,
+			"tags": [
+				"Minnesförlust",
+				"Makt",
+				"Förräderi",
+				"Hämnd",
+				"Mystik"
+			],
+			"plot_direction": [
+				"[Handling: Minnesförlust och mysterier]: Protagonisten vaknar upp på sjukhuset och upptäcker att han saknar minnen. Under Sofias vägledning träder han in i en stad styrd av begär och makt, där han gradvis antar en ny identitet: Dylan, en affärselit. Omgiven av rikedom och frestelser blir hans liv sammanflätat med flera kvinnor, inklusive Luna och Claire, som alla har sin egen stil men besitter en farlig charm. Protagonisten börjar inse att dessa kvinnor har dolda motiv. Samtidigt ser han upprepade gånger ett suddigt kvinnoansikte i sina drömmar - Eve - men han kan inte tydligt minnas hennes anletsdrag.",
+				"[Mellanakt: Begär och hämnd]: Sofia leder honom genom den kriminella undre världen och elitens kretsar, avslöjar sina kopplingar till undre världen och försöker dra in honom i en större plan. Han blir indragen i komplicerade känslomässiga relationer med flera kvinnor. Efter en olycka återfår han alla sina minnen och inser att han faktiskt är en gangsterledare som förråddes av sin betrodda allierade Max. Protagonisten bestämmer sig för att låtsas vara minnesförlorad och börjar i hemlighet planera sin hämnd.",
+				"[Sen handling: Hämnd och öde]: Hämnden utvecklar sig när protagonisten skoningslöst krossar de krafter som förrådde honom. Under hämndens gång återuppväcker han dock antingen sina känslor för Eve eller upptäcker en större konspiration. Efter att hämnden är fullbordad finner han sig vilsen i tomheten, osäker på om han ska dela sitt liv med någon eller fortsätta på den mörka vägen."
+			],
+			"cover_image_url": "resources/covers/story_1_cover.png",
+			"background_image_url": "resources/backgrounds/story_1_bg.jpg"
+		},
+		{
+			"id": "story_2",
+			"title": "Tankläsningsspelet: Att behärska kärlek och sinne",
+			"description": "En introvert och blyg universitetsexaminerad vaknar en dag och upptäcker oväntat förmågan att läsa tankar och kontrollera känslor. Från sin lilla lägenhet, präglad av social ångest och osäkerhet, börjar han utforska en värld i New York som han aldrig tidigare upplevt - men den verkliga utmaningen ligger inte i att 'höra andra' utan i att 'förstå sig själv'. När kärlek och makt flätas samman måste han hitta sin egen röst mellan förförelse och äkta känslor.",
+			"category_id": 2,
+			"tags": [
+				"Tankläsning",
+				"Psykologi",
+				"Kraft",
+				"Förändring",
+				"Känslokontroll"
+			],
+			"plot_direction": [
+				"Början: En dag får protagonisten, en nyutexaminerad ung man, oväntat förmågan att läsa tankar och manipulera andras känslor medan han surfar på sin telefon på ett café. Till en början är han chockad och förvirrad över denna plötsliga kraft, men när han börjar experimentera med den inser han att han äntligen kan interagera med andra utan rädsla, särskilt när han pratar med kvinnor, eftersom han inte längre känner sig nervös. Med denna kraft börjar han få uppmärksamhet och tillgivenhet från andra, särskilt från kvinnor.",
+				"Mellanfas: Tillväxt, förändring och utmaningar. Protagonistens liv genomgår dramatiska förändringar. Han använder denna kraft för att attrahera kvinnor omkring sig, börjar delta i olika fester och sammankomster, och utvecklas gradvis från sin tidigare ensamma persona till att bli en central figur i sin sociala krets. Men medan han uppnår framgång i sitt sociala liv börjar han också inse att denna kraft inte kommer utan kostnad. Även om hans sociala ångest tillfälligt har övervunnits, börjar han känna sig vilsen i falska relationer, oförmögen att urskilja vem som genuint närmar sig honom och vem som bara manipuleras av hans kraft.",
+				"Klimax: Priset för makt. När protagonisten använder kraften mer frekvent börjar saker gå fel. Han upptäcker att han gradvis förlorar kontrollen över kraften, som ibland aktiveras omedvetet även när han inte vill att den ska göra det. Värre ännu börjar han känna en mörk kraft som manipulerar honom. Det visar sig att denna kraft är resultatet av ett experiment utfört av en mystisk organisation ledd av Ethan. Protagonisten måste fatta ett slutgiltigt beslut: fortsätta använda kraften och bli organisationens slav, eller göra sig av med den och återgå till sitt gamla jag, även om det kan innebära att han förlorar förmågan att interagera normalt med andra.",
+				"Slutet: Livets höjdpunkt eller återgång till det ordinära? Det finns flera möjliga slut med utrymme för kreativ frihet. Romanens språk bör vara levande och uttrycksfullt, inspirerat av stilen i 'Greven av Monte Cristo', med handling som kan hämta inspiration från 'The Bourne Identity'. Berättelsen bör vara full av spänning och känslomässiga konflikter, som leder läsaren in i en värld där begär och makt är sammanflätade."
+			],
+			"cover_image_url": "resources/covers/story_2_cover.png",
+			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		}
+	]
+}

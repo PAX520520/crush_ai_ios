@@ -1,0 +1,14 @@
+{
+	"categories": [
+		{
+			"id": 1,
+			"name": "🎭 Misteri",
+			"description": "Cerita seram yang penuh dengan misteri dan ketegangan"
+		},
+		{
+			"id": 2,
+			"name": "💘 Romantik",
+			"description": "Kisah cinta yang penuh dengan emosi dan semangat"
+		}
+	]
+}

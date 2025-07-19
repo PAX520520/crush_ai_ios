@@ -1,0 +1,45 @@
+{
+	"stories": [
+		{
+			"id": "story_1",
+			"title": "De Amnesie: Verleiding en Valstrikken",
+			"description": "Een man die ooit veel macht had, ontwaakt uit zijn geheugenverlies en ontdekt dat de wereld volledig is veranderd. Een mooie vrouw beweert een vriend te zijn, maar haar woorden zijn ontwijkend en verbergen geheimen. In deze stad waar macht en verlangen verweven zijn, moet hij zijn geheugen terugvinden - of volledig verloren raken in de valstrikken die zij hebben gezet.",
+			"category_id": 1,
+			"tags": [
+				"Geheugenverlies",
+				"Macht",
+				"Verraad",
+				"Wraak",
+				"Mysterie"
+			],
+			"plot_direction": [
+				"[Plot: Geheugenverlies en Mysterie]: De protagonist wordt wakker in het ziekenhuis en ontdekt dat hij geen herinneringen heeft. Onder leiding van Sofia betreedt hij een stad die wordt beheerst door verlangen en macht, waar hij geleidelijk een nieuwe identiteit aanneemt: Dylan, een zakelijke elite. Omringd door rijkdom en verleiding raakt zijn leven verstrengeld met verschillende vrouwen, waaronder Luna en Claire, die elk hun eigen stijl hebben maar allemaal een gevaarlijke charme bezitten. De protagonist begint te beseffen dat deze vrouwen verborgen motieven hebben. Ondertussen ziet hij in zijn dromen herhaaldelijk een vaag vrouwengezicht - Eve - maar hij kan haar gelaatstrekken niet duidelijk herinneren.",
+				"[Middenstuk: Verlangen en Wraak]: Sofia leidt hem door de criminele onderwereld en elitekringen, onthult haar banden met de ondergrondse machten en probeert hem in een groter plan te betrekken. Hij raakt verstrikt in complexe emotionele relaties met verschillende vrouwen. Na een ongeval keert zijn geheugen volledig terug en realiseert hij zich dat hij eigenlijk een bendeleider is die werd verraden door zijn vertrouwde bondgenoot Max. De protagonist besluit te doen alsof hij nog steeds aan geheugenverlies lijdt en begint in het geheim zijn wraak te plannen.",
+				"[Late Plot: Wraak en Lot]: Het wraakplan ontvouwt zich terwijl de protagonist meedogenloos de krachten vernietigt die hem hebben verraden. Tijdens zijn wraaktocht ontbrandt hij echter ofwel opnieuw zijn gevoelens voor Eve, ofwel ontdekt hij een grotere samenzwering. Na het voltooien van zijn wraak vindt hij zichzelf verloren in leegte, onzeker of hij zijn leven met iemand moet delen of verder moet gaan op het duistere pad."
+			],
+			"cover_image_url": "resources/covers/story_1_cover.png",
+			"background_image_url": "resources/backgrounds/story_1_bg.jpg"
+		},
+		{
+			"id": "story_2",
+			"title": "Gedachtenlezen: Beheersing van Liefde en Geest",
+			"description": "Een verlegen, introverte pas afgestudeerde wordt op een dag wakker met het onverwachte vermogen om gedachten te lezen en emoties te manipuleren. Vanuit zijn kleine appartement, gehinderd door sociale angst en onzekerheid, begint hij een wereld te verkennen in het bruisende New York die hij nooit eerder heeft gekend - maar de echte uitdaging ligt niet in het 'horen van anderen', maar in het 'begrijpen van zichzelf'. Wanneer liefde en macht zich vermengen, moet hij tussen verleiding en oprechtheid zijn eigen stem vinden.",
+			"category_id": 2,
+			"tags": [
+				"Gedachtenlezen",
+				"Psychologie",
+				"Kracht",
+				"Transformatie",
+				"Emotionele Manipulatie"
+			],
+			"plot_direction": [
+				"Begin: Op een dag krijgt de protagonist, een pas afgestudeerde jongeman, onverwacht de gave om gedachten te lezen en emoties van anderen te manipuleren terwijl hij op zijn telefoon browst in een koffieshop. Aanvankelijk is hij geschokt en verward door deze plotselinge kracht, maar als hij het begint te gebruiken, realiseert hij zich dat hij eindelijk zonder angst met anderen kan omgaan, vooral in gesprekken met vrouwen, omdat hij niet langer nerveus is. Met deze kracht begint hij de aandacht en genegenheid van anderen te krijgen, vooral van meisjes.",
+				"Middenfase: Groei, Transformatie en Uitdagingen De protagonist's leven ondergaat geleidelijk grote veranderingen. Hij gebruikt deze kracht om meisjes om hem heen aan te trekken, begint deel te nemen aan verschillende feesten en bijeenkomsten, en ontgroeit langzaam zijn imago als eenzame figuur om het middelpunt van zijn sociale kring te worden. Echter, terwijl hij succes heeft in zijn sociale leven, begint hij ook te beseffen dat deze kracht niet zonder prijs komt. Hoewel zijn sociale angst tijdelijk is overwonnen, begint hij zich verloren te voelen in valse relaties, niet in staat om te onderscheiden wie oprecht naar hem toekomt en wie alleen door zijn kracht wordt gemanipuleerd.",
+				"Climax: De Prijs van Macht Als de protagonist zijn kracht vaker gebruikt, beginnen er dingen mis te gaan. Hij ontdekt dat hij geleidelijk de controle over zijn kracht verliest, soms activeert het zich onbewust, zelfs wanneer hij dat niet wil. Erger nog, hij begint een duistere kracht te voelen die hem manipuleert. Het blijkt dat deze kracht het resultaat is van een experiment door een mysterieuze organisatie geleid door Ethan. De protagonist moet een definitieve keuze maken: doorgaan met het gebruik van deze kracht en een slaaf worden van de organisatie, of er vanaf komen en terugkeren naar zijn oude zelf, ook al zou dat kunnen betekenen dat hij zijn vermogen verliest om normaal met anderen om te gaan.",
+				"Einde: Levenspiek of Terugkeer naar Gewoon? Er zijn verschillende mogelijke eindes, met ruimte voor creatieve vrijheid. Het verhaal moet levendig en expressief zijn, geïnspireerd door de stijl van 'De Graaf van Monte Cristo' en met plotwendingen die inspiratie putten uit 'The Bourne Identity'. Dit verhaal moet vol spanning en emotionele conflicten zitten, en de lezer meenemen naar een wereld waar verlangen en macht verweven zijn."
+			],
+			"cover_image_url": "resources/covers/story_2_cover.png",
+			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		}
+	]
+}

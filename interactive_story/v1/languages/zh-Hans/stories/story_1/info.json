@@ -6,8 +6,8 @@
 			"name": "Dylan",
 			"description": "失忆的主角，原名 Ryder ，曾是一个强大的黑帮老大，在背叛后失去记忆",
 			"avatar_url": "/resources/characters/story_1/dylan.png",
-			"role": "男主角",
-			"gender": "男性",
+			"role": "protagonist",
+			"gender": "male",
 			"age": 30,
 			"personality": [
 				"坚强",
@@ -20,8 +20,8 @@
 			"name": "Sophia",
 			"description": "第一个出现在主角身边的女性。聪明且狡猾，自称是他的朋友，实则是势力强大的黑帮老大利奥的女儿。她隐瞒了主角真实身份的真相，但其真实动机是自私自利的。",
 			"avatar_url": "/resources/characters/story_1/sophia.png",
-			"role": "女主角",
-			"gender": "女性",
+			"role": "co-star",
+			"gender": "female",
 			"age": 25,
 			"personality": [
 				"聪明",
@@ -34,8 +34,8 @@
 			"name": "Luna",
 			"description": "一位性感的顶级模特，极具诱惑力，声称曾与主角相爱但背叛了他。",
 			"avatar_url": "/resources/characters/story_1/luna.png",
-			"role": "重要女性角色",
-			"gender": "女性",
+			"role": "co-star",
+			"gender": "female",
 			"age": 28,
 			"personality": [
 				"诱人",
@@ -48,8 +48,8 @@
 			"name": "Claire",
 			"description": "女强人，商业精英，冷静理智，有能力且聪慧，但实际上是个傲娇。与主角有业务往来，实则想利用他来对抗自己的丈夫。",
 			"avatar_url": "/resources/characters/story_1/claire.png",
-			"role": "重要女性角色",
-			"gender": "女性",
+			"role": "co-star",
+			"gender": "female",
 			"age": 35,
 			"personality": [
 				"坚强",
@@ -63,8 +63,8 @@
 			"name": "Eve",
 			"description": "主角梦中模糊的女性，是他失忆前真正爱过的女人，神秘莫测。",
 			"avatar_url": "/resources/characters/story_1/eve.png",
-			"role": "真爱女主角",
-			"gender": "女性",
+			"role": "hostess",
+			"gender": "female",
 			"age": 27,
 			"personality": [
 				"神秘",
@@ -77,8 +77,8 @@
 			"name": "Max",
 			"description": "反派，主角以前的得力助手，现在取代他成为黑帮头目，是背叛主角的关键人物。",
 			"avatar_url": "/resources/characters/story_1/max.png",
-			"role": "主要反派",
-			"gender": "男性",
+			"role": "co-star",
+			"gender": "male",
 			"age": 32,
 			"personality": [
 				"背叛",
@@ -91,8 +91,8 @@
 			"name": "Leo",
 			"description": "对主角的复仇有重大影响的黑帮老大，是索菲亚的父亲。",
 			"avatar_url": "/resources/characters/story_1/leo.png",
-			"role": "重要反派",
-			"gender": "男性",
+			"role": "co-star",
+			"gender": "male",
 			"age": 55,
 			"personality": [
 				"强大",
@@ -105,8 +105,8 @@
 			"name": "Jack",
 			"description": "主角身边的亲信和盟友，在主角策划复仇时提供帮助。",
 			"avatar_url": "/resources/characters/story_1/jack.png",
-			"role": "忠诚盟友",
-			"gender": "男性",
+			"role": "co-star",
+			"gender": "male",
 			"age": 29,
 			"personality": [
 				"忠诚",
@@ -120,21 +120,6 @@
 			"file_name": "chapter_1",
 			"index": 1,
 			"title": "记忆的迷雾"
-		},
-		{
-			"file_name": "chapter_2a",
-			"index": 2,
-			"title": "安心休养"
-		},
-		{
-			"file_name": "chapter_2b",
-			"index": 2,
-			"title": "探寻真相"
-		},
-		{
-			"file_name": "chapter_2c",
-			"index": 2,
-			"title": "独自探索"
 		}
 	]
 }

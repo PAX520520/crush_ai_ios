@@ -1,0 +1,87 @@
+{
+	"title": "記憶的迷霧",
+	"summary": "失憶的主角 Dylan 在醫院醒來，遇到了聲稱是朋友的神秘女子 Sophia。Sophia 告訴他遭遇了事故導致失憶，但 Dylan 對她的話感到懷疑，面臨是否信任她、要求真相還是獨自離開的選擇。",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "你的意識突然掙扎著從混沌的虛空浮現，如同破水而出，刺鼻的消毒水味鑽進鼻孔，刺激著你的神經。當你睜開眼睛，發現自己躺在一間潔白的病房裡，頭頂的燈光亮得讓你頭暈目眩。周圍一片寂靜，只有心臟監護儀微弱的滴答聲。然而，你的腦海一片空白，彷彿一股未知的力量抽走了你的記憶。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(困惑地揉了揉眼睛，大腦彷彿凍結了) 呃…… 我是誰？這是哪兒？",
+			"image_url": "/resources/images/story_1/chapter_1_1.png"
+		},
+		{
+			"type": "narrator",
+			"content": "你試圖掙扎起身，卻被一股無力感按回床墊。就在你疑惑不安之際，病房門輕輕被推開。她出現了——身穿黑色連衣裙的優雅女子，腳步平穩，眼神中卻藏著某種無法言說的情緒。她的美麗不是那種輕易親近的柔和，而像鋒利而誘惑的黑曜石，危險又吸引人。"
+		},
+		{
+			"type": "narrator",
+			"content": "你感覺自己好像見過她……在夢裡？還是在某個被遺忘的記憶碎片中？她看向你，嘴角揚起一個彷彿早已設計好的笑容。"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(聲音輕柔，如春風拂面) 你終於醒了。我還擔心你再也醒不過來呢。",
+			"image_url": "/resources/images/story_1/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(語氣警覺，眼神掃視四周) 你是誰？你……怎麼會在這裡？我為什麼會在這兒？"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(語氣溫柔但不容置疑，嘴角掛著意味深長的笑容) 我是 Sophia，你的朋友。你叫 Dylan。你遭遇了一場嚴重的事故，醫生說你暫時失憶了。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(試圖抓住那轉瞬即逝的記憶碎片，聲音中透露出焦慮) 事故？我什麼都不記得了……"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(語氣溫柔，充滿鼓勵，眼中滿是關切，手輕輕搭在你的手腕上) 別擔心，一切都會好起來的。有我在。我們一起面對。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(困惑地看著她，試圖探尋她的真實意圖) 我能信任你嗎？為什麼我感覺我們之間不止如此？"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(微微皺眉，似乎在思考如何解釋，聲音變得堅定) 我會告訴你一切，但這需要時間。相信我，你現在只需好好休息，等你記憶恢復，一切都會明朗。"
+		},
+		{
+			"type": "narrator",
+			"content": "她的每一句話都說得天衣無縫，卻又讓你感到一種說不出的違和。她是誰？你真的能信任她嗎？"
+		}
+	],
+	"choice": {
+		"prompt": "你會如何回應:",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "選擇相信 Sophia，安心留在醫院休養"
+			},
+			{
+				"content": "對 Sophia 說的話表示懷疑，要求她說出真相"
+			},
+			{
+				"content": "偷偷離開醫院，獨自探尋自己的身份之謎"
+			}
+		]
+	}
+}

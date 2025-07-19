@@ -1,0 +1,14 @@
+{
+	"categories": [
+		{
+			"id": 1,
+			"name": "🎭 Misterio",
+			"description": "Historias de suspenso llenas de misterio y tensión"
+		},
+		{
+			"id": 2,
+			"name": "💘 Romance",
+			"description": "Historias de amor apasionadas llenas de profundidad emocional"
+		}
+	]
+}

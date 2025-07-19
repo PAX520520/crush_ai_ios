@@ -1,0 +1,87 @@
+{
+    "title": "Mist of Memories",
+    "summary": "The amnesiac protagonist, Dylan, wakes up in a hospital and encounters a mysterious woman named Sophia who claims to be his friend. Sophia tells him he lost his memory due to an accident, but Dylan feels skeptical about her words, facing the choice of whether to trust her, demand the truth, or leave on his own.",
+    "segments": [
+        {
+            "type": "narrator",
+            "content": "Your consciousness suddenly struggles to emerge from the chaotic void, as if breaking the surface of water, with the pungent smell of disinfectant invading your nostrils, stimulating your nerves. When you open your eyes, you find yourself lying in a white hospital room, with the overhead light so bright it makes you feel dizzy. The surroundings are silent, except for the faint ticking of the heart monitor. However, your mind is completely blank, as if an unknown force has taken away your memory."
+        },
+        {
+            "type": "protagonist",
+            "character_id": "char_1",
+            "character_name": "Dylan",
+            "content": "(Rubbing eyes in confusion, brain seemingly frozen) Uh... Who am I? Where is this?",
+            "image_url": "/resources/images/story_1/chapter_1_1.png"
+        },
+        {
+            "type": "narrator",
+            "content": "You try to struggle to sit up, but a sense of weakness pushes you back onto the mattress. Just as you are feeling confused and uneasy, the door to the room gently opens. She appeared — an elegant woman in a black dress, walking steadily, with an expression in her eyes that contains an indescribable emotion. Her beauty is not the easily approachable kind of softness but like sharp and alluring obsidian, dangerous yet attractive."
+        },
+        {
+            "type": "narrator",
+            "content": "You feel like you’ve seen her before... in a dream? Or in some forgotten fragment of memory? She looks at you, a smile resembling one long designed appears on her lips."
+        },
+        {
+            "type": "character",
+            "character_id": "char_2",
+            "character_name": "Sophia",
+            "content": "(Voice soft like a spring breeze) You’ve finally awakened. I was worried you might never wake up.",
+            "image_url": "/resources/images/story_1/chapter_1_2.png"
+        },
+        {
+            "type": "protagonist",
+            "character_id": "char_1",
+            "character_name": "Dylan",
+            "content": "(Cautious tone, eyes scanning the surroundings) Who are you? How are you here? Why am I here?"
+        },
+        {
+            "type": "character",
+            "character_id": "char_2",
+            "character_name": "Sophia",
+            "content": "(Gentle but assertive tone, with a meaningful smile) I am Sophia, your friend. Your name is Dylan. You had a severe accident, and the doctors said you have temporary amnesia."
+        },
+        {
+            "type": "protagonist",
+            "character_id": "char_1",
+            "character_name": "Dylan",
+            "content": "(Trying to grasp fleeting memory fragments, voice tinged with anxiety) Accident? I don't remember anything..."
+        },
+        {
+            "type": "character",
+            "character_id": "char_2",
+            "character_name": "Sophia",
+            "content": "(Tone gentle and encouraging, eyes full of concern, hand gently resting on your wrist) Don't worry, everything will be alright. I'm here with you. We’ll face it together."
+        },
+        {
+            "type": "protagonist",
+            "character_id": "char_1",
+            "character_name": "Dylan",
+            "content": "(Looking at her in confusion, trying to discern her true intentions) Can I trust you? Why do I feel there’s more between us?"
+        },
+        {
+            "type": "character",
+            "character_id": "char_2",
+            "character_name": "Sophia",
+            "content": "(Slightly frowning, seeming to think about how to explain, voice becoming firm) I'll tell you everything, but it takes time. Trust me, you just need to rest for now, and once your memory returns, everything will be clear."
+        },
+        {
+            "type": "narrator",
+            "content": "Every word she says fits perfectly, yet leaves you with an indescribable sense of discord. Who is she? Can you really trust her?"
+        }
+    ],
+    "choice": {
+        "prompt": "How will you respond:",
+        "is_ai_generated": true,
+        "options": [
+            {
+                "content": "Choose to trust Sophia and stay in the hospital to recuperate"
+            },
+            {
+                "content": "Express skepticism about Sophia's words and demand the truth"
+            },
+            {
+                "content": "Secretly leave the hospital to explore the mystery of your identity alone"
+            }
+        ]
+    }
+}

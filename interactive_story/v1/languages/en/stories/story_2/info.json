@@ -1,0 +1,102 @@
+{
+	"story_id": "story_2",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Daniel",
+			"description": "A 20-year-old introverted man who just graduated from college, living in New York but often hiding in his small apartment. He feels extremely anxious about social interactions, especially with women, but deep down yearns for true love.",
+			"avatar_url": "/resources/characters/story_2/daniel.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"introverted",
+				"anxious",
+				"yearning for love",
+				"kind"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Yumiko",
+			"description": "A college student working part-time as a barista, with brown curly hair and green eyes. She has a bright, sweet smile and has been secretly in love with Daniel since he helped her during college.",
+			"avatar_url": "/resources/characters/story_2/yumiko.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 19,
+			"personality": [
+				"sweet",
+				"secretly in love",
+				"gentle",
+				"hardworking"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Gloria",
+			"description": "A senior lawyer with short blonde hair and sharp blue eyes. Her strong and cold exterior makes her difficult to approach, but she hides vulnerability and insecurity inside.",
+			"avatar_url": "/resources/characters/story_2/gloria.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 32,
+			"personality": [
+				"strong",
+				"cold",
+				"vulnerable",
+				"professional"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "A psychology professor with long black hair, slim and elegant. She becomes Daniel's mentor, helping him understand his abilities and the complexity of human nature.",
+			"avatar_url": "/resources/characters/story_2/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 38,
+			"personality": [
+				"wise",
+				"elegant",
+				"understanding",
+				"professional"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Carter",
+			"description": "Daniel's high school classmate and roommate, with blonde hair, outgoing and cheerful. As Daniel's abilities grow, their friendship is challenged, and Carter feels left behind.",
+			"avatar_url": "/resources/characters/story_2/carter.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"outgoing",
+				"cheerful",
+				"jealous",
+				"friendly"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Ethan",
+			"description": "A mysterious antagonist with black hair and refined clothing. He is cold and cunning, possessing similar mind-reading abilities but uses them for control and manipulation.",
+			"avatar_url": "/resources/characters/story_2/ethan.png",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"cold",
+				"cunning",
+				"controlling",
+				"mysterious"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "The First Voice of the Heart"
+		}
+	]
+}

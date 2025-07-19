@@ -1,0 +1,45 @@
+{
+	"stories": [
+		{
+			"id": "story_1",
+			"title": "Den Hukommelsesløse: Fristelse og Feller",
+			"description": "En mann som en gang hadde stor makt, våkner opp med hukommelsestap i en verden som har endret seg drastisk. En vakker kvinne hevder å være en venn, men hennes ord er vage og skjuler hemmeligheter. I denne byen hvor makt og begjær er sammenvevd, må han enten gjenvinne hukommelsen - eller gå seg vill i fellene de har lagt for ham.",
+			"category_id": 1,
+			"tags": [
+				"Hukommelsestap",
+				"Makt",
+				"Forræderi",
+				"Hevn",
+				"Mystikk"
+			],
+			"plot_direction": [
+				"[Handling: Hukommelsestap og mysterier]: Hovedpersonen våkner opp på sykehuset og oppdager at han ikke har noen minner. Under Sofias veiledning kommer han inn i en by styrt av begjær og makt, hvor han gradvis fremstår med en ny identitet: Dylan, en forretningselite. Omgitt av rikdom og fristelser blir livet hans viklet inn med flere kvinner, inkludert Luna og Claire, som alle har sin egen stil, men besitter en farlig sjarm. Hovedpersonen begynner å innse at disse kvinnene har skjulte motiver. Samtidig ser han gjentatte ganger et uklart kvinneansikt i drømmene sine - Eve - men han kan ikke tydelig huske hennes ansiktstrekk.",
+				"[Midtparti: Begjær og hevn]: Sofia leder ham gjennom kriminelle underverdener og elitesirkler, avslører hennes forbindelser til underjordiske krefter, og prøver å dra ham inn i en større plan. Han blir viklet inn i kompliserte følelsesmessige forhold med flere kvinner. Etter en hendelse kommer hukommelsen hans fullstendig tilbake, og han innser at han faktisk er en gjengboss som ble forrådt av sin betrodde allierte Max. Hovedpersonen bestemmer seg for å late som om han fortsatt har hukommelsestap og begynner i hemmelighet å planlegge sin hevn.",
+				"[Slutt: Hevn og skjebne]: Hevnplanen utfolder seg når hovedpersonen nådeløst ødelegger kreftene som forrådte ham. Men i hevnprosessen enten gjentenner han følelsene for Eve eller oppdager en større konspirasjon. Etter å ha fullført sin hevn finner han seg selv fortapt i tomhet, usikker på om han skal dele livet sitt med noen eller fortsette på den mørke veien."
+			],
+			"cover_image_url": "resources/covers/story_1_cover.png",
+			"background_image_url": "resources/backgrounds/story_1_bg.jpg"
+		},
+		{
+			"id": "story_2",
+			"title": "Tankelesingsspillet: Kontroll over Kjærlighet og Sinn",
+			"description": "En sjenert og innadvendt nyutdannet student våkner en dag og oppdager uventet evnen til å lese tanker og kontrollere følelser. Fra sin lille leilighet, preget av sosial angst og lav selvtillit, begynner han å utforske en verden i New York han aldri har kjent før - men den virkelige utfordringen er ikke å 'høre andre', men å 'forstå seg selv'. Når kjærlighet og makt veves sammen, må han finne sin egen stemme mellom fristelse og ekte følelser.",
+			"category_id": 2,
+			"tags": [
+				"Tankelesing",
+				"Psykologi",
+				"Kraft",
+				"Forandring",
+				"Følelseskontroll"
+			],
+			"plot_direction": [
+				"Begynnelse: En dag får hovedpersonen, en ung mann som nettopp har fullført universitetet, plutselig evnen til å lese tanker og manipulere andres følelser mens han surfer på mobilen på en kafé. I begynnelsen er hovedpersonen sjokkert og forvirret over denne plutselige kraften, men når han begynner å bruke den, innser han at han endelig kan samhandle med andre uten frykt, spesielt når han snakker med kvinner, fordi han ikke lenger føler seg nervøs. Med denne kraften begynner han å få oppmerksomhet og hengivenhet fra andre, spesielt fra jenter.",
+				"Midtfase: Vekst, forandring og utfordringer. Hovedpersonens liv gjennomgår gradvis store endringer. Han bruker denne kraften til å tiltrekke seg jenter rundt seg, begynner å delta på ulike fester og sammenkomster, og beveger seg gradvis bort fra sitt tidligere ensomme image for å bli en sentral figur i sin sosiale krets. Men mens hovedpersonen oppnår suksess i sitt sosiale liv, begynner han også å innse at denne kraften ikke kommer uten konsekvenser. Selv om hans sosiale angst midlertidig er overvunnet, begynner han å føle seg fortapt i falske forhold, ute av stand til å skille mellom hvem som virkelig nærmer seg ham og hvem som bare er manipulert av hans kraft.",
+				"Klimaks: Prisen for makt. Etter hvert som hovedpersonen bruker kraften mer hyppig, begynner ting å gå galt. Han oppdager at han gradvis mister kontrollen over kraften, som noen ganger utløses ubevisst, selv i situasjoner hvor han ikke ønsker at den skal virke. Verre er det at han begynner å føle en mørk kraft som manipulerer ham. Det viser seg at denne kraften er resultatet av et eksperiment fra en mystisk organisasjon ledet av Ethan. Hovedpersonen må ta en endelig beslutning: fortsette å bruke denne kraften og bli organisasjonens slave, eller kvitte seg med den og vende tilbake til sitt tidligere jeg, selv om det kan bety at han mister evnen til å samhandle normalt med andre.",
+				"Slutt: Livets høydepunkt eller tilbake til det ordinære? Det er rom for flere mulige slutninger og kreativ frihet. Romanens språk skal være levende og uttrykksfullt, inspirert av stilen til 'Greven av Monte Cristo', mens plottet kan hente inspirasjon fra 'The Bourne Identity'. Historien skal være full av spenning og følelsesmessige konflikter, og lede leseren inn i en verden hvor begjær og makt er sammenvevd."
+			],
+			"cover_image_url": "resources/covers/story_2_cover.png",
+			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		}
+	]
+}

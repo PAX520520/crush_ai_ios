@@ -1,0 +1,102 @@
+{
+	"story_id": "story_2",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Daniel",
+			"description": "Een introverte 20-jarige man die net is afgestudeerd aan de universiteit en in New York woont, maar zich vaak verschuilt in zijn kleine appartement. Hij is extreem angstig voor sociale interacties, vooral met vrouwen, maar verlangt diep vanbinnen naar echte liefde.",
+			"avatar_url": "/resources/characters/story_2/daniel.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"introvert",
+				"angstig",
+				"verlangend naar liefde",
+				"vriendelijk"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Yumiko",
+			"description": "Een universiteitsstudente die parttime als barista werkt, met bruin krullend haar en groene ogen. Ze heeft een stralende, lieve glimlach en heeft een stille verliefdheid op Daniel sinds hij haar hielp tijdens hun universiteitsjaren.",
+			"avatar_url": "/resources/characters/story_2/yumiko.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 19,
+			"personality": [
+				"lief",
+				"stilletjes verliefd",
+				"zachtaardig",
+				"hardwerkend"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Gloria",
+			"description": "Een senior advocaat met kort blond haar en scherpe blauwe ogen. Haar sterke en koele uitstraling maakt haar moeilijk benaderbaar, maar van binnen verbergt ze kwetsbaarheid en onzekerheid.",
+			"avatar_url": "/resources/characters/story_2/gloria.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 32,
+			"personality": [
+				"sterk",
+				"koel",
+				"kwetsbaar",
+				"professioneel"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "Een psychologieprofessor met lang zwart haar en een slanke, elegante verschijning. Ze wordt Daniels mentor en helpt hem zijn vermogen en de complexiteit van de menselijke natuur te begrijpen.",
+			"avatar_url": "/resources/characters/story_2/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 38,
+			"personality": [
+				"wijs",
+				"elegant",
+				"begripvol",
+				"professioneel"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Carter",
+			"description": "Daniels middelbare schoolvriend en huisgenoot met blond haar, extravert en vrolijk. Naarmate Daniels vermogen groeit, komt hun vriendschap onder druk te staan en voelt Carter zich achtergelaten.",
+			"avatar_url": "/resources/characters/story_2/carter.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"extravert",
+				"vrolijk",
+				"jaloers",
+				"vriendelijk"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Ethan",
+			"description": "Een mysterieuze antagonist met zwart haar en verfijnde kleding. Hij is koud en sluw, met vergelijkbare gedachtelezende vermogens die hij gebruikt voor controle en manipulatie.",
+			"avatar_url": "/resources/characters/story_2/ethan.png",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"koud",
+				"sluw",
+				"controlerend",
+				"mysterieus"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "De eerste stemmen"
+		}
+	]
+}

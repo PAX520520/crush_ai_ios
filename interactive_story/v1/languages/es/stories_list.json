@@ -1,0 +1,45 @@
+{
+	"stories": [
+		{
+			"id": "story_1",
+			"title": "El Amnésico: Seducción y Trampas",
+			"description": "Un hombre que una vez tuvo gran poder despierta con amnesia en un mundo que ha cambiado por completo. Una bella mujer que dice ser su amiga habla con evasivas y oculta secretos. En esta ciudad donde el poder y el deseo se entrelazan, él debe recuperar su memoria o perderse completamente en las trampas que ellas han tendido.",
+			"category_id": 1,
+			"tags": [
+				"Amnesia",
+				"Poder",
+				"Traición",
+				"Venganza",
+				"Misterio"
+			],
+			"plot_direction": [
+				"[Trama: Amnesia y Misterio]: El protagonista despierta en un hospital sin recuerdos. Bajo la guía de Sofia, entra en una ciudad gobernada por el deseo y el poder, donde gradualmente emerge con una nueva identidad: Dylan, un ejecutivo de negocios. Rodeado de riqueza y tentación, su vida se entrelaza con varias mujeres como Luna y Claire, cada una con su propio estilo pero todas con un encanto peligroso. El protagonista comienza a darse cuenta de que estas mujeres tienen motivos ocultos. Mientras tanto, en sus sueños ve repetidamente un rostro femenino borroso —Eve— pero no puede recordar claramente sus facciones.",
+				"[Trama Media: Deseo y Venganza]: Sofia lo guía a través del submundo criminal y círculos de élite, revelando sus conexiones con las fuerzas clandestinas e intentando arrastrarlo a un plan mayor. Se enreda en relaciones emocionales complejas con varias mujeres. Tras un accidente, recupera completamente su memoria y se da cuenta de que en realidad es un jefe de la mafia traicionado por Max, un aliado en quien confiaba. El protagonista decide fingir que aún tiene amnesia y comienza a planear secretamente su venganza.",
+				"[Trama Final: Venganza y Destino]: El plan de venganza se desarrolla mientras el protagonista destruye despiadadamente a las fuerzas que lo traicionaron. Sin embargo, durante el proceso de venganza, o bien reaviva sus sentimientos por Eve o descubre una conspiración mayor. Después de completar su venganza, se encuentra perdido en el vacío, inseguro de si compartir su vida con alguien o continuar por el camino oscuro."
+			],
+			"cover_image_url": "resources/covers/story_1_cover.png",
+			"background_image_url": "resources/backgrounds/story_1_bg.jpg"
+		},
+		{
+			"id": "story_2",
+			"title": "Juegos Mentales: Control del Amor y la Mente",
+			"description": "Un tímido graduado universitario despierta un día con la inesperada habilidad de leer mentes y controlar emociones. Desde su pequeño apartamento, donde sufre de ansiedad social, comienza a explorar un mundo en Nueva York que nunca antes había experimentado. Pero el verdadero desafío no es 'escuchar a otros', sino 'entenderse a sí mismo'. Cuando el amor y el poder se entrelazan, debe encontrar su propia voz entre la seducción y el amor verdadero.",
+			"category_id": 2,
+			"tags": [
+				"Telepatía",
+				"Psicología",
+				"Poder",
+				"Transformación",
+				"Control Emocional"
+			],
+			"plot_direction": [
+				"Inicio: Un día, el protagonista, un joven recién graduado de la universidad, adquiere accidentalmente la capacidad de leer mentes y manipular las emociones de otros mientras navega por su teléfono en una cafetería. Al principio, se siente conmocionado y confundido por este poder repentino, pero cuando comienza a experimentar con él, se da cuenta de que finalmente puede interactuar con otros sin miedo, especialmente al hablar con mujeres, ya que ya no se siente nervioso. Con este poder, comienza a ganar la atención y el afecto de otros, especialmente de las chicas.",
+				"Etapa Media: Crecimiento, Transformación y Desafíos. La vida del protagonista experimenta cambios significativos. Atrae a las chicas a su alrededor usando este poder, comienza a asistir a varias fiestas y reuniones, y gradualmente se desprende de su imagen anterior como solitario para convertirse en una figura central en su círculo social. Sin embargo, mientras alcanza el éxito social, también comienza a darse cuenta de que este poder tiene un precio. Aunque ha superado temporalmente su ansiedad social, comienza a sentirse perdido en relaciones falsas, incapaz de distinguir quién se acerca a él genuinamente y quién está manipulado por su poder.",
+				"Clímax: El Precio del Poder. A medida que el protagonista usa el poder con más frecuencia, las cosas comienzan a salir mal. Descubre que está perdiendo gradualmente el control sobre el poder, activándolo involuntariamente incluso cuando no desea que funcione. Peor aún, comienza a sentir una fuerza oscura manipulándolo. Resulta que este poder es el resultado de un experimento de una organización misteriosa liderada por Ethan. El protagonista debe tomar una decisión final: continuar usando este poder y convertirse en esclavo de la organización, o liberarse de él y volver a ser quien era, aunque esto pueda significar perder su capacidad de interactuar normalmente con otros.",
+				"Final: ¿La cima de la vida o el retorno a lo ordinario? Hay varios finales posibles, con espacio para la creatividad. La novela debe tener un lenguaje vívido y expresivo, imitando el estilo de 'El Conde de Montecristo', con una trama que puede inspirarse en 'El Caso Bourne'. La historia debe estar llena de suspenso y conflictos emocionales, llevando a los lectores a un mundo donde el deseo y el poder se entrelazan."
+			],
+			"cover_image_url": "resources/covers/story_2_cover.png",
+			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		}
+	]
+}

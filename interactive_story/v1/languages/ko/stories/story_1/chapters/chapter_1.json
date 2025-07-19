@@ -1,0 +1,87 @@
+{
+	"title": "기억의 안개",
+	"summary": "기억을 잃은 주인공 Dylan이 병원에서 깨어나 자신을 친구라고 주장하는 수수께끼의 여인 Sophia를 만납니다. Sophia는 그에게 사고로 인해 기억을 잃었다고 말하지만, Dylan은 그녀의 말을 의심스럽게 여기며 그녀를 신뢰할지, 진실을 요구할지, 혹은 혼자 떠날지 선택해야 합니다.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "당신의 의식이 갑자기 혼돈의 허공에서 몸부림치며 떠오르고, 마치 물 밖으로 나온 것처럼 코를 찌르는 소독약 냄새가 신경을 자극합니다. 눈을 뜨자 하얀 병실에 누워있는 자신을 발견했고, 머리 위의 밝은 조명이 어지러움을 느끼게 합니다. 주변은 고요하고, 심장 모니터의 희미한 소리만 들립니다. 하지만 당신의 머릿속은 텅 비어있고, 마치 알 수 없는 힘이 당신의 기억을 앗아간 것 같습니다."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(혼란스럽게 눈을 비비며, 머리가 얼어붙은 듯) 으음... 난 누구지? 여긴 어디지?",
+			"image_url": "/resources/images/story_1/chapter_1_1.png"
+		},
+		{
+			"type": "narrator",
+			"content": "몸을 일으키려 했지만, 힘이 없어 매트리스에 도로 눌려버립니다. 의문과 불안함 속에서, 병실 문이 살며시 열립니다. 그녀가 나타났습니다—검은 원피스를 입은 우아한 여인이 안정된 발걸음으로 들어오는데, 그녀의 눈빛에는 말로 표현할 수 없는 감정이 숨겨져 있습니다. 그녀의 아름다움은 쉽게 다가갈 수 있는 부드러움이 아닌, 날카롭고 매혹적인 흑요석 같아서 위험하면서도 매력적입니다."
+		},
+		{
+			"type": "narrator",
+			"content": "당신은 그녀를 본 적이 있는 것 같은 느낌이 듭니다... 꿈에서? 아니면 잊혀진 기억의 조각 속에서? 그녀가 당신을 바라보며, 마치 미리 계획된 듯한 미소를 지어 보입니다."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(봄바람 같은 부드러운 목소리로) 드디어 깨어나셨네요. 다시는 깨어나지 못할까 봐 걱정했어요.",
+			"image_url": "/resources/images/story_1/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(경계하는 어조로, 주변을 살피며) 당신은 누구시죠? 여기는... 왜 계신 거죠? 제가 왜 여기 있는 거죠?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(부드럽지만 단호한 어조로, 의미심장한 미소를 지으며) 저는 Sophia예요, 당신의 친구죠. 당신은 Dylan이에요. 심각한 사고를 당해서 일시적으로 기억을 잃으셨다고 의사 선생님이 말씀하셨어요."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(순간적으로 스쳐 지나가는 기억의 조각을 붙잡으려 하며, 불안한 목소리로) 사고라고요? 아무것도 기억나지 않아요..."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(따뜻하고 격려하는 어조로, 걱정스러운 눈빛으로 당신의 손목을 살짝 잡으며) 걱정하지 마세요, 모든 게 좋아질 거예요. 제가 있잖아요. 함께 이겨내요."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(혼란스럽게 그녀를 바라보며, 그녀의 진정한 의도를 알아내려 하며) 당신을 믿어도 될까요? 왜 우리 사이가 단순히 이런 관계가 아닌 것 같은 느낌이 드는 걸까요?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(살짝 눈썹을 찌푸리며, 설명할 방법을 고민하는 듯 목소리가 단호해지며) 모든 걸 말씀드리겠지만, 시간이 필요해요. 저를 믿으세요, 지금은 잘 쉬시기만 하면 돼요. 기억이 돌아오면 모든 게 분명해질 거예요."
+		},
+		{
+			"type": "narrator",
+			"content": "그녀의 모든 말은 완벽하게 들리지만, 왠지 모를 위화감이 느껴집니다. 그녀는 누구일까요? 정말 그녀를 믿어도 될까요?"
+		}
+	],
+	"choice": {
+		"prompt": "어떻게 대응하시겠습니까:",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Sophia를 믿고 병원에서 안심하고 요양하기"
+			},
+			{
+				"content": "Sophia의 말을 의심하며 진실을 요구하기"
+			},
+			{
+				"content": "몰래 병원을 떠나 혼자서 자신의 정체성의 수수께끼를 풀어가기"
+			}
+		]
+	}
+}

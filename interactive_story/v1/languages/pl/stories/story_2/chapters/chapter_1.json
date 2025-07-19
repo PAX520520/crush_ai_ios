@@ -1,0 +1,93 @@
+{
+	"title": "Pierwsze głosy serca",
+	"summary": "Daniel, cierpiący na lęk społeczny, przypadkowo natyka się na tajemniczą reklamę gry w kawiarni i nieoczekiwanie zyskuje zdolność czytania w myślach, słysząc wewnętrzny głos baristki Yumiko. Ta chwila całkowicie zmienia jego postrzeganie rzeczywistości. Ucieka w panice, pełen wątpliwości: czy to fantazja, czy przebudzenie nadnaturalnych zdolności?",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "To był zwyczajny, jak każdy inny poranek. Promienie słońca przedzierały się przez szczeliny w zasłonach, padając na pomiętą pościel w twoim małym nowojorskim mieszkaniu. Powłócząc nogami, ruszyłeś do kawiarni, którą odwiedzasz codziennie - to swoisty rytuał, który pozwala ci zachować 'połączenie' ze światem."
+		},
+		{
+			"type": "narrator",
+			"content": "Gdy otworzyłeś drzwi kawiarni, w powietrzu unosił się znajomy zapach kawy i delikatna woń cynamonu. Za ladą zobaczyłeś znajomą sylwetkę: Yumiko. To tutejsza baristka na pół etatu, z brązowymi kręconymi włosami i zielonymi oczami, zawsze z ciepłym uśmiechem na twarzy. Nie znaliście się zbyt dobrze, ale za każdym razem, gdy ją widziałeś, twoje serce biło nieco szybciej."
+		},
+		{
+			"type": "narrator",
+			"content": "Daniel kiedyś przypadkowo pomógł jej podczas jednego z kursów na uniwersytecie, a od tamtej pory czasami witała go uśmiechem i skinieniem głowy. Ale nigdy nie zebrałeś się na odwagę, by powiedzieć do niej całe zdanie."
+		},
+		{
+			"type": "narrator",
+			"content": "Dziś miała na sobie jasnozielony fartuch i skupiała się na regulacji pokrętła pary w ekspresie do kawy. Światło słoneczne padające przez okno oświetlało jej profil, nadając jej konturom miękki, rozmyty charakter. Spuściłeś wzrok, udając, że przeglądasz telefon, nie chcąc, by zauważyła twoje ukradkowe spojrzenia."
+		},
+		{
+			"type": "narrator",
+			"content": "Zawsze czułeś, że jej uśmiech ma jakąś uspokajającą magię, ale nadal odruchowo spuszczałeś wzrok, szybko składałeś zamówienie i kierowałeś się do stolika w rogu."
+		},
+		{
+			"type": "narrator",
+			"content": "Otworzyłeś telefon, próbując zagłuszyć wewnętrzną ciszę zgiełkiem mediów społecznościowych. Na ekranie influencer śmiał się i wznosił toast z kilkoma dziewczynami w świetle klubowych lamp - ta pewność siebie i swoboda wydawały się należeć do innego gatunku.",
+			"image_url": "/resources/images/story_2/chapter_1_1.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(szeptem do siebie) Jak daleko mi do takiego życia...?"
+		},
+		{
+			"type": "narrator",
+			"content": "Nagle pojawiła się reklama: 'Chcesz czytać w myślach innych? Doświadczyć prawdziwej kontroli? - Wypróbuj za darmo 'Bramę Umysłu'' Tekst migotał nieustannie, jakby patrzył prosto w twoją duszę."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(z gorzkim uśmiechem) Kolejna clickbaitowa reklama..."
+		},
+		{
+			"type": "narrator",
+			"content": "Gdy już miałeś ją przesunąć, nagły ostry ból przeszył twoją skroń, a świadomość stała się mglista, jakby uderzona młotem."
+		},
+		{
+			"type": "narrator",
+			"content": "Usłyszałeś szept - 'Znowu dziś przyszedł... I zamówił to samo. Chyba mu smakuje.'"
+		},
+		{
+			"type": "narrator",
+			"content": "Gwałtownie podniosłeś głowę, Yumiko była pochylona, skupiona na przygotowywaniu kawy, ale ten głos wciąż rozbrzmiewał w twojej głowie."
+		},
+		{
+			"type": "narrator",
+			"content": "'Gdyby tylko odezwał się do mnie... Ciekawe, czy pamięta tamten raz po egzaminie końcowym...'"
+		},
+		{
+			"type": "narrator",
+			"content": "Spojrzałeś na nią, a ona nagle podniosła wzrok, wasze spojrzenia się spotkały. Lekko się zawahała. W następnej sekundzie nowa myśl wdarła się do twojego umysłu: 'Och, patrzy na mnie... Czy mam plamę z kawy na twarzy?!'",
+			"image_url": "/resources/images/story_2/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(z rozszerzonymi źrenicami i walącym sercem) To nie jest moja wyobraźnia... Naprawdę usłyszałem jej myśli?!"
+		},
+		{
+			"type": "narrator",
+			"content": "Zmieszany strachem i ciekawością, zerwałeś się z miejsca jak oparzony i wybiegłeś na zewnątrz. W zgiełku ulicy słyszałeś tylko echo własnego serca."
+		}
+	],
+	"choice": {
+		"prompt": "Czy to, co się właśnie wydarzyło, było prawdziwe? Musisz się upewnić, czy to nie była tylko halucynacja.",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Natychmiast wróć do kawiarni i spróbuj ponownie 'usłyszeć' myśli Yumiko."
+			},
+			{
+				"content": "Wróć do swojego mieszkania i sprawdź, czy występują inne nietypowe doznania."
+			},
+			{
+				"content": "Idź do Central Parku, by sprawdzić, czy potrafisz usłyszeć myśli innych ludzi w tłumie."
+			}
+		]
+	}
+}

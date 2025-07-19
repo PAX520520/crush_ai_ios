@@ -1,0 +1,93 @@
+{
+	"title": "De Eerste Innerlijke Stem",
+	"summary": "De sociaal angstige Daniel komt in een koffiebar toevallig in contact met een mysterieuze game-advertentie en krijgt onverwacht de gave om gedachten te lezen, waarbij hij de innerlijke stem van barista Yumiko hoort. Dit moment verandert zijn hele perceptie. Hij vlucht in paniek weg, vol vragen: Is dit fantasie? Of is dit het ontwaken van een superkracht?",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Het was een ochtend zo gewoon als maar kon zijn. Zonlicht viel door de spleten van de gordijnen op de rommelige lakens in je kleine New Yorkse appartement. Met zware voeten loop je naar het koffietentje dat je dagelijks bezoekt - een ritueel om 'verbonden' te blijven met de wereld."
+		},
+		{
+			"type": "narrator",
+			"content": "Als je de deur van het koffietentje openduwt, hangt er een vertrouwde geur van koffie en een vleugje kaneel in de lucht. Je ziet die bekende gestalte achter de bar staan: Yumiko. Ze is de parttime barista hier, met bruin krullend haar en groene ogen, altijd met een warme glimlach. Jullie kennen elkaar niet echt goed, maar elke keer als je haar ziet, gaat je hart net iets sneller kloppen."
+		},
+		{
+			"type": "narrator",
+			"content": "Daniel had haar ooit per ongeluk geholpen tijdens een universiteitsvak, en sindsdien knikt ze soms glimlachend naar je. Maar je hebt nooit de moed gehad om een volledig gesprek met haar te voeren."
+		},
+		{
+			"type": "narrator",
+			"content": "Ze draagt vandaag een lichtgroen schort en is geconcentreerd bezig met het aanpassen van de stoomknop van de koffiemachine. Het zonlicht valt op haar gezichtsprofiel, de contouren lijken zacht vervaagd. Je buigt je hoofd en doet alsof je op je telefoon kijkt, niet willend dat ze je stiekeme blikken opmerkt."
+		},
+		{
+			"type": "narrator",
+			"content": "Je vindt altijd dat haar glimlach een geruststellende magie heeft, maar nog steeds sla je gewoontegetrouw je ogen neer, bestel je snel en loop je naar een hoekje."
+		},
+		{
+			"type": "narrator",
+			"content": "Je opent je telefoon en probeert de stilte in je hart te verdoven met het lawaai van sociale media. Op het scherm zie je een influencer die in het nachtclublicht met enkele meisjes lachend het glas heft - dat soort zelfvertrouwen en ontspannenheid lijkt wel van een andere soort.",
+			"image_url": "/resources/images/story_2/chapter_1_1.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(Innerlijke stem) Hoe ver sta ik af van zo'n leven...?"
+		},
+		{
+			"type": "narrator",
+			"content": "Plotseling verschijnt er een advertentie: 'Wil je andermans gedachten kunnen lezen? Ervaar echte controle? - Speel 'Portal of Minds' gratis' De tekst blijft knipperen, alsof het rechtstreeks in je ziel kijkt."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(Bitter lachend) Weer zo'n clickbait advertentie..."
+		},
+		{
+			"type": "narrator",
+			"content": "Net als je het weg wilt vegen, schiet er een scherpe pijn door je slaap, je bewustzijn wordt wazig alsof je een klap op je hoofd hebt gekregen."
+		},
+		{
+			"type": "narrator",
+			"content": "Een fluistering glijdt langs je oor - 'Hij is er weer vandaag... en bestelt weer dezelfde koffie. Dat zal wel zijn favoriete smaak zijn.'"
+		},
+		{
+			"type": "narrator",
+			"content": "Je kijkt abrupt op, Yumiko is geconcentreerd bezig met het maken van koffie, maar die stem blijft nagalmen in je hoofd."
+		},
+		{
+			"type": "narrator",
+			"content": "'Ik hoop dat hij iets tegen me zegt... Herinnert hij zich mij nog? Na dat eindexamen toen...'"
+		},
+		{
+			"type": "narrator",
+			"content": "Je kijkt naar haar en zij kijkt plotseling op, jullie blikken kruisen elkaar. Ze schrikt even. Het volgende moment dringt er een nieuwe gedachte je hoofd binnen: 'Oh, hij kijkt naar me... Zit er soms koffie op mijn gezicht?!'",
+			"image_url": "/resources/images/story_2/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(Met verwijde pupillen en bonzend hart) Dit is geen verbeelding... Ik heb echt haar gedachten gehoord?!"
+		},
+		{
+			"type": "narrator",
+			"content": "Verward en nieuwsgierig tegelijk spring je op alsof je je gebrand hebt en rent naar buiten. Het lawaai van de straat wordt overstemd door de echo van je eigen hartslag."
+		}
+	],
+	"choice": {
+		"prompt": "Was wat er net gebeurde echt? Je moet uitzoeken of het geen hallucinatie was.",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Ga meteen terug naar het koffietentje en probeer opnieuw Yumiko's gedachten te 'horen'."
+			},
+			{
+				"content": "Ga terug naar je appartement om te kijken of er nog andere ongewone waarnemingen zijn."
+			},
+			{
+				"content": "Ga naar Central Park om tussen de mensen te testen of je andermans gedachten kunt horen."
+			}
+		]
+	}
+}

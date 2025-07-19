@@ -1,0 +1,87 @@
+{
+	"title": "Sương mù ký ức",
+	"summary": "Nhân vật chính Dylan tỉnh dậy trong bệnh viện với chứng mất trí nhớ và gặp một người phụ nữ bí ẩn tên Sophia, người tự xưng là bạn anh. Sophia nói với anh rằng anh đã gặp tai nạn dẫn đến mất trí nhớ, nhưng Dylan nghi ngờ lời nói của cô và phải đối mặt với việc liệu có nên tin tưởng cô, yêu cầu sự thật hay tự mình rời đi.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Ý thức của bạn đột nhiên vật lộn thoát ra từ khoảng không hỗn độn, như thể vừa trồi lên từ mặt nước, mùi thuốc sát trùng xộc vào mũi, kích thích thần kinh của bạn. Khi bạn mở mắt ra, bạn thấy mình đang nằm trong một phòng bệnh trắng tinh, ánh đèn trên trần sáng đến chóng mặt. Xung quanh im lặng, chỉ có tiếng tích tắc yếu ớt của máy theo dõi tim. Tuy nhiên, tâm trí bạn trống rỗng, như thể có một lực lượng vô hình nào đó đã rút cạn ký ức của bạn."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Bối rối xoa xoa mắt, não như đông cứng lại) Ừm... Tôi là ai? Đây là đâu?",
+			"image_url": "/resources/images/story_1/chapter_1_1.png"
+		},
+		{
+			"type": "narrator",
+			"content": "Bạn cố gắng ngồi dậy nhưng bị một cảm giác yếu ớt đẩy ngược lại nệm. Ngay lúc bạn đang hoang mang lo lắng, cửa phòng bệnh nhẹ nhàng mở ra. Cô ấy xuất hiện - một người phụ nữ thanh lịch trong chiếc váy đen, bước chân vững vàng, nhưng trong ánh mắt ẩn chứa một cảm xúc không thể diễn tả. Vẻ đẹp của cô không phải loại dễ gần gũi và dịu dàng, mà như obsidian sắc bén và quyến rũ, vừa nguy hiểm vừa thu hút."
+		},
+		{
+			"type": "narrator",
+			"content": "Bạn cảm thấy như mình đã từng gặp cô ấy... trong mơ? Hay trong một mảnh ký ức đã bị lãng quên? Cô ấy nhìn bạn, khóe miệng nở một nụ cười như đã được thiết kế sẵn."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Giọng nhẹ nhàng như gió xuân vuốt ve) Cuối cùng anh cũng tỉnh rồi. Em lo là anh sẽ không bao giờ tỉnh lại nữa.",
+			"image_url": "/resources/images/story_1/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Giọng cảnh giác, mắt nhìn quanh) Cô là ai? Cô... sao lại ở đây? Tại sao tôi lại ở đây?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Giọng dịu dàng nhưng không thể phản bác, khóe miệng mang nụ cười ý nghĩa) Em là Sophia, bạn của anh. Anh tên là Dylan. Anh đã gặp một tai nạn nghiêm trọng, bác sĩ nói anh tạm thời mất trí nhớ."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Cố gắng nắm bắt những mảnh ký ức thoáng qua, giọng lo lắng) Tai nạn? Tôi chẳng nhớ gì cả..."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Giọng dịu dàng, đầy khích lệ, mắt đầy quan tâm, tay nhẹ nhàng đặt lên cổ tay anh) Đừng lo, mọi thứ sẽ ổn thôi. Có em ở đây. Chúng ta sẽ cùng nhau đối mặt."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Nhìn cô ấy bối rối, cố gắng tìm hiểu ý định thực sự của cô) Tôi có thể tin cô không? Tại sao tôi cảm thấy giữa chúng ta không chỉ có vậy?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Hơi nhíu mày, như đang suy nghĩ cách giải thích, giọng trở nên kiên định) Em sẽ nói cho anh biết tất cả, nhưng cần thời gian. Tin em đi, bây giờ anh chỉ cần nghỉ ngơi cho tốt, khi ký ức của anh hồi phục, mọi thứ sẽ rõ ràng."
+		},
+		{
+			"type": "narrator",
+			"content": "Mỗi câu nói của cô ấy đều hoàn hảo không chê vào đâu được, nhưng lại khiến bạn cảm thấy một sự không hợp lý khó nói. Cô ấy là ai? Bạn có thể thực sự tin tưởng cô ấy không?"
+		}
+	],
+	"choice": {
+		"prompt": "Bạn sẽ phản ứng thế nào:",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Chọn tin tưởng Sophia, yên tâm ở lại bệnh viện dưỡng bệnh"
+			},
+			{
+				"content": "Thể hiện sự nghi ngờ với lời nói của Sophia, yêu cầu cô ấy nói ra sự thật"
+			},
+			{
+				"content": "Lén rời khỏi bệnh viện, tự mình khám phá bí ẩn về danh tính của mình"
+			}
+		]
+	}
+}

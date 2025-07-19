@@ -1,0 +1,87 @@
+{
+	"title": "Muistojen sumu",
+	"summary": "Muistinsa menettänyt päähenkilö Dylan herää sairaalassa ja tapaa salaperäisen naisen nimeltä Sophia, joka väittää olevansa hänen ystävänsä. Sophia kertoo hänelle, että onnettomuus aiheutti muistinmenetyksen, mutta Dylan epäilee hänen sanojaan ja joutuu päättämään, luottaako häneen, vaatiiko totuutta vai lähteekö yksin.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Tietoisuutesi kamppailee esiin kaaoksesta kuin pintaan nouseva kupla, ja pistävä desinfiointiaineen haju tunkeutuu sieraimiisi ärsyttäen hermojasi. Kun avaat silmäsi, huomaat makaavasi valkoisessa sairaalahuoneessa, jossa kattovalot häikäisevät sinua huimaavasti. Ympärillä on hiljaista, vain sydänmonitorin heikko piippaus kuuluu. Mielesi on kuitenkin tyhjä, kuin jokin tuntematon voima olisi vienyt muistosi."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Hieroo hämmentyneenä silmiään, aivot tuntuvat jäätyneen) Öh... Kuka minä olen? Missä minä olen?",
+			"image_url": "/resources/images/story_1/chapter_1_1.png"
+		},
+		{
+			"type": "narrator",
+			"content": "Yrität nousta ylös, mutta voimattomuus painaa sinut takaisin patjalle. Juuri kun olet hämmentynyt ja levoton, huoneen ovi avautuu hiljaa. Hän ilmestyy - mustaan mekkoon pukeutunut tyylikäs nainen, vakain askelin, silmissään jotain sanomatonta tunnetta. Hänen kauneutensa ei ole helposti lähestyttävää pehmeyttä, vaan kuin terävä ja houkutteleva obsidiaani, vaarallinen mutta puoleensavetävä."
+		},
+		{
+			"type": "narrator",
+			"content": "Sinusta tuntuu kuin olisit nähnyt hänet aiemmin... unessa? Vai jossakin unohdetussa muiston palasessa? Hän katsoo sinua, huulillaan kuin ennalta suunniteltu hymy."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Pehmeällä äänellä kuin kevättuuli) Vihdoinkin heräsit. Olin huolissani, ettet enää heräisi.",
+			"image_url": "/resources/images/story_1/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Valppaalla äänensävyllä, katse kiertää ympäri huonetta) Kuka sinä olet? Miksi... olet täällä? Miksi minä olen täällä?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Lempeällä mutta varmalla äänellä, merkitsevä hymy huulillaan) Olen Sophia, ystäväsi. Sinun nimesi on Dylan. Jouduit vakavaan onnettomuuteen, ja lääkärin mukaan sinulla on väliaikainen muistinmenetys."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Yrittää tavoittaa katoavia muistoja, äänessä ahdistusta) Onnettomuus? En muista mitään..."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Lempeällä ja kannustavalla äänellä, silmissä huolta, käsi kevyesti ranteellasi) Älä huoli, kaikki järjestyy. Olen tässä. Kohtaamme tämän yhdessä."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Katsoo häntä hämmentyneenä, yrittäen selvittää hänen todellisia aikeitaan) Voinko luottaa sinuun? Miksi minusta tuntuu, että välillämme on enemmän?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Rypistää hieman kulmiaan, miettien miten selittää, ääni muuttuu päättäväiseksi) Kerron sinulle kaiken, mutta se vie aikaa. Luota minuun, nyt sinun tarvitsee vain levätä. Kun muistisi palaa, kaikki selviää."
+		},
+		{
+			"type": "narrator",
+			"content": "Jokainen hänen sanansa kuulostaa täydelliseltä, mutta silti tunnet selittämätöntä epämukavuutta. Kuka hän on? Voitko todella luottaa häneen?"
+		}
+	],
+	"choice": {
+		"prompt": "Miten vastaat:",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Päätät luottaa Sophiaan ja jäädä rauhassa sairaalaan toipumaan"
+			},
+			{
+				"content": "Ilmaiset epäilyksesi Sophian sanoja kohtaan ja vaadit totuutta"
+			},
+			{
+				"content": "Lähdet salaa sairaalasta tutkimaan identiteettiäsi yksin"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"title": "Névoa de Memórias",
+	"summary": "Dylan, o protagonista com amnésia, acorda no hospital e encontra uma misteriosa mulher chamada Sophia, que afirma ser sua amiga. Sophia diz que ele sofreu um acidente que causou sua perda de memória, mas Dylan suspeita de suas palavras e enfrenta a escolha de confiar nela, exigir a verdade ou partir sozinho.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Sua consciência emerge subitamente do vazio caótico, como se emergisse da água. O cheiro pungente de desinfetante invade suas narinas, estimulando seus nervos. Quando você abre os olhos, descobre-se deitado em um quarto de hospital branco e imaculado, com a luz do teto tão brilhante que o deixa tonto. Há um silêncio ao redor, quebrado apenas pelo fraco bipe do monitor cardíaco. No entanto, sua mente está em branco, como se uma força desconhecida tivesse arrancado suas memórias."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Esfregando os olhos confuso, com o cérebro parecendo congelado) Uh... Quem sou eu? Onde estou?",
+			"image_url": "/resources/images/story_1/chapter_1_1.png"
+		},
+		{
+			"type": "narrator",
+			"content": "Você tenta se levantar, mas uma sensação de fraqueza o empurra de volta ao colchão. Em meio à sua confusão e ansiedade, a porta do quarto se abre suavemente. Ela aparece - uma mulher elegante em um vestido preto, com passos firmes e olhos que escondem uma emoção indescritível. Sua beleza não é do tipo suave e acessível, mas como obsidiana afiada e sedutora, perigosa e atraente."
+		},
+		{
+			"type": "narrator",
+			"content": "Você sente que já a viu antes... em um sonho? Ou em algum fragmento esquecido de memória? Ela olha para você, seus lábios se curvando em um sorriso que parece ensaiado."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Com voz suave como brisa primaveril) Finalmente você acordou. Estava preocupada que você nunca mais acordaria.",
+			"image_url": "/resources/images/story_1/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Com tom cauteloso, olhando ao redor) Quem é você? Como... como você está aqui? Por que estou aqui?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Com voz gentil mas firme, um sorriso significativo nos lábios) Sou Sophia, sua amiga. Seu nome é Dylan. Você sofreu um acidente grave, e os médicos dizem que você está temporariamente com amnésia."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Tentando agarrar os fragmentos fugidios de memória, com ansiedade na voz) Acidente? Não me lembro de nada..."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Com voz suave, encorajadora, olhos cheios de preocupação, tocando suavemente seu pulso) Não se preocupe, tudo vai ficar bem. Estou aqui. Vamos enfrentar isso juntos."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Olhando para ela confuso, tentando descobrir suas verdadeiras intenções) Posso confiar em você? Por que sinto que há mais entre nós?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Franzindo levemente a testa, parecendo pensar em como explicar, sua voz ficando firme) Vou te contar tudo, mas isso leva tempo. Confie em mim, agora você só precisa descansar. Quando sua memória voltar, tudo ficará claro."
+		},
+		{
+			"type": "narrator",
+			"content": "Cada palavra dela parece perfeitamente calculada, mas algo não parece certo. Quem é ela? Você realmente pode confiar nela?"
+		}
+	],
+	"choice": {
+		"prompt": "Como você vai responder:",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Escolher confiar em Sophia e ficar no hospital para se recuperar"
+			},
+			{
+				"content": "Expressar dúvidas sobre o que Sophia diz e exigir a verdade"
+			},
+			{
+				"content": "Sair secretamente do hospital e procurar sozinho o mistério de sua identidade"
+			}
+		]
+	}
+}

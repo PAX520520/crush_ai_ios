@@ -1,0 +1,125 @@
+{
+	"story_id": "story_1",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Dylan",
+			"description": "Huvudpersonen som lider av minnesförlust, tidigare känd som Ryder, var en mäktig gangsterledare som förlorade minnet efter ett svek",
+			"avatar_url": "/resources/characters/story_1/dylan.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"stark",
+				"förvirrad", 
+				"ledarskapsförmåga"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Sophia",
+			"description": "Den första kvinnan som dyker upp vid huvudpersonens sida. Smart och listig, påstår sig vara hans vän men är egentligen dotter till den mäktiga gangsterledaren Leo. Hon döljer sanningen om huvudpersonens verkliga identitet av själviska skäl.",
+			"avatar_url": "/resources/characters/story_1/sophia.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"smart",
+				"listig",
+				"självisk"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Luna",
+			"description": "En förförisk toppmodell med stark dragningskraft som påstår att hon en gång älskade huvudpersonen men förrådde honom.",
+			"avatar_url": "/resources/characters/story_1/luna.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"förförisk",
+				"förrädisk",
+				"vacker"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "En stark affärskvinna och företagsledare, lugn och rationell, kapabel och intelligent, men egentligen tsundere. Hon har affärsrelationer med huvudpersonen men vill egentligen använda honom för att motarbeta sin make.",
+			"avatar_url": "/resources/characters/story_1/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 35,
+			"personality": [
+				"stark",
+				"lugn",
+				"rationell",
+				"manipulativ"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Eve",
+			"description": "En diffus kvinnlig figur i huvudpersonens drömmar, den kvinna han verkligen älskade innan han förlorade minnet, mystisk och gåtfull.",
+			"avatar_url": "/resources/characters/story_1/eve.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 27,
+			"personality": [
+				"mystisk",
+				"mild",
+				"uppriktig"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Max",
+			"description": "Antagonisten, tidigare huvudpersonens högra hand som nu har tagit över som gangsterledare, en nyckelperson i förräderiet mot huvudpersonen.",
+			"avatar_url": "/resources/characters/story_1/max.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 32,
+			"personality": [
+				"förrädisk",
+				"ambitiös",
+				"listig"
+			]
+		},
+		{
+			"id": "char_7",
+			"name": "Leo",
+			"description": "En gangsterledare som har stort inflytande över hämnden mot huvudpersonen, Sophias far.",
+			"avatar_url": "/resources/characters/story_1/leo.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 55,
+			"personality": [
+				"mäktig",
+				"auktoritär",
+				"hämndlysten"
+			]
+		},
+		{
+			"id": "char_8",
+			"name": "Jack",
+			"description": "En lojal följeslagare och allierad till huvudpersonen som hjälper honom i hans hämndplaner.",
+			"avatar_url": "/resources/characters/story_1/jack.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 29,
+			"personality": [
+				"lojal",
+				"pålitlig",
+				"modig"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Minnets dimma"
+		}
+	]
+}

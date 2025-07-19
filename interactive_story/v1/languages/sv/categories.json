@@ -1,0 +1,14 @@
+{
+	"categories": [
+		{
+			"id": 1,
+			"name": "🎭 Mysterium",
+			"description": "Spännande thrillerberättelser fyllda med mystik och spänning"
+		},
+		{
+			"id": 2,
+			"name": "💘 Romantik",
+			"description": "Passionerade kärlekshistorier fyllda med emotionellt djup"
+		}
+	]
+}

@@ -1,0 +1,125 @@
+{
+	"story_id": "story_1",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Dylan",
+			"description": "Le protagoniste amnésique, anciennement connu sous le nom de Ryder, était autrefois un puissant chef de gang qui a perdu la mémoire après une trahison",
+			"avatar_url": "/resources/characters/story_1/dylan.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"fort",
+				"perdu",
+				"leader"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Sophia",
+			"description": "La première femme à apparaître aux côtés du protagoniste. Intelligente et rusée, elle prétend être son amie mais est en réalité la fille de Leo, un puissant chef de gang. Elle cache la vérité sur l'identité réelle du protagoniste, motivée par ses propres intérêts égoïstes.",
+			"avatar_url": "/resources/characters/story_1/sophia.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"intelligente",
+				"rusée",
+				"égoïste"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Luna",
+			"description": "Un top model séduisant et très attirant qui prétend avoir été amoureuse du protagoniste avant de le trahir.",
+			"avatar_url": "/resources/characters/story_1/luna.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"séduisante",
+				"traîtresse",
+				"belle"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "Une femme d'affaires puissante, une élite du monde des affaires, calme et rationnelle, capable et intelligente, mais en réalité tsundere. Elle a des relations d'affaires avec le protagoniste mais cherche à l'utiliser pour s'opposer à son mari.",
+			"avatar_url": "/resources/characters/story_1/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 35,
+			"personality": [
+				"forte",
+				"calme",
+				"rationnelle",
+				"manipulatrice"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Eve",
+			"description": "Une femme floue dans les rêves du protagoniste, la femme qu'il aimait vraiment avant de perdre la mémoire, mystérieuse et énigmatique.",
+			"avatar_url": "/resources/characters/story_1/eve.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 27,
+			"personality": [
+				"mystérieuse",
+				"douce",
+				"sincère"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Max",
+			"description": "L'antagoniste, ancien bras droit du protagoniste, maintenant devenu chef de gang à sa place, figure clé dans la trahison du protagoniste.",
+			"avatar_url": "/resources/characters/story_1/max.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 32,
+			"personality": [
+				"traître",
+				"ambitieux",
+				"rusé"
+			]
+		},
+		{
+			"id": "char_7",
+			"name": "Leo",
+			"description": "Un chef de gang qui a une grande influence sur la vengeance du protagoniste, père de Sophia.",
+			"avatar_url": "/resources/characters/story_1/leo.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 55,
+			"personality": [
+				"puissant",
+				"autoritaire",
+				"vengeur"
+			]
+		},
+		{
+			"id": "char_8",
+			"name": "Jack",
+			"description": "Un confident et allié fidèle du protagoniste qui l'aide dans ses plans de vengeance.",
+			"avatar_url": "/resources/characters/story_1/jack.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 29,
+			"personality": [
+				"loyal",
+				"fiable",
+				"courageux"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Le Brouillard des Souvenirs"
+		}
+	]
+}

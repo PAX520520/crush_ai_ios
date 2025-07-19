@@ -1,0 +1,125 @@
+{
+	"story_id": "story_1",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Dylan",
+			"description": "Główny bohater cierpiący na amnezję, pierwotnie znany jako Ryder, był potężnym bossem gangu, który stracił pamięć po zdradzie",
+			"avatar_url": "/resources/characters/story_1/dylan.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"silny",
+				"zagubiony",
+				"przywódczy"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Sophia",
+			"description": "Pierwsza kobieta, która pojawiła się przy głównym bohaterze. Sprytna i przebiegła, twierdzi, że jest jego przyjaciółką, ale w rzeczywistości jest córką potężnego bossa gangu Leo. Ukrywa prawdę o prawdziwej tożsamości bohatera, kierując się egoistycznymi motywami.",
+			"avatar_url": "/resources/characters/story_1/sophia.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"inteligentna",
+				"przebiegła",
+				"samolubna"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Luna",
+			"description": "Seksowna modelka najwyższej klasy, niezwykle uwodzicielska, twierdzi, że kiedyś kochała głównego bohatera, ale go zdradziła.",
+			"avatar_url": "/resources/characters/story_1/luna.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"uwodzicielska",
+				"zdradliwa",
+				"piękna"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "Silna kobieta biznesu, profesjonalistka, spokojna i racjonalna, zdolna i inteligentna, ale w rzeczywistości tsundere. Ma interesy z głównym bohaterem, ale chce go wykorzystać do walki ze swoim mężem.",
+			"avatar_url": "/resources/characters/story_1/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 35,
+			"personality": [
+				"silna",
+				"spokojna",
+				"racjonalna",
+				"przebiegła"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Eve",
+			"description": "Tajemnicza kobieta z marzeń głównego bohatera, jego prawdziwa miłość sprzed utraty pamięci.",
+			"avatar_url": "/resources/characters/story_1/eve.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 27,
+			"personality": [
+				"tajemnicza",
+				"łagodna",
+				"szczera"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Max",
+			"description": "Antagonista, były zaufany asystent głównego bohatera, który teraz zajął jego miejsce jako boss gangu, kluczowa postać w zdradzie głównego bohatera.",
+			"avatar_url": "/resources/characters/story_1/max.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 32,
+			"personality": [
+				"zdradziecki",
+				"ambitny",
+				"przebiegły"
+			]
+		},
+		{
+			"id": "char_7",
+			"name": "Leo",
+			"description": "Boss gangu, który ma znaczący wpływ na zemstę głównego bohatera, ojciec Sophii.",
+			"avatar_url": "/resources/characters/story_1/leo.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 55,
+			"personality": [
+				"potężny",
+				"autorytatywny",
+				"mściwy"
+			]
+		},
+		{
+			"id": "char_8",
+			"name": "Jack",
+			"description": "Zaufany sojusznik głównego bohatera, pomaga mu w planowaniu zemsty.",
+			"avatar_url": "/resources/characters/story_1/jack.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 29,
+			"personality": [
+				"lojalny",
+				"niezawodny",
+				"odważny"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Mgła wspomnień"
+		}
+	]
+}

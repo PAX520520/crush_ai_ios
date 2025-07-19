@@ -1,0 +1,93 @@
+{
+	"title": "Sisäisen äänen herääminen",
+	"summary": "Sosiaalisesti ahdistunut Daniel törmää kahvilassa mystiseen pelimainokseen ja saa yllättäen kyvyn lukea ajatuksia, kuullen barista Yumikon sisäisen äänen. Tämä hetki mullistaa hänen maailmansa täysin. Hän pakenee hämmentyneenä, täynnä kysymyksiä: Onko tämä kuvitelmaa? Vai yliluonnollisten kykyjen heräämistä?",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Tämä on aivan tavallinen aamu. Auringonvalo siivilöityy verhojen välistä ja lankeaa New Yorkin pikkuasuntosi sotkuisille lakanoille. Raahaudut raskain askelin kohti kahvilaa, jossa käyt päivittäin – se on rituaali, joka pitää sinut 'yhteydessä' maailmaan."
+		},
+		{
+			"type": "narrator",
+			"content": "Työnnät kahvilan oven auki, ja tuttu kahvin ja kanelin tuoksu leijailee ilmassa. Näet tutun hahmon tiskin takana: Yumiko. Hän on osa-aikainen barista, jolla on ruskeat kiharat hiukset ja vihreät silmät, aina lämmin hymy kasvoillaan. Ette ole läheisiä, mutta hänet nähdessäsi sydämesi lyö aina hieman nopeammin."
+		},
+		{
+			"type": "narrator",
+			"content": "Daniel oli kerran sattumalta auttanut häntä yliopistokurssilla, ja sen jälkeen hän on toisinaan nyökännyt hymyillen tervehdykseksi. Mutta et ole koskaan kerännyt rohkeutta sanoa hänelle kokonaista lausetta."
+		},
+		{
+			"type": "narrator",
+			"content": "Tänään hänellä on yllään vaaleanvihreä esiliina, ja hän säätää keskittyneesti kahvikoneen höyryventtiiliä. Auringonvalo osuu hänen kasvoilleen sivusta, piirtäen pehmeän ääriviivan. Painat katseesi alas ja teeskentelet selailevasi puhelinta, ettet jäisi kiinni tuijottamisesta."
+		},
+		{
+			"type": "narrator",
+			"content": "Hänen hymyssään on aina ollut jotain rauhoittavaa, mutta silti painat katseesi alas, tilaat nopeasti ja suuntaat nurkkaan istumaan."
+		},
+		{
+			"type": "narrator",
+			"content": "Avaat puhelimesi yrittäen peittää sisäisen hiljaisuutesi sosiaalisen median hälinällä. Näytöllä somevaikuttaja nauraa ja skoolaa yökerhon valoissa muutaman tytön kanssa – sellainen itsevarmuus ja rentous tuntuu kuuluvan eri lajille.",
+			"image_url": "/resources/images/story_2/chapter_1_1.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(Sisäinen kuiskaus) Kuinka kaukana tällainen elämä onkaan minusta?"
+		},
+		{
+			"type": "narrator",
+			"content": "Yhtäkkiä mainos välähtää: 'Haluatko lukea muiden ajatuksia? Kokea todellista hallintaa? – Kokeile ilmaiseksi 'Mielen Porttia'' Teksti välkkyy jatkuvasti, kuin se katsoisi suoraan sieluusi."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(Hymähtäen katkerasti) Taas yksi näistä klikkikalastus-mainoksista..."
+		},
+		{
+			"type": "narrator",
+			"content": "Olet juuri pyyhkäisemässä sen pois, kun äkillinen kipu vihlaisee ohimoasi, ja tietoisuutesi sumenee kuin vasaran iskusta."
+		},
+		{
+			"type": "narrator",
+			"content": "Kuiskaus viiltää korvaasi – 'Hän tuli tänäänkin... ja tilasi saman kahvin. Se on varmaan hänen suosikkinsa.'"
+		},
+		{
+			"type": "narrator",
+			"content": "Nostat katseesi äkisti, Yumiko keskittyy kahvin valmistamiseen, mutta ääni kaikuu yhä mielessäsi."
+		},
+		{
+			"type": "narrator",
+			"content": "'Toivottavasti hän puhuisi minulle... Muistaako hän minut? Sen loppukokeen jälkeen...'"
+		},
+		{
+			"type": "narrator",
+			"content": "Katsot häntä, ja hän nostaa yhtäkkiä katseensa, kohdaten silmäsi. Hän hätkähtää hieman. Seuraavassa hetkessä uusi ajatus tunkeutuu mieleesi: 'Voi ei, hän katsoo minua... Onkohan minulla kahvitahroja naamassa?!'",
+			"image_url": "/resources/images/story_2/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(Pupillit laajentuneina, sydän hakaten) Tämä ei ole kuvitelmaa... Kuulinko todella hänen ajatuksensa?!"
+		},
+		{
+			"type": "narrator",
+			"content": "Pelon ja uteliaisuuden vallassa ponnahdat ylös kuin tulessa ja syöksyt ulos. Kadun hälinästä kuuluu vain sydämesi kaiut."
+		}
+	],
+	"choice": {
+		"prompt": "Oliko se todellista? Sinun täytyy selvittää, oliko se vain harhaa.",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Palaa heti kahvilaan ja yritä 'kuulla' Yumikon ajatukset uudelleen."
+			},
+			{
+				"content": "Palaa asuntoosi tarkistamaan, onko sinulla muita epätavallisia aistimuksia."
+			},
+			{
+				"content": "Mene Central Parkiin testaamaan, voitko kuulla muiden ihmisten ajatuksia."
+			}
+		]
+	}
+}

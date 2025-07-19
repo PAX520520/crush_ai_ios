@@ -1,0 +1,102 @@
+{
+	"story_id": "story_2",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Daniel",
+			"description": "20-vuotias sisäänpäin kääntynyt mies, joka on juuri valmistunut yliopistosta ja asuu New Yorkissa, mutta piiloutuu usein pieneen asuntoonsa. Hän on erittäin ahdistunut sosiaalisesta kanssakäymisestä, erityisesti naisten kanssa, mutta kaipaa sydämessään todellista rakkautta.",
+			"avatar_url": "/resources/characters/story_2/daniel.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"sisäänpäinkääntynyt",
+				"ahdistunut",
+				"kaipaa rakkautta",
+				"kiltti"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Yumiko",
+			"description": "Yliopisto-opiskelija ja osa-aikainen barista, jolla on ruskeat kiharat hiukset ja vihreät silmät. Hänellä on kirkas ja suloinen hymy, ja hän on ollut salaa ihastunut Danieliin sen jälkeen, kun tämä auttoi häntä yliopistossa.",
+			"avatar_url": "/resources/characters/story_2/yumiko.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 19,
+			"personality": [
+				"suloinen",
+				"salaa ihastunut",
+				"lempeä",
+				"ahkera"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Gloria",
+			"description": "Korkean tason asianajaja, jolla on lyhyet vaaleat hiukset ja terävät siniset silmät. Hänen vahva ja kylmä ulkokuorensa tekee hänestä vaikeasti lähestyttävän, mutta sisällään hän kätkee haavoittuvuutta ja turvattomuutta.",
+			"avatar_url": "/resources/characters/story_2/gloria.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 32,
+			"personality": [
+				"vahva",
+				"kylmä",
+				"haavoittuvainen",
+				"ammattimainen"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "Psykologian professori, jolla on pitkät mustat hiukset ja hoikka, tyylikäs vartalo. Hänestä tulee Danielin mentori, joka auttaa tätä ymmärtämään kykyjään ja ihmisluonnon monimutkaisuutta.",
+			"avatar_url": "/resources/characters/story_2/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 38,
+			"personality": [
+				"viisas",
+				"tyylikäs",
+				"ymmärtäväinen",
+				"ammattimainen"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Carter",
+			"description": "Danielin lukioaikainen ystävä ja kämppäkaveri, jolla on vaaleat hiukset ja ulospäinsuuntautunut persoonallisuus. Kun Danielin kyvyt kehittyvät, heidän ystävyytensä joutuu koetukselle, ja Carter tuntee jäävänsä jälkeen.",
+			"avatar_url": "/resources/characters/story_2/carter.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"ulospäinsuuntautunut",
+				"iloinen",
+				"kateellinen",
+				"ystävällinen"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Ethan",
+			"description": "Salaperäinen antagonisti, jolla on mustat hiukset ja hienostuneet vaatteet. Hän on kylmä ja ovela, ja hänellä on samankaltainen ajatustenlukukyky, mutta hän käyttää sitä hallitsemiseen ja manipulointiin.",
+			"avatar_url": "/resources/characters/story_2/ethan.png",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"kylmä",
+				"ovela",
+				"kontrolloiva",
+				"salaperäinen"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Ajatusten herääminen"
+		}
+	]
+}

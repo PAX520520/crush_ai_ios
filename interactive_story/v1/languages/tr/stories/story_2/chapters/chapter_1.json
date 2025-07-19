@@ -1,0 +1,93 @@
+{
+	"title": "İçsel Sesin İlk Belirtisi",
+	"summary": "Sosyal kaygısı olan Daniel, bir kafede gizemli bir oyun reklamıyla karşılaşır ve beklenmedik bir şekilde zihin okuma yeteneği kazanır, barista Yumiko'nun iç sesini duyar. Bu an onun gerçeklik algısını tamamen değiştirir. Panikle kaçar ve aklı sorularla doludur: Bu bir hayal mi, yoksa doğaüstü güçlerin uyanışı mı?",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Bu, sıradan olamayacak kadar sıradan bir sabahtı. Güneş ışığı perde aralığından sızıyor, New York'taki küçük dairenizdeki dağınık çarşafların üzerine düşüyordu. Ağır adımlarla her gün gittiğiniz kafeye doğru yürüdünüz - dünyayla 'bağlantıda' kalmanın bir ritüeli gibiydi."
+		},
+		{
+			"type": "narrator",
+			"content": "Kafenin kapısını itip açtığınızda, tanıdık kahve kokusu ve hafif tarçın aroması havada asılıydı. Tezgahın arkasında tanıdık bir siluet gördünüz: Yumiko. Buranın yarı zamanlı baristası, kahverengi kıvırcık saçları ve yeşil gözleriyle, her zaman sıcak bir gülümsemeyle karşılardı sizi. Çok yakın sayılmazdınız ama onu her gördüğünüzde kalbiniz biraz daha hızlı atmaya başlardı."
+		},
+		{
+			"type": "narrator",
+			"content": "Daniel üniversitede bir derste ona tesadüfen yardım etmişti ve o günden sonra ara sıra size gülümseyip selam verirdi. Ama siz hiç onunla tam bir cümle konuşacak cesareti bulamamıştınız."
+		},
+		{
+			"type": "narrator",
+			"content": "Bugün açık yeşil bir önlük giymiş, kahve makinesinin buhar düğmesini dikkatle ayarlıyordu. Pencereden gelen güneş ışığı yüzünün yan profilini aydınlatıyor, hatları yumuşak bir fokusla çizilmiş gibiydi. Başınızı eğip telefonunuza bakıyor gibi yaptınız, gizlice ona baktığınızı fark etmesini istemiyordunuz."
+		},
+		{
+			"type": "narrator",
+			"content": "Gülümsemesinin insanı rahatlatan bir büyüsü olduğunu düşünüyordunuz hep, ama yine de alışkanlıkla bakışlarınızı indirip, hızlıca siparişinizi verip köşedeki masaya yöneldiniz."
+		},
+		{
+			"type": "narrator",
+			"content": "Telefonunuzu açtınız, içinizdeki sessizliği sosyal medyanın gürültüsüyle örtmeye çalıştınız. Ekranda, bir influencer gece kulübünün ışıkları altında birkaç kızla kahkahalar atıp kadeh kaldırıyordu - o özgüven ve rahatlık, sanki başka bir türe aitmiş gibiydi.",
+			"image_url": "/resources/images/story_2/chapter_1_1.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(İç sesi) Bu hayat... benden ne kadar uzak?"
+		},
+		{
+			"type": "narrator",
+			"content": "Aniden bir reklam belirdi: 'Başkalarının aklını okumak ister misiniz? Gerçek kontrolü deneyimleyin - 'Zihin Kapısı'nı ücretsiz deneyin' Yazılar sürekli yanıp sönüyor, sanki ruhunuza bakıyordu."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(Acı bir gülümsemeyle) Yine bu tıklama tuzağı reklamlardan..."
+		},
+		{
+			"type": "narrator",
+			"content": "Tam onu kaydırmak üzereyken, şakaklarınızda ani bir acı patladı, bilinciniz çekiçle vurulmuş gibi bulanıklaştı."
+		},
+		{
+			"type": "narrator",
+			"content": "Kulağınızın yanından bir fısıltı geçti - 'Bugün yine geldi... yine aynı kahveyi sipariş etti. Sevdiği tat olmalı.'"
+		},
+		{
+			"type": "narrator",
+			"content": "Başınızı hızla kaldırdınız, Yumiko başını eğmiş kahve hazırlıyordu ama o ses hala zihninizde yankılanıyordu."
+		},
+		{
+			"type": "narrator",
+			"content": "'Keşke benimle konuşsa... Beni hatırlıyor mu acaba? O final sınavından sonra...'"
+		},
+		{
+			"type": "narrator",
+			"content": "Ona baktınız, aniden başını kaldırdı ve bakışlarınız çarpıştı. Hafifçe şaşırdı. Bir sonraki an, yeni bir düşünce zihninize sızdı: 'Ah, bana bakıyor... Yüzümde kahve lekesi mi var?!'",
+			"image_url": "/resources/images/story_2/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(Göz bebekleri genişleyerek, kalbi çarparak) Bu hayal değil... Gerçekten onun düşüncelerini mi duydum?!"
+		},
+		{
+			"type": "narrator",
+			"content": "Panik ve merak içinde, sanki ateş değmiş gibi yerinizden fırladınız ve dışarı çıktınız. Sokağın gürültüsü yerini sadece kalbinizin sesine bıraktı."
+		}
+	],
+	"choice": {
+		"prompt": "Az önce olan gerçek miydi? Bunun sadece bir halüsinasyon olup olmadığını anlamalısın.",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Hemen kafeye geri dön ve Yumiko'nun düşüncelerini tekrar 'duymaya' çalış."
+			},
+			{
+				"content": "Apartmanına dön ve başka anormal algılar var mı diye kontrol et."
+			},
+			{
+				"content": "Central Park'taki kalabalığa git ve başkalarının düşüncelerini duyup duyamadığını test et."
+			}
+		]
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"categories": [
+		{
+			"id": 1,
+			"name": "🎭 Mystery",
+			"description": "Thrilling stories full of mystery and suspense"
+		},
+		{
+			"id": 2,
+			"name": "💘 Romance",
+			"description": "Passionate love stories with emotional depth"
+		}
+	]
+}

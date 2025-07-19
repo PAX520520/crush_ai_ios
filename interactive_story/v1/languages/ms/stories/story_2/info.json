@@ -1,0 +1,102 @@
+{
+	"story_id": "story_2",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Daniel",
+			"description": "Seorang lelaki berusia 20 tahun yang pemalu, baru sahaja tamat pengajian universiti, tinggal di New York tetapi sering bersembunyi di apartmen kecilnya. Dia sangat gelisah dengan interaksi sosial, terutamanya dengan wanita, tetapi dalam hatinya dia mendambakan cinta sejati.",
+			"avatar_url": "/resources/characters/story_2/daniel.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"Pemalu",
+				"Gelisah",
+				"Mendambakan cinta",
+				"Baik hati"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Yumiko",
+			"description": "Seorang pelajar universiti yang bekerja sambilan sebagai barista, mempunyai rambut perang keriting dan mata hijau. Dia mempunyai senyuman yang cerah dan manis, dan telah menyukai Daniel secara senyap sejak dia membantunya semasa di universiti.",
+			"avatar_url": "/resources/characters/story_2/yumiko.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 19,
+			"personality": [
+				"Manis",
+				"Suka dalam diam",
+				"Lembut",
+				"Rajin"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Gloria",
+			"description": "Seorang peguam kanan dengan rambut pendek pirang dan mata biru yang tajam. Penampilannya yang kuat dan dingin membuatkan orang sukar mendekatinya, tetapi dia menyembunyikan kelemahan dan ketidakselamatan di dalam hatinya.",
+			"avatar_url": "/resources/characters/story_2/gloria.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 32,
+			"personality": [
+				"Kuat",
+				"Dingin",
+				"Rapuh",
+				"Profesional"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "Seorang profesor psikologi dengan rambut hitam yang panjang dan tubuh yang langsing dan anggun. Dia menjadi mentor kepada Daniel, membantunya memahami kebolehannya dan kerumitan sifat manusia.",
+			"avatar_url": "/resources/characters/story_2/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 38,
+			"personality": [
+				"Bijak",
+				"Anggun",
+				"Memahami",
+				"Profesional"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Carter",
+			"description": "Rakan sekolah menengah dan teman sebilik Daniel, berambut pirang dan peramah. Apabila kebolehan Daniel berkembang, persahabatan mereka dicabar kerana Carter merasa ditinggalkan.",
+			"avatar_url": "/resources/characters/story_2/carter.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"Peramah",
+				"Ceria",
+				"Cemburu",
+				"Mesra"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Ethan",
+			"description": "Seorang antagonis misteri dengan rambut hitam dan pakaian yang elegan. Dia kejam dan licik, memiliki kebolehan membaca fikiran yang serupa, tetapi menggunakannya untuk mengawal dan memanipulasi.",
+			"avatar_url": "/resources/characters/story_2/ethan.png",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Kejam",
+				"Licik",
+				"Mengawal",
+				"Misteri"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Suara Hati yang Pertama"
+		}
+	]
+}

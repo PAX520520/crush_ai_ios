@@ -1,0 +1,87 @@
+{
+	"title": "Nebel der Erinnerungen",
+	"summary": "Der an Amnesie leidende Protagonist Dylan wacht im Krankenhaus auf und trifft auf die mysteriöse Sophia, die behauptet, seine Freundin zu sein. Sophia erzählt ihm, dass er durch einen Unfall sein Gedächtnis verloren hat, aber Dylan zweifelt an ihren Worten und steht vor der Wahl, ob er ihr vertrauen, die Wahrheit fordern oder alleine gehen soll.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Dein Bewusstsein kämpft sich plötzlich aus dem chaotischen Nichts empor, wie ein Auftauchen aus dem Wasser. Der beißende Geruch von Desinfektionsmittel dringt in deine Nase und reizt deine Nerven. Als du die Augen öffnest, findest du dich in einem weißen Krankenhauszimmer wieder, das Licht an der Decke ist so hell, dass dir schwindelig wird. Ringsum herrscht Stille, nur das schwache Piepen des Herzmonitors ist zu hören. Doch dein Kopf ist wie leergefegt, als hätte eine unbekannte Kraft deine Erinnerungen ausgelöscht."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Reibt sich verwirrt die Augen, das Gehirn scheint eingefroren) Ähm... Wer bin ich? Wo bin ich?",
+			"image_url": "/resources/images/story_1/chapter_1_1.png"
+		},
+		{
+			"type": "narrator",
+			"content": "Du versuchst dich aufzurichten, wirst aber von einer Schwäche zurück in die Matratze gedrückt. In diesem Moment der Verwirrung und Unruhe öffnet sich leise die Zimmertür. Da erscheint sie - eine elegante Frau in einem schwarzen Kleid, mit festen Schritten und einem undefinierbaren Ausdruck in den Augen. Ihre Schönheit ist nicht von der sanften, leicht zugänglichen Art, sondern gleicht eher scharfem, verführerischem Obsidian - gefährlich und anziehend zugleich."
+		},
+		{
+			"type": "narrator",
+			"content": "Du hast das Gefühl, sie schon einmal gesehen zu haben... im Traum? Oder in einem vergessenen Erinnerungsfragment? Sie blickt dich an, ihre Mundwinkel heben sich zu einem Lächeln, das wie einstudiert wirkt."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Mit sanfter Stimme, wie ein Frühlingswind) Endlich bist du wach. Ich hatte schon befürchtet, du würdest nie mehr aufwachen.",
+			"image_url": "/resources/images/story_1/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Mit wachsamem Ton, den Blick umherschweifend) Wer sind Sie? Wie... kommen Sie hierher? Warum bin ich hier?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Mit sanfter, aber bestimmter Stimme und einem vielsagenden Lächeln) Ich bin Sophia, deine Freundin. Du heißt Dylan. Du hattest einen schweren Unfall, und die Ärzte sagen, du hast vorübergehend dein Gedächtnis verloren."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Versucht, die flüchtigen Erinnerungsfetzen festzuhalten, mit Angst in der Stimme) Ein Unfall? Ich kann mich an nichts erinnern..."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Mit sanfter, ermutigender Stimme, besorgt blickend, ihre Hand leicht auf deinem Handgelenk) Mach dir keine Sorgen, alles wird gut. Ich bin bei dir. Wir schaffen das gemeinsam."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Schaut sie verwirrt an und versucht, ihre wahren Absichten zu ergründen) Kann ich Ihnen vertrauen? Warum habe ich das Gefühl, dass da mehr zwischen uns ist?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Runzelt leicht die Stirn, scheint nach einer Erklärung zu suchen, die Stimme wird fest) Ich werde dir alles erzählen, aber das braucht Zeit. Vertrau mir, jetzt musst du dich nur ausruhen. Wenn deine Erinnerungen zurückkehren, wird alles klar werden."
+		},
+		{
+			"type": "narrator",
+			"content": "Jedes ihrer Worte klingt perfekt durchdacht, und doch spürst du eine unerklärliche Dissonanz. Wer ist sie? Kannst du ihr wirklich vertrauen?"
+		}
+	],
+	"choice": {
+		"prompt": "Wie wirst du reagieren:",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Sophia vertrauen und zur Genesung im Krankenhaus bleiben"
+			},
+			{
+				"content": "Sophias Aussagen anzweifeln und die Wahrheit verlangen"
+			},
+			{
+				"content": "Heimlich das Krankenhaus verlassen und alleine das Geheimnis deiner Identität erkunden"
+			}
+		]
+	}
+}

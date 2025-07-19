@@ -1,0 +1,125 @@
+{
+	"story_id": "story_1",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Dylan",
+			"description": "Hovedpersonen med hukommelsestab, oprindeligt kendt som Ryder, var engang en magtfuld gangsterboss, der mistede hukommelsen efter et forræderi",
+			"avatar_url": "/resources/characters/story_1/dylan.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"stærk",
+				"forvirret",
+				"lederevne"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Sophia",
+			"description": "Den første kvinde, der dukker op ved hovedpersonens side. Klog og snu, hævder at være hans ven, men er i virkeligheden datter af den magtfulde gangsterboss Leo. Hun skjuler sandheden om hovedpersonens sande identitet, men hendes virkelige motiver er selviske.",
+			"avatar_url": "/resources/characters/story_1/sophia.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"klog",
+				"snu",
+				"selvisk"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Luna",
+			"description": "En sexet topmodel med stor tiltrækningskraft, der hævder at have været forelsket i hovedpersonen, men forrådte ham.",
+			"avatar_url": "/resources/characters/story_1/luna.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"forførende",
+				"forræderisk",
+				"smuk"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "En stærk forretningskvinde, forretningsmæssig elite, rolig og rationel, dygtig og intelligent, men faktisk tsundere. Har forretningsforbindelser med hovedpersonen, men ønsker i virkeligheden at bruge ham til at bekæmpe sin mand.",
+			"avatar_url": "/resources/characters/story_1/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 35,
+			"personality": [
+				"stærk",
+				"rolig",
+				"rationel",
+				"manipulerende"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Eve",
+			"description": "En uklar kvindelig figur i hovedpersonens drømme, den kvinde han virkelig elskede før hukommelsestabet, meget mystisk.",
+			"avatar_url": "/resources/characters/story_1/eve.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 27,
+			"personality": [
+				"mystisk",
+				"blid",
+				"oprigtig"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Max",
+			"description": "Skurken, tidligere hovedpersonens højre hånd, har nu overtaget som gangsterboss, en nøglefigur i forrædderiet mod hovedpersonen.",
+			"avatar_url": "/resources/characters/story_1/max.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 32,
+			"personality": [
+				"forræderisk",
+				"ambitiøs",
+				"snu"
+			]
+		},
+		{
+			"id": "char_7",
+			"name": "Leo",
+			"description": "En gangsterboss med stor indflydelse på hovedpersonens hævn, Sophias far.",
+			"avatar_url": "/resources/characters/story_1/leo.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 55,
+			"personality": [
+				"magtfuld",
+				"autoritær",
+				"hævngerrig"
+			]
+		},
+		{
+			"id": "char_8",
+			"name": "Jack",
+			"description": "En loyal allieret ved hovedpersonens side, der hjælper med at planlægge hævnen.",
+			"avatar_url": "/resources/characters/story_1/jack.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 29,
+			"personality": [
+				"loyal",
+				"pålidelig",
+				"modig"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Erindringens tåge"
+		}
+	]
+}

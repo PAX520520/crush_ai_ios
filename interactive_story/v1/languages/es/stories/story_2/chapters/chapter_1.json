@@ -1,0 +1,93 @@
+{
+	"title": "El Primer Susurro del Corazón",
+	"summary": "Daniel, que sufre de ansiedad social, se encuentra accidentalmente con un misterioso anuncio de juego en una cafetería y obtiene inesperadamente la capacidad de leer la mente, escuchando los pensamientos internos de la barista Yumiko. Este momento cambia completamente su percepción. Huye confundido, lleno de dudas: ¿Es una fantasía? ¿O el despertar de un superpoder?",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Era una mañana tan ordinaria como cualquier otra. La luz del sol se filtraba a través de las cortinas, cayendo sobre las sábanas desordenadas de tu pequeño apartamento en Nueva York. Arrastrando los pies pesadamente, te diriges hacia la cafetería que visitas todos los días: un ritual que te mantiene 'conectado' con el mundo."
+		},
+		{
+			"type": "narrator",
+			"content": "Al empujar la puerta de la cafetería, el aire está impregnado con el familiar aroma a café y un suave toque de canela. Ves esa figura familiar detrás del mostrador: Yumiko. Es la barista a tiempo parcial, con su cabello castaño rizado y ojos verdes, siempre llevando una cálida sonrisa. No son cercanos, pero cada vez que la ves, tu corazón late un poco más rápido."
+		},
+		{
+			"type": "narrator",
+			"content": "Daniel la ayudó una vez por casualidad en una clase de la universidad, y desde entonces ella ocasionalmente te saluda con una sonrisa. Pero nunca has reunido el valor para mantener una conversación completa con ella."
+		},
+		{
+			"type": "narrator",
+			"content": "Hoy lleva un delantal verde claro y está concentrada ajustando la perilla de vapor de la máquina de café. La luz del sol cae sobre su perfil, delineando sus contornos como en un suave enfoque. Bajas la mirada, fingiendo revisar tu teléfono, no queriendo que note tu mirada furtiva."
+		},
+		{
+			"type": "narrator",
+			"content": "Siempre has sentido que su sonrisa tiene un poder mágico para tranquilizar, pero aún así, habitualmente bajas la mirada, haces tu pedido rápidamente y te diriges a un asiento en la esquina."
+		},
+		{
+			"type": "narrator",
+			"content": "Abres tu teléfono, intentando ahogar el silencio interior con el bullicio de las redes sociales. En la pantalla, un influencer brinda con algunas chicas bajo las luces de una discoteca: ese tipo de confianza y despreocupación parece pertenecer a otra especie.",
+			"image_url": "/resources/images/story_2/chapter_1_1.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(Susurrando internamente) ¿Qué tan lejos estoy de esa vida...?"
+		},
+		{
+			"type": "narrator",
+			"content": "De repente, aparece un anuncio: '¿Quieres leer la mente de otros? ¿Experimentar el verdadero control? - Prueba gratis 'Portal Mental'' El texto parpadea constantemente, como si mirara directamente a tu alma."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(Con una sonrisa amarga) Otro de esos anuncios clickbait..."
+		},
+		{
+			"type": "narrator",
+			"content": "Justo cuando vas a deslizarlo, un dolor agudo explota en tus sienes, tu conciencia se nubla como golpeada por un martillo."
+		},
+		{
+			"type": "narrator",
+			"content": "Un susurro cruza tu oído: 'Ha vuelto hoy... y pidió el mismo café. Debe ser su sabor favorito.'"
+		},
+		{
+			"type": "narrator",
+			"content": "Levantas la cabeza bruscamente, Yumiko está concentrada preparando café, pero esa voz sigue resonando en tu mente."
+		},
+		{
+			"type": "narrator",
+			"content": "'Ojalá me hablara... ¿Se acordará de mí? Después de aquel examen final...'"
+		},
+		{
+			"type": "narrator",
+			"content": "La miras, y ella levanta la vista de repente, vuestras miradas se encuentran. Ella se sobresalta ligeramente. Al siguiente momento, un nuevo pensamiento se cuela en tu mente: '¡Ah, me está mirando... ¿tendré manchas de café en la cara?!'",
+			"image_url": "/resources/images/story_2/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(Con las pupilas dilatadas y el corazón acelerado) ¡Esto no es mi imaginación... ¿realmente escuché sus pensamientos?!"
+		},
+		{
+			"type": "narrator",
+			"content": "Entre el pánico y la curiosidad, te levantas de tu asiento como si te hubieras quemado y sales por la puerta. El bullicio de la calle ahora solo es el eco de tus latidos."
+		}
+	],
+	"choice": {
+		"prompt": "¿Lo que acaba de suceder es real? Necesitas averiguar si esto es solo una alucinación.",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Volver inmediatamente a la cafetería e intentar 'escuchar' los pensamientos de Yumiko otra vez."
+			},
+			{
+				"content": "Regresar a tu apartamento para comprobar si hay otras percepciones anormales."
+			},
+			{
+				"content": "Ir al Central Park para probar si puedes escuchar los pensamientos de otras personas entre la multitud."
+			}
+		]
+	}
+}

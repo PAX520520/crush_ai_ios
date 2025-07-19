@@ -1,0 +1,14 @@
+{
+	"categories": [
+		{
+			"id": 1,
+			"name": "🎭 Mysteeri",
+			"description": "Jännittäviä ja mysteerisiä trilleritarinoita"
+		},
+		{
+			"id": 2,
+			"name": "💘 Romantiikka", 
+			"description": "Tunteikkaita ja intohimoisia rakkaustarinoita"
+		}
+	]
+}

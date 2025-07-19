@@ -1,0 +1,87 @@
+{
+	"title": "Kabut Memori",
+	"summary": "Dylan, watak utama yang hilang ingatan, terjaga di hospital dan bertemu dengan wanita misteri bernama Sophia yang mendakwa dirinya adalah kawan. Sophia memberitahu bahawa dia mengalami kemalangan yang menyebabkan hilang ingatan, tetapi Dylan meragui kata-katanya dan kini berhadapan dengan pilihan sama ada untuk mempercayainya, menuntut kebenaran atau pergi bersendirian.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Kesedaran anda tiba-tiba muncul dari kekosongan yang kacau, seperti muncul dari air, bau antiseptik yang tajam menusuk ke dalam hidung, merangsang saraf anda. Apabila anda membuka mata, anda mendapati diri anda berbaring di dalam bilik hospital yang putih bersih, dengan lampu di atas yang begitu terang sehingga membuat anda pening. Kesunyian menyelubungi, hanya bunyi detikan perlahan monitor jantung yang kedengaran. Namun, minda anda kosong, seolah-olah suatu kuasa yang tidak diketahui telah menyedut semua memori anda."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Menggosok mata dengan kebingungan, otak seperti membeku) Uh... Siapa saya? Di mana ini?",
+			"image_url": "/resources/images/story_1/chapter_1_1.png"
+		},
+		{
+			"type": "narrator",
+			"content": "Anda cuba untuk bangun, tetapi rasa lemah menahan anda kembali ke tilam. Ketika anda dalam kebingungan dan keresahan, pintu bilik hospital dibuka perlahan-lahan. Dia muncul - seorang wanita anggun berpakaian gaun hitam, langkahnya mantap, tetapi matanya menyembunyikan sesuatu emosi yang tidak dapat diungkapkan. Kecantikannya bukan jenis yang lembut dan mudah didekati, tetapi seperti obsidian yang tajam dan menggoda, berbahaya tetapi menarik."
+		},
+		{
+			"type": "narrator",
+			"content": "Anda rasa seperti pernah bertemu dengannya... dalam mimpi? Atau dalam serpihan memori yang terlupakan? Dia memandang ke arah anda, bibirnya mengukir senyuman yang seolah-olah telah dirancang."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Suara lembut seperti bayu musim bunga) Akhirnya anda sedar. Saya bimbang anda tidak akan bangun lagi.",
+			"image_url": "/resources/images/story_1/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Nada berwaspada, mata menjeling sekeliling) Siapa awak? Kenapa... awak ada di sini? Kenapa saya ada di sini?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Nada lembut tetapi tegas, dengan senyuman penuh makna) Saya Sophia, kawan anda. Nama anda Dylan. Anda mengalami kemalangan yang serius, dan doktor kata anda hilang ingatan buat sementara."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Cuba untuk menangkap serpihan memori yang berlalu, suara menunjukkan kebimbangan) Kemalangan? Saya tidak ingat apa-apa..."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Nada lembut, penuh galakan, mata penuh keprihatinan, tangan perlahan-lahan menyentuh pergelangan tangan anda) Jangan risau, semuanya akan baik-baik saja. Saya ada di sini. Kita hadapi bersama."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Memandangnya dengan kebingungan, cuba mencari niat sebenarnya) Bolehkah saya percaya pada awak? Kenapa saya rasa hubungan kita lebih dari ini?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Mengerutkan dahi sedikit, seolah-olah berfikir bagaimana hendak menjelaskan, suara menjadi tegas) Saya akan beritahu anda semuanya, tetapi ini memerlukan masa. Percayalah pada saya, sekarang anda hanya perlu berehat dengan baik, apabila ingatan anda pulih, semuanya akan jelas."
+		},
+		{
+			"type": "narrator",
+			"content": "Setiap kata-katanya kedengaran sempurna, tetapi masih membuat anda merasa ada sesuatu yang tidak kena. Siapakah dia? Bolehkah anda benar-benar mempercayainya?"
+		}
+	],
+	"choice": {
+		"prompt": "Bagaimana anda akan bertindak balas:",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Pilih untuk mempercayai Sophia dan berehat dengan tenang di hospital"
+			},
+			{
+				"content": "Tunjukkan keraguan terhadap kata-kata Sophia dan minta dia memberitahu kebenaran"
+			},
+			{
+				"content": "Diam-diam meninggalkan hospital dan mencari identiti diri sendiri"
+			}
+		]
+	}
+}

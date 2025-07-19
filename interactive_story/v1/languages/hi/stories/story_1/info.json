@@ -1,0 +1,125 @@
+{
+	"story_id": "story_1",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Dylan",
+			"description": "स्मृति खो चुका नायक, जिसका असली नाम Ryder है, जो एक शक्तिशाली गैंग का सरदार था, धोखे के बाद अपनी याददाश्त खो दी",
+			"avatar_url": "/resources/characters/story_1/dylan.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"मजबूत",
+				"भ्रमित",
+				"नेतृत्व क्षमता"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Sophia",
+			"description": "नायक के आसपास दिखाई देने वाली पहली महिला। चतुर और धूर्त, खुद को उसकी दोस्त बताती है, लेकिन वास्तव में शक्तिशाली गैंगस्टर लियो की बेटी है। वह नायक की असली पहचान छिपाती है, लेकिन उसका असली मकसद स्वार्थी है।",
+			"avatar_url": "/resources/characters/story_1/sophia.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"चतुर",
+				"धूर्त",
+				"स्वार्थी"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Luna",
+			"description": "एक आकर्षक टॉप मॉडल, बेहद मोहक, दावा करती है कि वह नायक से प्यार करती थी लेकिन उसने धोखा दिया।",
+			"avatar_url": "/resources/characters/story_1/luna.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"आकर्षक",
+				"धोखेबाज",
+				"सुंदर"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "एक सशक्त महिला, बिजनेस एलीट, शांत और तार्किक, योग्य और बुद्धिमान, लेकिन वास्तव में घमंडी है। नायक के साथ व्यापारिक संबंध हैं, लेकिन वास्तव में अपने पति के खिलाफ उसका इस्तेमाल करना चाहती है।",
+			"avatar_url": "/resources/characters/story_1/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 35,
+			"personality": [
+				"मजबूत",
+				"शांत",
+				"तार्किक",
+				"चालाक"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Eve",
+			"description": "नायक के सपनों में दिखाई देने वाली धुंधली महिला, वह स्मृति खोने से पहले उसकी सच्ची प्रेमिका थी, रहस्यमयी है।",
+			"avatar_url": "/resources/characters/story_1/eve.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 27,
+			"personality": [
+				"रहस्यमयी",
+				"कोमल",
+				"ईमानदार"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Max",
+			"description": "खलनायक, नायक का पूर्व विश्वसनीय सहायक, अब उसकी जगह गैंग का सरदार बन गया है, नायक को धोखा देने वाला मुख्य व्यक्ति।",
+			"avatar_url": "/resources/characters/story_1/max.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 32,
+			"personality": [
+				"धोखेबाज",
+				"महत्वाकांक्षी",
+				"धूर्त"
+			]
+		},
+		{
+			"id": "char_7",
+			"name": "Leo",
+			"description": "नायक से बदला लेने में महत्वपूर्ण भूमिका वाला गैंग का सरदार, सोफिया का पिता है।",
+			"avatar_url": "/resources/characters/story_1/leo.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 55,
+			"personality": [
+				"शक्तिशाली",
+				"अधिकारपूर्ण",
+				"बदला लेने वाला"
+			]
+		},
+		{
+			"id": "char_8",
+			"name": "Jack",
+			"description": "नायक का विश्वस्त साथी और मित्र, बदला लेने की योजना में मदद करता है।",
+			"avatar_url": "/resources/characters/story_1/jack.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 29,
+			"personality": [
+				"वफादार",
+				"भरोसेमंद",
+				"बहादुर"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "स्मृतियों का कोहरा"
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"stories": [
+		{
+			"id": "story_1",
+			"title": "Muistinmenetys: Houkutus ja Ansa",
+			"description": "Vaikutusvaltainen mies herää muistinmenetyksen jälkeen maailmaan, joka on kääntynyt päälaelleen. Kaunis nainen väittää olevansa ystävä, mutta hänen sanansa ovat epäselviä ja täynnä salaisuuksia. Tässä vallan ja himon kaupungissa hänen on löydettävä muistinsa takaisin - tai kadottava lopullisesti heidän virittämiinsä ansoihin.",
+			"category_id": 1,
+			"tags": [
+				"Muistinmenetys",
+				"Valta",
+				"Petos",
+				"Kosto",
+				"Mysteeri"
+			],
+			"plot_direction": [
+				"[Juoni: Muistinmenetys ja mysteeri]: Päähenkilö herää sairaalassa ja huomaa, ettei hänellä ole muistoja. Sofian opastuksella hän astuu kaupunkiin, jota hallitsevat himo ja valta. Siellä hän omaksuu uuden identiteetin: Dylan, liike-elämän eliittiä. Vaurauden ja houkutusten ympäröimänä hänen elämänsä kietoutuu yhteen Lunan ja Clairen kaltaisten naisten kanssa, joilla kaikilla on oma tyylinsä, mutta vaarallinen viehätysvoimansa. Päähenkilö alkaa ymmärtää, että näillä naisilla on taka-ajatuksia. Samaan aikaan hän näkee toistuvasti unissaan sumean naisen kasvot - Even - mutta ei pysty muistamaan hänen piirteitään selvästi.",
+				"[Keskivaihe: Himo ja kosto]: Sofia johdattaa hänet läpi rikollisen alamaailman ja eliittipiirin, paljastaen yhteytensä maanalaisiin voimiin ja yrittäen vetää hänet mukaan suurempaan suunnitelmaan. Hän sotkeutuu monimutkaisiin tunnesuhteisiin useiden naisten kanssa. Onnettomuuden jälkeen hänen muistinsa palaa täysin, ja hän tajuaa olevansa rikollispomo, jonka luotettu liittolainen Max on pettänyt. Päähenkilö päättää teeskennellä olevansa edelleen muistinsa menettänyt ja alkaa salaa suunnitella kostoaan.",
+				"[Loppuvaihe: Kosto ja kohtalo]: Kostosuunnitelma käynnistyy, kun päähenkilö armottomasti tuhoaa hänet pettäneet voimat. Koston aikana hän joko sytyttää uudelleen tunteensa Evea kohtaan tai paljastaa suuremman salaliiton. Koston täytyttyä hän huomaa olevansa eksyksissä tyhjyydessä, epävarmana siitä, jakaako elämänsä jonkun kanssa vai jatkaako pimeällä tiellä."
+			],
+			"cover_image_url": "resources/covers/story_1_cover.png",
+			"background_image_url": "resources/backgrounds/story_1_bg.jpg"
+		},
+		{
+			"id": "story_2",
+			"title": "Ajatustenlukupeli: Rakkauden ja Mielen Hallinta",
+			"description": "Ujo yliopistosta valmistunut opiskelija herää eräänä päivänä huomatakseen saaneensa kyvyn lukea ajatuksia ja hallita tunteita. Sosiaalisesti ahdistuneena pienestä asunnostaan hän lähtee tutkimaan New Yorkin vilkasta kaupunkia ja maailmaa, jota hän ei ole koskaan kokenut - mutta todellinen haaste ei ole 'kuulla muita' vaan 'ymmärtää itseään'. Kun rakkaus ja valta kietoutuvat yhteen, hänen on löydettävä oma äänensä houkutusten ja aidon tunteen väliltä.",
+			"category_id": 2,
+			"tags": [
+				"Ajatustenluku",
+				"Psykologia",
+				"Voima",
+				"Muutos",
+				"Tunteiden hallinta"
+			],
+			"plot_direction": [
+				"Alku: Eräänä päivänä päähenkilö, juuri yliopistosta valmistunut nuori, saa vahingossa ajatustenluku- ja tunteidenhallintakyvyn selaillessaan puhelintaan kahvilassa. Aluksi päähenkilö on järkyttynyt ja hämmentynyt tästä äkillisestä voimasta, mutta alkaessaan käyttää sitä hän ymmärtää voivansa vihdoin olla vuorovaikutuksessa muiden kanssa pelotta, erityisesti naisten kanssa keskustellessaan, koska ei enää tunne hermostuneisuutta. Tämän voiman avulla hän alkaa saada muiden huomiota ja kiintymystä, erityisesti naisten.",
+				"Keskivaihe: Kasvu, muutos ja haasteet. Päähenkilön elämä kokee suuria muutoksia. Hän alkaa houkutella ympärillään olevia naisia tällä voimalla, osallistuu erilaisiin juhliin ja tapaamisiin, ja vähitellen pääsee eroon yksinäisen menneisyytensä kuvasta, muuttuen sosiaalisen piirinsä keskipisteeksi. Kuitenkin menestyessään sosiaalisessa elämässä hän alkaa ymmärtää, ettei tämä voima ole ilman hintaa. Vaikka hänen sosiaalinen ahdistuksensa on väliaikaisesti voitettu, hän alkaa tuntea olevansa eksyksissä valheellisissa suhteissa, kykenemättä erottamaan, kuka todella lähestyy häntä ja kuka on vain hänen voimansa manipuloima.",
+				"Huippukohta: Vallan hinta. Kun päähenkilö käyttää voimaa yhä useammin, asiat alkavat mennä pieleen. Hän huomaa menettävänsä vähitellen kontrollin voimaansa, joskus laukaisten sen tahattomasti, jopa tilanteissa joissa ei haluaisi sen toimivan. Pahempaa on, että hän alkaa tuntea pimeän voiman manipuloivan häntä. Paljastuu, että tämä voima on Ethanin johtaman salaperäisen organisaation kokeen tulos. Päähenkilön on tehtävä lopullinen päätös: jatkaa voiman käyttöä ja tulla organisaation orjaksi, tai päästää siitä irti ja palata entiseen itseensä, vaikka se saattaisi tarkoittaa normaalin vuorovaikutuskyvyn menettämistä muiden kanssa.",
+				"Loppu: Elämän huippu vai paluu tavallisuuteen? Useita mahdollisia loppuja, tilaa luovuudelle. Romaanin kielen tulisi olla elävää ja ilmaisuvoimaista, jäljitellen Kreivi Monte Criston tyyliä, juonen voi ammentaa inspiraatiota Bourne-identiteetistä. Tarinan tulisi olla täynnä jännitystä ja tunnekonflikteja, johdattaen lukijat maailmaan, jossa himo ja valta kietoutuvat yhteen."
+			],
+			"cover_image_url": "resources/covers/story_2_cover.png",
+			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		}
+	]
+}

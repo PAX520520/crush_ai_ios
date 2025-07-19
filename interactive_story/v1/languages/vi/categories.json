@@ -1,0 +1,14 @@
+{
+	"categories": [
+		{
+			"id": 1,
+			"name": "🎭 Bí ẩn",
+			"description": "Những câu chuyện kinh dị đầy bí ẩn và căng thẳng"
+		},
+		{
+			"id": 2,
+			"name": "💘 Lãng mạn",
+			"description": "Những câu chuyện tình yêu đam mê với chiều sâu cảm xúc"
+		}
+	]
+}

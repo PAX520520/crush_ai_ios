@@ -1,0 +1,102 @@
+{
+	"story_id": "story_2",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Daniel",
+			"description": "20歳の内向的な男性で、大学を卒業したばかりで、ニューヨークに住んでいるが、自分のアパートに引きこもりがちです。特に女性との付き合いにおいて、社会的な交流に極度の不安を感じていますが、心の奥底では真の愛を求めています。",
+			"avatar_url": "/resources/characters/story_2/daniel.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"内向的",
+				"不安",
+				"恋愛願望",
+				"優しい"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Yumiko",
+			"description": "大学生でアルバイトのカフェ店員をしている女性で、茶色い巻き髪と緑色の目を持っています。彼女は明るく甘い笑顔を持ち、大学時代にDanielに助けられて以来、密かに彼に恋をしています。",
+			"avatar_url": "/resources/characters/story_2/yumiko.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 19,
+			"personality": [
+				"可愛らしい",
+				"片思い",
+				"優しい",
+				"勤勉"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Gloria",
+			"description": "シニアアトニーで、短い金髪と鋭い青い目を持っています。彼女の強くて冷たい外見は近寄りがたい印象を与えますが、内面には脆さと不安を隠しています。",
+			"avatar_url": "/resources/characters/story_2/gloria.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 32,
+			"personality": [
+				"強い",
+				"冷淡",
+				"脆弱",
+				"プロフェッショナル"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "心理学の教授で、長い黒髪を持ち、スリムで優雅な体型です。彼女はDanielのメンターとなり、彼自身の能力と人間性の複雑さを理解する手助けをします。",
+			"avatar_url": "/resources/characters/story_2/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 38,
+			"personality": [
+				"賢明",
+				"優雅",
+				"理解力がある",
+				"プロフェッショナル"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Carter",
+			"description": "Danielの高校時代の同級生でルームメイトの金髪の男性で、外向的で明るい性格です。Danielの能力が成長するにつれて、彼らの友情は試練を迎え、Carterは取り残されていると感じています。",
+			"avatar_url": "/resources/characters/story_2/carter.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"外向的",
+				"明るい",
+				"嫉妬深い",
+				"フレンドリー"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Ethan",
+			"description": "謎めいた敵役で、黒髪と洗練された服装が特徴です。彼は冷酷で狡猾で、同様の読心能力を持っていますが、それを支配と操作のために使用します。",
+			"avatar_url": "/resources/characters/story_2/ethan.png",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"冷酷",
+				"狡猾",
+				"支配的",
+				"神秘的"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "心の声の目覚め"
+		}
+	]
+}

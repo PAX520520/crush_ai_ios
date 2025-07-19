@@ -1,0 +1,87 @@
+{
+	"title": "La nebbia della memoria",
+	"summary": "Il protagonista Dylan, che soffre di amnesia, si sveglia in ospedale e incontra una misteriosa donna di nome Sophia che afferma di essere sua amica. Sophia gli dice che ha perso la memoria a causa di un incidente, ma Dylan dubita delle sue parole e deve decidere se fidarsi di lei, chiedere la verità o andarsene da solo.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "La tua coscienza emerge improvvisamente dal vuoto caotico, come se emergessi dall'acqua. L'odore pungente del disinfettante ti penetra nelle narici, stimolando i tuoi nervi. Quando apri gli occhi, ti ritrovi sdraiato in una stanza d'ospedale immacolata, con la luce sopra di te così brillante da farti girare la testa. Intorno c'è silenzio, interrotto solo dal debole ticchettio del monitor cardiaco. Tuttavia, la tua mente è vuota, come se una forza sconosciuta avesse portato via i tuoi ricordi."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Strofinandosi gli occhi confuso, con il cervello come congelato) Uhm... Chi sono? Dove mi trovo?",
+			"image_url": "/resources/images/story_1/chapter_1_1.png"
+		},
+		{
+			"type": "narrator",
+			"content": "Cerchi di alzarti, ma una sensazione di debolezza ti spinge di nuovo sul materasso. Mentre sei confuso e inquieto, la porta della stanza si apre delicatamente. Ed eccola - una donna elegante in un abito nero, con passo sicuro, ma con qualcosa di indicibile negli occhi. La sua bellezza non è del tipo facilmente avvicinabile e dolce, ma piuttosto come l'ossidiana affilata e seducente, pericolosa e attraente."
+		},
+		{
+			"type": "narrator",
+			"content": "Hai la sensazione di averla già vista... in un sogno? O in qualche frammento dimenticato di memoria? Ti guarda, con un sorriso che sembra studiato in anticipo sulle labbra."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Con voce dolce come una brezza primaverile) Finalmente ti sei svegliato. Temevo che non ti saresti più svegliato.",
+			"image_url": "/resources/images/story_1/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Con tono guardingo, scrutando l'ambiente) Chi sei? Come... come mai sei qui? Perché mi trovo qui?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Con voce dolce ma decisa, un sorriso significativo sulle labbra) Sono Sophia, la tua amica. Tu sei Dylan. Hai avuto un grave incidente e i medici dicono che hai temporaneamente perso la memoria."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Cercando di afferrare i frammenti sfuggenti di memoria, con ansia nella voce) Un incidente? Non ricordo nulla..."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Con voce dolce, piena di incoraggiamento, gli occhi pieni di preoccupazione, posando delicatamente la mano sul suo polso) Non preoccuparti, andrà tutto bene. Sono qui io. Affronteremo tutto insieme."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Guardandola confuso, cercando di capire le sue vere intenzioni) Posso fidarmi di te? Perché ho la sensazione che ci sia qualcosa di più tra noi?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Aggrottando leggermente le sopracciglia, come se stesse pensando a come spiegare, con voce ferma) Ti dirò tutto, ma ci vuole tempo. Fidati di me, per ora hai solo bisogno di riposarti bene. Quando recupererai la memoria, tutto sarà più chiaro."
+		},
+		{
+			"type": "narrator",
+			"content": "Ogni sua parola sembra perfetta, eppure ti dà una sensazione indefinibile di disagio. Chi è lei? Puoi davvero fidarti di lei?"
+		}
+	],
+	"choice": {
+		"prompt": "Come risponderai:",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Scegli di fidarti di Sophia e rimani tranquillamente in ospedale a riposarti"
+			},
+			{
+				"content": "Esprimi dubbi sulle parole di Sophia e le chiedi di dire la verità"
+			},
+			{
+				"content": "Lasci segretamente l'ospedale per cercare da solo la verità sulla tua identità"
+			}
+		]
+	}
+}

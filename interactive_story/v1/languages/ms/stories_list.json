@@ -1,0 +1,45 @@
+{
+	"stories": [
+		{
+			"id": "story_1",
+			"title": "Hilang Ingatan: Godaan dan Perangkap",
+			"description": "Seorang lelaki yang pernah berkuasa terbangun dalam keadaan hilang ingatan, dan dunia telah berubah sepenuhnya ketika dia sedar. Wanita cantik yang mengaku sebagai kawan menyembunyikan rahsia di sebalik kata-katanya yang samar. Di bandar yang dipenuhi kuasa dan nafsu ini, dia mesti mendapatkan kembali ingatannya - atau terperangkap sepenuhnya dalam jerat yang mereka pasang.",
+			"category_id": 1,
+			"tags": [
+				"Hilang Ingatan",
+				"Kuasa",
+				"Pengkhianatan",
+				"Dendam",
+				"Misteri"
+			],
+			"plot_direction": [
+				"[Plot: Hilang Ingatan dan Misteri]: Watak utama tersedar di hospital dan mendapati dirinya hilang ingatan. Di bawah bimbingan Sofia, dia memasuki sebuah bandar yang dikuasai oleh nafsu dan kuasa, di mana dia secara beransur-ansur muncul dengan identiti baru: Dylan, seorang elit perniagaan. Dikelilingi oleh kekayaan dan godaan, hidupnya berbelit dengan beberapa wanita termasuk Luna dan Claire, yang masing-masing mempunyai gaya tersendiri tetapi memiliki daya tarikan yang berbahaya. Watak utama mula menyedari bahawa wanita-wanita ini mempunyai motif tersembunyi. Pada masa yang sama, dia berulang kali melihat wajah wanita yang kabur dalam mimpinya - Eve - tetapi dia tidak dapat mengingati wajahnya dengan jelas.",
+				"[Plot Pertengahan: Nafsu dan Dendam]: Sofia membawanya melalui dunia jenayah dan lingkaran elit, mendedahkan hubungannya dengan kuasa bawah tanah dan cuba menyeretnya ke dalam rancangan yang lebih besar. Dia terjebak dalam hubungan emosi yang rumit dengan beberapa wanita. Selepas kemalangan, ingatannya pulih sepenuhnya dan dia menyedari bahawa dia sebenarnya adalah ketua gangster yang dikhianati oleh sekutunya yang dipercayai, Max. Watak utama memutuskan untuk berpura-pura masih hilang ingatan dan secara rahsia mula merancang pembalasan.",
+				"[Plot Akhir: Pembalasan dan Takdir]: Rancangan pembalasan bermula apabila watak utama tanpa belas kasihan menghancurkan kuasa yang mengkhianatinya. Namun, dalam proses pembalasan, dia sama ada menyalakan semula perasaannya terhadap Eve atau menemui konspirasi yang lebih besar. Selepas menyelesaikan pembalasannya, dia mendapati dirinya tersesat dalam kekosongan, tidak pasti sama ada untuk berkongsi hidupnya dengan seseorang atau terus mengikuti jalan kegelapan.",
+			],
+			"cover_image_url": "resources/covers/story_1_cover.png",
+			"background_image_url": "resources/backgrounds/story_1_bg.jpg"
+		},
+		{
+			"id": "story_2",
+			"title": "Permainan Membaca Minda: Menguasai Cinta dan Jiwa",
+			"description": "Seorang graduan universiti yang pemalu dan pendiam suatu hari terbangun dengan kebolehan membaca minda dan mengawal emosi secara tidak sengaja. Bermula dari apartmen kecilnya dengan fobia sosial, dia mula meneroka dunia yang belum pernah dimilikinya di kota New York yang sibuk - tetapi cabaran sebenar bukanlah 'mendengar orang lain', tetapi 'memahami diri sendiri'. Apabila cinta dan kuasa bercampur, dia mesti mencari suaranya sendiri di antara godaan dan cinta sejati.",
+			"category_id": 2,
+			"tags": [
+				"Membaca Minda",
+				"Psikologi",
+				"Kuasa",
+				"Transformasi",
+				"Kawalan Emosi"
+			],
+			"plot_direction": [
+				"Permulaan: Suatu hari, watak utama, seorang pemuda yang baru sahaja tamat pengajian universiti, secara tidak sengaja mendapat kebolehan membaca minda dan mengawal emosi orang lain semasa melayari web di telefon di sebuah kedai kopi. Pada mulanya, watak utama berasa terkejut dan keliru dengan kuasa yang tiba-tiba ini, tetapi apabila dia mula mencubanya, dia menyedari bahawa akhirnya dia boleh berinteraksi dengan orang lain tanpa rasa takut, terutamanya apabila bercakap dengan wanita, kerana dia tidak lagi berasa gugup. Dengan kuasa ini, dia mula mendapat perhatian dan kasih sayang orang lain, terutamanya dari gadis-gadis.",
+				"Pertengahan: Pertumbuhan, Transformasi dan Cabaran. Kehidupan watak utama beransur-ansur mengalami perubahan besar. Dia menggunakan kuasa ini untuk menarik gadis-gadis di sekelilingnya, mula menghadiri pelbagai parti dan perhimpunan, dan secara beransur-ansur melepaskan imej lamanya sebagai orang yang kesunyian untuk menjadi figura pusat dalam lingkaran sosialnya. Namun, semasa watak utama berjaya dalam kehidupan sosialnya, dia juga mula menyedari bahawa kuasa ini tidak datang tanpa harga. Walaupun keresahan sosialnya telah diatasi buat sementara waktu, dia mula berasa sesat dalam hubungan palsu, tidak dapat membezakan siapa yang benar-benar mendekatinya dan siapa yang hanya dimanipulasi oleh kuasanya.",
+				"Klimaks: Harga di Sebalik Kuasa. Apabila watak utama menggunakan kuasanya dengan lebih kerap, perkara mula menjadi salah. Dia mendapati dirinya secara beransur-ansur kehilangan kawalan ke atas kuasanya, kadang-kadang mencetuskannya secara tidak sedar, walaupun dalam situasi di mana dia tidak mahu ia berkesan. Lebih teruk lagi, dia mula merasakan kuasa gelap yang memanipulasinya. Ternyata, kuasa ini adalah hasil eksperimen organisasi misteri yang diketuai oleh Ethan. Watak utama mesti membuat keputusan akhir: terus menggunakan kuasa ini dan menjadi hamba organisasi, atau melepaskannya dan kembali menjadi dirinya yang asal, walaupun ini mungkin bermakna dia kehilangan keupayaan untuk berinteraksi secara normal dengan orang lain.",
+				"Akhir: Puncak Kehidupan atau Kembali ke Kehidupan Biasa? Terdapat pelbagai kemungkinan akhir, dengan ruang untuk kebebasan kreatif. Novel ini harus ditulis dalam bahasa yang hidup dan ekspresif, meniru gaya 'The Count of Monte Cristo', dengan plot yang boleh diilhamkan dari 'The Bourne Identity'. Cerita ini harus penuh dengan ketegangan dan konflik emosi, membawa pembaca ke dunia di mana nafsu dan kuasa saling berkait."
+			],
+			"cover_image_url": "resources/covers/story_2_cover.png",
+			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		}
+	]
+}

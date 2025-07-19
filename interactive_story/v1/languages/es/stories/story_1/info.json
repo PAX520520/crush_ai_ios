@@ -1,0 +1,125 @@
+{
+	"story_id": "story_1",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Dylan",
+			"description": "El protagonista amnésico, anteriormente conocido como Ryder, que una vez fue un poderoso jefe de la mafia y perdió la memoria después de una traición",
+			"avatar_url": "/resources/characters/story_1/dylan.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"fuerte",
+				"confundido",
+				"con capacidad de liderazgo"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Sophia",
+			"description": "La primera mujer que aparece junto al protagonista. Inteligente y astuta, dice ser su amiga, pero en realidad es la hija de Leo, un poderoso jefe de la mafia. Oculta la verdadera identidad del protagonista por motivos egoístas.",
+			"avatar_url": "/resources/characters/story_1/sophia.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"inteligente",
+				"astuta",
+				"egoísta"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Luna",
+			"description": "Una modelo de alto nivel seductora y atractiva que afirma haber estado enamorada del protagonista antes de traicionarlo.",
+			"avatar_url": "/resources/characters/story_1/luna.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"seductora",
+				"traicionera",
+				"hermosa"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "Una mujer de negocios poderosa, ejecutiva, fría y racional, capaz e inteligente, pero en realidad es tsundere. Tiene tratos comerciales con el protagonista, pero en realidad quiere usarlo para enfrentarse a su marido.",
+			"avatar_url": "/resources/characters/story_1/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 35,
+			"personality": [
+				"fuerte",
+				"serena",
+				"racional",
+				"calculadora"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Eve",
+			"description": "La mujer borrosa en los sueños del protagonista, el verdadero amor de su vida antes de perder la memoria, misteriosa e indescifrable.",
+			"avatar_url": "/resources/characters/story_1/eve.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 27,
+			"personality": [
+				"misteriosa",
+				"dulce",
+				"sincera"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Max",
+			"description": "El antagonista, antiguo mano derecha del protagonista, ahora ha tomado su lugar como jefe de la mafia y es una figura clave en su traición.",
+			"avatar_url": "/resources/characters/story_1/max.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 32,
+			"personality": [
+				"traicionero",
+				"ambicioso",
+				"astuto"
+			]
+		},
+		{
+			"id": "char_7",
+			"name": "Leo",
+			"description": "Un jefe de la mafia que tiene una gran influencia en la venganza contra el protagonista, es el padre de Sophia.",
+			"avatar_url": "/resources/characters/story_1/leo.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 55,
+			"personality": [
+				"poderoso",
+				"autoritario",
+				"vengativo"
+			]
+		},
+		{
+			"id": "char_8",
+			"name": "Jack",
+			"description": "Un confidente y aliado cercano al protagonista que lo ayuda en sus planes de venganza.",
+			"avatar_url": "/resources/characters/story_1/jack.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 29,
+			"personality": [
+				"leal",
+				"confiable",
+				"valiente"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "La niebla de los recuerdos"
+		}
+	]
+}

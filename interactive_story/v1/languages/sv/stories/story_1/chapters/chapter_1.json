@@ -1,0 +1,87 @@
+{
+	"title": "Minnets dimma",
+	"summary": "Huvudpersonen Dylan vaknar upp på sjukhuset med minnesförlust och möter en mystisk kvinna, Sophia, som påstår sig vara hans vän. Sophia berättar att han drabbats av minnesförlust efter en olycka, men Dylan tvivlar på hennes ord och står inför valet att lita på henne, kräva sanningen eller ge sig av på egen hand.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Ditt medvetande kämpar sig plötsligt fram ur ett kaotiskt tomrum, som att bryta genom vattenytan. Den skarpa doften av desinfektionsmedel tränger in i näsborrarna och retar dina nerver. När du öppnar ögonen upptäcker du att du ligger i ett kritvitt sjukhusrum, med ett bländande ljus i taket som gör dig yr. Runt omkring är det tyst, förutom det svaga tickandet från hjärtmonitorn. Men ditt sinne är tomt, som om en okänd kraft har sugit ut alla dina minnen."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Gnuggar förvirrat ögonen, hjärnan känns frusen) Uh... Vem är jag? Var är jag?",
+			"image_url": "/resources/images/story_1/chapter_1_1.png"
+		},
+		{
+			"type": "narrator",
+			"content": "Du försöker kämpa dig upp men trycks tillbaka mot madrassen av en känsla av kraftlöshet. Just när du känner dig förvirrad och orolig öppnas dörren försiktigt. Där står hon - en elegant kvinna i svart klänning, med stadiga steg och en blick som döljer något outsägligt. Hennes skönhet är inte av det mjuka, lättillgängliga slaget, utan mer som obsidian - vass och förförisk, farlig men lockande."
+		},
+		{
+			"type": "narrator",
+			"content": "Du känner att du har sett henne förut... i en dröm? Eller i något bortglömt minnesfragment? Hon tittar på dig med ett leende som verkar noggrant uttänkt."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Med mjuk röst, som en vårbris) Äntligen är du vaken. Jag var orolig att du aldrig skulle vakna.",
+			"image_url": "/resources/images/story_1/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Med vaksam röst, ögonen söker av rummet) Vem är du? Hur... kommer det sig att du är här? Varför är jag här?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Med mild men bestämd röst, ett menande leende) Jag är Sophia, din vän. Du heter Dylan. Du var med om en allvarlig olycka, och läkarna säger att du har tillfällig minnesförlust."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Försöker fånga de flyktiga minnesfragmenten, med ångest i rösten) En olycka? Jag kommer inte ihåg någonting..."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Med mild röst, full av uppmuntran, med omsorg i blicken, lägger försiktigt handen på din handled) Oroa dig inte, allt kommer att bli bra. Jag är här. Vi tar oss igenom det här tillsammans."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Tittar förvirrat på henne, försöker utröna hennes verkliga avsikter) Kan jag lita på dig? Varför känns det som om det finns mer mellan oss?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Rynkar lätt pannan, verkar fundera på hur hon ska förklara, rösten blir bestämd) Jag ska berätta allt för dig, men det tar tid. Lita på mig, just nu behöver du bara vila, när ditt minne kommer tillbaka kommer allt att klarna."
+		},
+		{
+			"type": "narrator",
+			"content": "Varje ord hon säger låter perfekt, men ändå känner du att något inte stämmer. Vem är hon? Kan du verkligen lita på henne?"
+		}
+	],
+	"choice": {
+		"prompt": "Hur väljer du att svara:",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Välj att lita på Sophia och stanna kvar på sjukhuset för att vila"
+			},
+			{
+				"content": "Uttryck tvivel över Sophias ord och kräv att få veta sanningen"
+			},
+			{
+				"content": "Smyg iväg från sjukhuset och utforska mysteriet med din identitet på egen hand"
+			}
+		]
+	}
+}

@@ -1,0 +1,45 @@
+{
+	"stories": [
+		{
+			"id": "story_1",
+			"title": "Człowiek bez pamięci: Pokusy i pułapki",
+			"description": "Mężczyzna, który kiedyś dzierżył ogromną władzę, budzi się z amnezją w świecie, który całkowicie się zmienił. Piękna kobieta twierdzi, że jest przyjaciółką, ale jej słowa są niejasne i skrywają tajemnice. W tym mieście, gdzie przeplatają się władza i pożądanie, musi odzyskać pamięć - albo całkowicie zagubić się w pułapkach zastawionych przez kobiety.",
+			"category_id": 1,
+			"tags": [
+				"Amnezja",
+				"Władza",
+				"Zdrada",
+				"Zemsta",
+				"Tajemnica"
+			],
+			"plot_direction": [
+				"[Fabuła: Amnezja i tajemnice]: Protagonista budzi się w szpitalu i odkrywa, że stracił pamięć. Pod przewodnictwem Sofii wkracza do miasta rządzonego przez pożądanie i władzę, gdzie stopniowo przyjmuje nową tożsamość: Dylan, biznesowy elitarysta. Otoczony bogactwem i pokusami, jego życie splata się z kilkoma kobietami, w tym Luna i Claire, z których każda ma swój własny styl, ale wszystkie posiadają niebezpieczny urok. Protagonista zaczyna dostrzegać, że te kobiety mają ukryte motywy. Jednocześnie w snach wielokrotnie widzi niewyraźną twarz kobiety - Eve - ale nie może wyraźnie przypomnieć sobie jej rysów.",
+				"[Środkowa część: Pożądanie i zemsta]: Sofia prowadzi go przez przestępczy półświatek i elitarne kręgi, ujawniając swoje powiązania z podziemiem i próbując wciągnąć go w większy plan. Wikła się w skomplikowane relacje emocjonalne z kilkoma kobietami. Po wypadku jego pamięć całkowicie wraca i uświadamia sobie, że w rzeczywistości jest bossem mafii zdradzonym przez zaufanego sojusznika Maxa. Protagonista postanawia udawać, że nadal cierpi na amnezję i potajemnie planuje zemstę.",
+				"[Końcówka: Zemsta i przeznaczenie]: Plan zemsty rozwija się, gdy protagonista bezlitośnie niszczy siły, które go zdradziły. Jednak w procesie zemsty albo rozpala na nowo uczucia do Eve, albo odkrywa większy spisek. Po dokonaniu zemsty odkrywa, że zagubił się w pustce, niepewny czy dzielić życie z kimś, czy kontynuować mroczną ścieżkę."
+			],
+			"cover_image_url": "resources/covers/story_1_cover.png",
+			"background_image_url": "resources/backgrounds/story_1_bg.jpg"
+		},
+		{
+			"id": "story_2",
+			"title": "Gra umysłów: Kontrola nad miłością i umysłem",
+			"description": "Nieśmiały absolwent uniwersytetu pewnego dnia budzi się z nieoczekiwaną zdolnością czytania w myślach i kontrolowania emocji. Wyruszając ze swojego małego mieszkania, gdzie cierpiał na fobię społeczną i kompleksy, zaczyna odkrywać nieznany mu dotąd świat w tętniącym życiem Nowym Jorku - ale prawdziwym wyzwaniem nie jest 'słyszenie innych', lecz 'zrozumienie siebie'. Gdy miłość splata się z mocą, musi znaleźć własny głos pomiędzy pokusą a prawdziwym uczuciem.",
+			"category_id": 2,
+			"tags": [
+				"Telepatia",
+				"Psychologia",
+				"Moc",
+				"Transformacja",
+				"Kontrola emocji"
+			],
+			"plot_direction": [
+				"Początek: Pewnego dnia protagonista, świeżo upieczony absolwent uniwersytetu, przypadkowo otrzymuje zdolność czytania w myślach i manipulowania emocjami innych podczas przeglądania internetu w kawiarni. Początkowo jest zszokowany i zdezorientowany tą nagłą mocą, ale gdy zaczyna jej używać, zdaje sobie sprawę, że wreszcie może bez strachu wchodzić w interakcje z innymi, szczególnie z kobietami, ponieważ nie czuje już zdenerwowania. Dzięki tej mocy zaczyna przyciągać uwagę i sympatię innych, zwłaszcza dziewczyn.",
+				"Środkowa faza: Rozwój, transformacja i wyzwania. Życie protagonisty przechodzi znaczące zmiany. Wykorzystując swoją moc, przyciąga okoliczne dziewczyny, zaczyna uczestniczyć w różnych imprezach i spotkaniach, stopniowo porzucając swoją dawną samotniczą osobowość i stając się centrum swojego kręgu towarzyskiego. Jednak gdy odnosi sukcesy w życiu towarzyskim, zaczyna zdawać sobie sprawę, że ta moc ma swoją cenę. Mimo że tymczasowo pokonał lęk społeczny, zaczyna gubić się w fałszywych relacjach, nie mogąc rozróżnić, kto naprawdę się do niego zbliża, a kto jest tylko manipulowany jego mocą.",
+				"Kulminacja: Cena za władzę. Gdy protagonista coraz częściej używa swojej mocy, sprawy zaczynają wymykać się spod kontroli. Odkrywa, że stopniowo traci nad nią kontrolę, czasami aktywując ją nieświadomie, nawet gdy tego nie chce. Co gorsza, zaczyna odczuwać mroczną siłę, która nim manipuluje. Okazuje się, że ta moc jest wynikiem eksperymentu tajemniczej organizacji kierowanej przez Ethana. Protagonista musi podjąć ostateczną decyzję: kontynuować używanie mocy i stać się niewolnikiem organizacji lub uwolnić się od niej i wrócić do swojego dawnego ja, mimo że może to oznaczać utratę zdolności do normalnych interakcji z innymi.",
+				"Zakończenie: Szczyt życia czy powrót do zwyczajności? Jest wiele możliwych zakończeń, pozostawiających przestrzeń dla kreatywności. Powieść powinna być napisana żywym i ekspresyjnym językiem, naśladując styl 'Hrabiego Monte Christo', a fabuła może czerpać inspirację z 'Tożsamości Bourne'a'. Historia powinna być pełna napięcia i konfliktów emocjonalnych, prowadząc czytelników do świata, gdzie przeplatają się pożądanie i władza."
+			],
+			"cover_image_url": "resources/covers/story_2_cover.png",
+			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		}
+	]
+}

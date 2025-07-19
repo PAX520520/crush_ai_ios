@@ -1,0 +1,45 @@
+{
+	"stories": [
+		{
+			"id": "story_1",
+			"title": "L'Amnésique : Séduction et Pièges",
+			"description": "Un homme autrefois puissant se réveille amnésique dans un monde qui a radicalement changé. Une belle femme prétend être son amie, mais ses paroles sont évasives et cachent des secrets. Dans cette ville où s'entremêlent pouvoir et désir, il doit retrouver sa mémoire - ou se perdre complètement dans les pièges qu'elles ont tendus.",
+			"category_id": 1,
+			"tags": [
+				"Amnésie",
+				"Pouvoir",
+				"Trahison",
+				"Vengeance",
+				"Mystère"
+			],
+			"plot_direction": [
+				"[Intrigue : Amnésie et mystère] : Le protagoniste se réveille à l'hôpital sans aucun souvenir. Guidé par Sofia, il entre dans une ville gouvernée par le désir et le pouvoir, où il assume progressivement une nouvelle identité : Dylan, un homme d'affaires d'élite. Entouré de richesse et de tentation, sa vie s'entremêle avec plusieurs femmes, dont Luna et Claire, chacune ayant son propre style mais possédant toutes un charme dangereux. Le protagoniste commence à réaliser que ces femmes ont des motifs cachés. Pendant ce temps, il voit régulièrement dans ses rêves un visage féminin flou - Eve - mais il ne peut pas clairement se souvenir de ses traits.",
+				"[Intrigue centrale : Désir et vengeance] : Sofia le guide à travers le monde criminel et les cercles d'élite, révélant ses liens avec les forces souterraines et tentant de l'entraîner dans un plan plus vaste. Il s'emmêle dans des relations émotionnelles complexes avec plusieurs femmes. Après un accident, sa mémoire revient complètement, et il réalise qu'il était en fait un chef de gang trahi par Max, un allié en qui il avait confiance. Le protagoniste décide de feindre son amnésie et commence secrètement à planifier sa vengeance.",
+				"[Fin de l'intrigue : Vengeance et destin] : Le plan de vengeance se déroule alors que le protagoniste détruit impitoyablement les forces qui l'ont trahi. Cependant, au cours de sa vengeance, soit il ravive ses sentiments pour Eve, soit il découvre une conspiration plus grande. Après avoir accompli sa vengeance, il se retrouve perdu dans le vide, incertain s'il doit partager sa vie avec quelqu'un ou continuer sur le chemin des ténèbres."
+			],
+			"cover_image_url": "resources/covers/story_1_cover.png",
+			"background_image_url": "resources/backgrounds/story_1_bg.jpg"
+		},
+		{
+			"id": "story_2",
+			"title": "Jeux de l'Esprit : Maîtriser l'Amour et l'Esprit",
+			"description": "Un diplômé universitaire timide et introverti se réveille un jour avec la capacité inattendue de lire dans les pensées et de contrôler les émotions. Partant de son petit appartement où il vivait reclus et anxieux, il commence à explorer un monde qu'il n'avait jamais connu dans la ville trépidante de New York - mais le véritable défi n'est pas d'\"entendre les autres\", mais de \"se comprendre soi-même\". Quand l'amour et le pouvoir s'entremêlent, il doit trouver sa propre voix entre séduction et véritable sentiment.",
+			"category_id": 2,
+			"tags": [
+				"Télépathie",
+				"Psychologie",
+				"Pouvoir",
+				"Transformation",
+				"Manipulation émotionnelle"
+			],
+			"plot_direction": [
+				"Début : Un jour, le protagoniste, un jeune homme fraîchement diplômé de l'université, acquiert accidentellement la capacité de lire dans les pensées et de manipuler les émotions des autres alors qu'il navigue sur son téléphone dans un café. Au début, le protagoniste est choqué et confus par ce pouvoir soudain, mais quand il commence à l'utiliser, il réalise qu'il peut enfin interagir avec les autres sans peur, particulièrement avec les femmes, car il ne se sent plus nerveux. Grâce à ce pouvoir, il commence à attirer l'attention et l'affection des autres, particulièrement celle des femmes.",
+				"Phase intermédiaire : Croissance, transformation et défis. La vie du protagoniste connaît des changements majeurs. Il utilise ce pouvoir pour attirer les femmes autour de lui, commence à participer à diverses fêtes et réunions, et s'éloigne progressivement de son image de solitaire pour devenir une figure centrale de son cercle social. Cependant, alors qu'il réussit dans sa vie sociale, il commence aussi à réaliser que ce pouvoir a un prix. Bien que son anxiété sociale soit temporairement surmontée, il commence à se perdre dans des relations artificielles, incapable de distinguer qui se rapproche vraiment de lui et qui est simplement manipulé par son pouvoir.",
+				"Climax : Le prix du pouvoir. Alors que le protagoniste utilise son pouvoir plus fréquemment, les choses commencent à mal tourner. Il découvre qu'il perd progressivement le contrôle de son pouvoir, le déclenchant parfois involontairement, même quand il ne le souhaite pas. Pire encore, il commence à sentir une force sombre le manipuler. Il s'avère que ce pouvoir est le résultat d'une expérience menée par une organisation mystérieuse dirigée par Ethan. Le protagoniste doit prendre une décision finale : continuer à utiliser ce pouvoir et devenir l'esclave de l'organisation, ou s'en débarrasser et redevenir lui-même, même si cela signifie perdre sa capacité à interagir normalement avec les autres.",
+				"Fin : Sommet de la vie ou retour à la normalité ? Il y a plusieurs fins possibles, laissant place à la liberté créative. Le roman devrait avoir un langage vivant et expressif, s'inspirant du style du Comte de Monte-Cristo, avec une intrigue qui peut puiser son inspiration dans l'Identity de Bourne. Cette histoire devrait être pleine de suspense et de conflits émotionnels, emmenant les lecteurs dans un monde où le désir et le pouvoir s'entremêlent."
+			],
+			"cover_image_url": "resources/covers/story_2_cover.png",
+			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		}
+	]
+}

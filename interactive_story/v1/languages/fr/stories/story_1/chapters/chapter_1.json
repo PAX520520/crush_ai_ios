@@ -1,0 +1,87 @@
+{
+	"title": "Le Brouillard des Souvenirs",
+	"summary": "Dylan, le protagoniste amnésique, se réveille à l'hôpital et rencontre une mystérieuse femme, Sophia, qui prétend être son amie. Sophia lui dit qu'il a perdu la mémoire suite à un accident, mais Dylan doute de ses paroles et doit choisir entre lui faire confiance, exiger la vérité ou partir seul.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Votre conscience émerge soudainement du néant chaotique, comme sortant de l'eau. L'odeur âcre du désinfectant pénètre vos narines, stimulant vos nerfs. Lorsque vous ouvrez les yeux, vous vous trouvez allongé dans une chambre d'hôpital immaculée, la lumière au-dessus de votre tête est si vive qu'elle vous donne le vertige. Tout est silencieux autour de vous, seul le faible bip du moniteur cardiaque se fait entendre. Cependant, votre esprit est vide, comme si une force inconnue avait aspiré tous vos souvenirs."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Se frottant les yeux avec confusion, le cerveau comme gelé) Euh... Qui suis-je ? Où suis-je ?",
+			"image_url": "/resources/images/story_1/chapter_1_1.png"
+		},
+		{
+			"type": "narrator",
+			"content": "Vous essayez de vous lever, mais une sensation de faiblesse vous plaque contre le matelas. Alors que vous êtes perplexe et inquiet, la porte de la chambre s'ouvre doucement. Elle apparaît - une femme élégante vêtue d'une robe noire, ses pas sont assurés, mais ses yeux cachent une émotion indescriptible. Sa beauté n'est pas de celles qui sont facilement accessibles et douces, mais plutôt comme de l'obsidienne tranchante et séduisante, dangereuse et attirante."
+		},
+		{
+			"type": "narrator",
+			"content": "Vous avez l'impression de l'avoir déjà vue... dans un rêve ? Ou dans un fragment de mémoire oublié ? Elle vous regarde, un sourire qui semble prémédité se dessine sur ses lèvres."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(D'une voix douce comme une brise printanière) Tu es enfin réveillé. J'avais peur que tu ne te réveilles jamais.",
+			"image_url": "/resources/images/story_1/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(D'un ton méfiant, scrutant les alentours) Qui êtes-vous ? Comment... Comment se fait-il que vous soyez ici ? Pourquoi suis-je ici ?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(D'une voix douce mais sans appel, un sourire énigmatique aux lèvres) Je suis Sophia, ton amie. Tu t'appelles Dylan. Tu as eu un grave accident, les médecins disent que tu souffres d'amnésie temporaire."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Essayant de saisir ces fragments de mémoire fugaces, la voix anxieuse) Un accident ? Je ne me souviens de rien..."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(D'une voix douce et encourageante, les yeux pleins de sollicitude, posant délicatement sa main sur ton poignet) Ne t'inquiète pas, tout ira bien. Je suis là. Nous traverserons ça ensemble."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(La regardant avec confusion, tentant de déceler ses véritables intentions) Puis-je vous faire confiance ? Pourquoi ai-je l'impression qu'il y a plus entre nous ?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Fronçant légèrement les sourcils, semblant réfléchir à comment expliquer, la voix devenant ferme) Je te dirai tout, mais cela prendra du temps. Fais-moi confiance, pour l'instant tu dois juste te reposer, tout deviendra clair quand ta mémoire reviendra."
+		},
+		{
+			"type": "narrator",
+			"content": "Chacune de ses paroles semble parfaitement calibrée, et pourtant vous ressentez un malaise inexplicable. Qui est-elle ? Pouvez-vous vraiment lui faire confiance ?"
+		}
+	],
+	"choice": {
+		"prompt": "Comment allez-vous réagir :",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Choisir de faire confiance à Sophia et rester tranquillement à l'hôpital pour récupérer"
+			},
+			{
+				"content": "Exprimer des doutes sur les paroles de Sophia et exiger la vérité"
+			},
+			{
+				"content": "Quitter discrètement l'hôpital et chercher seul les réponses sur votre identité"
+			}
+		]
+	}
+}

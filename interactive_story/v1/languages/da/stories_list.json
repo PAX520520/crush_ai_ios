@@ -1,0 +1,45 @@
+{
+	"stories": [
+		{
+			"id": "story_1",
+			"title": "Den hukommelsesløse: Fristelse og fælder",
+			"description": "En mand, der engang havde stor magt, vågner op uden hukommelse i en verden, der er vendt på hovedet. En smuk kvinde hævder at være en ven, men hendes ord er tvetydige og gemmer på hemmeligheder. I denne by, hvor magt og begær er vævet sammen, må han genvinde sin hukommelse - eller gå helt tabt i de fælder, de har sat for ham.",
+			"category_id": 1,
+			"tags": [
+				"Hukommelsestab",
+				"Magt",
+				"Forræderi",
+				"Hævn",
+				"Mystik"
+			],
+			"plot_direction": [
+				"[Plot: Hukommelsestab og mysterier]: Hovedpersonen vågner op på hospitalet og opdager, at han ikke har nogen hukommelse. Under Sofias vejledning træder han ind i en by styret af begær og magt, hvor han gradvist antager en ny identitet: Dylan, en forretningselite. Omgivet af rigdom og fristelser bliver hans liv viklet ind med flere kvinder, herunder Luna og Claire, som hver har deres egen stil, men alle besidder en farlig charme. Hovedpersonen begynder at indse, at disse kvinder har skjulte motiver. Samtidig ser han gentagne gange et sløret kvindeligt ansigt i sine drømme - Eve - men han kan ikke tydeligt huske hendes ansigtstræk.",
+				"[Mellemspil: Begær og hævn]: Sofia fører ham gennem den kriminelle underverden og elitens cirkler, afslører hendes forbindelser til underjordiske kræfter og forsøger at trække ham ind i en større plan. Han bliver viklet ind i komplekse følelsesmæssige forhold med flere kvinder. Efter en ulykke genvinder han sin fulde hukommelse og indser, at han faktisk er en gangsterboss, der blev forrådt af sin betroede allierede Max. Hovedpersonen beslutter at foregive, at han stadig er hukommelsesløs, og begynder hemmeligt at planlægge sin hævn.",
+				"[Sen plot: Hævn og skæbne]: Hævnplanen udfolder sig, mens hovedpersonen nådesløst nedbryder de kræfter, der forrådte ham. Men i processen med hævn enten genoptænder han sine følelser for Eve eller opdager en større sammensværgelse. Efter at have fuldført sin hævn finder han sig selv fortabt i tomhed, usikker på om han skal dele sit liv med nogen eller fortsætte ad den mørke vej."
+			],
+			"cover_image_url": "resources/covers/story_1_cover.png",
+			"background_image_url": "resources/backgrounds/story_1_bg.jpg"
+		},
+		{
+			"id": "story_2",
+			"title": "Tankelæsningsspillet: Kontrol over kærlighed og sind",
+			"description": "En indadvendt og genert universitetskandidat vågner en dag og opdager, at han har fået evnen til at læse tanker og manipulere følelser. Fra sin lille lejlighed, plaget af social angst, begynder han at udforske en verden i det travle New York, som han aldrig før har kendt - men den virkelige udfordring er ikke at 'høre andre', men at 'forstå sig selv'. Når kærlighed og magt væves sammen, må han finde sin egen stemme mellem fristelse og ægte følelser.",
+			"category_id": 2,
+			"tags": [
+				"Tankelæsning",
+				"Psykologi",
+				"Kraft",
+				"Forvandling",
+				"Følelsesmæssig manipulation"
+			],
+			"plot_direction": [
+				"Start: En dag får hovedpersonen, en ung mand der lige er blevet færdig med universitetet, pludselig evnen til at læse tanker og manipulere andres følelser, mens han browser på sin telefon i en café. I begyndelsen er hovedpersonen chokeret og forvirret over denne pludselige kraft, men da han begynder at eksperimentere med den, indser han, at han endelig kan interagere med andre uden frygt, især når han taler med kvinder, da han ikke længere føler sig nervøs. Med denne kraft begynder han at tiltrække andres opmærksomhed og hengivenhed, især fra piger.",
+				"Mellemstadie: Vækst, transformation og udfordringer. Hovedpersonens liv undergår gradvist store forandringer. Han bruger denne kraft til at tiltrække piger omkring sig, begynder at deltage i forskellige fester og sammenkomster, og bevæger sig gradvist væk fra sit tidligere image som en enspænder for at blive centrum i sin sociale cirkel. Men mens hovedpersonen opnår succes i sit sociale liv, begynder han også at indse, at denne kraft ikke kommer uden omkostninger. Selvom hans sociale angst midlertidigt er overvundet, begynder han at føle sig fortabt i falske forhold, ude af stand til at skelne mellem dem, der virkelig kommer tæt på ham, og dem der bare er manipuleret af hans kraft.",
+				"Klimaks: Prisen for magt. Efterhånden som hovedpersonen bruger kraften mere hyppigt, begynder tingene at gå galt. Han opdager, at han gradvist mister kontrollen over kraften, som nogle gange udløses ubevidst, selv når han ikke ønsker det. Værre endnu begynder han at mærke en mørk kraft, der manipulerer ham. Det viser sig, at denne kraft er resultatet af et eksperiment fra en mystisk organisation ledet af Ethan. Hovedpersonen må træffe den endelige beslutning: fortsætte med at bruge kraften og blive organisationens slave, eller slippe den og vende tilbage til sit gamle jeg, selvom det kan betyde, at han mister evnen til at interagere normalt med andre.",
+				"Afslutning: Livets højdepunkt eller tilbage til det almindelige? Der er flere mulige slutninger med plads til kreativ frihed. Romanens sprog skal være levende og udtryksfuldt, inspireret af stilen fra 'Greven af Monte Cristo', mens plottet kan trække på inspiration fra 'The Bourne Identity'. Historien skal være fyldt med spænding og følelsesmæssige konflikter, der fører læseren ind i en verden vævet sammen af begær og magt."
+			],
+			"cover_image_url": "resources/covers/story_2_cover.png",
+			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		}
+	]
+}

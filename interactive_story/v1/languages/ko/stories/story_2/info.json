@@ -1,0 +1,102 @@
+{
+	"story_id": "story_2",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Daniel",
+			"description": "20살의 내성적인 남자로, 대학을 갓 졸업하고 뉴욕에 살지만 자신의 작은 아파트에 자주 숨어 지낸다. 그는 사회적 상호작용, 특히 여성과의 관계에 극도로 불안해하지만, 마음 깊은 곳에서는 진정한 사랑을 갈망한다.",
+			"avatar_url": "/resources/characters/story_2/daniel.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"내성적",
+				"불안",
+				"사랑을 갈망",
+				"친절"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Yumiko",
+			"description": "갈색 곱슬머리와 녹색 눈을 가진 대학생 겸 바리스타. 그녀는 밝고 달콤한 미소를 가지고 있으며, 대학 시절 Daniel이 그녀를 도와준 이후로 계속 그를 짝사랑하고 있다.",
+			"avatar_url": "/resources/characters/story_2/yumiko.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 19,
+			"personality": [
+				"달콤함",
+				"짝사랑",
+				"온화함",
+				"성실"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Gloria",
+			"description": "짧은 금발과 날카로운 파란 눈을 가진 고위 변호사. 그녀의 강하고 차가운 외모는 사람들이 접근하기 어렵게 만들지만, 내면에는 연약함과 불안감을 숨기고 있다.",
+			"avatar_url": "/resources/characters/story_2/gloria.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 32,
+			"personality": [
+				"강인함",
+				"차가움",
+				"연약함",
+				"전문적"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "긴 검은 머리와 날씬하고 우아한 체형을 가진 심리학 교수. 그녀는 Daniel의 멘토가 되어 그가 자신의 능력과 인간성의 복잡성을 이해하도록 돕는다.",
+			"avatar_url": "/resources/characters/story_2/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 38,
+			"personality": [
+				"지혜로움",
+				"우아함",
+				"이해심",
+				"전문적"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Carter",
+			"description": "Daniel의 고등학교 동창이자 룸메이트로, 금발에 외향적이고 명랑한 성격이다. Daniel의 능력이 성장함에 따라 그들의 우정은 도전을 받게 되고, Carter는 뒤처진다고 느낀다.",
+			"avatar_url": "/resources/characters/story_2/carter.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"외향적",
+				"명랑함",
+				"질투",
+				"친근함"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Ethan",
+			"description": "검은 머리와 세련된 옷차림을 한 신비로운 악역. 그는 냉혹하고 교활하며, 비슷한 독심술 능력을 가지고 있지만 이를 통제와 조종에 사용한다.",
+			"avatar_url": "/resources/characters/story_2/ethan.png",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"냉혹함",
+				"교활함",
+				"지배욕",
+				"신비로움"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "마음의 소리가 들리기 시작하다"
+		}
+	]
+}

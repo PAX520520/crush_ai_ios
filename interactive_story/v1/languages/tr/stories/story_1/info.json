@@ -1,0 +1,125 @@
+{
+	"story_id": "story_1",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Dylan",
+			"description": "Hafızasını kaybeden başkahraman, asıl adı Ryder, bir zamanlar güçlü bir çete lideri olan ve ihanete uğradıktan sonra hafızasını kaybeden biri",
+			"avatar_url": "/resources/characters/story_1/dylan.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Güçlü",
+				"Kafası karışık",
+				"Liderlik vasfı olan"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Sophia",
+			"description": "Kahramanın yanında beliren ilk kadın. Zeki ve kurnaz, kendisini onun arkadaşı olarak tanıtıyor ancak aslında güçlü çete lideri Leo'nun kızı. Kahramanın gerçek kimliğini saklıyor ve bencil motivasyonları var.",
+			"avatar_url": "/resources/characters/story_1/sophia.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"Zeki",
+				"Kurnaz",
+				"Bencil"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Luna",
+			"description": "Baştan çıkarıcı üst düzey bir model, çok çekici, kahramanla aşk yaşadığını ancak ona ihanet ettiğini iddia ediyor.",
+			"avatar_url": "/resources/characters/story_1/luna.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"Baştan çıkarıcı",
+				"Hain",
+				"Güzel"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "Güçlü bir iş kadını, iş dünyasında elit, sakin ve mantıklı, yetenekli ve zeki, ancak aslında tsundere. Kahramanla iş ilişkisi var ama aslında onu kocasına karşı kullanmak istiyor.",
+			"avatar_url": "/resources/characters/story_1/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 35,
+			"personality": [
+				"Güçlü",
+				"Sakin",
+				"Mantıklı",
+				"Kurnaz"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Eve",
+			"description": "Kahramanın rüyalarında beliren bulanık kadın figürü, hafızasını kaybetmeden önce gerçekten sevdiği kadın, gizemli bir karakter.",
+			"avatar_url": "/resources/characters/story_1/eve.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 27,
+			"personality": [
+				"Gizemli",
+				"Nazik",
+				"İçten"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Max",
+			"description": "Kötü karakter, kahramanın eski sağ kolu, şimdi onun yerini alarak çete lideri olmuş ve ona ihanet eden kilit kişi.",
+			"avatar_url": "/resources/characters/story_1/max.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 32,
+			"personality": [
+				"Hain",
+				"Hırslı",
+				"Kurnaz"
+			]
+		},
+		{
+			"id": "char_7",
+			"name": "Leo",
+			"description": "Kahramandan intikam almak isteyen güçlü çete lideri, Sophia'nın babası.",
+			"avatar_url": "/resources/characters/story_1/leo.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 55,
+			"personality": [
+				"Güçlü",
+				"Otoriter",
+				"İntikam peşinde"
+			]
+		},
+		{
+			"id": "char_8",
+			"name": "Jack",
+			"description": "Kahramanın sadık adamı ve müttefiki, intikam planında ona yardım ediyor.",
+			"avatar_url": "/resources/characters/story_1/jack.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 29,
+			"personality": [
+				"Sadık",
+				"Güvenilir",
+				"Cesur"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Anıların Sisi"
+		}
+	]
+}

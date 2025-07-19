@@ -1,0 +1,14 @@
+{
+	"categories": [
+		{
+			"id": 1,
+			"name": "🎭 Gizem",
+			"description": "Gizemli ve gerilim dolu heyecan verici hikayeler"
+		},
+		{
+			"id": 2,
+			"name": "💘 Romantik",
+			"description": "Duygusal derinliği olan tutkulu aşk hikayeleri"
+		}
+	]
+}

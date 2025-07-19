@@ -1,0 +1,102 @@
+{
+	"story_id": "story_2",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Daniel",
+			"description": "一個 20歲 的內向男子，剛從大學畢業，住在紐約但經常躲在自己的小公寓裡。他對社交互動感到極度焦慮，尤其是與女性交往，但內心深處渴望真正的愛情。",
+			"avatar_url": "/resources/characters/story_2/daniel.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"內向",
+				"焦慮",
+				"渴望愛情",
+				"善良"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Yumiko",
+			"description": "一名大學生兼職咖啡師，有著棕色捲髮和綠色眼睛。她有著明亮甜美的笑容，在大學期間 Daniel 幫助過她後，一直暗戀著他。",
+			"avatar_url": "/resources/characters/story_2/yumiko.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 19,
+			"personality": [
+				"甜美",
+				"暗戀",
+				"溫柔",
+				"勤奮"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Gloria",
+			"description": "一位高級律師，有著短金髮和銳利的藍眼睛。她堅強冷漠的外表讓人難以接近，但內心隱藏著脆弱和不安全感。",
+			"avatar_url": "/resources/characters/story_2/gloria.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 32,
+			"personality": [
+				"堅強",
+				"冷漠",
+				"脆弱",
+				"專業"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "一位心理學教授，有著長長的黑髮，身材纖細優雅。她成為 Daniel 的導師，幫助他理解自己的能力和人性的複雜性。",
+			"avatar_url": "/resources/characters/story_2/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 38,
+			"personality": [
+				"智慧",
+				"優雅",
+				"理解",
+				"專業"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Carter",
+			"description": "Daniel 的高中同學和室友，有著金髮，外向開朗。隨著 Daniel 能力的增長，他們的友誼受到挑戰，Carter 感到被拋在後面。",
+			"avatar_url": "/resources/characters/story_2/carter.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"外向",
+				"開朗",
+				"嫉妒",
+				"友好"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Ethan",
+			"description": "一個神秘的反派，有著黑髮和精緻的服裝。他冷酷狡猾，擁有類似的讀心能力，但將其用於控制和操縱。",
+			"avatar_url": "/resources/characters/story_2/ethan.png",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"冷酷",
+				"狡猾",
+				"控制慾",
+				"神秘"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "心聲初現"
+		}
+	]
+}

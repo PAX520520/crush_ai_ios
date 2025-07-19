@@ -1,0 +1,102 @@
+{
+	"story_id": "story_2",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Daniel",
+			"description": "Um homem introvertido de 20 anos, recém-formado na universidade, que mora em Nova York mas frequentemente se esconde em seu pequeno apartamento. Ele se sente extremamente ansioso com interações sociais, especialmente com mulheres, mas no fundo anseia por amor verdadeiro.",
+			"avatar_url": "/resources/characters/story_2/daniel.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"introvertido",
+				"ansioso",
+				"anseio por amor",
+				"bondoso"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Yumiko",
+			"description": "Uma estudante universitária que trabalha meio período como barista, com cabelos castanhos cacheados e olhos verdes. Ela tem um sorriso brilhante e doce, e nutre uma paixão secreta por Daniel desde que ele a ajudou durante a faculdade.",
+			"avatar_url": "/resources/characters/story_2/yumiko.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 19,
+			"personality": [
+				"doce",
+				"apaixonada",
+				"gentil",
+				"dedicada"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Gloria",
+			"description": "Uma advogada sênior com cabelos loiros curtos e olhos azuis penetrantes. Sua aparência forte e fria a torna difícil de se aproximar, mas ela esconde vulnerabilidade e insegurança por dentro.",
+			"avatar_url": "/resources/characters/story_2/gloria.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 32,
+			"personality": [
+				"forte",
+				"fria",
+				"vulnerável",
+				"profissional"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "Uma professora de psicologia com longos cabelos pretos e figura esbelta e elegante. Ela se torna mentora de Daniel, ajudando-o a entender suas habilidades e a complexidade da natureza humana.",
+			"avatar_url": "/resources/characters/story_2/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 38,
+			"personality": [
+				"sábia",
+				"elegante",
+				"compreensiva",
+				"profissional"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Carter",
+			"description": "Colega de escola e companheiro de quarto de Daniel, com cabelos loiros, extrovertido e alegre. À medida que as habilidades de Daniel crescem, sua amizade é desafiada, e Carter se sente deixado para trás.",
+			"avatar_url": "/resources/characters/story_2/carter.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"extrovertido",
+				"alegre",
+				"ciumento",
+				"amigável"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Ethan",
+			"description": "Um vilão misterioso com cabelos pretos e roupas elegantes. Ele é frio e astuto, possuindo habilidades similares de leitura mental, mas as usa para controlar e manipular.",
+			"avatar_url": "/resources/characters/story_2/ethan.png",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"frio",
+				"astuto",
+				"controlador",
+				"misterioso"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Primeiros Sussurros"
+		}
+	]
+}

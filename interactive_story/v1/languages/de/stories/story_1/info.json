@@ -1,0 +1,125 @@
+{
+	"story_id": "story_1",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Dylan",
+			"description": "Ein Protagonist mit Gedächtnisverlust, ursprünglich bekannt als Ryder, war einst ein mächtiger Gangsterboss, der nach einem Verrat sein Gedächtnis verlor",
+			"avatar_url": "/resources/characters/story_1/dylan.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"stark",
+				"verwirrt",
+				"führungsstark"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Sophia",
+			"description": "Die erste Frau, die an der Seite des Protagonisten auftaucht. Klug und gerissen, behauptet seine Freundin zu sein, ist aber tatsächlich die Tochter des mächtigen Gangsterbosses Leo. Sie verheimlicht dem Protagonisten seine wahre Identität aus eigennützigen Motiven.",
+			"avatar_url": "/resources/characters/story_1/sophia.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"klug",
+				"gerissen",
+				"egoistisch"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Luna",
+			"description": "Ein verführerisches Topmodel mit großer Anziehungskraft, die behauptet, einst den Protagonisten geliebt zu haben, ihn aber verraten hat.",
+			"avatar_url": "/resources/characters/story_1/luna.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"verführerisch",
+				"verräterisch",
+				"schön"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "Eine starke Geschäftsfrau, Wirtschaftsexpertin, ruhig und rational, fähig und intelligent, aber tatsächlich tsundere. Hat geschäftliche Beziehungen zum Protagonisten, will ihn aber eigentlich benutzen, um gegen ihren Ehemann vorzugehen.",
+			"avatar_url": "/resources/characters/story_1/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 35,
+			"personality": [
+				"stark",
+				"ruhig",
+				"rational",
+				"berechnend"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Eve",
+			"description": "Eine verschwommene Frauengestalt in den Träumen des Protagonisten, die Frau, die er vor seinem Gedächtnisverlust wirklich liebte, geheimnisvoll und rätselhaft.",
+			"avatar_url": "/resources/characters/story_1/eve.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 27,
+			"personality": [
+				"geheimnisvoll",
+				"sanft",
+				"aufrichtig"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Max",
+			"description": "Der Antagonist, ehemals rechte Hand des Protagonisten, hat jetzt dessen Position als Gangsterboss übernommen und ist die Schlüsselfigur beim Verrat am Protagonisten.",
+			"avatar_url": "/resources/characters/story_1/max.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 32,
+			"personality": [
+				"verräterisch",
+				"ehrgeizig",
+				"gerissen"
+			]
+		},
+		{
+			"id": "char_7",
+			"name": "Leo",
+			"description": "Ein Gangsterboss, der großen Einfluss auf die Rache am Protagonisten hat, Sophias Vater.",
+			"avatar_url": "/resources/characters/story_1/leo.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 55,
+			"personality": [
+				"mächtig",
+				"autoritär",
+				"rachsüchtig"
+			]
+		},
+		{
+			"id": "char_8",
+			"name": "Jack",
+			"description": "Ein treuer Vertrauter und Verbündeter des Protagonisten, der ihm bei seinen Racheplänen hilft.",
+			"avatar_url": "/resources/characters/story_1/jack.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 29,
+			"personality": [
+				"loyal",
+				"zuverlässig",
+				"mutig"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Nebel der Erinnerungen"
+		}
+	]
+}

@@ -1,0 +1,125 @@
+{
+	"story_id": "story_1",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Dylan",
+			"description": "기억을 잃은 주인공으로, 본명은 Ryder이며, 한때 강력한 조직의 보스였지만 배신당한 후 기억을 잃었다",
+			"avatar_url": "/resources/characters/story_1/dylan.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"강인함",
+				"혼란스러움",
+				"리더십"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Sophia",
+			"description": "주인공 곁에 처음 나타난 여성. 똑똑하고 교활하며, 자신을 그의 친구라고 주장하지만 사실은 강력한 조직 보스 Leo의 딸이다. 그녀는 주인공의 진정한 정체성을 숨기고 있으며, 그녀의 진정한 동기는 이기적이다.",
+			"avatar_url": "/resources/characters/story_1/sophia.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"똑똑함",
+				"교활함",
+				"이기적"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Luna",
+			"description": "매혹적인 톱 모델로, 강한 매력을 지녔으며, 주인공과 사랑했었지만 그를 배신했다고 주장한다.",
+			"avatar_url": "/resources/characters/story_1/luna.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"매혹적",
+				"배신적",
+				"아름다움"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "파워우먼이자 비즈니스 엘리트로, 냉철하고 이성적이며 능력있고 똑똑하지만 실제로는 츤데레다. 주인공과 비즈니스 관계이지만, 실제로는 자신의 남편에 대항하기 위해 그를 이용하려 한다.",
+			"avatar_url": "/resources/characters/story_1/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 35,
+			"personality": [
+				"강인함",
+				"냉철함",
+				"이성적",
+				"계산적"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Eve",
+			"description": "주인공의 꿈에 흐릿하게 나타나는 여성으로, 기억을 잃기 전 진정으로 사랑했던 여인이며, 신비로운 존재이다.",
+			"avatar_url": "/resources/characters/story_1/eve.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 27,
+			"personality": [
+				"신비로움",
+				"다정함",
+				"진실함"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Max",
+			"description": "악역으로, 주인공의 이전 측근이었으나 현재는 그를 대신해 조직의 보스가 되었으며, 주인공을 배신한 핵심 인물이다.",
+			"avatar_url": "/resources/characters/story_1/max.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 32,
+			"personality": [
+				"배신적",
+				"야망",
+				"교활함"
+			]
+		},
+		{
+			"id": "char_7",
+			"name": "Leo",
+			"description": "주인공의 복수에 중대한 영향을 미치는 조직 보스이며, Sophia의 아버지이다.",
+			"avatar_url": "/resources/characters/story_1/leo.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 55,
+			"personality": [
+				"강력함",
+				"권위적",
+				"복수심"
+			]
+		},
+		{
+			"id": "char_8",
+			"name": "Jack",
+			"description": "주인공의 측근이자 동맹으로, 주인공의 복수 계획을 도와준다.",
+			"avatar_url": "/resources/characters/story_1/jack.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 29,
+			"personality": [
+				"충성심",
+				"신뢰성",
+				"용감함"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "기억의 안개"
+		}
+	]
+}

@@ -1,0 +1,125 @@
+{
+	"story_id": "story_1",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Dylan",
+			"description": "Головний герой з амнезією, справжнє ім'я Ryder, колишній могутній лідер банди, який втратив пам'ять після зради",
+			"avatar_url": "/resources/characters/story_1/dylan.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"сильний",
+				"розгублений",
+				"лідерський"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Sophia",
+			"description": "Перша жінка, яка з'явилася поруч з головним героєм. Розумна і хитра, називає себе його другом, але насправді є дочкою впливового лідера банди Лео. Вона приховує правду про справжню особистість головного героя, але її справжні мотиви егоїстичні.",
+			"avatar_url": "/resources/characters/story_1/sophia.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"розумна",
+				"хитра",
+				"егоїстична"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Luna",
+			"description": "Спокуслива топ-модель з великою привабливістю, яка стверджує, що колись кохала головного героя, але зрадила його.",
+			"avatar_url": "/resources/characters/story_1/luna.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"спокуслива",
+				"зрадлива",
+				"красива"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "Сильна ділова жінка, бізнес-еліта, спокійна та раціональна, здібна та розумна, але насправді цундере. Має ділові стосунки з головним героєм, але насправді хоче використати його проти свого чоловіка.",
+			"avatar_url": "/resources/characters/story_1/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 35,
+			"personality": [
+				"сильна",
+				"спокійна",
+				"раціональна",
+				"хитра"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Eve",
+			"description": "Розмита жіноча фігура в снах головного героя, жінка, яку він справді кохав до втрати пам'яті, загадкова і таємнича.",
+			"avatar_url": "/resources/characters/story_1/eve.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 27,
+			"personality": [
+				"таємнича",
+				"ніжна",
+				"щира"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Max",
+			"description": "Антагоніст, колишній надійний помічник головного героя, який тепер зайняв його місце як лідер банди, ключова фігура в зраді головного героя.",
+			"avatar_url": "/resources/characters/story_1/max.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 32,
+			"personality": [
+				"зрадливий",
+				"амбітний",
+				"хитрий"
+			]
+		},
+		{
+			"id": "char_7",
+			"name": "Leo",
+			"description": "Лідер банди, який має великий вплив на помсту головного героя, батько Софії.",
+			"avatar_url": "/resources/characters/story_1/leo.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 55,
+			"personality": [
+				"могутній",
+				"авторитетний",
+				"мстивий"
+			]
+		},
+		{
+			"id": "char_8",
+			"name": "Jack",
+			"description": "Довірена особа та союзник головного героя, який допомагає йому в плануванні помсти.",
+			"avatar_url": "/resources/characters/story_1/jack.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 29,
+			"personality": [
+				"вірний",
+				"надійний",
+				"хоробрий"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Туман спогадів"
+		}
+	]
+}

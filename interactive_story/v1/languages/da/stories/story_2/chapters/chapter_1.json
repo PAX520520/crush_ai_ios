@@ -1,0 +1,93 @@
+{
+	"title": "Første tanker",
+	"summary": "Den socialt ængstelige Daniel støder tilfældigt på en mystisk spilannoncer i en café og får uventet evnen til at læse tanker, hvor han hører barista Yumikos indre stemme. Dette øjeblik vender helt op og ned på hans verdensbillede. Han flygter i panik, fyldt med spørgsmål: Er det fantasi? Eller er det opvågningen af overnaturlige evner?",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Det er en helt almindelig morgen. Sollyset trænger gennem gardinernes sprækker og falder på de rodede lagner i din lille New York-lejlighed. Med tunge skridt bevæger du dig mod den café, du besøger hver dag - et ritual der holder dig 'forbundet' med verden."
+		},
+		{
+			"type": "narrator",
+			"content": "Du skubber døren til caféen op, og luften er fyldt med den velkendte duft af kaffe og et strejf af kanel. Du ser den velkendte skikkelse bag baren: Yumiko. Hun er deltidsbarista her, har brunt krøllet hår og grønne øjne, altid med et varmt smil. I kender ikke hinanden særlig godt, men hver gang du ser hende, slår dit hjerte lidt hurtigere."
+		},
+		{
+			"type": "narrator",
+			"content": "Daniel hjalp hende engang tilfældigt i et universitetskursus, og siden da har hun af og til nikket smilende til dig. Men du har aldrig samlet mod til at sige en hel sætning til hende."
+		},
+		{
+			"type": "narrator",
+			"content": "I dag har hun et lysegrønt forklæde på og er koncentreret om at justere dampventilen på kaffemaskinen. Sollyset falder på hendes profil fra vinduet, og konturerne ser ud som om de er tegnet med blød fokus. Du kigger ned, lader som om du browser på din telefon, for ikke at lade hende bemærke dit stjålne blik."
+		},
+		{
+			"type": "narrator",
+			"content": "Du synes altid hendes smil har en beroligende magi, men du har stadig for vane at sænke blikket, bestille hurtigt og gå mod et hjørne."
+		},
+		{
+			"type": "narrator",
+			"content": "Du åbner din telefon og forsøger at overdøve din indre stilhed med sociale mediers larm. På skærmen ses en influencer, der griner og skåler med nogle piger i nattelivets lys - den slags selvsikkerhed og lethed synes at tilhøre en anden art.",
+			"image_url": "/resources/images/story_2/chapter_1_1.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(indre hvisken) Dette liv... hvor langt er det fra mit?"
+		},
+		{
+			"type": "narrator",
+			"content": "Pludselig dukker en annonce op: 'Vil du læse andres tanker? Oplev ægte kontrol? - Prøv 'Sindets Port' gratis' Teksten blinker konstant, som om den ser direkte ind i din sjæl."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(med et bittert smil) Endnu en af disse click-bait annoncer..."
+		},
+		{
+			"type": "narrator",
+			"content": "Lige som du er ved at swipe den væk, eksploderer en skarp smerte i din tinding, og din bevidsthed bliver uklar som ramt af en hammer."
+		},
+		{
+			"type": "narrator",
+			"content": "En hvisken glider forbi dit øre - 'Han er her igen i dag... og bestilte den samme kaffe. Det må være den smag, han kan lide.'"
+		},
+		{
+			"type": "narrator",
+			"content": "Du ser brat op, Yumiko er fokuseret på at lave kaffe med bøjet hoved, men stemmen ekkoer stadig i dit hoved."
+		},
+		{
+			"type": "narrator",
+			"content": "'Jeg håber, han vil sige noget til mig... Husker han mig? Efter den afsluttende eksamen dengang...'"
+		},
+		{
+			"type": "narrator",
+			"content": "Du kigger på hende, og hun løfter pludselig hovedet, jeres blikke mødes. Hun bliver let overrasket. I næste sekund trænger en ny tanke ind i dit sind: 'Åh, han kigger på mig... Har jeg mon kaffepletter i ansigtet?!'",
+			"image_url": "/resources/images/story_2/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(med sammentrukne pupiller og hamrende hjerte) Dette er ikke min fantasi... Hørte jeg virkelig hendes tanker?!"
+		},
+		{
+			"type": "narrator",
+			"content": "Med en blanding af panik og nysgerrighed springer du op fra din plads som brændt og styrter ud ad døren. Gadens larm er nu reduceret til ekkoet af dine hjerteslag."
+		}
+	],
+	"choice": {
+		"prompt": "Var det, der lige skete, virkeligt? Du må finde ud af, om det bare var en hallucination.",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Gå straks tilbage til caféen og prøv at 'høre' Yumikos tanker igen."
+			},
+			{
+				"content": "Vend tilbage til din lejlighed og tjek om der er andre unormale fornemmelser."
+			},
+			{
+				"content": "Gå til Central Park for at teste om du kan høre andre menneskers tanker i menneskemængden."
+			}
+		]
+	}
+}

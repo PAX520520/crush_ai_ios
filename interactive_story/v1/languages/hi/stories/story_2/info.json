@@ -1,0 +1,102 @@
+{
+	"story_id": "story_2",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Daniel",
+			"description": "20 वर्षीय एक अंतर्मुखी युवक, जो हाल ही में कॉलेज से स्नातक हुआ है और न्यूयॉर्क में रहता है, लेकिन अक्सर अपने छोटे अपार्टमेंट में छिपा रहता है। वह सामाजिक संपर्क से बहुत घबराता है, विशेष रूप से महिलाओं के साथ, लेकिन दिल से सच्चे प्यार की चाह रखता है।",
+			"avatar_url": "/resources/characters/story_2/daniel.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"अंतर्मुखी",
+				"चिंतित",
+				"प्रेम की चाह",
+				"दयालु"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Yumiko",
+			"description": "एक कॉलेज छात्रा जो पार्ट-टाइम बारिस्ता है, भूरे घुंघराले बाल और हरी आंखें हैं। उसकी चमकदार मीठी मुस्कान है, और कॉलेज में Daniel की मदद के बाद से वह उससे प्यार करती है।",
+			"avatar_url": "/resources/characters/story_2/yumiko.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 19,
+			"personality": [
+				"मधुर",
+				"एकतरफा प्यार",
+				"कोमल",
+				"मेहनती"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Gloria",
+			"description": "एक वरिष्ठ वकील, छोटे सुनहरे बाल और तीखी नीली आंखें हैं। उसका मजबूत और ठंडा व्यवहार उसे दूसरों से दूर रखता है, लेकिन अंदर से वह कमजोर और असुरक्षित है।",
+			"avatar_url": "/resources/characters/story_2/gloria.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 32,
+			"personality": [
+				"मजबूत",
+				"निर्लिप्त",
+				"भावुक",
+				"पेशेवर"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "एक मनोविज्ञान प्रोफेसर, लंबे काले बाल और पतला सुंदर शरीर है। वह Daniel की मेंटर बनती है, उसे अपनी क्षमताओं और मानव स्वभाव की जटिलताओं को समझने में मदद करती है।",
+			"avatar_url": "/resources/characters/story_2/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 38,
+			"personality": [
+				"बुद्धिमान",
+				"शालीन",
+				"समझदार",
+				"पेशेवर"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Carter",
+			"description": "Daniel का हाई स्कूल का दोस्त और रूममेट, सुनहरे बाल वाला, बहिर्मुखी और खुशमिजाज। Daniel की क्षमताओं के विकास के साथ, उनकी दोस्ती चुनौतीपूर्ण हो जाती है, Carter को लगता है कि वह पीछे छूट गया है।",
+			"avatar_url": "/resources/characters/story_2/carter.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"बहिर्मुखी",
+				"खुशमिजाज",
+				"ईर्ष्यालु",
+				"मित्रवत"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Ethan",
+			"description": "एक रहस्यमय खलनायक, काले बाल और शानदार कपड़े पहनता है। वह निर्दयी और चालाक है, उसके पास भी मन पढ़ने की क्षमता है, लेकिन वह इसका इस्तेमाल नियंत्रण और हेरफेर के लिए करता है।",
+			"avatar_url": "/resources/characters/story_2/ethan.png",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"निर्दयी",
+				"चालाक",
+				"नियंत्रणकारी",
+				"रहस्यमय"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "मन की आवाज़"
+		}
+	]
+}

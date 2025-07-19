@@ -1,0 +1,87 @@
+{
+	"title": "Anıların Sisi",
+	"summary": "Hafızasını kaybeden protagonist Dylan hastanede uyanır ve kendisini arkadaşı olarak tanıtan gizemli bir kadın olan Sophia ile karşılaşır. Sophia ona bir kaza geçirdiğini ve bu yüzden hafızasını kaybettiğini söyler, ancak Dylan onun sözlerinden şüphe duyar ve ona güvenip güvenmeme, gerçeği isteme veya tek başına ayrılma seçenekleriyle karşı karşıya kalır.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Bilincin aniden kaotik boşluktan sıyrılıyor, sanki sudan çıkmış gibi. Keskin dezenfektan kokusu burun deliklerine dolup sinirlerini uyarıyor. Gözlerini açtığında kendini bembeyaz bir hastane odasında yatarken buluyorsun, tavandaki ışık başını döndürecek kadar parlak. Etraf sessiz, sadece kalp monitörünün hafif tik tak sesi duyuluyor. Ancak zihnin bomboş, sanki bilinmeyen bir güç tüm anılarını silmiş gibi."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Kafası karışmış bir şekilde gözlerini ovuşturarak, beyni donmuş gibi) Uhh... Ben kimim? Burası neresi?",
+			"image_url": "/resources/images/story_1/chapter_1_1.png"
+		},
+		{
+			"type": "narrator",
+			"content": "Doğrulmaya çalışıyorsun ama güçsüzlük hissi seni yatağa geri itiyor. Tam bu şüpheli ve huzursuz anında, odanın kapısı yavaşça açılıyor. O beliriyor - siyah elbiseli zarif bir kadın, adımları dengeli, gözlerinde tarif edilemez bir duygu gizli. Onun güzelliği kolayca yaklaşılabilen türden yumuşak değil, keskin ve baştan çıkarıcı obsidiyen gibi, tehlikeli ama çekici."
+		},
+		{
+			"type": "narrator",
+			"content": "Onu daha önce gördüğünü hissediyorsun... Rüyanda mı? Yoksa unutulmuş bir anı parçasında mı? Sana bakıyor, dudaklarında sanki önceden planlanmış bir gülümseme beliriyor."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Sesi yumuşak, bahar rüzgarı gibi) Sonunda uyandın. Bir daha uyanmayacaksın diye endişeleniyordum.",
+			"image_url": "/resources/images/story_1/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Tetikte bir ses tonuyla, etrafı tarayan gözlerle) Sen kimsin? Sen... neden buradasın? Ben neden buradayım?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Yumuşak ama tartışmaya yer bırakmayan bir tonla, dudaklarında anlamlı bir gülümsemeyle) Ben Sophia, senin arkadaşınım. Senin adın Dylan. Ciddi bir kaza geçirdin ve doktor geçici hafıza kaybı yaşadığını söyledi."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Anlık beliren ve kaybolan anı parçalarını yakalamaya çalışarak, endişeli bir sesle) Kaza mı? Hiçbir şey hatırlamıyorum..."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Yumuşak ve cesaretlendirici bir sesle, gözlerinde endişe, eli nazikçe bileğine dokunurken) Endişelenme, her şey düzelecek. Ben yanındayım. Bunu birlikte atlatacağız."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Kafası karışmış bir şekilde ona bakarak, gerçek niyetini anlamaya çalışarak) Sana güvenebilir miyim? Neden aramızda daha fazlası olduğunu hissediyorum?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Hafifçe kaşlarını çatarak, nasıl açıklayacağını düşünürken, sesi kararlı) Sana her şeyi anlatacağım, ama bunun için zamana ihtiyacımız var. Bana güven, şu an sadece dinlenmen gerekiyor, hafızan geri geldiğinde her şey netleşecek."
+		},
+		{
+			"type": "narrator",
+			"content": "Söylediği her şey kusursuz görünüyor, ama yine de açıklayamadığın bir tuhaflık hissediyorsun. O kim? Gerçekten ona güvenebilir misin?"
+		}
+	],
+	"choice": {
+		"prompt": "Nasıl karşılık vereceksin:",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Sophia'ya güvenmeyi seç ve hastanede dinlenmeye devam et"
+			},
+			{
+				"content": "Sophia'nın söylediklerinden şüphe duy ve gerçeği söylemesini iste"
+			},
+			{
+				"content": "Gizlice hastaneden ayrıl ve kimliğinin gizemini tek başına çözmeye çalış"
+			}
+		]
+	}
+}

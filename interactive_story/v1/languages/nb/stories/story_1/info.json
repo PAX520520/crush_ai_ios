@@ -1,0 +1,125 @@
+{
+	"story_id": "story_1",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Dylan",
+			"description": "Hovedpersonen som lider av hukommelsestap, opprinnelig kjent som Ryder, var en gang en mektig gjengboss før han mistet hukommelsen etter et forræderi",
+			"avatar_url": "/resources/characters/story_1/dylan.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"sterk",
+				"forvirret",
+				"lederskap"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Sophia",
+			"description": "Den første kvinnen som dukker opp ved hovedpersonens side. Smart og slu, hun hevder å være hans venn, men er egentlig datteren til den mektige gjengbossen Leo. Hun skjuler sannheten om hovedpersonens sanne identitet, men hennes egentlige motiver er selviske.",
+			"avatar_url": "/resources/characters/story_1/sophia.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"smart",
+				"slu",
+				"selvisk"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Luna",
+			"description": "En forførende toppmodell med stor tiltrekningskraft, som hevder å ha vært forelsket i hovedpersonen før hun forrådte ham.",
+			"avatar_url": "/resources/characters/story_1/luna.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"forførende",
+				"forrædersk",
+				"vakker"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "En sterk forretningskvinne og forretningselite, rolig og rasjonell, dyktig og intelligent, men egentlig tsundere. Hun har forretningsforbindelser med hovedpersonen, men planlegger egentlig å bruke ham mot sin egen ektemann.",
+			"avatar_url": "/resources/characters/story_1/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 35,
+			"personality": [
+				"sterk",
+				"rolig",
+				"rasjonell",
+				"manipulerende"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Eve",
+			"description": "En uklar kvinneskikkelse i hovedpersonens drømmer, kvinnen han virkelig elsket før han mistet hukommelsen, mystisk og gåtefull.",
+			"avatar_url": "/resources/characters/story_1/eve.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 27,
+			"personality": [
+				"mystisk",
+				"mild",
+				"oppriktig"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Max",
+			"description": "Antagonisten, tidligere hovedpersonens høyre hånd, som nå har tatt over som gjengboss, en nøkkelperson i forræderiet mot hovedpersonen.",
+			"avatar_url": "/resources/characters/story_1/max.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 32,
+			"personality": [
+				"forrædersk",
+				"ambisiøs",
+				"slu"
+			]
+		},
+		{
+			"id": "char_7",
+			"name": "Leo",
+			"description": "En gjengboss som har stor innflytelse på hovedpersonens hevn, Sophias far.",
+			"avatar_url": "/resources/characters/story_1/leo.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 55,
+			"personality": [
+				"mektig",
+				"autoritær",
+				"hevngjerrig"
+			]
+		},
+		{
+			"id": "char_8",
+			"name": "Jack",
+			"description": "En lojal følgesvenn og alliert av hovedpersonen, som hjelper ham med å planlegge hevnen.",
+			"avatar_url": "/resources/characters/story_1/jack.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 29,
+			"personality": [
+				"lojal",
+				"pålitelig",
+				"modig"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Minnenes tåke"
+		}
+	]
+}

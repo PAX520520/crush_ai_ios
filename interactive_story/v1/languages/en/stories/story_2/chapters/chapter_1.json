@@ -1,0 +1,93 @@
+{
+	"title": "The First Inner Voice",
+	"summary": "Daniel, who suffers from social anxiety, accidentally encounters a mysterious game advertisement in a coffee shop and unexpectedly gains mind-reading abilities, hearing the inner thoughts of the barista Yumiko. This moment completely overturns his perception. He flees in panic, filled with questions: Is this imagination? Or the awakening of supernatural powers?",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "It's an ordinary morning, as ordinary as can be. Sunlight streams through the curtain gaps, falling onto the messy bedsheets in your small New York apartment. You drag your heavy feet towards the coffee shop you visit daily—a ritual that keeps you 'connected' to the world."
+		},
+		{
+			"type": "narrator",
+			"content": "Pushing open the coffee shop door, the air is filled with familiar coffee aroma and a hint of cinnamon. You see that familiar figure behind the counter: Yumiko. She's a part-time barista here, with brown curly hair and green eyes, always wearing a warm smile. You're not exactly close, but every time you see her, your heart beats a little faster."
+		},
+		{
+			"type": "narrator",
+			"content": "Daniel once helped her by chance in a college course, and since then, she would occasionally smile and nod at you. But you've never mustered the courage to speak a complete sentence to her."
+		},
+		{
+			"type": "narrator",
+			"content": "Today she's wearing a light green apron, focused on adjusting the steam knob of the coffee machine. Sunlight falls on her profile from the window, her silhouette outlined as if in soft focus. You lower your head, pretending to browse your phone, not wanting her to notice your furtive glances."
+		},
+		{
+			"type": "narrator",
+			"content": "You've always felt her smile has a comforting magic, but you still habitually lower your gaze, quickly place your order, and walk to a corner seat."
+		},
+		{
+			"type": "narrator",
+			"content": "You open your phone, trying to drown out your inner silence with social media noise. On screen, an influencer laughs and raises glasses with several girls under nightclub lights—that kind of confidence and ease seems to belong to a different species.",
+			"image_url": "/resources/images/story_2/chapter_1_1.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(inner whisper) This kind of life... how far is it from me?"
+		},
+		{
+			"type": "narrator",
+			"content": "Suddenly, an advertisement flashes: 'Want to read others' minds? Experience true control?—Free trial of 'Mind's Gate'' The text keeps flickering, as if staring into your soul."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(bitter smile) Another clickbait ad..."
+		},
+		{
+			"type": "narrator",
+			"content": "Just as you're about to swipe it away, a sudden sharp pain explodes in your temple, your consciousness becoming blurry as if struck by a heavy hammer."
+		},
+		{
+			"type": "narrator",
+			"content": "A whisper crosses your ear—'He came again today... ordered the same coffee. I guess it's his favorite flavor.'"
+		},
+		{
+			"type": "narrator",
+			"content": "You jerk your head up, Yumiko is focused on making coffee, but that voice still echoes in your mind."
+		},
+		{
+			"type": "narrator",
+			"content": "'I wish he would say something to me... Does he remember me? After that final exam...'"
+		},
+		{
+			"type": "narrator",
+			"content": "You look at her, and she suddenly looks up, your eyes meeting. She's slightly startled. The next second, a new thought enters your mind: 'Ah, he's looking at me... Do I have coffee stains on my face?!'",
+			"image_url": "/resources/images/story_2/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Daniel",
+			"content": "(pupils dilating, heart racing) This isn't my imagination... Did I really hear her thoughts?!"
+		},
+		{
+			"type": "narrator",
+			"content": "Panic and curiosity intertwine as you jump up from your seat as if burned, rushing out the door. The street's bustle now reduced to just the echo of your heartbeat."
+		}
+	],
+	"choice": {
+		"prompt": "Was what just happened real? You must figure out if this was just an illusion.",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Return to the coffee shop immediately, try to 'hear' Yumiko's thoughts again."
+			},
+			{
+				"content": "Return to your apartment to check if there are any other unusual perceptions."
+			},
+			{
+				"content": "Go to Central Park to test if you can hear other people's thoughts in the crowd."
+			}
+		]
+	}
+}

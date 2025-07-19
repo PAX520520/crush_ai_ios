@@ -1,0 +1,45 @@
+{
+	"stories": [
+		{
+			"id": "story_1",
+			"title": "Amnesiac: Seduction and Traps",
+			"description": "A once-powerful man awakens with amnesia to find his world turned upside down. Beautiful women claim to be friends, yet their words are evasive, hiding secrets. In this city where power and desire intertwine, he must either recover his memories—or become completely lost in the traps they've set.",
+			"category_id": 1,
+			"tags": [
+				"Amnesia",
+				"Power",
+				"Betrayal",
+				"Revenge",
+				"Mystery"
+			],
+			"plot_direction": [
+				"[Plot: Amnesia and Mystery]: The protagonist wakes up in a hospital with no memory. Under Sophia's guidance, he enters a city ruled by desire and power, where he gradually assumes a new identity: Dylan, a business elite. Surrounded by wealth and temptation, his life becomes entangled with several women including Luna and Claire, each with their own style but possessing dangerous charm. The protagonist begins to realize these women have ulterior motives. Meanwhile, he repeatedly sees a blurry female face in his dreams—Eve—but cannot clearly remember her features.",
+				"[Middle Plot: Desire and Revenge]: Sophia leads him through criminal underworld and elite circles, exposing her connections to underground forces and attempting to drag him into a larger plan. He becomes entangled in complex emotional relationships with several women. After an incident, his memory fully returns, and he realizes he was actually a gang leader betrayed by his trusted ally Max. The protagonist decides to pretend he's still amnesiac and secretly begins planning his revenge.",
+				"[Late Plot: Revenge and Destiny]: The revenge plan unfolds as the protagonist ruthlessly destroys the forces that betrayed him. However, during his revenge, he either rekindles his feelings for Eve or discovers an even bigger conspiracy. After completing his revenge, he finds himself lost in emptiness, uncertain whether to share his life with someone or continue down the dark path."
+			],
+			"cover_image_url": "resources/covers/story_1_cover.png",
+			"background_image_url": "resources/backgrounds/story_1_bg.jpg"
+		},
+		{
+			"id": "story_2",
+			"title": "Mind Games: Mastering Love and the Mind",
+			"description": "An introverted and shy college graduate wakes up one day to find he has accidentally gained the ability to read minds and control emotions. Starting from his small apartment where he battles social anxiety, he begins to explore a world in bustling New York City he never had access to before—but the real challenge isn't 'hearing others,' it's 'understanding himself.' When love and power intertwine, he must find his own voice between temptation and true feelings.",
+			"category_id": 2,
+			"tags": [
+				"Mind Reading",
+				"Psychology",
+				"Power",
+				"Transformation",
+				"Emotional Control"
+			],
+			"plot_direction": [
+				"Beginning: One day, the protagonist, a recent college graduate, accidentally gains the ability to read minds and manipulate others' emotions while browsing on his phone in a coffee shop. Initially shocked and confused by this sudden power, he realizes he can finally interact with others fearlessly, especially when talking to women, as he no longer feels nervous. With this power, he begins to gain attention and affection from others, particularly from girls.",
+				"Middle Stage: Growth, Transformation, and Challenges The protagonist's life gradually undergoes major changes. He attracts girls around him using this power, starts attending various parties and gatherings, and gradually sheds his image as a loner to become the center of his social circle. However, as he achieves success in his social life, he also begins to realize this power comes at a cost. Though his social anxiety is temporarily overcome, he starts feeling lost in false relationships, unable to distinguish who truly approaches him and who is just manipulated by his power.",
+				"Climax: The Price Behind Power As the protagonist uses his power more frequently, things start to go wrong. He finds himself gradually losing control over the power, sometimes triggering it unconsciously, even when he doesn't want it to work. Worse, he begins to feel a dark force manipulating him. It turns out this power is the result of an experiment by a mysterious organization led by Ethan. The protagonist must make a final decision: continue using this power and become a slave to the organization, or break free from it and return to his original self, even though this might mean losing his ability to interact normally with others.",
+				"Ending: Life's Peak or Return to Normalcy? There are multiple possible endings with creative freedom. The novel's language should be vivid and expressive, mimicking the style of 'The Count of Monte Cristo,' while the plot can draw inspiration from 'The Bourne Identity.' This story should be full of suspense and emotional conflicts, leading readers into a world where desire and power intertwine."
+			],
+			"cover_image_url": "resources/covers/story_2_cover.png",
+			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		}
+	]
+}

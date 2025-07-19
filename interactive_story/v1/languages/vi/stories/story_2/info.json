@@ -1,0 +1,102 @@
+{
+	"story_id": "story_2",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Daniel",
+			"description": "Một chàng trai hướng nội 20 tuổi, vừa tốt nghiệp đại học, sống ở New York nhưng thường xuyên trốn trong căn hộ nhỏ của mình. Anh ấy cực kỳ lo lắng về tương tác xã hội, đặc biệt là với phụ nữ, nhưng sâu thẳm trong lòng khao khát tình yêu đích thực.",
+			"avatar_url": "/resources/characters/story_2/daniel.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"Hướng nội",
+				"Lo lắng",
+				"Khao khát tình yêu",
+				"Tốt bụng"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Yumiko",
+			"description": "Một sinh viên đại học kiêm barista, có mái tóc nâu xoăn và đôi mắt xanh lá. Cô ấy có nụ cười tươi sáng và ngọt ngào, và đã thầm yêu Daniel kể từ khi anh giúp cô trong thời gian học đại học.",
+			"avatar_url": "/resources/characters/story_2/yumiko.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 19,
+			"personality": [
+				"Ngọt ngào",
+				"Thầm yêu",
+				"Dịu dàng",
+				"Chăm chỉ"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Gloria",
+			"description": "Một luật sư cấp cao với mái tóc vàng ngắn và đôi mắt xanh sắc sảo. Vẻ ngoài mạnh mẽ và lạnh lùng của cô khiến người khác khó tiếp cận, nhưng bên trong ẩn giấu sự mong manh và bất an.",
+			"avatar_url": "/resources/characters/story_2/gloria.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 32,
+			"personality": [
+				"Mạnh mẽ",
+				"Lạnh lùng",
+				"Mong manh",
+				"Chuyên nghiệp"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "Một giáo sư tâm lý học với mái tóc đen dài, vóc dáng mảnh mai và thanh lịch. Cô trở thành người cố vấn của Daniel, giúp anh hiểu về khả năng của mình và sự phức tạp của bản chất con người.",
+			"avatar_url": "/resources/characters/story_2/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 38,
+			"personality": [
+				"Thông thái",
+				"Thanh lịch",
+				"Thấu hiểu",
+				"Chuyên nghiệp"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Carter",
+			"description": "Bạn học cấp ba và là bạn cùng phòng của Daniel, có mái tóc vàng, hướng ngoại và vui vẻ. Khi khả năng của Daniel phát triển, tình bạn của họ bị thử thách, Carter cảm thấy bị bỏ lại phía sau.",
+			"avatar_url": "/resources/characters/story_2/carter.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"Hướng ngoại",
+				"Vui vẻ",
+				"Ghen tị",
+				"Thân thiện"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Ethan",
+			"description": "Một nhân vật phản diện bí ẩn với mái tóc đen và trang phục tinh tế. Anh ta lạnh lùng và xảo quyệt, có khả năng đọc tâm trí tương tự nhưng sử dụng nó để kiểm soát và thao túng.",
+			"avatar_url": "/resources/characters/story_2/ethan.png",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Lạnh lùng",
+				"Xảo quyệt",
+				"Kiểm soát",
+				"Bí ẩn"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Tiếng nói đầu tiên của trái tim"
+		}
+	]
+}

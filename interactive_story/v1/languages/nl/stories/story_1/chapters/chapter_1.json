@@ -1,0 +1,87 @@
+{
+	"title": "Nevelen van Herinneringen",
+	"summary": "De geheugenverloren protagonist Dylan wordt wakker in het ziekenhuis en ontmoet een mysterieuze vrouw, Sophia, die beweert zijn vriend te zijn. Sophia vertelt hem dat hij zijn geheugen is verloren door een ongeluk, maar Dylan twijfelt aan haar woorden en staat voor de keuze: haar vertrouwen, de waarheid eisen of alleen vertrekken.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Je bewustzijn worstelt zich plotseling uit de chaotische leegte, als opkomend uit water. De scherpe geur van ontsmettingsmiddel dringt je neusgaten binnen en prikkelt je zenuwen. Als je je ogen opent, ontdek je dat je in een spierwitte ziekenhuiskamer ligt, met verblindend fel licht boven je hoofd. Overal heerst stilte, alleen het zachte getik van de hartmonitor is hoorbaar. Je geest is echter leeg, alsof een onbekende kracht al je herinneringen heeft weggevaagd."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Wrijft verward in zijn ogen, alsof zijn hersenen bevroren zijn) Uhh... Wie ben ik? Waar ben ik?",
+			"image_url": "/resources/images/story_1/chapter_1_1.png"
+		},
+		{
+			"type": "narrator",
+			"content": "Je probeert overeind te komen, maar een gevoel van zwakte drukt je terug in het matras. Net als je je ongerust afvraagt wat er aan de hand is, gaat de deur zachtjes open. Daar is ze - een elegante vrouw in een zwarte jurk, met stevige tred, maar in haar ogen schuilt een onuitsprekelijke emotie. Haar schoonheid is niet van het zachte, toegankelijke soort, maar eerder als obsidiaan - scherp en verleidelijk, gevaarlijk en aantrekkelijk."
+		},
+		{
+			"type": "narrator",
+			"content": "Je hebt het gevoel dat je haar eerder hebt gezien... in een droom? Of in een vergeten herinnering? Ze kijkt naar je, met een glimlach die bijna vooraf gepland lijkt."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Met een zachte stem, als een lentebriesje) Eindelijk ben je wakker. Ik was bang dat je nooit meer wakker zou worden.",
+			"image_url": "/resources/images/story_1/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Op zijn hoede, rondkijkend) Wie ben jij? Hoe... kom jij hier? Waarom ben ik hier?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Met zachte maar vastberaden stem, een veelbetekenende glimlach op haar gezicht) Ik ben Sophia, je vriendin. Jij bent Dylan. Je hebt een ernstig ongeluk gehad, de dokter zegt dat je tijdelijk geheugenverlies hebt."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Proberend vluchtige herinneringen vast te houden, met bezorgdheid in zijn stem) Een ongeluk? Ik kan me niets herinneren..."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Met zachte, bemoedigende stem, bezorgd kijkend, haar hand zachtjes op je pols leggend) Maak je geen zorgen, alles komt goed. Ik ben er voor je. We doen dit samen."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Kijkt haar verward aan, proberend haar ware bedoelingen te doorgronden) Kan ik je vertrouwen? Waarom heb ik het gevoel dat er meer tussen ons is?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Fronst licht, alsof ze nadenkt over hoe dit uit te leggen, haar stem wordt vastberaden) Ik zal je alles vertellen, maar dat kost tijd. Vertrouw me, je moet nu alleen rusten. Als je geheugen terugkomt, wordt alles duidelijk."
+		},
+		{
+			"type": "narrator",
+			"content": "Elk woord dat ze spreekt klinkt perfect, maar toch voel je dat er iets niet klopt. Wie is zij? Kun je haar echt vertrouwen?"
+		}
+	],
+	"choice": {
+		"prompt": "Hoe zul je reageren:",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Kies ervoor om Sophia te vertrouwen en rustig in het ziekenhuis te blijven"
+			},
+			{
+				"content": "Toon twijfel aan Sophia's woorden en eis de waarheid"
+			},
+			{
+				"content": "Stiekem het ziekenhuis verlaten en zelf op zoek gaan naar je identiteit"
+			}
+		]
+	}
+}

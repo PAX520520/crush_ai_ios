@@ -1,0 +1,125 @@
+{
+	"story_id": "story_1",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Dylan",
+			"description": "De hoofdrolspeler met geheugenverlies, oorspronkelijk genaamd Ryder, was ooit een machtige bendeleider die zijn geheugen verloor na verraad",
+			"avatar_url": "/resources/characters/story_1/dylan.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"sterk",
+				"verward",
+				"leiderschap"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Sophia",
+			"description": "De eerste vrouw die verschijnt naast de hoofdrolspeler. Slim en sluw, beweert zijn vriend te zijn, maar is eigenlijk de dochter van Leo, een machtige bendeleider. Ze verbergt de waarheid over zijn echte identiteit, met egoïstische motieven.",
+			"avatar_url": "/resources/characters/story_1/sophia.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"slim",
+				"sluw",
+				"egoïstisch"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Luna",
+			"description": "Een sexy topmodel met veel verleidingskracht, die beweert ooit een liefdesrelatie met de hoofdrolspeler te hebben gehad maar hem heeft verraden.",
+			"avatar_url": "/resources/characters/story_1/luna.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"verleidelijk",
+				"verraderlijk",
+				"mooi"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "Een sterke zakenvrouw, zakelijk expert, kalm en rationeel, bekwaam en intelligent, maar eigenlijk tsundere. Heeft zakelijke relaties met de hoofdrolspeler, maar wil hem eigenlijk gebruiken om tegen haar man te vechten.",
+			"avatar_url": "/resources/characters/story_1/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 35,
+			"personality": [
+				"sterk",
+				"kalm",
+				"rationeel",
+				"manipulatief"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Eve",
+			"description": "Een vage vrouwelijke figuur in de dromen van de hoofdrolspeler, de vrouw van wie hij echt hield voordat hij zijn geheugen verloor, mysterieus en ongrijpbaar.",
+			"avatar_url": "/resources/characters/story_1/eve.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 27,
+			"personality": [
+				"mysterieus",
+				"zachtaardig",
+				"oprecht"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Max",
+			"description": "De antagonist, vroeger de rechterhand van de hoofdrolspeler, nu de bendeleider die hem heeft vervangen, een sleutelfiguur in het verraad van de hoofdrolspeler.",
+			"avatar_url": "/resources/characters/story_1/max.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 32,
+			"personality": [
+				"verraderlijk",
+				"ambitieus",
+				"sluw"
+			]
+		},
+		{
+			"id": "char_7",
+			"name": "Leo",
+			"description": "Een bendeleider die een grote rol speelt in de wraak tegen de hoofdrolspeler, Sophia's vader.",
+			"avatar_url": "/resources/characters/story_1/leo.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 55,
+			"personality": [
+				"machtig",
+				"gezaghebbend",
+				"wraakzuchtig"
+			]
+		},
+		{
+			"id": "char_8",
+			"name": "Jack",
+			"description": "Een vertrouweling en bondgenoot van de hoofdrolspeler, die hem helpt bij zijn wraakplannen.",
+			"avatar_url": "/resources/characters/story_1/jack.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 29,
+			"personality": [
+				"loyaal",
+				"betrouwbaar",
+				"moedig"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Nevelen van Herinneringen"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"categories": [
+		{
+			"id": 1,
+			"name": "🎭 Tajemnica",
+			"description": "Trzymające w napięciu historie pełne tajemnic i dreszczyku emocji"
+		},
+		{
+			"id": 2,
+			"name": "💘 Romans",
+			"description": "Namiętne historie miłosne pełne głębokich emocji"
+		}
+	]
+}

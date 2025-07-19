@@ -1,0 +1,45 @@
+{
+	"stories": [
+		{
+			"id": "story_1",
+			"title": "Người mất trí nhớ: Cám dỗ và Cạm bẫy",
+			"description": "Một người đàn ông từng nắm quyền lực tỉnh dậy trong tình trạng mất trí nhớ, thế giới xung quanh đã hoàn toàn thay đổi. Những người phụ nữ xinh đẹp tự xưng là bạn, nhưng lời nói mập mờ, che giấu bí mật. Trong thành phố nơi quyền lực và dục vọng đan xen, anh phải tìm lại ký ức - hoặc hoàn toàn lạc lối trong cạm bẫy họ đã giăng ra.",
+			"category_id": 1,
+			"tags": [
+				"Mất trí nhớ",
+				"Quyền lực",
+				"Phản bội",
+				"Trả thù",
+				"Bí ẩn"
+			],
+			"plot_direction": [
+				"[Cốt truyện: Mất trí nhớ và bí ẩn]: Nhân vật chính tỉnh dậy trong bệnh viện và phát hiện mình không còn ký ức. Dưới sự dẫn dắt của Sofia, anh bước vào một thành phố bị chi phối bởi dục vọng và quyền lực, nơi anh dần hiện ra một danh tính mới: Dylan, một doanh nhân tinh hoa. Được bao quanh bởi sự giàu có và cám dỗ, cuộc sống của anh vướng vào mối quan hệ với một số phụ nữ như Luna và Claire, mỗi người đều có phong cách riêng nhưng đều mang vẻ quyến rũ nguy hiểm. Nhân vật chính bắt đầu nhận ra những người phụ nữ này có động cơ khả nghi. Đồng thời, trong giấc mơ anh liên tục nhìn thấy một khuôn mặt phụ nữ mờ ảo - Eve - nhưng không thể nhớ rõ đường nét của cô.",
+				"[Diễn biến giữa: Dục vọng và trả thù]: Sofia dẫn anh qua các vòng tròn tội phạm và giới tinh hoa, để lộ mối liên hệ của cô với thế lực ngầm và cố gắng lôi kéo anh vào một kế hoạch lớn hơn. Anh vướng vào các mối quan hệ tình cảm phức tạp với nhiều phụ nữ. Sau một tai nạn, ký ức của anh hoàn toàn trở lại, anh nhận ra mình thực sự là một trùm băng đảng bị đồng minh tin cậy Max phản bội. Nhân vật chính quyết định giả vờ vẫn mất trí nhớ và bí mật lên kế hoạch trả thù.",
+				"[Cốt truyện cuối: Trả thù và số phận]: Kế hoạch trả thù được triển khai khi nhân vật chính không thương tiếc phá hủy những thế lực đã phản bội anh. Tuy nhiên, trong quá trình trả thù, hoặc là anh khơi dậy lại tình cảm với Eve, hoặc phát hiện ra một âm mưu lớn hơn. Sau khi hoàn thành việc trả thù, anh thấy mình lạc lối trong sự trống rỗng, không chắc nên chia sẻ cuộc sống với ai đó hay tiếp tục con đường đen tối."
+			],
+			"cover_image_url": "resources/covers/story_1_cover.png",
+			"background_image_url": "resources/backgrounds/story_1_bg.jpg"
+		},
+		{
+			"id": "story_2",
+			"title": "Trò chơi đọc tâm: Kiểm soát tình yêu và tâm hồn",
+			"description": "Một sinh viên mới tốt nghiệp đại học nhút nhát, hướng nội một ngày tỉnh dậy và vô tình có được khả năng đọc tâm trí và điều khiển cảm xúc. Từ căn hộ nhỏ của người tự ti và sợ xã hội, anh bắt đầu khám phá thế giới chưa từng có ở thành phố New York náo nhiệt - nhưng thử thách thực sự không phải là 'nghe thấy người khác' mà là 'hiểu chính mình'. Khi tình yêu và sức mạnh đan xen, anh phải tìm ra tiếng nói của riêng mình giữa cám dỗ và tình cảm chân thành.",
+			"category_id": 2,
+			"tags": [
+				"Đọc tâm",
+				"Tâm lý",
+				"Sức mạnh",
+				"Biến đổi",
+				"Kiểm soát cảm xúc"
+			],
+			"plot_direction": [
+				"Mở đầu: Một ngày nọ, nhân vật chính, một chàng trai vừa tốt nghiệp đại học, vô tình có được khả năng đọc tâm và điều khiển cảm xúc của người khác khi đang lướt web trên điện thoại trong một quán cà phê. Ban đầu, anh cảm thấy sốc và bối rối trước sức mạnh đột ngột này, nhưng khi bắt đầu thử sử dụng nó, anh nhận ra cuối cùng mình có thể tương tác với người khác mà không sợ hãi, đặc biệt là khi nói chuyện với phụ nữ, vì anh không còn cảm thấy căng thẳng. Với sức mạnh này, anh bắt đầu nhận được sự chú ý và tình cảm từ người khác, đặc biệt là từ các cô gái.",
+				"Giai đoạn giữa: Phát triển, thay đổi và thách thức. Cuộc sống của nhân vật chính dần trải qua những thay đổi lớn. Anh sử dụng sức mạnh này để thu hút các cô gái xung quanh, bắt đầu tham gia các bữa tiệc và cuộc gặp gỡ, dần thoát khỏi hình ảnh người cô đơn trong quá khứ để trở thành nhân vật trung tâm trong vòng tròn xã hội của mình. Tuy nhiên, khi đạt được thành công trong đời sống xã hội, anh cũng bắt đầu nhận ra sức mạnh này không phải không có cái giá. Mặc dù đã tạm thời vượt qua nỗi lo âu xã hội, nhưng anh bắt đầu cảm thấy lạc lối trong các mối quan hệ giả tạo, không thể phân biệt ai thực sự đến gần anh và ai chỉ bị sức mạnh của anh điều khiển.",
+				"Cao trào: Cái giá của quyền lực. Khi nhân vật chính sử dụng sức mạnh ngày càng thường xuyên, mọi thứ bắt đầu sai lệch. Anh phát hiện mình dần mất kiểm soát đối với sức mạnh, đôi khi vô tình kích hoạt nó ngay cả khi không muốn nó có hiệu lực. Tệ hơn nữa, anh bắt đầu cảm nhận được một sức mạnh đen tối đang điều khiển mình. Hóa ra, sức mạnh này là kết quả của một thí nghiệm từ một tổ chức bí ẩn do Ethan lãnh đạo. Nhân vật chính phải đưa ra quyết định cuối cùng: tiếp tục sử dụng sức mạnh này và trở thành nô lệ của tổ chức, hoặc từ bỏ nó để trở về con người cũ của mình, dù điều này có thể đồng nghĩa với việc mất đi khả năng tương tác bình thường với người khác.",
+				"Kết thúc: Đỉnh cao cuộc đời hay trở về bình thường? Có nhiều kết thúc có thể và không gian cho sự sáng tạo. Ngôn ngữ của tiểu thuyết nên sống động và giàu biểu cảm, bắt chước phong cách của 'Bá tước Monte Cristo', cốt truyện có thể lấy cảm hứng từ 'Danh tính Bourne'. Câu chuyện này nên đầy ắp những tình tiết gay cấn và xung đột tình cảm, dẫn dắt độc giả vào một thế giới nơi dục vọng và quyền lực đan xen."
+			],
+			"cover_image_url": "resources/covers/story_2_cover.png",
+			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"categories": [
+		{
+			"id": 1,
+			"name": "🎭 Mysterie",
+			"description": "Spannende verhalen vol mysterie en spanning"
+		},
+		{
+			"id": 2,
+			"name": "💘 Romantiek",
+			"description": "Gepassioneerde liefdesverhalen vol emotionele diepgang"
+		}
+	]
+}

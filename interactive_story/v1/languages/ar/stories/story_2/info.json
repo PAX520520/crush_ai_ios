@@ -1,0 +1,102 @@
+{
+	"story_id": "story_2",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Daniel",
+			"description": "شاب انطوائي يبلغ من العمر 20 عامًا، تخرج حديثًا من الجامعة، يعيش في نيويورك لكنه غالبًا ما يختبئ في شقته الصغيرة. يشعر بقلق شديد تجاه التفاعلات الاجتماعية، خاصة مع النساء، لكنه يتوق في أعماقه للحب الحقيقي.",
+			"avatar_url": "/resources/characters/story_2/daniel.png",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"انطوائي",
+				"قلق",
+				"يتوق للحب",
+				"طيب القلب"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Yumiko",
+			"description": "طالبة جامعية تعمل كباريستا بدوام جزئي، لديها شعر بني مجعد وعيون خضراء. لديها ابتسامة مشرقة وحلوة، وهي معجبة سراً بـ Daniel منذ أن ساعدها في الجامعة.",
+			"avatar_url": "/resources/characters/story_2/yumiko.png",
+			"role": "hostess",
+			"gender": "female",
+			"age": 19,
+			"personality": [
+				"حلوة",
+				"معجبة سراً",
+				"لطيفة",
+				"مجتهدة"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Gloria",
+			"description": "محامية كبيرة، لديها شعر أشقر قصير وعيون زرقاء حادة. مظهرها القوي والبارد يجعل من الصعب الاقتراب منها، لكنها تخفي هشاشة وعدم أمان داخلي.",
+			"avatar_url": "/resources/characters/story_2/gloria.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 32,
+			"personality": [
+				"قوية",
+				"باردة",
+				"هشة",
+				"محترفة"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Claire",
+			"description": "أستاذة علم نفس، لديها شعر أسود طويل وجسم نحيف وأنيق. أصبحت مرشدة لـ Daniel، تساعده على فهم قدراته وتعقيدات الطبيعة البشرية.",
+			"avatar_url": "/resources/characters/story_2/claire.png",
+			"role": "co-star",
+			"gender": "female",
+			"age": 38,
+			"personality": [
+				"حكيمة",
+				"أنيقة",
+				"متفهمة",
+				"محترفة"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Carter",
+			"description": "زميل Daniel في المدرسة الثانوية ورفيقه في السكن، لديه شعر أشقر وشخصية منفتحة ومرحة. مع تطور قدرات Daniel، تتعرض صداقتهما للتحدي، ويشعر Carter بأنه متخلف عن الركب.",
+			"avatar_url": "/resources/characters/story_2/carter.png",
+			"role": "co-star",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"منفتح",
+				"مرح",
+				"حسود",
+				"ودود"
+			]
+		},
+		{
+			"id": "char_6",
+			"name": "Ethan",
+			"description": "شخصية شريرة غامضة، لديه شعر أسود وملابس أنيقة. قاسٍ وماكر، يمتلك قدرات مماثلة لقراءة العقل لكنه يستخدمها للسيطرة والتلاعب.",
+			"avatar_url": "/resources/characters/story_2/ethan.png",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"قاسٍ",
+				"ماكر",
+				"متحكم",
+				"غامض"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "هل حصلت على قوى خارقة؟!"
+		}
+	]
+}

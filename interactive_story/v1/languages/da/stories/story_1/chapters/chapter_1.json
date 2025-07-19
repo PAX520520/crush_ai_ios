@@ -1,0 +1,87 @@
+{
+	"title": "Erindringens tåge",
+	"summary": "Hovedpersonen Dylan, der lider af hukommelsestab, vågner op på hospitalet og møder en mystisk kvinde ved navn Sophia, som hævder at være hans ven. Sophia fortæller ham, at han har været ude for en ulykke, der har forårsaget hans hukommelsestab, men Dylan er skeptisk over for hendes ord og står over for valget mellem at stole på hende, kræve sandheden eller forlade stedet alene.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Din bevidsthed kæmper sig pludselig frem fra det kaotiske tomrum, som om du bryder gennem vand. Den skarpe lugt af desinfektionsmiddel trænger ind i dine næsebor og stimulerer dine nerver. Da du åbner øjnene, opdager du, at du ligger i et hvidt hospitalværelse, hvor lyset i loftet er så skarpt, at det gør dig svimmel. Der er stille omkring dig, kun den svage tikken fra hjerteovervågningen kan høres. Din hjerne føles dog tom, som om en ukendt kraft har suget alle dine minder væk."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Gnider forvirret øjnene, hjernen føles som frosset) Øh... Hvem er jeg? Hvor er jeg?",
+			"image_url": "/resources/images/story_1/chapter_1_1.png"
+		},
+		{
+			"type": "narrator",
+			"content": "Du prøver at kæmpe dig op, men en følelse af svaghed presser dig tilbage i madrassen. Mens du ligger der forvirret og urolig, åbnes døren til værelset stille. Hun træder ind - en elegant kvinde i sort kjole, med rolige skridt, men med noget uudgrundeligt i blikket. Hendes skønhed er ikke den bløde, let tilgængelige slags, men mere som obsidian - skarp og forførende, farlig og tiltrækkende."
+		},
+		{
+			"type": "narrator",
+			"content": "Du føler, at du har set hende før... i en drøm? Eller i et glemt erindringsfragment? Hun ser på dig med et smil, der virker næsten indstuderet."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Med blid stemme, som en forårsbrise) Endelig er du vågen. Jeg var bekymret for, at du aldrig ville vågne igen.",
+			"image_url": "/resources/images/story_1/chapter_1_2.png"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Med vagtsom stemme, øjnene scanner omgivelserne) Hvem er du? Hvordan... hvorfor er du her? Hvorfor er jeg her?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Med blid men bestemt stemme og et betydningsfuldt smil) Jeg er Sophia, din ven. Du hedder Dylan. Du har været ude for en alvorlig ulykke, og lægen siger, at du midlertidigt har mistet hukommelsen."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Forsøger at gribe fat i de flygtige erindringsfragmenter, med ængstelse i stemmen) En ulykke? Jeg kan ikke huske noget..."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Med blid og opmuntrende stemme, øjnene fulde af omsorg, mens hun forsigtigt lægger sin hånd på dit håndled) Bare rolig, alt bliver godt igen. Jeg er her. Vi klarer det sammen."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Dylan",
+			"content": "(Ser forvirret på hende og prøver at aflæse hendes sande hensigter) Kan jeg stole på dig? Hvorfor føler jeg, at der er mere mellem os?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Sophia",
+			"content": "(Rynker let panden, som om hun overvejer hvordan hun skal forklare det, stemmen bliver fast) Jeg skal nok fortælle dig alt, men det tager tid. Stol på mig, du skal bare hvile dig nu, og når din hukommelse vender tilbage, vil alt blive klart."
+		},
+		{
+			"type": "narrator",
+			"content": "Hvert ord hun siger virker perfekt afstemt, men alligevel føler du en udefinerbar dissonans. Hvem er hun? Kan du virkelig stole på hende?"
+		}
+	],
+	"choice": {
+		"prompt": "Hvordan vil du reagere:",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Vælg at stole på Sophia og bliv roligt på hospitalet for at komme dig"
+			},
+			{
+				"content": "Udtryk skepsis over for Sophias ord og kræv at få sandheden at vide"
+			},
+			{
+				"content": "Snig dig væk fra hospitalet og udforsk mysteriet om din identitet på egen hånd"
+			}
+		]
+	}
+}

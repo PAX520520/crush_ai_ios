@@ -1,0 +1,45 @@
+{
+	"stories": [
+		{
+			"id": "story_1",
+			"title": "Hilang Ingatan: Godaan dan Jebakan",
+			"description": "Seorang pria yang dulunya berkuasa terbangun dalam keadaan amnesia, dan dunia telah berubah total saat dia sadar. Seorang wanita cantik mengaku sebagai teman, namun kata-katanya ambigu dan menyembunyikan rahasia. Di kota yang dipenuhi kekuasaan dan hasrat ini, dia harus mendapatkan kembali ingatannya - atau sepenuhnya tersesat dalam jebakan yang mereka pasang.",
+			"category_id": 1,
+			"tags": [
+				"Amnesia",
+				"Kekuasaan",
+				"Pengkhianatan",
+				"Balas Dendam",
+				"Misteri"
+			],
+			"plot_direction": [
+				"[Plot: Amnesia dan Misteri]: Protagonis terbangun di rumah sakit dan menyadari bahwa dia kehilangan ingatannya. Di bawah bimbingan Sofia, dia memasuki kota yang dikuasai oleh hasrat dan kekuasaan, di mana dia secara bertahap menampilkan identitas baru: Dylan, seorang elit bisnis. Dikelilingi oleh kekayaan dan godaan, hidupnya terjerat dengan beberapa wanita termasuk Luna dan Claire, yang masing-masing memiliki gaya mereka sendiri namun memiliki pesona yang berbahaya. Protagonis mulai menyadari bahwa wanita-wanita ini memiliki motif tersembunyi. Sementara itu, dalam mimpinya dia terus melihat wajah wanita yang kabur - Eve - tapi dia tidak bisa mengingat dengan jelas fitur wajahnya.",
+				"[Plot Tengah: Hasrat dan Balas Dendam]: Sofia membawanya melalui dunia kejahatan dan lingkaran elit, mengungkapkan hubungannya dengan kekuatan bawah tanah, dan mencoba menyeretnya ke dalam rencana yang lebih besar. Dia terjebak dalam hubungan emosional yang rumit dengan beberapa wanita. Setelah kecelakaan, ingatannya sepenuhnya pulih dan dia menyadari bahwa dia sebenarnya adalah bos mafia yang dikhianati oleh sekutunya yang dipercaya, Max. Protagonis memutuskan untuk berpura-pura masih hilang ingatan dan diam-diam mulai merencanakan pembalasan dendam.",
+				"[Plot Akhir: Balas Dendam dan Takdir]: Rencana balas dendam terungkap saat protagonis tanpa ampun menghancurkan kekuatan yang mengkhianatinya. Namun, dalam proses pembalasan dendam, dia baik menghidupkan kembali perasaannya untuk Eve atau menemukan konspirasi yang lebih besar. Setelah menyelesaikan pembalasan dendamnya, dia menemukan dirinya tersesat dalam kekosongan, tidak yakin apakah akan berbagi hidupnya dengan seseorang atau terus berjalan di jalan kegelapan."
+			],
+			"cover_image_url": "resources/covers/story_1_cover.png",
+			"background_image_url": "resources/backgrounds/story_1_bg.jpg"
+		},
+		{
+			"id": "story_2",
+			"title": "Permainan Membaca Pikiran: Mengendalikan Cinta dan Pikiran",
+			"description": "Seorang lulusan universitas yang pemalu dan introvert suatu hari terbangun dan secara tidak sengaja mendapatkan kemampuan untuk membaca pikiran dan mengendalikan emosi. Berawal dari apartemen kecilnya dengan kecemasan sosial, dia mulai menjelajahi dunia yang belum pernah dia miliki di kota New York yang riuh - tetapi tantangan sebenarnya bukanlah 'mendengar orang lain', melainkan 'memahami diri sendiri'. Ketika cinta dan kekuatan berpadu, dia harus menemukan suaranya sendiri di antara godaan dan cinta sejati.",
+			"category_id": 2,
+			"tags": [
+				"Membaca Pikiran",
+				"Psikologi",
+				"Kekuatan",
+				"Transformasi",
+				"Manipulasi Emosi"
+			],
+			"plot_direction": [
+				"Awal: Suatu hari, protagonis, seorang pemuda yang baru lulus dari universitas, secara tidak sengaja mendapatkan kemampuan membaca pikiran dan mengendalikan emosi orang lain saat browsing di ponselnya di sebuah kafe. Awalnya, protagonis terkejut dan bingung dengan kekuatan yang tiba-tiba ini, tetapi ketika dia mulai mencobanya, dia menyadari bahwa akhirnya dia bisa berinteraksi dengan orang lain tanpa rasa takut, terutama saat berbicara dengan wanita, karena dia tidak lagi merasa gugup. Dengan kekuatan ini, dia mulai mendapatkan perhatian dan kasih sayang dari orang lain, terutama dari para gadis.",
+				"Tahap Tengah: Pertumbuhan, Transformasi, dan Tantangan. Kehidupan protagonis secara bertahap mengalami perubahan besar. Dia menggunakan kekuatan ini untuk menarik gadis-gadis di sekitarnya, mulai menghadiri berbagai pesta dan pertemuan, dan secara bertahap melepaskan citranya sebagai orang yang kesepian untuk menjadi tokoh sentral dalam lingkaran sosialnya. Namun, saat protagonis mencapai kesuksesan dalam kehidupan sosialnya, dia juga mulai menyadari bahwa kekuatan ini tidak tanpa harga. Meskipun kecemasan sosialnya telah teratasi untuk sementara, dia mulai merasa tersesat dalam hubungan palsu, tidak dapat membedakan siapa yang benar-benar mendekatinya dan siapa yang hanya dimanipulasi oleh kekuatannya.",
+				"Klimaks: Harga di Balik Kekuasaan. Seiring protagonis semakin sering menggunakan kekuatannya, hal-hal mulai salah. Dia menemukan dirinya secara bertahap kehilangan kendali atas kekuatannya, terkadang memicunya secara tidak sadar bahkan ketika dia tidak ingin itu terjadi. Yang lebih buruk lagi, dia mulai merasakan kekuatan gelap yang memanipulasinya. Ternyata, kekuatan ini adalah hasil dari eksperimen organisasi misterius yang dipimpin oleh Ethan. Protagonis harus membuat keputusan akhir: terus menggunakan kekuatan ini dan menjadi budak organisasi, atau melepaskannya dan kembali menjadi dirinya yang dulu, meskipun ini mungkin berarti dia kehilangan kemampuan untuk berinteraksi normal dengan orang lain.",
+				"Akhir: Puncak Kehidupan atau Kembali ke Kehidupan Biasa? Ada berbagai kemungkinan akhir, dengan ruang untuk kreativitas. Novel ini harus memiliki bahasa yang hidup dan ekspresif, meniru gaya 'The Count of Monte Cristo', dengan plot yang dapat mengambil inspirasi dari 'The Bourne Identity'. Cerita ini harus penuh dengan ketegangan dan konflik emosional, membawa pembaca ke dunia di mana hasrat dan kekuasaan saling terkait."
+			],
+			"cover_image_url": "resources/covers/story_2_cover.png",
+			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		}
+	]
+}
