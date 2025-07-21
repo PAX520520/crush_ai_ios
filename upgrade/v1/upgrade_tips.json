@@ -236,7 +236,7 @@
         "zh-Hans": {
             "mandatory": {
                 "title": "重要升级",
-                "description": "有新版本可用。"
+                "description": "有一个重要的升级可用。"
             },
             "optional": {
                 "title": "新版本可用",
@@ -246,7 +246,7 @@
         "zh-Hant": {
             "mandatory": {
                 "title": "重要升級",
-                "description": "有新版本可用。"
+                "description": "有一個重要的升級可用。"
             },
             "optional": {
                 "title": "新版本可用",
