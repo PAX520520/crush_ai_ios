@@ -1,0 +1,257 @@
+{
+    "latest_version": "1.3.0",
+    "min_mandatory_version": "1.2.1",
+    "force_upgrade_versions": ["1.2.3"],
+    "upgrade_messages": {
+        "ar": {
+            "mandatory": {
+                "title": "ترقية مهمة",
+                "description": "يتوفر تحديث مهم."
+            },
+            "optional": {
+                "title": "يتوفر إصدار جديد",
+                "description": "يتوفر إصدار جديد."
+            }
+        },
+        "da": {
+            "mandatory": {
+                "title": "Vigtig opgradering",
+                "description": "En vigtig opgradering er tilgængelig."
+            },
+            "optional": {
+                "title": "Ny version tilgængelig",
+                "description": "En ny version er tilgængelig."
+            }
+        },
+        "de": {
+            "mandatory": {
+                "title": "Wichtiges Update",
+                "description": "Ein wichtiges Update ist verfügbar."
+            },
+            "optional": {
+                "title": "Neue Version verfügbar",
+                "description": "Eine neue Version ist verfügbar."
+            }
+        },
+        "en": {
+            "mandatory": {
+                "title": "Important Upgrade",
+                "description": "An important upgrade is available."
+            },
+            "optional": {
+                "title": "New Version Available",
+                "description": "A new version is available."
+            }
+        },
+        "es": {
+            "mandatory": {
+                "title": "Actualización importante",
+                "description": "Hay una actualización importante disponible."
+            },
+            "optional": {
+                "title": "Nueva versión disponible",
+                "description": "Hay una nueva versión disponible."
+            }
+        },
+        "fi": {
+            "mandatory": {
+                "title": "Tärkeä päivitys",
+                "description": "Tärkeä päivitys on saatavilla."
+            },
+            "optional": {
+                "title": "Uusi versio saatavilla",
+                "description": "Uusi versio on saatavilla."
+            }
+        },
+        "fr": {
+            "mandatory": {
+                "title": "Mise à jour importante",
+                "description": "Une mise à jour importante est disponible."
+            },
+            "optional": {
+                "title": "Nouvelle version disponible",
+                "description": "Une nouvelle version est disponible."
+            }
+        },
+        "hi": {
+            "mandatory": {
+                "title": "महत्वपूर्ण अपग्रेड",
+                "description": "एक महत्वपूर्ण अपग्रेड उपलब्ध है।"
+            },
+            "optional": {
+                "title": "नया संस्करण उपलब्ध",
+                "description": "एक नया संस्करण उपलब्ध है।"
+            }
+        },
+        "id": {
+            "mandatory": {
+                "title": "Peningkatan Penting",
+                "description": "Peningkatan penting tersedia."
+            },
+            "optional": {
+                "title": "Versi Baru Tersedia",
+                "description": "Versi baru tersedia."
+            }
+        },
+        "it": {
+            "mandatory": {
+                "title": "Aggiornamento importante",
+                "description": "È disponibile un aggiornamento importante."
+            },
+            "optional": {
+                "title": "Nuova versione disponibile",
+                "description": "È disponibile una nuova versione."
+            }
+        },
+        "ja": {
+            "mandatory": {
+                "title": "重要なアップグレード",
+                "description": "重要なアップグレードが利用可能です。"
+            },
+            "optional": {
+                "title": "新バージョンが利用可能",
+                "description": "新しいバージョンが利用可能です。"
+            }
+        },
+        "ko": {
+            "mandatory": {
+                "title": "중요 업그레이드",
+                "description": "중요한 업그레이드가 있습니다."
+            },
+            "optional": {
+                "title": "새 버전 사용 가능",
+                "description": "새 버전이 있습니다."
+            }
+        },
+        "ms": {
+            "mandatory": {
+                "title": "Peningkatan Penting",
+                "description": "Peningkatan penting tersedia."
+            },
+            "optional": {
+                "title": "Versi Baharu Tersedia",
+                "description": "Versi baharu tersedia."
+            }
+        },
+        "nb": {
+            "mandatory": {
+                "title": "Viktig oppgradering",
+                "description": "En viktig oppgradering er tilgjengelig."
+            },
+            "optional": {
+                "title": "Ny versjon tilgjengelig",
+                "description": "En ny versjon er tilgjengelig."
+            }
+        },
+        "nl": {
+            "mandatory": {
+                "title": "Belangrijke upgrade",
+                "description": "Er is een belangrijke upgrade beschikbaar."
+            },
+            "optional": {
+                "title": "Nieuwe versie beschikbaar",
+                "description": "Er is een nieuwe versie beschikbaar."
+            }
+        },
+        "pl": {
+            "mandatory": {
+                "title": "Ważna aktualizacja",
+                "description": "Dostępna jest ważna aktualizacja."
+            },
+            "optional": {
+                "title": "Dostępna nowa wersja",
+                "description": "Dostępna jest nowa wersja."
+            }
+        },
+        "pt": {
+            "mandatory": {
+                "title": "Atualização Importante",
+                "description": "Uma atualização importante está disponível."
+            },
+            "optional": {
+                "title": "Nova Versão Disponível",
+                "description": "Uma nova versão está disponível."
+            }
+        },
+        "ru": {
+            "mandatory": {
+                "title": "Важное обновление",
+                "description": "Доступно важное обновление."
+            },
+            "optional": {
+                "title": "Доступна новая версия",
+                "description": "Доступна новая версия."
+            }
+        },
+        "sv": {
+            "mandatory": {
+                "title": "Viktig uppgradering",
+                "description": "En viktig uppgradering finns tillgänglig."
+            },
+            "optional": {
+                "title": "Ny version tillgänglig",
+                "description": "En ny version finns tillgänglig."
+            }
+        },
+        "th": {
+            "mandatory": {
+                "title": "การอัปเกรดที่สำคัญ",
+                "description": "มีการอัปเกรดที่สำคัญ"
+            },
+            "optional": {
+                "title": "มีเวอร์ชันใหม่",
+                "description": "มีเวอร์ชันใหม่"
+            }
+        },
+        "tr": {
+            "mandatory": {
+                "title": "Önemli Güncelleme",
+                "description": "Önemli bir güncelleme mevcut."
+            },
+            "optional": {
+                "title": "Yeni Sürüm Mevcut",
+                "description": "Yeni bir sürüm mevcut."
+            }
+        },
+        "uk": {
+            "mandatory": {
+                "title": "Важливе оновлення",
+                "description": "Доступне важливе оновлення."
+            },
+            "optional": {
+                "title": "Доступна нова версія",
+                "description": "Доступна нова версія."
+            }
+        },
+        "vi": {
+            "mandatory": {
+                "title": "Nâng cấp quan trọng",
+                "description": "Có bản nâng cấp quan trọng."
+            },
+            "optional": {
+                "title": "Có phiên bản mới",
+                "description": "Có phiên bản mới."
+            }
+        },
+        "zh-Hans": {
+            "mandatory": {
+                "title": "重要升级",
+                "description": "有新版本可用。"
+            },
+            "optional": {
+                "title": "新版本可用",
+                "description": "有新版本可用。"
+            }
+        },
+        "zh-Hant": {
+            "mandatory": {
+                "title": "重要升級",
+                "description": "有新版本可用。"
+            },
+            "optional": {
+                "title": "新版本可用",
+                "description": "有新版本可用。"
+            }
+        }
+    }
+}
