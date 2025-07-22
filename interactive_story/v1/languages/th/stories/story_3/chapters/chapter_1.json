@@ -97,7 +97,7 @@
 	],
 	"choice": {
 		"prompt": "คุณจะเลือกอย่างไร",
-		"is_ai_generated": false,
+		"is_ai_generated": true,
 		"options": [
 			{
 				"content": "เชื่อใจ Aria ติดตามเธอออกเดินทางตามหาดาบตกดาว"

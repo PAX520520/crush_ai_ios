@@ -1,0 +1,84 @@
+{
+	"story_id": "story_5",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Calian",
+			"description": "被剥夺王位的年轻王子，原名卡利安·瓦伦西亚，背负着复仇与救赎的使命。",
+			"avatar_url": "/resources/characters/story_5/calian.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 22,
+			"personality": [
+				"坚韧",
+				"聪明",
+				"内心矛盾",
+				"对正义充满渴望但对人性抱有怀疑"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Elina",
+			"description": "神秘的吟游诗人，实为敌国公主，擅长伪装和操控人心，内心却对和平抱有一丝希望。",
+			"avatar_url": "/resources/characters/story_5/elina.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 20,
+			"personality": [
+				"机智",
+				"魅惑",
+				"复杂",
+				"善于隐藏真实情感"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Roland",
+			"description": "忠诚的骑士，曾是卡利安的护卫，对王子忠心耿耿。",
+			"avatar_url": "/resources/characters/story_5/roland.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"正直",
+				"勇敢",
+				"固执"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Victor",
+			"description": "狡猾的盗贼，擅长偷窃和情报收集，对卡利安的理想主义半信半疑。",
+			"avatar_url": "/resources/characters/story_5/victor.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 28,
+			"personality": [
+				"机敏",
+				"玩世不恭",
+				"忠诚度存疑"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Marian",
+			"description": "睿智的女巫，掌握古老的魔法，隐居森林，了解王室的秘密。",
+			"avatar_url": "/resources/characters/story_5/marian.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 40,
+			"personality": [
+				"冷静",
+				"神秘",
+				"洞察力强"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "流放者的归途"
+		}
+	]
+}

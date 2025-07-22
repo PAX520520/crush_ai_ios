@@ -97,7 +97,7 @@
 	],
 	"choice": {
 		"prompt": "Як ви вчините",
-		"is_ai_generated": false,
+		"is_ai_generated": true,
 		"options": [
 			{
 				"content": "Повірити Aria і вирушити з нею на пошуки Клинка Зоряного Падіння."

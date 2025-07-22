@@ -97,7 +97,7 @@
 	],
 	"choice": {
 		"prompt": "Apa yang akan kamu pilih",
-		"is_ai_generated": false,
+		"is_ai_generated": true,
 		"options": [
 			{
 				"content": "Percaya pada Aria, ikut dengannya mencari Pedang Meteor."

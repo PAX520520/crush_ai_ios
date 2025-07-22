@@ -97,7 +97,7 @@
 	],
 	"choice": {
 		"prompt": "What will you choose",
-		"is_ai_generated": false,
+		"is_ai_generated": true,
 		"options": [
 			{
 				"content": "Trust Aria and follow her on the journey to find the Star-fallen Blade."

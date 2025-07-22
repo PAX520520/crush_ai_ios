@@ -1,0 +1,87 @@
+{
+	"story_id": "story_6",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Carter",
+			"description": "一位年轻而固执的记者，追寻真相是他的人生信条。来到雾谷镇是为了调查失踪案，却意外卷入灵异事件。",
+			"avatar_url": "/resources/characters/story_6/carter.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 27,
+			"personality": [
+				"好奇",
+				"勇敢",
+				"固执",
+				"逻辑思维强但对超自然现象持怀疑态度"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Eliza",
+			"description": "布莱克伍德庄园的前主人，百年前被家族背叛，成为血月仪式的祭品。她的幽魂徘徊在庄园，试图通过卡特打破诅咒，但她的动机似乎并不单纯。",
+			"avatar_url": "/resources/characters/story_6/eliza.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"哀怨",
+				"神秘",
+				"复杂",
+				"既有求助的渴望，也有复仇的怒火"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Aiden",
+			"description": "一个独来独往的流浪者，常在雾谷镇附近徘徊，声称了解庄园的秘密。他的真实身份和动机模糊不清。",
+			"avatar_url": "/resources/characters/story_6/aiden.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"沉默寡言",
+				"谨慎",
+				"机敏",
+				"似乎对灵异现象习以为常"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Vera",
+			"description": "雾谷镇的年老镇民，自称是历史学家，对庄园的过去知之甚详，但她的叙述总有保留，似乎隐藏了某些秘密。",
+			"avatar_url": "/resources/characters/story_6/vera.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 60,
+			"personality": [
+				"睿智",
+				"神秘",
+				"谨慎",
+				"言语中带着警告意味"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Lucas",
+			"description": "雾谷镇的警官，负责调查失踪案，对卡特的到来持怀疑态度。他的行为表明他对庄园的传闻有所了解，却不愿深入探讨。",
+			"avatar_url": "/resources/characters/story_6/lucas.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"严肃",
+				"警惕",
+				"保守",
+				"对超自然现象的态度模棱两可"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "雾中庄园"
+		}
+	]
+}

@@ -97,7 +97,7 @@
 	],
 	"choice": {
 		"prompt": "Co wybierzesz",
-		"is_ai_generated": false,
+		"is_ai_generated": true,
 		"options": [
 			{
 				"content": "Zaufaj Arii i wyrusz z nią na poszukiwanie Ostrza Spadającej Gwiazdy."

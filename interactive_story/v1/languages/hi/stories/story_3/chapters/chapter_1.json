@@ -97,7 +97,7 @@
 	],
 	"choice": {
 		"prompt": "आप क्या चुनेंगे",
-		"is_ai_generated": false,
+		"is_ai_generated": true,
 		"options": [
 			{
 				"content": "Aria पर विश्वास करें और तारों की तलवार की खोज में उनका साथ दें।"

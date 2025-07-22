@@ -97,7 +97,7 @@
 	],
 	"choice": {
 		"prompt": "Que choisissez-vous",
-		"is_ai_generated": false,
+		"is_ai_generated": true,
 		"options": [
 			{
 				"content": "Faire confiance à Aria et la suivre dans la quête de la Lame Stellaire."

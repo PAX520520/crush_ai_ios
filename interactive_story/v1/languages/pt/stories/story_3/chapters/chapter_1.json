@@ -97,7 +97,7 @@
 	],
 	"choice": {
 		"prompt": "O que você escolheria",
-		"is_ai_generated": false,
+		"is_ai_generated": true,
 		"options": [
 			{
 				"content": "Confiar em Aria e segui-la na busca pela Lâmina Estelar."

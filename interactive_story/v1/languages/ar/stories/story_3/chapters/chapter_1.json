@@ -97,7 +97,7 @@
 	],
 	"choice": {
 		"prompt": "ما الذي ستختاره",
-		"is_ai_generated": false,
+		"is_ai_generated": true,
 		"options": [
 			{
 				"content": "الثقة في Aria والانضمام إليها في رحلة البحث عن سيف النجم الساقط."

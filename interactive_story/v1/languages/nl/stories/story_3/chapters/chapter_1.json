@@ -97,7 +97,7 @@
 	],
 	"choice": {
 		"prompt": "Wat zou je kiezen",
-		"is_ai_generated": false,
+		"is_ai_generated": true,
 		"options": [
 			{
 				"content": "Vertrouw Aria en ga met haar mee op zoek naar het Sterrenzwaard."

@@ -97,7 +97,7 @@
 	],
 	"choice": {
 		"prompt": "Hva vil du velge",
-		"is_ai_generated": false,
+		"is_ai_generated": true,
 		"options": [
 			{
 				"content": "Stol på Aria og følg henne på reisen for å finne Stjernefallsbladet."

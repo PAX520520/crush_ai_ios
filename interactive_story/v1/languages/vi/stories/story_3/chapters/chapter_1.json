@@ -97,7 +97,7 @@
 	],
 	"choice": {
 		"prompt": "Bạn sẽ chọn như thế nào",
-		"is_ai_generated": false,
+		"is_ai_generated": true,
 		"options": [
 			{
 				"content": "Tin tưởng Aria, theo cô ấy lên đường tìm kiếm Lưỡi kiếm Sao Băng."

@@ -97,7 +97,7 @@
 	],
 	"choice": {
 		"prompt": "你会如何选择",
-		"is_ai_generated": false,
+		"is_ai_generated": true,
 		"options": [
 			{
 				"content": "相信 Aria，跟随她踏上寻找星陨之刃的旅程。"

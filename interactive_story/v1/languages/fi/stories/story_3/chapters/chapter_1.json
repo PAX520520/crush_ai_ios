@@ -97,7 +97,7 @@
 	],
 	"choice": {
 		"prompt": "Miten valitset",
-		"is_ai_generated": false,
+		"is_ai_generated": true,
 		"options": [
 			{
 				"content": "Luota Ariaan ja lähde hänen mukaansa etsimään tähtimiekkaa."

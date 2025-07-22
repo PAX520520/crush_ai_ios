@@ -97,7 +97,7 @@
 	],
 	"choice": {
 		"prompt": "どうする？",
-		"is_ai_generated": false,
+		"is_ai_generated": true,
 		"options": [
 			{
 				"content": "Aria を信じ、星墜ノ剣を探す旅に同行する。"

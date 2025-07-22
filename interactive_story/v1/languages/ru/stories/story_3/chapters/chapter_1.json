@@ -97,7 +97,7 @@
 	],
 	"choice": {
 		"prompt": "Как ты поступишь",
-		"is_ai_generated": false,
+		"is_ai_generated": true,
 		"options": [
 			{
 				"content": "Довериться Aria и отправиться с ней на поиски Клинка Падающей Звезды."

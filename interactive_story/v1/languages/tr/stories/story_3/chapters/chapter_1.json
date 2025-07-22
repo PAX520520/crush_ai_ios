@@ -97,7 +97,7 @@
 	],
 	"choice": {
 		"prompt": "Ne yapmayı seçersin",
-		"is_ai_generated": false,
+		"is_ai_generated": true,
 		"options": [
 			{
 				"content": "Aria'ya güven ve onunla birlikte Yıldız Kılıcı'nı aramaya çık."

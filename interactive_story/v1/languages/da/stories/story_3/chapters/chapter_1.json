@@ -97,7 +97,7 @@
 	],
 	"choice": {
 		"prompt": "Hvad vil du vælge",
-		"is_ai_generated": false,
+		"is_ai_generated": true,
 		"options": [
 			{
 				"content": "Stol på Aria og følg hende på rejsen for at finde Stjernefaldklingen."

@@ -1,0 +1,97 @@
+{
+	"title": "雾中庄园",
+	"summary": "记者卡特来到雾谷镇，调查失踪案，进入废弃的布莱克伍德庄园。他发现了一本神秘日记，遭遇了诡异的现象，并遇到了幽灵伊丽莎白。卡特必须决定如何应对这些超自然事件。",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "夜色深沉，雾谷镇被浓雾笼罩，街道上空无一人，只有路灯在雾中投下昏黄的光晕。你，卡特，一位年轻的记者，站在布莱克伍德庄园的铁门前，手中紧握着一支手电筒。庄园的轮廓在雾中若隐若现，像一头沉睡的巨兽，散发着令人不安的气息。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(低声自语，调整眼镜) 这地方……真他妈诡异。失踪案的线索都指向这里，但我怎么觉得这不是个好主意？"
+		},
+		{
+			"type": "narrator",
+			"content": "你推开生锈的铁门，刺耳的吱吱声在寂静中回荡。庄园的大门敞开，门廊上布满蛛网，空气中弥漫着霉味和某种难以名状的寒意。你踏入大厅，手电光扫过破旧的家具和龟裂的墙壁，隐约听到远处传来低语，像风声，又像人的呢喃。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(皱眉，握紧手电筒) 谁在那儿？出来！"
+		},
+		{
+			"type": "narrator",
+			"content": "无人回应，但低语声似乎更近了。你注意到大厅中央的桌上放着一本蒙尘的日记，封面上刻着“Eliza Blackwood”的名字。你翻开日记，发现字迹潦草，记载着关于“血月仪式”的片段：“他们背叛了我……用我的血换取了力量……诅咒将永存……”"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(喃喃自语) 血月仪式？这是什么鬼东西？难道失踪案和这个有关？"
+		},
+		{
+			"type": "narrator",
+			"content": "突然，一阵冷风吹过，烛台上的蜡烛无火自燃，发出幽蓝的光芒。你感到一股寒意爬上脊背，转身时，一个模糊的女性身影出现在大厅尽头的楼梯上。她穿着破旧的长裙，手持一盏闪烁的提灯，苍白的脸上没有表情，眼中却透着深深的哀怨。"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(声音空灵，低沉如叹息) 你……为何而来？这里不是生者的居所……"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(后退一步，心跳加速) 你是谁？！我……我是来找真相的！关于失踪案，关于这个庄园！"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(缓缓靠近，声音带着一丝愤怒) 真相？真相已被鲜血掩埋……你若想知晓，便留下……但小心，你的灵魂也将被吞噬。"
+		},
+		{
+			"type": "narrator",
+			"content": "她的身影突然消失，烛火熄灭，大厅陷入黑暗。你手中的手电筒开始闪烁，空气变得更加冰冷。你感到一股无形的压力，仿佛有什么东西在注视着你。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(喘息，试图冷静) 冷静，卡特，这只是幻觉……对吧？但这日记……这地方……我得弄清楚！"
+		},
+		{
+			"type": "narrator",
+			"content": "你听到地板上传来吱吱的脚步声，像是从楼上传来。你可以选择上楼追查声音的来源，或者继续研究日记寻找线索，或者干脆离开这个鬼地方，回到镇上寻求帮助。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(咬牙，低声) 我不能就这么退缩……但这地方真的太邪门了。"
+		},
+		{
+			"type": "narrator",
+			"content": "你的心跳声在耳边回响，庄园的阴影似乎在蠢蠢欲动。你会怎么做？"
+		}
+	],
+	"choice": {
+		"prompt": "你将如何行动？",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "上楼追查神秘的脚步声，探索庄园的深处。"
+			},
+			{
+				"content": "留在大厅，继续阅读伊丽莎白的日记，寻找更多线索。"
+			},
+			{
+				"content": "离开庄园，返回雾谷镇，向警官卢卡斯或镇民薇拉求助。"
+			}
+		]
+	}
+}

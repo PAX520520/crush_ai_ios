@@ -97,7 +97,7 @@
 	],
 	"choice": {
 		"prompt": "Wie wirst du dich entscheiden",
-		"is_ai_generated": false,
+		"is_ai_generated": true,
 		"options": [
 			{
 				"content": "Vertraue Aria und folge ihr auf der Suche nach der Sternenfallklinge."

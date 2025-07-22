@@ -97,7 +97,7 @@
 	],
 	"choice": {
 		"prompt": "어떻게 선택하시겠습니까",
-		"is_ai_generated": false,
+		"is_ai_generated": true,
 		"options": [
 			{
 				"content": "Aria를 믿고, 그녀와 함께 별빛 검을 찾는 여정을 떠난다."

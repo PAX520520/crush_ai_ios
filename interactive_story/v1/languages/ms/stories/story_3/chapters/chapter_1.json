@@ -97,7 +97,7 @@
 	],
 	"choice": {
 		"prompt": "Apa yang akan anda pilih",
-		"is_ai_generated": false,
+		"is_ai_generated": true,
 		"options": [
 			{
 				"content": "Percaya Aria dan ikut mencari Blade of Fallen Star."

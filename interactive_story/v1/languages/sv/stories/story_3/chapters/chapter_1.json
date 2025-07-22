@@ -97,7 +97,7 @@
 	],
 	"choice": {
 		"prompt": "Vad väljer du",
-		"is_ai_generated": false,
+		"is_ai_generated": true,
 		"options": [
 			{
 				"content": "Lita på Aria och följ med henne för att söka efter Stjärnfallsklingan."
