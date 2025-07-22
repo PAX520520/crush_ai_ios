@@ -40,6 +40,26 @@
 			],
 			"cover_image_url": "resources/covers/story_2_cover.png",
 			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		},
+		{
+			"id": "story_3",
+			"title": "星陨之刃",
+			"description": "在神秘的艾尔瑟瑞大陆上，传说中的星陨之刃据说能开启通往众神领域的传送门。年轻的冒险者 Ethan，意外发现自己是古老守护者血脉的继承人，肩负着寻找星陨之刃的使命。然而，黑暗势力觊觎这把神器，试图利用它唤醒沉睡的魔神。Ethan 在旅途中结识了神秘的精灵游侠 Aria、忠诚的矮人战士 Torin 和狡黠的人类法师 Lila，他们必须齐心协力，面对致命的魔法陷阱、凶猛的魔兽和背叛的阴谋，决定世界的命运。",
+			"category_id": 3,
+			"tags": [
+				"魔幻",
+				"冒险",
+				"命运",
+				"背叛",
+				"神器"
+			],
+			"plot_direction": [
+				"开始：Ethan 是一个普通的村庄铁匠学徒，在一次意外的山崩中发现了一块刻有神秘符文的石板，触发了沉睡在他体内的守护者血脉。神秘的精灵游侠 Aria 出现，告诉他关于星陨之刃的传说，并警告黑暗势力已在追捕他。Ethan 必须决定是否接受使命，踏上寻找神器的冒险之旅。",
+				"中间：Ethan 与 Aria、Torin 和 Lila 组成冒险小队，穿越森林、沙漠和古老遗迹，寻找星陨之刃的线索。他们面对魔兽、魔法陷阱和黑暗势力的追杀。Lila 的行为逐渐显露疑点，似乎隐藏着自己的秘密。随着旅程深入，Ethan 发现星陨之刃不仅能开启众神领域，还可能唤醒毁灭世界的魔神。他必须在信任队友和独自行动之间做出抉择。",
+				"结尾：冒险小队找到星陨之刃的藏匿之地，却发现 Lila 是黑暗势力的间谍，试图夺取神器。Ethan 在关键时刻觉醒血脉力量，击败 Lila，但面临最终选择：摧毁星陨之刃以阻止魔神复苏，或用它打开众神领域，寻求神明的指引。无论选择如何，Ethan 都将面对牺牲与命运的代价。"
+			],
+			"cover_image_url": "resources/covers/story_3_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
 		}
 	]
 }

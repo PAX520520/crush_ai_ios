@@ -40,6 +40,26 @@
 			],
 			"cover_image_url": "resources/covers/story_2_cover.png",
 			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		},
+		{
+			"id": "story_3",
+			"title": "Stjerneskærsbladet",
+			"description": "På det mystiske land Eltheria siges det legendariske Stjerneskærsblad at åbne en portal til gudernes rige. Den unge eventyrer Ethan opdager ved et tilfælde, at han er arving til en gammel vogterblodlinje og bærer missionen om at finde Stjerneskærsbladet. Dog begærer mørke kræfter denne hellige artefakt og forsøger at bruge den til at vække en sovende dæmon. På sin rejse møder Ethan den mystiske elver-ranger Aria, den loyale dværgkriger Torin og den snedige menneskelige magiker Lila. De må arbejde sammen for at møde dødbringende magiske fælder, voldsomme monstre og forræderiske intriger for at afgøre verdens skæbne.",
+			"category_id": 3,
+			"tags": [
+				"magi",
+				"eventyr",
+				"skæbne",
+				"forræderi",
+				"artefakt"
+			],
+			"plot_direction": [
+				"Begyndelse: Ethan, en almindelig landsbysmedlærling, opdager en mystisk runeindgraveret stenplade under et pludseligt jordskred, hvilket udløser den sovende vogterblodlinje i ham. Den mystiske elver-ranger Aria dukker op og fortæller ham om legenden om Stjerneskærsbladet og advarer ham om, at mørke kræfter allerede jager ham. Ethan må beslutte, om han vil acceptere missionen og begive sig ud på et eventyr for at finde artefakten.",
+				"Midten: Ethan, Aria, Torin og Lila danner et eventyrhold og krydser skove, ørkener og gamle ruiner på jagt efter spor til Stjerneskærsbladet. De står over for monstre, magiske fælder og mørke kræfters jagt. Lilas handlinger begynder at vække mistanke, og det ser ud til, at hun skjuler sine egne hemmeligheder. Efterhånden som rejsen skrider frem, opdager Ethan, at Stjerneskærsbladet ikke kun åbner gudernes rige, men også kan vække en dæmon, der vil ødelægge verden. Han må vælge mellem at stole på sine holdkammerater eller handle alene.",
+				"Slutning: Eventyrholdet finder Stjerneskærsbladets skjulested, men opdager, at Lila er en spion for mørke kræfter og forsøger at stjæle artefakten. Ethan vækker sin blodlinjes kraft i det afgørende øjeblik og besejrer Lila, men står over for et endeligt valg: at ødelægge Stjerneskærsbladet for at forhindre dæmonens genopstandelse, eller bruge det til at åbne gudernes rige og søge deres vejledning. Uanset hans valg vil Ethan stå over for ofre og skæbnens pris."
+			],
+			"cover_image_url": "resources/covers/story_3_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
 		}
 	]
 }

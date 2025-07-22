@@ -1,0 +1,113 @@
+{
+	"title": "Blodets uppvaknande",
+	"summary": "Den unge lärlingsmeden Ethan upptäcker en mystisk stentavla i ett jordskred, vilket väcker den slumrande väktarens blod inom honom. Den mystiska alven Aria dyker upp, avslöjar legenden om Stjärnfallsklingan och varnar för mörkrets krafter. Ethan står inför valet att ge sig ut på ett äventyr.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Morgondimman omslöt den fridfulla byn, luften var fylld med doften av jord och färskt gräs. Ethan stod utanför smedjan, hans hammare slog mot det glödheta järnet och gnistor flög. Hans liv var enkelt och vanligt, tills den dagen då jordskredet förändrade allt."
+		},
+		{
+			"type": "narrator",
+			"content": "Ett dånande brak bröt byns stillhet, bergssluttningen i fjärran rasade och damm fyllde himlen. Ethan kallades av byborna för att hjälpa till med räddningsarbetet, men bland stenarna upptäckte han en svagt lysande stentavla täckt med oläsliga runor."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(rynkar pannan, sträcker ut handen för att röra vid stentavlan, mumlar) Vad är det här? Det känns... som om det lever?"
+		},
+		{
+			"type": "narrator",
+			"content": "När hans fingrar rörde vid stentavlan strömmade en varm känsla från fingertopparna genom hela kroppen, och brutna bilder blixtrade genom hans sinne: stjärnhimlen, ett svärd, ett suddigt slagfält. En intensiv huvudvärk fick honom att falla på knä, och viskningar ekade i hans öron som om de kallade på hans namn."
+		},
+		{
+			"type": "narrator",
+			"content": "Byborna var förskräckta och försökte dra bort honom, men ett grönt ljus sköt ut från skogen och träffade precist de närmaste stenarna. En kvinna steg fram - hennes gyllene hår glänste i solljuset och hennes bågsträng darrade fortfarande lätt i hennes hand."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(med kall röst och skarp blick) Backa, människa. Detta är inget ni kan röra."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(kämpar sig upp, ser vaksamt på henne) Vem är du? Varför hjälper du mig? Vad är den här stentavlan?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(kommer närmare, med en glimt av komplexa känslor i ögonen) Jag är Aria, en alvisk skogsvandrare. Denna stentavla har väckt väktarens blod inom dig. Du är Ethan, men du är mycket mer än bara en lärlingssmed."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(skakar förvirrat på huvudet) Väktare? Blod? Jag förstår ingenting! Vad pratar du om?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(med allvarlig ton, blicken sveper mot den avlägsna skogen) Den legendariska Stjärnfallsklingan, nyckeln till gudarnas rike, är gömd någonstans på denna kontinent. Du är dess väktare, men mörkrets krafter har fått syn på dig. De kommer inte att skona dig, och inte byn heller."
+		},
+		{
+			"type": "narrator",
+			"content": "Ethans hjärta började slå snabbare, bilderna från stentavlan ekade fortfarande i hans sinne. Han tittade på Aria, hennes lugn och mystik gjorde honom orolig, men han kunde inte förneka den märkliga känslan av igenkänning."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(med låg, tvekande röst) Du vill att jag ska tro på allt detta? Byn är mitt hem, jag kan inte bara lämna den."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(med ett kallt leende och en glimt av förakt) Om du stannar här kommer du att dö, och byn kommer att förstöras. Följ med mig, så ska jag leda dig till sanningen - och Stjärnfallsklingan."
+		},
+		{
+			"type": "narrator",
+			"content": "I fjärran hördes hotfulla morrningar från skogen, som om något närmade sig. Ethan knöt nävarna, bilder av bybornas leende ansikten flimrade förbi i hans tankar, tillsammans med den märkliga kraften från stentavlan."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(biter ihop, med bestämd blick) Om jag går, kommer byn att vara säker?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(tystnar ett ögonblick, med mjukare ton) Jag kan inte lova det. Men om du stannar kommer de inte ha någon chans alls."
+		},
+		{
+			"type": "narrator",
+			"content": "Mörkret föll och morrningarna från skogen kom allt närmare. Ethan stod vid ett vägskäl, medan Arias blick var skarp som stjärnljus när hon väntade på hans beslut."
+		},
+		{
+			"type": "narrator",
+			"content": "Ska han lita på denna mystiska alv och ge sig ut på ett okänt äventyr? Eller stanna i byn och möta det okända hotet? Eller kanske försöka undersöka stentavlans hemligheter på egen hand?"
+		}
+	],
+	"choice": {
+		"prompt": "Vad väljer du",
+		"is_ai_generated": false,
+		"options": [
+			{
+				"content": "Lita på Aria och följ med henne för att söka efter Stjärnfallsklingan."
+			},
+			{
+				"content": "Avvisa Aria, stanna i byn för att skydda familjen och möta det okända hotet."
+			},
+			{
+				"content": "Ta stentavlan i hemlighet och undersök väktarblodets sanning på egen hand."
+			}
+		]
+	}
+}

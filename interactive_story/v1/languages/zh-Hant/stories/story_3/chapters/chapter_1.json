@@ -1,0 +1,113 @@
+{
+	"title": "血脈的覺醒",
+	"summary": "年輕的鐵匠學徒 Ethan 在山崩中發現神秘石板，觸發體內沉睡的守護者血脈。神秘的精靈遊俠 Aria 出現，揭示星隕之刃的傳說，並警告黑暗勢力的威脅。Ethan 面臨是否踏上冒險之旅的選擇。",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "清晨的薄霧籠罩著寧靜的村莊，空氣中瀰漫著泥土和青草的清香。Ethan 站在鐵匠鋪外，手中的錘子敲擊著熾熱的鐵塊，火花四濺。他的生活平凡而簡單，直到那天山崩改變了一切。"
+		},
+		{
+			"type": "narrator",
+			"content": "一聲巨響震碎了村莊的寧靜，遠處的山坡崩塌，塵土遮天。Ethan 被村民召去幫忙救援，卻在碎石堆中發現一塊散發微光的石板，上面刻滿了看不懂的符文。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(皺眉，伸手觸摸石板，低聲自語) 這是什麼？感覺……像是活的？"
+		},
+		{
+			"type": "narrator",
+			"content": "當他的手指觸碰石板，一股暖流從指尖湧入全身，他的腦海中閃過破碎的畫面：星空、長劍、模糊的戰場。劇烈的頭痛讓他跪倒在地，耳邊響起低語，彷彿在呼喚他的名字。"
+		},
+		{
+			"type": "narrator",
+			"content": "村民們驚慌失措，試圖拉他離開，但一道綠光從林中射來，精準地擊退了靠近的碎石。一名女子走了出來——她的金髮在陽光下閃耀，弓弦依然在手中微微顫動。"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(聲音清冷，目光如刀) 退後，人類。這不是你們能觸碰的東西。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(掙扎著起身，警惕地看著她) 你是誰？為什麼幫我？這石板是什麼？"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(走近，眼中閃過一絲複雜的情緒) 我叫 Aria，精靈遊俠。這塊石板喚醒了你體內的守護者血脈。你是 Ethan，但你遠不止一個鐵匠學徒。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(困惑地搖頭) 守護者？血脈？我什麼都不懂！你到底在說什麼？"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(語氣變得嚴肅，目光掃向遠方的森林) 傳說中的星隕之刃，開啟眾神領域的鑰匙，藏在這片大陸的某處。你是它的守護者，但黑暗勢力已經盯上了你。他們不會放過你，也不會放過這村莊。"
+		},
+		{
+			"type": "narrator",
+			"content": "Ethan 的心跳加速，腦海中依然迴盪著石板帶來的畫面。他看著 Aria，她的冷靜與神秘讓他感到不安，卻又無法否認那股莫名的熟悉感。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(聲音低沉，帶著猶豫) 你讓我相信這些？村莊是我的家，我不能就這樣離開。"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(冷笑，眼中閃過一絲不屑) 留在這裡，你會死，村莊也會被摧毀。跟我走，我會帶你尋找真相——和星隕之刃。"
+		},
+		{
+			"type": "narrator",
+			"content": "遠處，森林中傳來不祥的低吼，彷彿有什麼東西正在逼近。Ethan 握緊拳頭，腦海中浮現出村民們的笑臉，還有那塊石板帶來的奇怪力量。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(咬牙，目光堅定) 如果我走了，村莊會安全嗎？"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(沉默片刻，語氣柔和了一些) 我不能保證。但如果你留下，他們不會有任何機會。"
+		},
+		{
+			"type": "narrator",
+			"content": "夜幕降臨，森林中的低吼越來越近。Ethan 站在命運的十字路口，Aria 的目光如星光般銳利，等待著他的決定。"
+		},
+		{
+			"type": "narrator",
+			"content": "是相信這個神秘的精靈，踏上未知的冒險？還是留在村莊，面對未知的威脅？又或者，他可以嘗試獨自調查石板的秘密？"
+		}
+	],
+	"choice": {
+		"prompt": "你會如何選擇",
+		"is_ai_generated": false,
+		"options": [
+			{
+				"content": "相信 Aria，跟隨她踏上尋找星隕之刃的旅程。"
+			},
+			{
+				"content": "拒絕 Aria，留在村莊保護家人，面對未知的威脅。"
+			},
+			{
+				"content": "偷偷帶走石板，獨自調查守護者血脈的真相。"
+			}
+		]
+	}
+}

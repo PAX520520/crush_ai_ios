@@ -40,6 +40,26 @@
 			],
 			"cover_image_url": "resources/covers/story_2_cover.png",
 			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		},
+		{
+			"id": "story_3",
+			"title": "Starfall Blade",
+			"description": "In the mystical land of Eltheria, the legendary Starfall Blade is said to open a portal to the realm of gods. Young adventurer Ethan accidentally discovers he is the heir to an ancient guardian bloodline and bears the mission to find the Starfall Blade. However, dark forces covet this sacred artifact and seek to use it to awaken a slumbering demon. On his journey, Ethan meets the mysterious elven ranger Aria, the loyal dwarven warrior Torin, and the cunning human sorceress Lila. They must work together to face deadly magical traps, fierce monsters, and treacherous intrigues to decide the fate of the world.",
+			"category_id": 3,
+			"tags": [
+				"magic",
+				"adventure",
+				"destiny",
+				"betrayal",
+				"artifact"
+			],
+			"plot_direction": [
+				"Beginning: Ethan, an ordinary village blacksmith's apprentice, discovers a mysterious rune-engraved stone slab during a sudden landslide, triggering the dormant guardian bloodline within him. The mysterious elven ranger Aria appears, telling him about the legend of the Starfall Blade and warning him that dark forces are already hunting him. Ethan must decide whether to accept the mission and embark on an adventure to find the artifact.",
+				"Middle: Ethan, Aria, Torin, and Lila form an adventure party, traversing forests, deserts, and ancient ruins in search of clues to the Starfall Blade. They face monsters, magical traps, and the pursuit of dark forces. Lila's actions begin to raise suspicion, and it seems she harbors her own secrets. As the journey progresses, Ethan discovers that the Starfall Blade not only opens the realm of gods but can also awaken a demon that will destroy the world. He must choose between trusting his teammates or acting alone.",
+				"End: The adventure party finds the Starfall Blade's hiding place, but discovers that Lila is a spy for dark forces and attempts to steal the artifact. Ethan awakens the power of his bloodline at the crucial moment and defeats Lila, but faces a final choice: to destroy the Starfall Blade to prevent the demon's resurrection, or to use it to open the realm of gods and seek their guidance. Regardless of his choice, Ethan will face sacrifices and the price of destiny."
+			],
+			"cover_image_url": "resources/covers/story_3_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
 		}
 	]
 }

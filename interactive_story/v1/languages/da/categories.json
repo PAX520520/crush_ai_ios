@@ -9,6 +9,11 @@
 			"id": 2,
 			"name": "💘 Romance",
 			"description": "Passionerede kærlighedshistorier fyldt med følelsesmæssig dybde"
+		},
+		{
+			"id": 3,
+			"name": "✨ Magi",
+			"description": "Episke eventyr fyldt med magi og mirakler."
 		}
 	]
 }

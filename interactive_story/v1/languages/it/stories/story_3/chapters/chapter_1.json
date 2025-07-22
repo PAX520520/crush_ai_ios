@@ -1,0 +1,113 @@
+{
+	"title": "Il Risveglio del Sangue",
+	"summary": "Il giovane apprendista fabbro Ethan scopre una misteriosa tavoletta durante una frana, risvegliando il sangue del guardiano dormiente dentro di lui. L'enigmatica ranger elfica Aria appare, rivela la leggenda della Lama Stellare e avverte della minaccia delle forze oscure. Ethan si trova di fronte alla scelta se intraprendere o meno un viaggio avventuroso.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "La nebbia mattutina avvolge il tranquillo villaggio, l'aria è pervasa dal profumo di terra e erba fresca. Ethan sta fuori dalla bottega del fabbro, il martello in mano colpisce il ferro rovente, spargendo scintille. La sua vita era semplice e ordinaria, fino a quando la frana cambiò tutto."
+		},
+		{
+			"type": "narrator",
+			"content": "Un forte boato spezza la quiete del villaggio, il pendio lontano crolla, la polvere oscura il cielo. Ethan viene chiamato dai villici per aiutare nei soccorsi, ma tra le macerie trova una tavoletta luminescente, coperta di rune incomprensibili."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(aggrottando le sopracciglia, toccando la tavoletta, mormorando) Cos'è questo? Sembra... vivo?"
+		},
+		{
+			"type": "narrator",
+			"content": "Quando le sue dita toccano la tavoletta, un calore fluisce dalle punte delle dita in tutto il corpo, nella sua mente lampeggiano immagini frammentate: stelle, spade, campi di battaglia sfocati. Un forte mal di testa lo fa cadere in ginocchio, mentre sussurri chiamano il suo nome."
+		},
+		{
+			"type": "narrator",
+			"content": "I villici, in preda al panico, cercano di allontanarlo, ma un raggio verde emerge dal bosco, respingendo con precisione i detriti vicini. Una donna emerge - i suoi capelli dorati brillano alla luce del sole, la corda dell'arco ancora vibrante nella sua mano."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(con voce fredda, sguardo tagliente) Indietro, umani. Non è qualcosa che potete toccare."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(alzandosi a fatica, guardandola con cautela) Chi sei? Perché mi aiuti? Cos'è questa tavoletta?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(avvicinandosi, con emozione complessa negli occhi) Sono Aria, una ranger elfica. Questa tavoletta ha risvegliato il sangue del guardiano dentro di te. Sei Ethan, ma sei molto più di un semplice apprendista fabbro."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(scuotendo la testa confuso) Guardiano? Sangue? Non capisco nulla! Di cosa stai parlando?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(con tono serio, guardando verso la foresta lontana) La leggendaria Lama Stellare, la chiave per aprire il regno degli dei, è nascosta da qualche parte in questo continente. Tu sei il suo guardiano, ma le forze oscure ti hanno preso di mira. Non risparmieranno né te né questo villaggio."
+		},
+		{
+			"type": "narrator",
+			"content": "Il cuore di Ethan accelera, nella sua mente ancora risuonano le visioni portate dalla tavoletta. Guarda Aria, la sua calma e il suo mistero lo inquietano, eppure non può negare quella strana sensazione di familiarità."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(con voce bassa, esitante) Vuoi che creda a tutto questo? Il villaggio è la mia casa, non posso semplicemente andarmene."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(con un sorriso freddo, un lampo di disprezzo negli occhi) Se rimani qui, morirai, e il villaggio sarà distrutto. Vieni con me, ti condurrò alla verità - e alla Lama Stellare."
+		},
+		{
+			"type": "narrator",
+			"content": "In lontananza, dalla foresta provengono sinistri ringhi, come se qualcosa si stesse avvicinando. Ethan stringe i pugni, nella sua mente appaiono i volti sorridenti dei villici e lo strano potere portato dalla tavoletta."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(digrignando i denti, con sguardo determinato) Se me ne vado, il villaggio sarà al sicuro?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(dopo un momento di silenzio, con tono più dolce) Non posso garantirlo. Ma se rimani, non avranno alcuna possibilità."
+		},
+		{
+			"type": "narrator",
+			"content": "Cala la notte, i ringhi dalla foresta si fanno più vicini. Ethan si trova a un bivio del destino, lo sguardo di Aria, affilato come le stelle, attende la sua decisione."
+		},
+		{
+			"type": "narrator",
+			"content": "Fidarsi di questa misteriosa elfa e intraprendere un'avventura sconosciuta? O rimanere nel villaggio ad affrontare una minaccia ignota? O forse, potrebbe investigare da solo il segreto della tavoletta?"
+		}
+	],
+	"choice": {
+		"prompt": "Cosa sceglierai",
+		"is_ai_generated": false,
+		"options": [
+			{
+				"content": "Fidati di Aria e seguila nella ricerca della Lama Stellare."
+			},
+			{
+				"content": "Rifiuta Aria, rimani nel villaggio per proteggere la famiglia e affronta la minaccia sconosciuta."
+			},
+			{
+				"content": "Prendi segretamente la tavoletta e indaga da solo sulla verità del sangue del guardiano."
+			}
+		]
+	}
+}

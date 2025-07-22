@@ -9,6 +9,11 @@
 			"id": 2,
 			"name": "💘 Romantico",
 			"description": "Storie d'amore appassionate piene di profondità emotiva"
+		},
+		{
+			"id": 3,
+			"name": "✨ Fantastico",
+			"description": "Avventure epiche piene di magia e meraviglia"
 		}
 	]
 }

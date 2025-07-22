@@ -1,0 +1,113 @@
+{
+	"title": "Blodlinjens oppvåkning",
+	"summary": "Den unge smedlærlingen Ethan oppdager en mystisk steintavle under et jordskred, som utløser den sovende vokterens blodlinje i ham. Den mystiske alverangeren Aria dukker opp, avslører legenden om Stjernefallsbladet og advarer mot mørke krefter. Ethan står overfor valget om å begi seg ut på et eventyr.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Morgentåken omsluttet den rolige landsbyen, luften var fylt av duften av jord og friskt gress. Ethan sto utenfor smia, hammeren i hånden slo mot det glødende jernet, gnister fløy. Livet hans var enkelt og ordinært, helt til den dagen jordskredet endret alt."
+		},
+		{
+			"type": "narrator",
+			"content": "Et kraftig brak brøt landsbyens stillhet, fjellsiden i det fjerne raste sammen, støv fylte himmelen. Ethan ble tilkalt av landsbybeboerne for å hjelpe til med redningsarbeidet, men i steinmassene fant han en lysende steintavle dekket av uforståelige runer."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(rynker pannen, strekker seg ut for å berøre tavlen, hvisker) Hva er dette? Det føles... som om det er levende?"
+		},
+		{
+			"type": "narrator",
+			"content": "Da fingrene hans berørte tavlen, strømmet en varm følelse gjennom hele kroppen, bruddstykker av bilder blinket gjennom sinnet hans: stjernehimmel, sverd, uklare slagmarker. En intens hodepine fikk ham til å falle på kne, mens hviskende stemmer som syntes å kalle navnet hans ringte i ørene."
+		},
+		{
+			"type": "narrator",
+			"content": "Landsbybeboerne var i panikk og prøvde å dra ham vekk, men et grønt lys skjøt ut fra skogen og slo tilbake steinene som nærmet seg. En kvinne trådte fram - hennes gylne hår glitret i sollyset, buestrengen dirret fortsatt i hånden hennes."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(med kjølig stemme og skarpt blikk) Trekk dere tilbake, mennesker. Dette er ikke noe dere kan røre."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(reiser seg møysommelig, ser mistenksomt på henne) Hvem er du? Hvorfor hjelper du meg? Hva er denne tavlen?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(kommer nærmere, med et komplekst uttrykk i øynene) Jeg er Aria, en alveranger. Denne tavlen har vekket vokterens blodlinje i deg. Du er Ethan, men du er mer enn bare en smedlærling."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(rister forvirret på hodet) Vokter? Blodlinje? Jeg forstår ingenting! Hva snakker du om?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(med alvorlig tone, blikket sveiper mot den fjerne skogen) Stjernefallsbladet fra legenden, nøkkelen til gudenes rike, er gjemt et sted på dette kontinentet. Du er dets vokter, men mørke krefter har fått øye på deg. De vil ikke la deg være i fred, og de vil ikke la landsbyen være i fred heller."
+		},
+		{
+			"type": "narrator",
+			"content": "Ethans hjerte banket fortere, bildene fra tavlen gjenlød fortsatt i sinnet hans. Han så på Aria, hennes ro og mystikk gjorde ham urolig, men han kunne ikke benekte en merkelig følelse av gjenkjennelse."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(med dyp, nølende stemme) Du vil at jeg skal tro på alt dette? Landsbyen er mitt hjem, jeg kan ikke bare dra."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(med et kaldt smil og et glimt av forakt i øynene) Blir du her, vil du dø, og landsbyen vil bli ødelagt. Følg med meg, så vil jeg lede deg til sannheten - og Stjernefallsbladet."
+		},
+		{
+			"type": "narrator",
+			"content": "I det fjerne kom det illevarslende knurring fra skogen, som om noe nærmet seg. Ethan knyttet nevene, mens han så for seg de smilende ansiktene til landsbybeboerne og den merkelige kraften fra tavlen."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(biter tennene sammen, med fast blikk) Hvis jeg drar, vil landsbyen være trygg?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(etter en kort stillhet, med mykere tone) Jeg kan ikke garantere det. Men hvis du blir, har de ingen sjanse."
+		},
+		{
+			"type": "narrator",
+			"content": "Natten falt på, og knurringen fra skogen kom nærmere. Ethan sto ved et veiskille, mens Arias blikk var skarpt som stjernelys mens hun ventet på hans beslutning."
+		},
+		{
+			"type": "narrator",
+			"content": "Skal han stole på denne mystiske alven og begi seg ut på et ukjent eventyr? Eller bli i landsbyen og møte den ukjente trusselen? Eller kanskje undersøke tavlens hemmeligheter på egen hånd?"
+		}
+	],
+	"choice": {
+		"prompt": "Hva vil du velge",
+		"is_ai_generated": false,
+		"options": [
+			{
+				"content": "Stol på Aria og følg henne på reisen for å finne Stjernefallsbladet."
+			},
+			{
+				"content": "Avvis Aria, bli i landsbyen for å beskytte familien og møt den ukjente trusselen."
+			},
+			{
+				"content": "Ta med tavlen i hemmelighet og utforsk vokterens blodlinjes sannhet på egen hånd."
+			}
+		]
+	}
+}

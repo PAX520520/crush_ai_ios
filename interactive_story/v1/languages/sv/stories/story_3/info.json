@@ -1,0 +1,87 @@
+{
+	"story_id": "story_3",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "En ung lärling till bysmeden som oväntat upptäcker att han är arvtagare till väktarnas blodslinje och har uppdraget att hitta Stjärnfallsklingan.",
+			"avatar_url": "/resources/characters/story_3/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"modig",
+				"lojal",
+				"nyfiken",
+				"oerfaren",
+				"godtrogen"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Aria",
+			"description": "En mystisk alvranger som behärskar bågskytte och naturmagi. Hon känner väl till legenden om Stjärnfallsklingan, men hennes sanna motiv verkar vara mer än att bara hjälpa Ethan.",
+			"avatar_url": "/resources/characters/story_3/aria.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"lugn",
+				"smart",
+				"självständig",
+				"föraktar människor"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Torin",
+			"description": "En dvärg krigare från en uråldrig bergsklann, skicklig med stridsyxa och smide. Lojal mot Ethans uppdrag men skeptisk mot magi.",
+			"avatar_url": "/resources/characters/story_3/torin.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"lojal",
+				"envis",
+				"rättfram",
+				"humoristisk"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Lila",
+			"description": "En mänsklig magiker som behärskar eld- och illusionsmagi. På ytan rolig och humoristisk, men döljer kopplingar till mörka krafter.",
+			"avatar_url": "/resources/characters/story_3/lila.jpg",
+			"role": "antagonist",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"listig",
+				"förförisk",
+				"skicklig på att dölja",
+				"inre konflikt"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Kael",
+			"description": "Ledaren för de mörka krafterna, en mystisk skuggmagiker som åtrår Stjärnfallsklingan och försöker väcka demonguden för att härska över världen.",
+			"avatar_url": "/resources/characters/story_3/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 0,
+			"personality": [
+				"hänsynslös",
+				"ambitiös",
+				"manipulativ"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Blodslinjens uppvaknande"
+		}
+	]
+}

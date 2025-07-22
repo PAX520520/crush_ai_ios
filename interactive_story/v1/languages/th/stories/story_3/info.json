@@ -1,0 +1,87 @@
+{
+	"story_id": "story_3",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "ลูกมือช่างตีเหล็กหนุ่มในหมู่บ้าน ผู้ค้นพบว่าตนเองเป็นทายาทสายเลือดผู้พิทักษ์โดยบังเอิญ และต้องแบกรับภารกิจในการค้นหาดาบตกสวรรค์",
+			"avatar_url": "/resources/characters/story_3/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"กล้าหาญ",
+				"จงรักภักดี",
+				"อยากรู้อยากเห็น",
+				"ขาดประสบการณ์",
+				"เชื่อคนง่าย"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Aria",
+			"description": "เรนเจอร์เอลฟ์ผู้ลึกลับ ชำนาญการยิงธนูและเวทมนตร์ธรรมชาติ รู้เรื่องตำนานดาบตกสวรรค์เป็นอย่างดี แต่แรงจูงใจที่แท้จริงของเธอดูเหมือนจะไม่ใช่แค่การช่วยเหลือ Ethan",
+			"avatar_url": "/resources/characters/story_3/aria.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"ใจเย็น",
+				"ฉลาดหลักแหลม",
+				"เป็นตัวของตัวเอง",
+				"ดูถูกมนุษย์"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Torin",
+			"description": "นักรบคนแคระจากตระกูลภูเขาโบราณ เชี่ยวชาญการใช้ขวานศึกและการตีเหล็ก จงรักภักดีต่อภารกิจของ Ethan แต่สงสัยในเรื่องเวทมนตร์",
+			"avatar_url": "/resources/characters/story_3/torin.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"จงรักภักดี",
+				"ดื้อรั้น",
+				"ตรงไปตรงมา",
+				"อารมณ์ขัน"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Lila",
+			"description": "พ่อมดมนุษย์ผู้เชี่ยวชาญเวทมนตร์ไฟและมายา ภายนอกดูสนุกสนานและมีอารมณ์ขัน แต่แท้จริงแล้วซ่อนความเชื่อมโยงกับกองกำลังมืด",
+			"avatar_url": "/resources/characters/story_3/lila.jpg",
+			"role": "antagonist",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"เจ้าเล่ห์",
+				"มีเสน่ห์",
+				"เก่งการปลอมแปลง",
+				"ขัดแย้งในใจ"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Kael",
+			"description": "ผู้นำแห่งกองกำลังมืด จอมเวทเงามืดผู้ลึกลับ หมายปองดาบตกสวรรค์ พยายามปลุกปีศาจเพื่อครองโลก",
+			"avatar_url": "/resources/characters/story_3/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 0,
+			"personality": [
+				"โหดเหี้ยม",
+				"ทะเยอทะยาน",
+				"ชำนาญการควบคุมจิตใจ"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "การตื่นของสายเลือด"
+		}
+	]
+}

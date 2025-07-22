@@ -40,6 +40,26 @@
 			],
 			"cover_image_url": "resources/covers/story_2_cover.png",
 			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		},
+		{
+			"id": "story_3",
+			"title": "Het Zwaard van de Vallende Ster",
+			"description": "Op het mysterieuze continent Elserai wordt gezegd dat het legendarische Zwaard van de Vallende Ster een poort naar het rijk der goden kan openen. De jonge avonturier Ethan ontdekt per ongeluk dat hij de erfgenaam is van een oude beschermersbloedlijn en draagt de missie om het Zwaard van de Vallende Ster te vinden. Echter, duistere krachten begeren dit heilige voorwerp en proberen het te gebruiken om de slapende demon god te wekken. Tijdens zijn reis ontmoet Ethan de mysterieuze elfenranger Aria, de loyale dwergenkrijger Torin en de sluwe menselijke tovenaar Lila. Samen moeten ze dodelijke magische vallen, woeste monsters en verraderlijke complotten trotseren om het lot van de wereld te bepalen.",
+			"category_id": 3,
+			"tags": [
+				"Fantasie",
+				"Avontuur",
+				"Lot",
+				"Verraad",
+				"Heilig Voorwerp"
+			],
+			"plot_direction": [
+				"Begin: Ethan is een gewone leerling-smid in een dorp die tijdens een onverwachte aardverschuiving een tablet met mysterieuze runen ontdekt, wat de slapende beschermersbloedlijn in hem activeert. De mysterieuze elfenranger Aria verschijnt en vertelt hem over de legende van het Zwaard van de Vallende Ster, waarschuwend dat duistere krachten hem achtervolgen. Ethan moet beslissen of hij de missie aanvaardt en een avontuurlijke reis begint om het heilige voorwerp te vinden.",
+				"Midden: Ethan vormt een avonturiersgroep met Aria, Torin en Lila, en ze reizen door bossen, woestijnen en oude ruïnes op zoek naar aanwijzingen over het Zwaard van de Vallende Ster. Ze worden geconfronteerd met monsters, magische vallen en achtervolgingen door duistere krachten. Lila's gedrag wordt steeds verdachter en lijkt geheimen te verbergen. Naarmate de reis vordert, ontdekt Ethan dat het Zwaard van de Vallende Ster niet alleen het rijk der goden kan openen, maar ook de wereldvernietigende demon god kan wekken. Hij moet kiezen tussen het vertrouwen van zijn metgezellen of alleen verder gaan.",
+				"Einde: De avonturiersgroep vindt de schuilplaats van het Zwaard van de Vallende Ster, maar ontdekt dat Lila een spion is van de duistere krachten die het heilige voorwerp probeert te stelen. Op het cruciale moment ontwaakt Ethan's bloedlijnkracht en verslaat hij Lila, maar staat voor een laatste keuze: het Zwaard van de Vallende Ster vernietigen om de wederopstanding van de demon god te voorkomen, of het gebruiken om het rijk der goden te openen en goddelijke leiding te zoeken. Welke keuze hij ook maakt, Ethan zal de prijs van opoffering en het lot moeten dragen."
+			],
+			"cover_image_url": "resources/covers/story_3_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
 		}
 	]
 }

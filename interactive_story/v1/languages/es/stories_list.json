@@ -40,6 +40,26 @@
 			],
 			"cover_image_url": "resources/covers/story_2_cover.png",
 			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		},
+		{
+			"id": "story_3",
+			"title": "Hoja de Estrella Fugaz",
+			"description": "En la mística tierra de Eltheria, se dice que la legendaria Hoja de Estrella Fugaz abre un portal al reino de los dioses. El joven aventurero Ethan descubre accidentalmente que es el heredero de un antiguo linaje de guardianes y tiene la misión de encontrar la Hoja de Estrella Fugaz. Sin embargo, las fuerzas oscuras codician este artefacto sagrado y buscan usarlo para despertar a un demonio dormido. En su viaje, Ethan conoce a la misteriosa exploradora elfa Aria, al leal guerrero enano Torin y a la astuta hechicera humana Lila. Deben trabajar juntos para enfrentar trampas mágicas mortales, monstruos feroces e intrigas traicioneras para decidir el destino del mundo.",
+			"category_id": 3,
+			"tags": [
+				"magia",
+				"aventura",
+				"destino",
+				"traición",
+				"artefacto"
+			],
+			"plot_direction": [
+				"Inicio: Ethan, un aprendiz de herrero de aldea común, descubre una misteriosa losa de piedra grabada con runas durante un repentino deslizamiento de tierra, lo que activa el linaje de guardián dormido dentro de él. La misteriosa exploradora elfa Aria aparece, contándole la leyenda de la Hoja de Estrella Fugaz y advirtiéndole que las fuerzas oscuras ya lo están cazando. Ethan debe decidir si acepta la misión y se embarca en una aventura para encontrar el artefacto.",
+				"Medio: Ethan, Aria, Torin y Lila forman un grupo de aventureros, atravesando bosques, desiertos y ruinas antiguas en busca de pistas sobre la Hoja de Estrella Fugaz. Se enfrentan a monstruos, trampas mágicas y la persecución de las fuerzas oscuras. Las acciones de Lila comienzan a levantar sospechas, y parece que ella guarda sus propios secretos. A medida que avanza el viaje, Ethan descubre que la Hoja de Estrella Fugaz no solo abre el reino de los dioses, sino que también puede despertar a un demonio que destruirá el mundo. Debe elegir entre confiar en sus compañeros de equipo o actuar solo.",
+				"Fin: El grupo de aventureros encuentra el escondite de la Hoja de Estrella Fugaz, pero descubre que Lila es una espía de las fuerzas oscuras e intenta robar el artefacto. Ethan despierta el poder de su linaje en el momento crucial y derrota a Lila, pero se enfrenta a una elección final: destruir la Hoja de Estrella Fugaz para evitar la resurrección del demonio, o usarla para abrir el reino de los dioses y buscar su guía. Independientemente de su elección, Ethan enfrentará sacrificios y el precio del destino."
+			],
+			"cover_image_url": "resources/covers/story_3_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
 		}
 	]
 }

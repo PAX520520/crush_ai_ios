@@ -40,6 +40,26 @@
 			],
 			"cover_image_url": "resources/covers/story_2_cover.png",
 			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		},
+		{
+			"id": "story_3",
+			"title": "Lưỡi kiếm Sao Băng",
+			"description": "Trên lục địa Elserai huyền bí, truyền thuyết kể rằng Lưỡi kiếm Sao Băng có thể mở ra cánh cổng dẫn đến vương quốc của các vị thần. Ethan, một nhà thám hiểm trẻ, tình cờ phát hiện mình là người thừa kế dòng máu của những Người Bảo Vệ cổ xưa, và gánh vác sứ mệnh tìm kiếm Lưỡi kiếm Sao Băng. Tuy nhiên, thế lực bóng tối đang nhòm ngó món thần khí này, âm mưu sử dụng nó để đánh thức Ma thần đang say ngủ. Trong hành trình của mình, Ethan gặp gỡ nữ kiếm sĩ tiên tộc bí ẩn Aria, chiến binh người lùn trung thành Torin và pháp sư loài người xảo quyệt Lila. Họ phải đoàn kết để đối mặt với những cạm bẫy ma thuật chết người, quái thú hung dữ và âm mưu phản bội, quyết định vận mệnh của thế giới.",
+			"category_id": 3,
+			"tags": [
+				"Kỳ ảo",
+				"Phiêu lưu",
+				"Số phận",
+				"Phản bội",
+				"Thần khí"
+			],
+			"plot_direction": [
+				"Mở đầu: Ethan là một người học việc rèn sắt bình thường trong làng. Trong một vụ lở núi bất ngờ, anh phát hiện ra một tấm bia đá khắc những ký tự bí ẩn, kích hoạt dòng máu Người Bảo Vệ đang ngủ yên trong cơ thể. Nữ kiếm sĩ tiên tộc bí ẩn Aria xuất hiện, kể cho anh nghe về truyền thuyết Lưỡi kiếm Sao Băng và cảnh báo rằng thế lực bóng tối đang săn lùng anh. Ethan phải quyết định có chấp nhận sứ mệnh và bắt đầu cuộc hành trình tìm kiếm thần khí hay không.",
+				"Diễn biến giữa: Ethan cùng Aria, Torin và Lila lập thành đội thám hiểm, vượt qua rừng rậm, sa mạc và di tích cổ xưa để tìm kiếm dấu vết của Lưỡi kiếm Sao Băng. Họ đối mặt với quái thú, cạm bẫy ma thuật và sự truy sát của thế lực bóng tối. Hành động của Lila dần bộc lộ những điểm đáng ngờ, dường như cô đang giấu giếm bí mật của mình. Khi cuộc hành trình tiến sâu hơn, Ethan phát hiện ra Lưỡi kiếm Sao Băng không chỉ có thể mở cửa vương quốc thần thánh mà còn có thể đánh thức Ma thần hủy diệt thế giới. Anh phải lựa chọn giữa việc tin tưởng đồng đội hay hành động một mình.",
+				"Kết thúc: Đội thám hiểm tìm thấy nơi cất giấu Lưỡi kiếm Sao Băng, nhưng phát hiện ra Lila là gián điệp của thế lực bóng tối, đang cố chiếm đoạt thần khí. Trong thời khắc quyết định, Ethan thức tỉnh sức mạnh huyết thống, đánh bại Lila, nhưng phải đối mặt với lựa chọn cuối cùng: phá hủy Lưỡi kiếm Sao Băng để ngăn Ma thần hồi sinh, hoặc dùng nó mở cửa vương quốc thần thánh, tìm kiếm sự chỉ dẫn của các vị thần. Dù chọn con đường nào, Ethan đều phải đối mặt với cái giá của sự hy sinh và số phận."
+			],
+			"cover_image_url": "resources/covers/story_3_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
 		}
 	]
 }

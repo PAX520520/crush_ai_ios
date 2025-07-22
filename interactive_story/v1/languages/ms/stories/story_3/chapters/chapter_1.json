@@ -1,0 +1,113 @@
+{
+	"title": "Kebangkitan Darah",
+	"summary": "Ethan, seorang perantis tukang besi muda menemui tablet misteri semasa tanah runtuh, yang mencetuskan darah penjaga yang tidur dalam dirinya. Aria, seorang penjelajah elf misteri muncul, mendedahkan legenda Blade of Fallen Star dan memberi amaran tentang ancaman kuasa gelap. Ethan menghadapi pilihan sama ada untuk memulakan perjalanan pengembaraan.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Kabus pagi menyelubungi kampung yang tenang, udara dipenuhi dengan aroma tanah dan rumput segar. Ethan berdiri di luar kedai tukang besi, tukul di tangannya memukul besi panas, mencetuskan percikan api. Hidupnya biasa dan sederhana, sehingga tanah runtuh hari itu mengubah segalanya."
+		},
+		{
+			"type": "narrator",
+			"content": "Satu letupan kuat memecah ketenangan kampung, cerun bukit jauh runtuh, debu menutupi langit. Ethan dipanggil oleh penduduk kampung untuk membantu menyelamat, tetapi dia menemui tablet bercahaya di antara timbunan batu, ditutupi dengan simbol yang tidak dapat difahami."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Mengerutkan dahi, mengulurkan tangan untuk menyentuh tablet, berbisik) Apa ini? Rasanya... seperti hidup?"
+		},
+		{
+			"type": "narrator",
+			"content": "Apabila jarinya menyentuh tablet itu, arus hangat mengalir dari hujung jarinya ke seluruh badan, bayangan terputus-putus melintas di fikirannya: bintang-bintang, pedang, medan perang yang kabur. Sakit kepala yang teruk membuatnya terjatuh berlutut, bisikan bergema di telinganya, seolah-olah memanggil namanya."
+		},
+		{
+			"type": "narrator",
+			"content": "Penduduk kampung panik, cuba menariknya pergi, tetapi cahaya hijau meluncur dari hutan, tepat menolak batu-batu yang menghampiri. Seorang wanita keluar - rambut emasnya bersinar dalam cahaya matahari, tali busurnya masih bergetar di tangannya."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(Suara sejuk, pandangan tajam) Undur, manusia. Ini bukan sesuatu yang boleh kamu sentuh."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Berjuang untuk bangun, memandangnya dengan waspada) Siapa kamu? Kenapa membantu saya? Apa tablet ini?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(Menghampiri, matanya menunjukkan emosi kompleks) Saya Aria, penjelajah elf. Tablet ini telah membangunkan darah penjaga dalam dirimu. Kamu Ethan, tetapi kamu lebih dari sekadar perantis tukang besi."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Menggeleng kepala dengan bingung) Penjaga? Darah? Saya tidak faham apa-apa! Apa yang kamu cakap?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(Nada serius, memandang ke arah hutan) Blade of Fallen Star yang legenda, kunci ke alam dewa, tersembunyi di suatu tempat di benua ini. Kamu penjaganya, tetapi kuasa gelap telah mengesan kamu. Mereka tidak akan melepaskan kamu, atau kampung ini."
+		},
+		{
+			"type": "narrator",
+			"content": "Jantung Ethan berdegup pantas, bayangan dari tablet masih bergema dalam fikirannya. Dia memandang Aria, ketenangan dan misterinya membuatnya tidak selesa, namun dia tidak dapat menafikan rasa kebiasaan yang aneh."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Suara rendah, ragu-ragu) Kamu mahu saya percaya semua ini? Kampung ini rumah saya, saya tidak boleh pergi begitu sahaja."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(Tersenyum sinis, pandangan mencemuh) Tinggal di sini, kamu akan mati, kampung akan musnah. Ikut saya, saya akan membawa kamu mencari kebenaran - dan Blade of Fallen Star."
+		},
+		{
+			"type": "narrator",
+			"content": "Dari jauh, auman menakutkan kedengaran dari hutan, seolah-olah sesuatu sedang menghampiri. Ethan mengepal tangannya, wajah penduduk kampung yang tersenyum dan kuasa aneh dari tablet itu muncul dalam fikirannya."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Menggigit bibir, pandangan tegas) Jika saya pergi, adakah kampung akan selamat?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(Diam seketika, nada lebih lembut) Saya tidak boleh jamin. Tetapi jika kamu tinggal, mereka tidak akan ada peluang langsung."
+		},
+		{
+			"type": "narrator",
+			"content": "Malam menjelma, auman dari hutan semakin dekat. Ethan berdiri di persimpangan takdir, pandangan Aria tajam seperti bintang, menunggu keputusannya."
+		},
+		{
+			"type": "narrator",
+			"content": "Percayakah elf misteri ini dan memulakan pengembaraan yang tidak diketahui? Atau tinggal di kampung dan menghadapi ancaman yang tidak diketahui? Atau mungkin, dia boleh menyiasat rahsia tablet itu sendiri?"
+		}
+	],
+	"choice": {
+		"prompt": "Apa yang akan anda pilih",
+		"is_ai_generated": false,
+		"options": [
+			{
+				"content": "Percaya Aria dan ikut mencari Blade of Fallen Star."
+			},
+			{
+				"content": "Tolak Aria, tinggal di kampung untuk melindungi keluarga dan menghadapi ancaman yang tidak diketahui."
+			},
+			{
+				"content": "Ambil tablet secara senyap-senyap dan siasat rahsia darah penjaga sendiri."
+			}
+		]
+	}
+}

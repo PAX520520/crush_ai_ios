@@ -40,6 +40,26 @@
 			],
 			"cover_image_url": "resources/covers/story_2_cover.png",
 			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		},
+		{
+			"id": "story_3",
+			"title": "Sternenfallklinge",
+			"description": "Im mystischen Land Eltheria soll die legendäre Sternenfallklinge ein Portal zum Reich der Götter öffnen. Der junge Abenteurer Ethan entdeckt zufällig, dass er der Erbe einer alten Wächterblutlinie ist und die Mission trägt, die Sternenfallklinge zu finden. Doch dunkle Mächte begehren dieses heilige Artefakt und versuchen, es zu nutzen, um einen schlafenden Dämon zu erwecken. Auf seiner Reise trifft Ethan die mysteriöse Elfen-Waldläuferin Aria, den loyalen Zwergenkrieger Torin und die gerissene menschliche Magierin Lila. Sie müssen zusammenarbeiten, um tödlichen magischen Fallen, wilden Monstern und verräterischen Intrigen zu begegnen, um das Schicksal der Welt zu entscheiden.",
+			"category_id": 3,
+			"tags": [
+				"Magie",
+				"Abenteuer",
+				"Schicksal",
+				"Verrat",
+				"Artefakt"
+			],
+			"plot_direction": [
+				"Anfang: Ethan, ein gewöhnlicher Dorfschmiedelehrling, entdeckt während eines plötzlichen Erdrutsches eine mysteriöse, mit Runen versehene Steinplatte, die die schlafende Wächterblutlinie in ihm auslöst. Die mysteriöse Elfen-Waldläuferin Aria erscheint und erzählt ihm von der Legende der Sternenfallklinge und warnt ihn, dass dunkle Mächte ihn bereits jagen. Ethan muss entscheiden, ob er die Mission annimmt und sich auf ein Abenteuer begibt, um das Artefakt zu finden.",
+				"Mitte: Ethan, Aria, Torin und Lila bilden ein Abenteuerteam und durchqueren Wälder, Wüsten und alte Ruinen auf der Suche nach Spuren der Sternenfallklinge. Sie stehen Monstern, magischen Fallen und der Jagd dunkler Mächte gegenüber. Lilas Handlungen beginnen Misstrauen zu erregen, und es scheint, dass sie ihre eigenen Geheimnisse verbirgt. Im Laufe der Reise entdeckt Ethan, dass die Sternenfallklinge nicht nur das Reich der Götter öffnet, sondern auch einen Dämon erwecken kann, der die Welt zerstören wird. Er muss wählen, ob er seinen Teamkollegen vertraut oder alleine handelt.",
+				"Ende: Das Abenteuerteam findet das Versteck der Sternenfallklinge, entdeckt aber, dass Lila eine Spionin der dunklen Mächte ist und versucht, das Artefakt zu stehlen. Ethan erweckt im entscheidenden Moment die Kraft seiner Blutlinie und besiegt Lila, steht aber vor einer letzten Wahl: die Sternenfallklinge zu zerstören, um die Wiederauferstehung des Dämons zu verhindern, oder sie zu nutzen, um das Reich der Götter zu öffnen und ihren Rat zu suchen. Unabhängig von seiner Wahl wird Ethan Opfer und den Preis des Schicksals tragen."
+			],
+			"cover_image_url": "resources/covers/story_3_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
 		}
 	]
 }

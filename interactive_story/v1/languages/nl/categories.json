@@ -9,6 +9,11 @@
 			"id": 2,
 			"name": "💘 Romantiek",
 			"description": "Gepassioneerde liefdesverhalen vol emotionele diepgang"
+		},
+		{
+			"id": 3,
+			"name": "✨ Fantasie",
+			"description": "Epische avonturen vol magie en wonderen"
 		}
 	]
 }

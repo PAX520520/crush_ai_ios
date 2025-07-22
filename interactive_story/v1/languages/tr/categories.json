@@ -9,6 +9,11 @@
 			"id": 2,
 			"name": "💘 Romantik",
 			"description": "Duygusal derinliği olan tutkulu aşk hikayeleri"
+		},
+		{
+			"id": 3,
+			"name": "✨ Fantastik",
+			"description": "Büyü ve mucizelerle dolu epik maceralar"
 		}
 	]
 }

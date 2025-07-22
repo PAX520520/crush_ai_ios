@@ -1,0 +1,87 @@
+{
+	"story_id": "story_3",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "En ung lærling smed i landsbyen som tilfeldigvis oppdager at han er arvingen til vokterens blodlinje, med oppdraget om å finne Stjernefallsbladet.",
+			"avatar_url": "/resources/characters/story_3/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"modig",
+				"lojal",
+				"nysgjerrig",
+				"uerfaren",
+				"godtroende"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Aria",
+			"description": "En mystisk alvekriger som mestrer bueskyting og naturmagi, kjenner legenden om Stjernefallsbladet godt, men hennes sanne motiver synes å være mer enn bare å hjelpe Ethan.",
+			"avatar_url": "/resources/characters/story_3/aria.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"rolig",
+				"smart",
+				"selvstendig",
+				"forakter mennesker"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Torin",
+			"description": "En dvergkriger fra en gammel fjellklan, dyktig med stridsøks og smiing, lojal mot Ethans oppdrag, men skeptisk til magi.",
+			"avatar_url": "/resources/characters/story_3/torin.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"lojal",
+				"sta",
+				"direkte",
+				"humoristisk"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Lila",
+			"description": "En menneskelig magiker som mestrer ild- og illusjonsmagi, tilsynelatende morsom og humoristisk, men skjuler faktisk forbindelser til mørke krefter.",
+			"avatar_url": "/resources/characters/story_3/lila.jpg",
+			"role": "antagonist",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"slu",
+				"forførende",
+				"god til å maskere seg",
+				"indre konflikt"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Kael",
+			"description": "Lederen av de mørke kreftene, en mystisk skyggemagikar som begjærer Stjernefallsbladet og forsøker å vekke den onde guden for å herske over verden.",
+			"avatar_url": "/resources/characters/story_3/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 0,
+			"personality": [
+				"hensynsløs",
+				"ambisiøs",
+				"manipulerende"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Blodlinjens oppvåkning"
+		}
+	]
+}

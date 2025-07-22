@@ -1,0 +1,87 @@
+{
+	"story_id": "story_3",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "젊은 마을의 대장장이 견습생으로, 우연히 자신이 수호자 혈통의 계승자임을 발견하고 별빛 검을 찾아야 하는 사명을 짊어지게 됩니다.",
+			"avatar_url": "/resources/characters/story_3/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"용감함",
+				"충성심",
+				"호기심이 많음",
+				"경험 부족",
+				"쉽게 믿음"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Aria",
+			"description": "신비로운 엘프 레인저로, 활과 자연 마법에 능통하며 별빛 검의 전설에 대해 잘 알고 있지만, 그녀의 진정한 동기는 단순히 Ethan을 돕는 것 이상인 것 같습니다.",
+			"avatar_url": "/resources/characters/story_3/aria.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"침착함",
+				"영리함",
+				"독립적",
+				"인간을 경멸함"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Torin",
+			"description": "드워프 전사로, 고대 산맥 부족 출신이며 전투도끼와 대장장이 기술에 능숙합니다. Ethan의 사명에 충실하지만 마법에 대해 의심이 많습니다.",
+			"avatar_url": "/resources/characters/story_3/torin.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"충성심",
+				"고집스러움",
+				"솔직함",
+				"유머러스함"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Lila",
+			"description": "인간 마법사로, 화염과 환술 마법에 능통하며 겉으로는 유쾌하고 유머러스하지만, 실제로는 어둠의 세력과 연관되어 있습니다.",
+			"avatar_url": "/resources/characters/story_3/lila.jpg",
+			"role": "antagonist",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"교활함",
+				"매혹적",
+				"위장에 능함",
+				"내면의 갈등"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Kael",
+			"description": "어둠의 세력의 수장이자 신비로운 그림자 마법사로, 별빛 검을 탐내며 마신을 깨워 세상을 지배하려 합니다.",
+			"avatar_url": "/resources/characters/story_3/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 0,
+			"personality": [
+				"냉혹함",
+				"야망에 가득참",
+				"사람을 조종하는데 능함"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "혈통의 각성"
+		}
+	]
+}

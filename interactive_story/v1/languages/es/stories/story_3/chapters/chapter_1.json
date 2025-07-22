@@ -1,0 +1,82 @@
+{
+	"chapter_id": "chapter_1",
+	"title": "血脉的觉醒",
+	"summary": "年轻的铁匠学徒 Ethan 在一次山崩中意外发现了一块神秘的石板，这块石板唤醒了他体内沉睡的守护者血脉。与此同时，神秘的精灵游侠 Aria 出现，向他揭示了星陨之刃的传说以及他作为守护者后裔的使命。黑暗势力也因此盯上了他，Ethan 的命运就此改变。",
+	"segments": [
+		{
+			"type": "narration",
+			"content": "艾泽拉斯大陆，一个古老而神秘的世界。在宁静的星语村，年轻的铁匠学徒 Ethan 过着平凡的生活。直到有一天，一场突如其来的山崩，彻底改变了他的命运。"
+		},
+		{
+			"type": "narration",
+			"content": "山崩过后，Ethan 在废墟中发现了一块闪烁着微光的石板。当他的手触碰到石板的那一刻，一股强大的力量涌入他的体内，古老的符文在他皮肤上若隐若现。"
+		},
+		{
+			"type": "dialogue",
+			"character_id": "ethan",
+			"content": "这...这是什么？我的身体...好热！"
+		},
+		{
+			"type": "narration",
+			"content": "就在 Ethan 感到困惑和恐惧时，一个身披斗篷的神秘女子出现在他面前。她有着银色的长发和深邃的绿色眼睛，正是精灵游侠 Aria。"
+		},
+		{
+			"type": "dialogue",
+			"character_id": "aria",
+			"content": "你终于觉醒了，星陨之刃的守护者。"
+		},
+		{
+			"type": "dialogue",	
+			"character_id": "ethan",
+			"content": "守护者？你在说什么？我只是个铁匠学徒！"
+		},
+		{
+			"type": "dialogue",
+			"character_id": "aria",
+			"content": "你的血脉不会说谎。古老的预言已经开始应验，黑暗势力正在寻找星陨之刃，而你是唯一能够阻止他们的人。"
+		},
+		{
+			"type": "narration",
+			"content": "Aria 向 Ethan 讲述了星陨之刃的传说，以及它能够开启神界之门，但也可能唤醒远古恶魔的秘密。她告诉 Ethan，他必须接受自己的命运，踏上寻找星陨之刃的旅程。"
+		}
+	],
+	"choices": [
+		{
+			"id": "choice_1",
+			"text": "接受命运，与 Aria 一同踏上旅程。",
+			"consequence": {
+				"type": "story_progress",
+				"target": "chapter_2"
+			}
+		},
+		{
+			"id": "choice_2",
+			"text": "拒绝接受，选择继续平凡的生活。",
+			"consequence": {
+				"type": "story_end",
+				"ending": "平凡的结局：Ethan 拒绝了 Aria 的请求，回到了星语村。然而，黑暗势力最终找到了他，并夺走了他体内的守护者血脉。艾泽拉斯大陆被黑暗吞噬，Ethan 在悔恨中度过余生。"
+			}
+		},
+		{
+			"id": "choice_3",
+			"text": "向 Aria 询问更多关于守护者和星陨之刃的细节。",
+			"consequence": {
+				"type": "dialogue_more_info",
+				"dialogue": [
+					{
+						"character_id": "aria",
+						"content": "守护者是远古时期被神选中的凡人，他们的血脉中流淌着抵御黑暗的力量。星陨之刃是众神留在凡间的圣物，它蕴含着开启神界和封印恶魔的力量。但它的力量过于强大，一旦落入邪恶之手，后果不堪设想。"
+					},
+					{
+						"character_id": "ethan",
+						"content": "那我该怎么做？"
+					},
+					{
+						"character_id": "aria",
+						"content": "你必须找到星陨之刃，并在黑暗势力之前掌握它的力量。我将指引你。"
+					}
+				]
+			}
+		}
+	]
+}

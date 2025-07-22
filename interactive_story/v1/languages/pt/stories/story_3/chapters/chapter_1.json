@@ -1,0 +1,113 @@
+{
+	"title": "O Despertar do Sangue",
+	"summary": "O jovem aprendiz de ferreiro Ethan descobre uma tábua misteriosa durante um deslizamento de terra, despertando o sangue do guardião adormecido dentro dele. A misteriosa patrulheira élfica Aria aparece, revelando a lenda da Lâmina Estelar e alertando sobre a ameaça das forças das trevas. Ethan enfrenta a escolha de embarcar ou não em uma jornada de aventura.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "A névoa da manhã cobria a aldeia tranquila, com o ar impregnado pelo aroma de terra e grama fresca. Ethan estava em frente à ferraria, seu martelo batendo no ferro em brasa, espalhando faíscas. Sua vida era simples e comum, até que o deslizamento de terra mudou tudo."
+		},
+		{
+			"type": "narrator",
+			"content": "Um estrondo quebrou o silêncio da aldeia, a encosta distante desmoronou, cobrindo o céu de poeira. Ethan foi chamado pelos aldeões para ajudar no resgate, mas encontrou entre os escombros uma tábua brilhante coberta de runas incompreensíveis."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(franzindo a testa, tocando a tábua, murmurando) O que é isso? Parece... vivo?"
+		},
+		{
+			"type": "narrator",
+			"content": "Quando seus dedos tocaram a tábua, uma onda de calor fluiu das pontas dos dedos por todo seu corpo, e imagens fragmentadas passaram por sua mente: céu estrelado, espada, campo de batalha nebuloso. Uma dor de cabeça intensa o fez cair de joelhos, enquanto sussurros pareciam chamar seu nome."
+		},
+		{
+			"type": "narrator",
+			"content": "Os aldeões, em pânico, tentaram puxá-lo, mas um raio verde surgiu da floresta, repelindo com precisão as pedras próximas. Uma mulher emergiu - seu cabelo dourado brilhava ao sol, a corda do arco ainda vibrando em sua mão."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(voz fria, olhar cortante) Afastem-se, humanos. Isso não é algo que possam tocar."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(levantando-se com dificuldade, olhando-a com cautela) Quem é você? Por que me ajudou? O que é esta tábua?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(aproximando-se, com emoção complexa no olhar) Sou Aria, patrulheira élfica. Esta tábua despertou o sangue do guardião dentro de você. Você é Ethan, mas é muito mais que um simples aprendiz de ferreiro."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(balançando a cabeça confuso) Guardião? Sangue? Não entendo nada! Do que você está falando?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(tom sério, olhando para a floresta distante) A lendária Lâmina Estelar, chave para o Reino dos Deuses, está escondida em algum lugar neste continente. Você é seu guardião, mas as forças das trevas estão atrás de você. Eles não pouparão você nem esta aldeia."
+		},
+		{
+			"type": "narrator",
+			"content": "O coração de Ethan acelerou, as visões da tábua ainda ecoando em sua mente. Ele olhou para Aria, sua calma e mistério o deixavam inquieto, mas não podia negar uma estranha sensação de familiaridade."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(voz baixa, hesitante) Quer que eu acredite nisso? A aldeia é meu lar, não posso simplesmente partir."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(sorriso frio, com um lampejo de desdém) Fique aqui e morrerá, e a aldeia será destruída. Venha comigo, e eu o levarei à verdade - e à Lâmina Estelar."
+		},
+		{
+			"type": "narrator",
+			"content": "Ao longe, um rugido sinistro ecoou da floresta, como se algo se aproximasse. Ethan cerrou os punhos, lembrando dos rostos sorridentes dos aldeões e do estranho poder da tábua."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(rangendo os dentes, olhar determinado) Se eu for, a aldeia estará segura?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(após um momento de silêncio, tom mais suave) Não posso garantir. Mas se ficar, eles não terão chance alguma."
+		},
+		{
+			"type": "narrator",
+			"content": "A noite caía, e os rugidos da floresta se aproximavam. Ethan estava numa encruzilhada do destino, sob o olhar afiado de Aria, aguardando sua decisão."
+		},
+		{
+			"type": "narrator",
+			"content": "Confiar na misteriosa elfa e partir em uma aventura desconhecida? Ou ficar na aldeia e enfrentar a ameaça desconhecida? Ou talvez, investigar sozinho o segredo da tábua?"
+		}
+	],
+	"choice": {
+		"prompt": "O que você escolheria",
+		"is_ai_generated": false,
+		"options": [
+			{
+				"content": "Confiar em Aria e segui-la na busca pela Lâmina Estelar."
+			},
+			{
+				"content": "Recusar Aria, ficar na aldeia para proteger a família e enfrentar a ameaça desconhecida."
+			},
+			{
+				"content": "Levar a tábua secretamente e investigar sozinho a verdade sobre o sangue do guardião."
+			}
+		]
+	}
+}

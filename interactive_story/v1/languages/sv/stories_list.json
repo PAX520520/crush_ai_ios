@@ -40,6 +40,26 @@
 			],
 			"cover_image_url": "resources/covers/story_2_cover.png",
 			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		},
+		{
+			"id": "story_3",
+			"title": "Stjärnfallsklingan",
+			"description": "På den mystiska kontinenten Elserai sägs den legendariska Stjärnfallsklingan kunna öppna en portal till gudarnas rike. Den unge äventyraren Ethan upptäcker av en slump att han är arvtagare till de forntida väktarnas blodslinje och bär ansvaret att finna Stjärnfallsklingan. Men mörka krafter åtrår detta heliga föremål och försöker använda det för att väcka den sovande demonguden. Under sin resa möter Ethan den mystiska alvrångaren Aria, den lojala dvärgkrigaren Torin och den listiga människotrollkarlen Lila. Tillsammans måste de samarbeta för att möta dödliga magiska fällor, vilda odjur och förräderiets konspirationer som avgör världens öde.",
+			"category_id": 3,
+			"tags": [
+				"Fantasy",
+				"Äventyr",
+				"Öde",
+				"Förräderi",
+				"Artefakt"
+			],
+			"plot_direction": [
+				"Början: Ethan är en vanlig smedlärling i en by som under ett oväntat jordskred upptäcker en stentavla med mystiska runor, vilket väcker väktarblodet som slumrat inom honom. Den mystiska alvrångaren Aria dyker upp och berättar för honom legenden om Stjärnfallsklingan och varnar honom för att mörka krafter jagar honom. Ethan måste bestämma sig för att antingen acceptera uppdraget eller ge sig ut på en resa för att finna artefakten.",
+				"Mitten: Ethan bildar ett äventyrssällskap med Aria, Torin och Lila, och de färdas genom skogar, öknar och forntida ruiner på jakt efter ledtrådar till Stjärnfallsklingan. De möter odjur, magiska fällor och förföljelse från mörka krafter. Lilas beteende börjar väcka misstankar och hon tycks dölja hemligheter. När resan fortskrider upptäcker Ethan att Stjärnfallsklingan inte bara kan öppna gudarnas rike utan också kan väcka en demongud som kan förgöra världen. Han måste välja mellan att lita på sina följeslagare eller agera på egen hand.",
+				"Slut: Äventyrssällskapet hittar Stjärnfallsklingans gömställe men upptäcker att Lila är en spion för de mörka krafterna som försöker stjäla artefakten. I ett avgörande ögonblick väcker Ethan kraften i sitt blod och besegrar Lila, men ställs inför ett slutgiltigt val: att förstöra Stjärnfallsklingan för att förhindra demongudens återuppståndelse eller använda den för att öppna gudarnas rike och söka gudomlig vägledning. Oavsett val måste Ethan möta konsekvenserna av uppoffring och öde."
+			],
+			"cover_image_url": "resources/covers/story_3_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
 		}
 	]
 }

@@ -9,6 +9,11 @@
 			"id": 2,
 			"name": "💘 Romans",
 			"description": "Namiętne historie miłosne pełne głębokich emocji"
+		},
+		{
+			"id": 3,
+			"name": "✨ Fantazja",
+			"description": "Epickie przygody pełne magii i cudów"
 		}
 	]
 }

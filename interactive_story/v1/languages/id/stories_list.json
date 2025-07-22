@@ -40,6 +40,26 @@
 			],
 			"cover_image_url": "resources/covers/story_2_cover.png",
 			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		},
+		{
+			"id": "story_3",
+			"title": "Pedang Bintang Jatuh",
+			"description": "Di benua Elserai yang misterius, konon Pedang Bintang Jatuh dapat membuka portal ke alam para dewa. Ethan, seorang petualang muda, secara tidak sengaja menemukan bahwa dia adalah pewaris darah para Penjaga kuno, dengan misi mencari Pedang Bintang Jatuh. Namun, kekuatan kegelapan mengincar senjata suci ini, berusaha menggunakannya untuk membangkitkan dewa iblis yang tertidur. Dalam perjalanannya, Ethan bertemu dengan Aria si penjelajah peri misterius, Torin si prajurit kurcaci yang setia, dan Lila si penyihir manusia yang licik. Mereka harus bekerja sama menghadapi jebakan sihir mematikan, monster garang, dan konspirasi pengkhianatan untuk menentukan nasib dunia.",
+			"category_id": 3,
+			"tags": [
+				"Fantasi",
+				"Petualangan",
+				"Takdir",
+				"Pengkhianatan",
+				"Artefak Suci"
+			],
+			"plot_direction": [
+				"Awal: Ethan adalah seorang murid pandai besi desa biasa yang menemukan tablet batu berukir simbol misterius saat terjadi longsor, yang memicu darah Penjaga yang tertidur dalam dirinya. Aria, penjelajah peri misterius muncul, memberitahunya tentang legenda Pedang Bintang Jatuh dan memperingatkan bahwa kekuatan kegelapan sedang memburunya. Ethan harus memutuskan apakah akan menerima misi ini dan memulai petualangan mencari artefak suci.",
+				"Tengah: Ethan membentuk tim petualang dengan Aria, Torin, dan Lila, melintasi hutan, gurun, dan reruntuhan kuno mencari petunjuk Pedang Bintang Jatuh. Mereka menghadapi monster, jebakan sihir, dan pengejaran kekuatan kegelapan. Perilaku Lila mulai menunjukkan kejanggalan, seolah menyembunyikan rahasia. Semakin dalam perjalanan mereka, Ethan menemukan bahwa Pedang Bintang Jatuh tidak hanya dapat membuka alam para dewa, tetapi juga mungkin membangkitkan dewa iblis yang akan menghancurkan dunia. Dia harus memilih antara mempercayai rekan-rekannya atau bertindak sendiri.",
+				"Akhir: Tim petualang menemukan tempat persembunyian Pedang Bintang Jatuh, tetapi terungkap bahwa Lila adalah mata-mata kekuatan kegelapan yang berusaha merebut artefak tersebut. Ethan membangkitkan kekuatan darahnya di saat kritis, mengalahkan Lila, namun menghadapi pilihan akhir: menghancurkan Pedang Bintang Jatuh untuk mencegah kebangkitan dewa iblis, atau menggunakannya untuk membuka alam para dewa dan mencari petunjuk ilahi. Apapun pilihannya, Ethan harus menghadapi harga dari pengorbanan dan takdir."
+			],
+			"cover_image_url": "resources/covers/story_3_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
 		}
 	]
 }

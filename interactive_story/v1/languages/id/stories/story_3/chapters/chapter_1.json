@@ -1,0 +1,113 @@
+{
+	"title": "Kebangkitan Darah",
+	"summary": "Ethan, seorang murid pandai besi muda, menemukan tablet misterius saat terjadi longsor, yang memicu garis keturunan pelindung yang tertidur dalam dirinya. Aria, penjaga hutan peri misterius muncul, mengungkapkan legenda Pedang Meteor, dan memperingatkan ancaman kekuatan kegelapan. Ethan menghadapi pilihan untuk memulai perjalanan petualangan.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Kabut pagi menyelimuti desa yang tenang, udara dipenuhi aroma tanah dan rumput segar. Ethan berdiri di luar bengkel pandai besi, palu di tangannya memukul besi panas, menimbulkan percikan api. Hidupnya sederhana dan biasa, sampai longsor hari itu mengubah segalanya."
+		},
+		{
+			"type": "narrator",
+			"content": "Suara gemuruh memecah ketenangan desa, lereng gunung di kejauhan runtuh, debu menutupi langit. Ethan dipanggil penduduk desa untuk membantu penyelamatan, namun di antara tumpukan puing ia menemukan tablet bercahaya yang dipenuhi simbol-simbol yang tak dapat dibaca."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Mengerutkan dahi, mengulurkan tangan untuk menyentuh tablet, berbisik) Apa ini? Rasanya... seperti hidup?"
+		},
+		{
+			"type": "narrator",
+			"content": "Saat jarinya menyentuh tablet, gelombang kehangatan mengalir dari ujung jarinya ke seluruh tubuh, bayangan-bayangan berkelebat dalam pikirannya: langit berbintang, pedang, medan perang yang kabur. Sakit kepala yang hebat membuatnya berlutut, bisikan-bisikan terdengar seolah memanggil namanya."
+		},
+		{
+			"type": "narrator",
+			"content": "Penduduk desa panik, berusaha menariknya menjauh, tapi cahaya hijau melesat dari hutan, dengan tepat menghantam batu-batu yang mendekat. Seorang wanita melangkah keluar—rambut emasnya berkilau di bawah sinar matahari, tali busurnya masih bergetar di tangannya."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(Suara dingin, tatapan tajam) Mundur, manusia. Ini bukan sesuatu yang bisa kalian sentuh."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Berjuang berdiri, menatapnya waspada) Siapa kau? Mengapa membantuku? Tablet apa ini?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(Mendekat, matanya menunjukkan emosi kompleks) Aku Aria, penjaga hutan peri. Tablet ini telah membangunkan garis keturunan pelindung dalam dirimu. Kau Ethan, tapi kau lebih dari sekedar murid pandai besi."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Menggeleng bingung) Pelindung? Garis keturunan? Aku tidak mengerti apa-apa! Apa yang kau bicarakan?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(Nada serius, memandang ke arah hutan) Pedang Meteor legendaris, kunci ke alam para dewa, tersembunyi di suatu tempat di benua ini. Kau adalah pelindungnya, tapi kekuatan kegelapan telah mengincarmu. Mereka tidak akan melepaskanmu, juga tidak akan melepaskan desa ini."
+		},
+		{
+			"type": "narrator",
+			"content": "Jantung Ethan berdetak kencang, bayangan dari tablet masih bergema dalam pikirannya. Dia memandang Aria, ketenangan dan misterinya membuatnya gelisah, namun dia tidak bisa menyangkal perasaan familiar yang aneh."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Suara rendah, ragu-ragu) Kau ingin aku percaya semua ini? Desa ini rumahku, aku tidak bisa begitu saja pergi."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(Tersenyum sinis, kilatan meremehkan di matanya) Tetap di sini, kau akan mati, desa juga akan hancur. Ikut denganku, aku akan membawamu mencari kebenaran—dan Pedang Meteor."
+		},
+		{
+			"type": "narrator",
+			"content": "Dari kejauhan, auman mengerikan terdengar dari hutan, seolah ada sesuatu yang mendekat. Ethan mengepalkan tangannya, wajah tersenyum penduduk desa berkelebat dalam pikirannya, juga kekuatan aneh dari tablet itu."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Menggertakkan gigi, tatapan tegas) Jika aku pergi, apakah desa akan aman?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(Diam sejenak, nada lebih lembut) Aku tidak bisa menjamin. Tapi jika kau tetap tinggal, mereka tidak akan punya kesempatan sama sekali."
+		},
+		{
+			"type": "narrator",
+			"content": "Malam tiba, auman dari hutan semakin dekat. Ethan berdiri di persimpangan takdir, tatapan Aria setajam bintang, menunggu keputusannya."
+		},
+		{
+			"type": "narrator",
+			"content": "Haruskah mempercayai peri misterius ini dan memulai petualangan tak dikenal? Atau tetap di desa menghadapi ancaman tak dikenal? Atau mungkin, dia bisa menyelidiki rahasia tablet itu sendiri?"
+		}
+	],
+	"choice": {
+		"prompt": "Apa yang akan kamu pilih",
+		"is_ai_generated": false,
+		"options": [
+			{
+				"content": "Percaya pada Aria, ikut dengannya mencari Pedang Meteor."
+			},
+			{
+				"content": "Menolak Aria, tetap di desa melindungi keluarga, menghadapi ancaman tak dikenal."
+			},
+			{
+				"content": "Diam-diam membawa tablet, menyelidiki sendiri kebenaran tentang garis keturunan pelindung."
+			}
+		]
+	}
+}

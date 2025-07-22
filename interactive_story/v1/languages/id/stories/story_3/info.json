@@ -1,0 +1,87 @@
+{
+	"story_id": "story_3",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "Seorang murid pandai besi muda di desa yang secara tidak sengaja menemukan bahwa dia adalah pewaris garis keturunan para Penjaga, dengan misi untuk mencari Pedang Meteor.",
+			"avatar_url": "/resources/characters/story_3/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"Berani",
+				"Setia",
+				"Rasa ingin tahu yang kuat",
+				"Kurang pengalaman",
+				"Mudah percaya"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Aria",
+			"description": "Penjelajah peri misterius yang ahli dalam memanah dan sihir alam, sangat mengenal legenda Pedang Meteor, tetapi motif sebenarnya tampaknya lebih dari sekadar membantu Ethan.",
+			"avatar_url": "/resources/characters/story_3/aria.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"Tenang",
+				"Cerdik",
+				"Mandiri",
+				"Meremehkan manusia"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Torin",
+			"description": "Prajurit kurcaci dari klan pegunungan kuno, ahli menggunakan kapak perang dan menempa, setia pada misi Ethan tetapi skeptis terhadap sihir.",
+			"avatar_url": "/resources/characters/story_3/torin.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"Setia",
+				"Keras kepala",
+				"Blak-blakan",
+				"Humoris"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Lila",
+			"description": "Penyihir manusia yang ahli dalam sihir api dan ilusi, di permukaan tampak lucu dan humoris, tetapi sebenarnya menyembunyikan hubungan dengan kekuatan kegelapan.",
+			"avatar_url": "/resources/characters/story_3/lila.jpg",
+			"role": "antagonist",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"Licik",
+				"Menggoda",
+				"Pandai berpura-pura",
+				"Berkonflik batin"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Kael",
+			"description": "Pemimpin kekuatan kegelapan, ahli sihir bayangan misterius yang mengincar Pedang Meteor dan berusaha membangkitkan dewa iblis untuk menguasai dunia.",
+			"avatar_url": "/resources/characters/story_3/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 0,
+			"personality": [
+				"Kejam",
+				"Ambisius",
+				"Ahli memanipulasi"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Kebangkitan Garis Keturunan"
+		}
+	]
+}

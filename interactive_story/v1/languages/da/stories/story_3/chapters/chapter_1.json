@@ -1,0 +1,113 @@
+{
+	"title": "Blodlinjens Opvågnen",
+	"summary": "Den unge smedelærling Ethan finder en mystisk stentavle under et jordskred, hvilket udløser den sovende vogterblodlinje i ham. Den mystiske elveranger Aria dukker op, afslører legenden om Stjernefaldsklingen og advarer om mørke kræfters trussel. Ethan står over for valget om at begive sig ud på et eventyr.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Morgentågen indhyller den stille landsby, luften er fyldt med duften af jord og friskt græs. Ethan står uden for smedjen, hans hammer slår mod det glødende jern, og gnister flyver. Hans liv var enkelt og almindeligt, indtil den dag jordskreddet ændrede alt."
+		},
+		{
+			"type": "narrator",
+			"content": "Et højt brag brød landsbyens stilhed, fjernbjergsiden kollapsede, og støv fyldte himlen. Ethan blev kaldt af landsbyboerne for at hjælpe med redningsarbejdet, men fandt i stedet en lysende stentavle blandt ruinerne, dækket af uforståelige runer."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(rynker panden og rører ved stentavlen, hvisker) Hvad er dette? Det føles... som om det er levende?"
+		},
+		{
+			"type": "narrator",
+			"content": "Da hans fingre rører ved tavlen, strømmer en varm fornemmelse gennem hele hans krop, og brudte billeder flimrer gennem hans sind: stjernehimmel, sværd, slørede slagmarker. En intens hovedpine tvinger ham i knæ, mens hviskende stemmer synes at kalde hans navn."
+		},
+		{
+			"type": "narrator",
+			"content": "Landsbyboerne er i panik og forsøger at trække ham væk, men en grøn lysstråle skyder ud fra skoven og afværger de nærmeste sten med præcision. En kvinde træder frem - hendes gyldne hår glimter i sollyset, og hendes buestreng vibrerer stadig let i hendes hånd."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(med kold stemme og skarp blik) Træd tilbage, menneske. Dette er ikke noget, I kan røre ved."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(kæmper sig op, ser vagtsomt på hende) Hvem er du? Hvorfor hjælper du mig? Hvad er denne stentavle?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(træder nærmere, med et glimt af komplekse følelser i øjnene) Jeg er Aria, elveranger. Denne stentavle har vækket vogterblodlinjen i dig. Du er Ethan, men du er meget mere end bare en smedelærling."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(ryster forvirret på hovedet) Vogter? Blodlinje? Jeg forstår intet af dette! Hvad taler du om?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(med alvorlig tone, mens hun spejder mod den fjerne skov) Den legendariske Stjernefaldklinge, nøglen til gudernes rige, er skjult et sted på dette kontinent. Du er dens vogter, men mørke kræfter har fået øje på dig. De vil ikke lade dig være i fred, og de vil heller ikke skåne denne landsby."
+		},
+		{
+			"type": "narrator",
+			"content": "Ethans hjerte banker hurtigere, mens billederne fra stentavlen stadig ekkoer i hans sind. Han ser på Aria, hendes ro og mystik gør ham urolig, men han kan ikke benægte en mærkelig følelse af genkendelse."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(med dyb, tøvende stemme) Du forventer, at jeg skal tro på alt dette? Landsbyen er mit hjem, jeg kan ikke bare forlade det."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(med et koldt smil og et glimt af foragt) Bliver du her, vil du dø, og landsbyen vil blive ødelagt. Følg med mig, og jeg vil lede dig til sandheden - og til Stjernefaldklingen."
+		},
+		{
+			"type": "narrator",
+			"content": "I det fjerne lyder uhyggelige brøl fra skoven, som om noget nærmer sig. Ethan knytter næverne, mens han ser for sig landsbyboernes smilende ansigter og mærker den mærkelige kraft fra stentavlen."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(bider tænderne sammen med fast blik) Hvis jeg tager af sted, vil landsbyen så være sikker?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(efter et øjebliks tavshed, med blødere stemme) Det kan jeg ikke garantere. Men hvis du bliver, har de ingen chance overhovedet."
+		},
+		{
+			"type": "narrator",
+			"content": "Natten falder på, og brølene fra skoven kommer nærmere. Ethan står ved en skillevej i skæbnen, mens Arias blik er skarpt som stjernelys, ventende på hans beslutning."
+		},
+		{
+			"type": "narrator",
+			"content": "Skal han stole på denne mystiske elver og begive sig ud på et ukendt eventyr? Eller blive i landsbyen og møde den ukendte trussel? Eller måske undersøge stentavlens hemmeligheder på egen hånd?"
+		}
+	],
+	"choice": {
+		"prompt": "Hvad vil du vælge",
+		"is_ai_generated": false,
+		"options": [
+			{
+				"content": "Stol på Aria og følg hende på rejsen for at finde Stjernefaldklingen."
+			},
+			{
+				"content": "Afvis Aria, bliv i landsbyen for at beskytte din familie og mød den ukendte trussel."
+			},
+			{
+				"content": "Tag stentavlen i hemmelighed og undersøg vogterblodlinjens sandhed på egen hånd."
+			}
+		]
+	}
+}

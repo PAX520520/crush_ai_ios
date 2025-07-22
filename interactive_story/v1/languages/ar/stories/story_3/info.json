@@ -1,0 +1,87 @@
+{
+	"story_id": "story_3",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "متدرب حداد شاب في القرية، يكتشف بالصدفة أنه وريث دم الحراس، ويحمل على عاتقه مهمة البحث عن سيف النجم الساقط.",
+			"avatar_url": "/resources/characters/story_3/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"شجاع",
+				"مخلص",
+				"فضولي",
+				"قليل الخبرة",
+				"سريع التصديق"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Aria",
+			"description": "حارسة غامضة من الجن، متمكنة من الرماية والسحر الطبيعي، تعرف كل شيء عن أسطورة سيف النجم الساقط، لكن دوافعها الحقيقية تبدو أكثر من مجرد مساعدة Ethan.",
+			"avatar_url": "/resources/characters/story_3/aria.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"هادئة",
+				"ذكية",
+				"مستقلة",
+				"تحتقر البشر"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Torin",
+			"description": "محارب قزم من عشيرة الجبال القديمة، ماهر في استخدام فأس القتال والحدادة، مخلص لمهمة Ethan، لكنه يشك في السحر.",
+			"avatar_url": "/resources/characters/story_3/torin.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"مخلص",
+				"عنيد",
+				"صريح",
+				"مرح"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Lila",
+			"description": "ساحرة بشرية، متمكنة من سحر النار والأوهام، مرحة وفكاهية في الظاهر، لكنها تخفي في الواقع روابط مع قوى الظلام.",
+			"avatar_url": "/resources/characters/story_3/lila.jpg",
+			"role": "antagonist",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"ماكرة",
+				"ساحرة",
+				"جيدة في التخفي",
+				"متناقضة داخلياً"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Kael",
+			"description": "زعيم قوى الظلام، ساحر ظل غامض، يطمع في سيف النجم الساقط، ويحاول إيقاظ إله الشر ليحكم العالم.",
+			"avatar_url": "/resources/characters/story_3/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 0,
+			"personality": [
+				"قاسي",
+				"طموح",
+				"ماهر في التلاعب بالعقول"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "صحوة الدم"
+		}
+	]
+}

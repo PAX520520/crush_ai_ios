@@ -1,0 +1,113 @@
+{
+	"title": "Das Erwachen des Blutes",
+	"summary": "Der junge Schmiedlehrling Ethan entdeckt bei einem Erdrutsch eine mysteriöse Steintafel, die das schlafende Wächterblut in ihm erweckt. Die mysteriöse Elfenrangerin Aria erscheint, enthüllt die Legende der Sternenfallklinge und warnt vor der Bedrohung durch dunkle Mächte. Ethan steht vor der Entscheidung, ob er sich auf das Abenteuer einlassen soll.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Morgennebel hüllt das friedliche Dorf ein, die Luft ist erfüllt vom Duft der Erde und des frischen Grases. Ethan steht vor der Schmiede, sein Hammer schlägt auf glühendes Eisen, Funken sprühen. Sein Leben war einfach und bescheiden, bis der Erdrutsch an jenem Tag alles veränderte."
+		},
+		{
+			"type": "narrator",
+			"content": "Ein lauter Knall zerreißt die Stille des Dorfes, der entfernte Hang bricht ein, Staub verdunkelt den Himmel. Ethan wird von den Dorfbewohnern zur Hilfe gerufen und findet im Geröll eine leuchtende Steintafel, bedeckt mit unverständlichen Runen."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(runzelt die Stirn, berührt die Steintafel, murmelt) Was ist das? Es fühlt sich... lebendig an?"
+		},
+		{
+			"type": "narrator",
+			"content": "Als seine Finger die Tafel berühren, strömt eine warme Energie durch seinen Körper, in seinem Kopf blitzen Bilder auf: Sternenhimmel, Schwerter, verschwommene Schlachtfelder. Heftige Kopfschmerzen zwingen ihn in die Knie, während Flüstern seinen Namen zu rufen scheint."
+		},
+		{
+			"type": "narrator",
+			"content": "Die Dorfbewohner geraten in Panik und versuchen, ihn wegzuziehen, doch ein grüner Lichtstrahl schießt aus dem Wald und wehrt die herannahenden Steine ab. Eine Frau tritt hervor - ihr goldenes Haar glänzt im Sonnenlicht, die Bogensehne vibriert noch in ihrer Hand."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(mit kühler Stimme und scharfem Blick) Zurück, Menschen. Das ist nichts, was ihr berühren solltet."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(kämpft sich auf die Beine, sieht sie misstrauisch an) Wer bist du? Warum hilfst du mir? Was ist diese Tafel?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(tritt näher, mit komplexem Ausdruck in den Augen) Ich bin Aria, eine Elfenrangerin. Diese Tafel hat das Wächterblut in dir erweckt. Du bist Ethan, aber du bist mehr als nur ein Schmiedlehrling."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(schüttelt verwirrt den Kopf) Wächter? Blut? Ich verstehe nichts davon! Wovon redest du?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(mit ernstem Ton, den Blick zum fernen Wald gerichtet) Die legendäre Sternenfallklinge, der Schlüssel zum Reich der Götter, ist irgendwo auf diesem Kontinent verborgen. Du bist ihr Wächter, aber die dunklen Mächte haben dich im Visier. Sie werden weder dich noch das Dorf verschonen."
+		},
+		{
+			"type": "narrator",
+			"content": "Ethans Herz rast, in seinem Kopf hallen noch immer die Bilder der Steintafel nach. Er betrachtet Aria, deren Ruhe und Mystik ihn beunruhigen, doch er kann das seltsame Gefühl der Vertrautheit nicht leugnen."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(mit tiefer, zögernder Stimme) Du erwartest, dass ich das glaube? Das Dorf ist meine Heimat, ich kann nicht einfach gehen."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(mit kaltem Lächeln und verächtlichem Blick) Bleibst du hier, wirst du sterben und das Dorf wird zerstört. Komm mit mir, ich führe dich zur Wahrheit - und zur Sternenfallklinge."
+		},
+		{
+			"type": "narrator",
+			"content": "In der Ferne ertönt ein unheilvolles Grollen aus dem Wald, als ob sich etwas nähert. Ethan ballt die Fäuste, vor seinem inneren Auge erscheinen die lächelnden Gesichter der Dorfbewohner und die seltsame Kraft der Steintafel."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(mit zusammengebissenen Zähnen und entschlossenem Blick) Wird das Dorf sicher sein, wenn ich gehe?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(schweigt kurz, mit sanfterer Stimme) Das kann ich nicht garantieren. Aber wenn du bleibst, werden sie keine Chance haben."
+		},
+		{
+			"type": "narrator",
+			"content": "Die Nacht bricht herein, das Grollen aus dem Wald wird lauter. Ethan steht am Scheideweg, während Arias Blick scharf wie Sternenlicht auf seine Entscheidung wartet."
+		},
+		{
+			"type": "narrator",
+			"content": "Soll er der mysteriösen Elfe vertrauen und sich auf das unbekannte Abenteuer einlassen? Oder im Dorf bleiben und sich der unbekannten Bedrohung stellen? Oder vielleicht das Geheimnis der Steintafel auf eigene Faust erforschen?"
+		}
+	],
+	"choice": {
+		"prompt": "Wie wirst du dich entscheiden",
+		"is_ai_generated": false,
+		"options": [
+			{
+				"content": "Vertraue Aria und folge ihr auf der Suche nach der Sternenfallklinge."
+			},
+			{
+				"content": "Lehne Arias Angebot ab, bleibe im Dorf um deine Familie zu beschützen und stelle dich der unbekannten Bedrohung."
+			},
+			{
+				"content": "Nimm die Steintafel heimlich mit und erforsche selbst das Geheimnis des Wächterbluts."
+			}
+		]
+	}
+}

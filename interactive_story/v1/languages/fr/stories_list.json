@@ -40,6 +40,26 @@
 			],
 			"cover_image_url": "resources/covers/story_2_cover.png",
 			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		},
+		{
+			"id": "story_3",
+			"title": "Lame de l'Étoile Filante",
+			"description": "Dans la terre mystique d'Eltheria, la légendaire Lame de l'Étoile Filante est censée ouvrir un portail vers le royaume des dieux. Le jeune aventurier Ethan découvre accidentellement qu'il est l'héritier d'une ancienne lignée de gardiens et a pour mission de trouver la Lame de l'Étoile Filante. Cependant, les forces obscures convoitent cet artefact sacré et cherchent à l'utiliser pour réveiller un démon endormi. Au cours de son voyage, Ethan rencontre la mystérieuse rôdeuse elfe Aria, le fidèle guerrier nain Torin et la rusée sorcière humaine Lila. Ils doivent travailler ensemble pour affronter des pièges magiques mortels, des monstres féroces et des intrigues perfides afin de décider du destin du monde.",
+			"category_id": 3,
+			"tags": [
+				"magie",
+				"aventure",
+				"destin",
+				"trahison",
+				"artefact"
+			],
+			"plot_direction": [
+				"Début: Ethan, un apprenti forgeron de village ordinaire, découvre une mystérieuse dalle de pierre gravée de runes lors d'un glissement de terrain soudain, déclenchant la lignée de gardien dormante en lui. La mystérieuse rôdeuse elfe Aria apparaît, lui racontant la légende de la Lame de l'Étoile Filante et l'avertissant que les forces obscures le traquent déjà. Ethan doit décider s'il accepte la mission et se lance dans une aventure pour trouver l'artefact.",
+				"Milieu: Ethan, Aria, Torin et Lila forment un groupe d'aventuriers, traversant forêts, déserts et ruines antiques à la recherche d'indices sur la Lame de l'Étoile Filante. Ils affrontent des monstres, des pièges magiques et la poursuite des forces obscures. Les actions de Lila commencent à éveiller les soupçons, et il semble qu'elle cache ses propres secrets. Au fur et à mesure que le voyage progresse, Ethan découvre que la Lame de l'Étoile Filante n'ouvre pas seulement le royaume des dieux, mais peut aussi réveiller un démon qui détruira le monde. Il doit choisir entre faire confiance à ses coéquipiers ou agir seul.",
+				"Fin: Le groupe d'aventuriers trouve la cachette de la Lame de l'Étoile Filante, mais découvre que Lila est une espionne des forces obscures et tente de voler l'artefact. Ethan éveille le pouvoir de sa lignée au moment crucial et vainc Lila, mais fait face à un choix final: détruire la Lame de l'Étoile Filante pour empêcher la résurrection du démon, ou l'utiliser pour ouvrir le royaume des dieux et chercher leur guidance. Quel que soit son choix, Ethan fera face à des sacrifices et au prix du destin."
+			],
+			"cover_image_url": "resources/covers/story_3_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
 		}
 	]
 }

@@ -1,0 +1,113 @@
+{
+	"title": "Veren herääminen",
+	"summary": "Nuori seppäoppilas Ethan löytää maanvyörymästä salaperäisen kivitaulun, joka herättää hänen sisällään uinuvan suojelijan veren. Salaperäinen haltiasoturi Aria ilmestyy, paljastaa tähtimiekan legendan ja varoittaa pimeiden voimien uhasta. Ethan joutuu valitsemaan, lähteekö seikkailuun.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Aamuinen usva peitti rauhallisen kylän, ilmassa leijui mullan ja ruohon tuoksu. Ethan seisoi sepänpajan ulkopuolella, vasara kädessään takoen hehkuvaa rautapalaa, kipinöiden sinkoillessa. Hänen elämänsä oli tavallista ja yksinkertaista, kunnes maanvyörymä muutti kaiken."
+		},
+		{
+			"type": "narrator",
+			"content": "Valtava jyrähdys rikkoi kylän rauhan, kaukainen rinne sortui ja pöly peitti taivaan. Ethan kutsuttiin kyläläisten avuksi pelastustöihin, mutta kivimurskasta hän löysi hohtavan kivitaulun, joka oli täynnä käsittämättömiä symboleja."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(rypistää otsaansa, koskettaa kivitaulua, mutisee) Mikä tämä on? Tuntuu... elävältä?"
+		},
+		{
+			"type": "narrator",
+			"content": "Kun hänen sormensa koskettivat kivitaulua, lämmin virta kulki sormenpäistä koko kehoon, ja hänen mielessään välähtelivät sirpaleiset kuvat: tähtitaivas, miekka, sumeaa taistelukenttää. Kova päänsärky pakotti hänet polvilleen, ja korvissa kuului kuiskaus, joka tuntui kutsuvan häntä nimeltä."
+		},
+		{
+			"type": "narrator",
+			"content": "Kyläläiset hätääntyivät ja yrittivät vetää hänet pois, mutta vihreä valo singahti metsästä ja torjui lähestyvät kivet tarkasti. Nainen astui esiin - hänen vaalea hiuksensa kimalsivat auringossa, jousen jänne värähteli yhä hänen kädessään."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(kylmällä äänellä, terävällä katseella) Peräänny, ihminen. Tämä ei ole jotain, mitä te voitte koskettaa."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(kamppailee ylös, katsoo häntä varovasti) Kuka sinä olet? Miksi autat minua? Mikä tämä kivitaulu on?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(astuu lähemmäs, silmissä välähtää monimutkainen tunne) Olen Aria, haltiametsästäjä. Tämä kivitaulu herätti suojelijan veren sisälläsi. Olet Ethan, mutta olet paljon enemmän kuin seppäoppilas."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(pudistaa päätään hämmentyneenä) Suojelija? Veri? En ymmärrä mitään! Mistä sinä puhut?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(äänensävy muuttuu vakavaksi, katse pyyhkii kaukaista metsää) Legendaarinen tähtimiekka, avain jumalten valtakuntaan, on piilotettu jonnekin tälle mantereelle. Olet sen suojelija, mutta pimeät voimat ovat jo jäljilläsi. He eivät säästä sinua, eivätkä tätä kylää."
+		},
+		{
+			"type": "narrator",
+			"content": "Ethanin sydän alkoi hakata nopeammin, kivitaulun tuomat kuvat kaikuivat yhä hänen mielessään. Hän katsoi Ariaa, jonka rauhallisuus ja salaperäisyys tekivät hänet levottomaksi, mutta hän ei voinut kieltää outoa tuttuuden tunnetta."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(matalalla, epäröivällä äänellä) Haluat minun uskovan tämän? Kylä on kotini, en voi vain lähteä."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(kylmä nauru, silmissä välähtää halveksunta) Jos jäät tänne, kuolet, ja kylä tuhotaan. Tule kanssani, johdatan sinut totuuden - ja tähtimiekan - luo."
+		},
+		{
+			"type": "narrator",
+			"content": "Kaukaa metsästä kuului pahaenteistä murinaa, kuin jokin olisi lähestymässä. Ethan puristi nyrkkinsä yhteen, mielessään välähtivät kyläläisten hymyilevät kasvot ja kivitaulun tuoma outo voima."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(puree hammasta, katse päättäväinen) Jos lähden, onko kylä turvassa?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(hetken hiljaisuuden jälkeen, pehmeämmällä äänellä) En voi luvata. Mutta jos jäät, heillä ei ole mitään mahdollisuuksia."
+		},
+		{
+			"type": "narrator",
+			"content": "Yö laskeutui, ja murina metsästä voimistui. Ethan seisoi kohtalonsa risteyksessä, Arian katse oli terävä kuin tähtien valo hänen odottaessaan päätöstä."
+		},
+		{
+			"type": "narrator",
+			"content": "Luottaako salaperäiseen haltiaan ja lähteä tuntemattomaan seikkailuun? Vai jäädä kylään kohtaamaan tuntematon uhka? Vai ehkä tutkia kivitaulun salaisuuksia yksin?"
+		}
+	],
+	"choice": {
+		"prompt": "Miten valitset",
+		"is_ai_generated": false,
+		"options": [
+			{
+				"content": "Luota Ariaan ja lähde hänen mukaansa etsimään tähtimiekkaa."
+			},
+			{
+				"content": "Kieltäydy Ariasta, jää kylään suojelemaan perhettä ja kohtaa tuntematon uhka."
+			},
+			{
+				"content": "Vie kivitaulu salaa ja tutki suojelijan veren salaisuutta yksin."
+			}
+		]
+	}
+}

@@ -40,6 +40,26 @@
 			],
 			"cover_image_url": "resources/covers/story_2_cover.png",
 			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		},
+		{
+			"id": "story_3",
+			"title": "La Lama della Stella Cadente",
+			"description": "Nel misterioso continente di Elserai, si dice che la leggendaria Lama della Stella Cadente possa aprire un portale verso il regno degli dei. Il giovane avventuriero Ethan scopre accidentalmente di essere l'erede del sangue degli antichi guardiani, con la missione di trovare la Lama della Stella Cadente. Tuttavia, le forze oscure bramano questo artefatto divino, cercando di usarlo per risvegliare il dio demone dormiente. Durante il suo viaggio, Ethan incontra la misteriosa ranger elfica Aria, il leale guerriero nano Torin e l'astuta maga umana Lila. Devono lavorare insieme per affrontare trappole magiche mortali, bestie feroci e complotti di tradimento, determinando il destino del mondo.",
+			"category_id": 3,
+			"tags": [
+				"Fantasy",
+				"Avventura",
+				"Destino",
+				"Tradimento",
+				"Artefatto Divino"
+			],
+			"plot_direction": [
+				"Inizio: Ethan è un comune apprendista fabbro di villaggio che, durante una frana accidentale, scopre una tavoletta incisa con rune misteriose, risvegliando il sangue del guardiano dormiente dentro di lui. L'enigmatica ranger elfica Aria appare, rivelandogli la leggenda della Lama della Stella Cadente e avvertendolo che le forze oscure lo stanno già cercando. Ethan deve decidere se accettare la missione e intraprendere il viaggio alla ricerca dell'artefatto divino.",
+				"Fase Centrale: Ethan forma una squadra di avventurieri con Aria, Torin e Lila, attraversando foreste, deserti e antiche rovine alla ricerca di indizi sulla Lama della Stella Cadente. Affrontano bestie magiche, trappole arcane e l'inseguimento delle forze oscure. Il comportamento di Lila diventa sempre più sospetto, come se nascondesse dei segreti. Mentre il viaggio si fa più profondo, Ethan scopre che la Lama della Stella Cadente non solo può aprire il regno degli dei, ma potrebbe anche risvegliare il dio demone che distruggerebbe il mondo. Deve scegliere tra fidarsi dei suoi compagni o agire da solo.",
+				"Finale: La squadra trova il nascondiglio della Lama della Stella Cadente, ma scopre che Lila è una spia delle forze oscure che cerca di rubare l'artefatto. Nel momento cruciale, Ethan risveglia il potere del suo sangue e sconfigge Lila, ma si trova di fronte a una scelta finale: distruggere la Lama della Stella Cadente per impedire il risveglio del dio demone, o usarla per aprire il regno degli dei in cerca della loro guida. Qualunque sia la scelta, Ethan dovrà affrontare il prezzo del sacrificio e del destino."
+			],
+			"cover_image_url": "resources/covers/story_3_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
 		}
 	]
 }

@@ -40,6 +40,26 @@
 			],
 			"cover_image_url": "resources/covers/story_2_cover.png",
 			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		},
+		{
+			"id": "story_3",
+			"title": "Tähtiputous-terä",
+			"description": "Mystisessä Eltherian maassa legendaarisen Tähtiputous-terän sanotaan avaavan portaalin jumalten valtakuntaan. Nuori seikkailija Ethan löytää vahingossa olevansa muinaisen vartijasuvun perillinen ja kantaa tehtävää löytää Tähtiputous-terä. Pimeät voimat kuitenkin himoitsevat tätä pyhää esinettä ja pyrkivät käyttämään sitä herättääkseen nukkuvan demonin. Matkallaan Ethan tapaa salaperäisen haltijapartiolaisen Arian, uskollisen kääpiösoturin Torinin ja ovelan ihmisvelhottaren Lilan. Heidän on työskenneltävä yhdessä kohdatakseen tappavia taikapyydyksiä, hurjia hirviöitä ja petollisia juonitteluja päättääkseen maailman kohtalon.",
+			"category_id": 3,
+			"tags": [
+				"taika",
+				"seikkailu",
+				"kohtalo",
+				"petos",
+				"esine"
+			],
+			"plot_direction": [
+				"Alku: Ethan, tavallinen kyläsepän oppipoika, löytää salaperäisen riimukivilaatan äkillisen maanvyörymän aikana, mikä laukaisee hänessä uinuvan vartijasuvun verenperinnön. Salaperäinen haltijapartiolainen Aria ilmestyy ja kertoo hänelle Tähtiputous-terän legendasta ja varoittaa, että pimeät voimat ovat jo metsästämässä häntä. Ethanin on päätettävä, hyväksyykö hän tehtävän ja lähtee seikkailuun löytääkseen esineen.",
+				"Keskikohta: Ethan, Aria, Torin ja Lila muodostavat seikkailijajoukon, joka kulkee metsien, aavikoiden ja muinaisten raunioiden läpi etsiessään vihjeitä Tähtiputous-terästä. He kohtaavat hirviöitä, taikapyydyksiä ja pimeiden voimien takaa-ajoa. Lilan teot alkavat herättää epäilyksiä, ja näyttää siltä, että hänellä on omat salaisuutensa. Matkan edetessä Ethan huomaa, että Tähtiputous-terä ei ainoastaan avaa jumalten valtakuntaa, vaan voi myös herättää demonin, joka tuhoaa maailman. Hänen on valittava, luottaako hän joukkuetovereihinsa vai toimiiko hän yksin.",
+				"Loppu: Seikkailijajoukko löytää Tähtiputous-terän piilopaikan, mutta huomaa, että Lila on pimeiden voimien vakooja ja yrittää varastaa esineen. Ethan herättää verenperintönsä voiman ratkaisevalla hetkellä ja voittaa Lilan, mutta kohtaa lopullisen valinnan: tuhota Tähtiputous-terä estääkseen demonin ylösnousemuksen, vai käyttää sitä avatakseen jumalten valtakunnan ja etsiäkseen heidän ohjaustaan. Valinnastaan riippumatta Ethan kohtaa uhrauksia ja kohtalon hinnan."
+			],
+			"cover_image_url": "resources/covers/story_3_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
 		}
 	]
 }

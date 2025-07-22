@@ -15,7 +15,7 @@
 			"plot_direction": [
 				"[Plot: Hilang Ingatan dan Misteri]: Watak utama tersedar di hospital dan mendapati dirinya hilang ingatan. Di bawah bimbingan Sofia, dia memasuki sebuah bandar yang dikuasai oleh nafsu dan kuasa, di mana dia secara beransur-ansur muncul dengan identiti baru: Dylan, seorang elit perniagaan. Dikelilingi oleh kekayaan dan godaan, hidupnya berbelit dengan beberapa wanita termasuk Luna dan Claire, yang masing-masing mempunyai gaya tersendiri tetapi memiliki daya tarikan yang berbahaya. Watak utama mula menyedari bahawa wanita-wanita ini mempunyai motif tersembunyi. Pada masa yang sama, dia berulang kali melihat wajah wanita yang kabur dalam mimpinya - Eve - tetapi dia tidak dapat mengingati wajahnya dengan jelas.",
 				"[Plot Pertengahan: Nafsu dan Dendam]: Sofia membawanya melalui dunia jenayah dan lingkaran elit, mendedahkan hubungannya dengan kuasa bawah tanah dan cuba menyeretnya ke dalam rancangan yang lebih besar. Dia terjebak dalam hubungan emosi yang rumit dengan beberapa wanita. Selepas kemalangan, ingatannya pulih sepenuhnya dan dia menyedari bahawa dia sebenarnya adalah ketua gangster yang dikhianati oleh sekutunya yang dipercayai, Max. Watak utama memutuskan untuk berpura-pura masih hilang ingatan dan secara rahsia mula merancang pembalasan.",
-				"[Plot Akhir: Pembalasan dan Takdir]: Rancangan pembalasan bermula apabila watak utama tanpa belas kasihan menghancurkan kuasa yang mengkhianatinya. Namun, dalam proses pembalasan, dia sama ada menyalakan semula perasaannya terhadap Eve atau menemui konspirasi yang lebih besar. Selepas menyelesaikan pembalasannya, dia mendapati dirinya tersesat dalam kekosongan, tidak pasti sama ada untuk berkongsi hidupnya dengan seseorang atau terus mengikuti jalan kegelapan.",
+				"[Plot Akhir: Pembalasan dan Takdir]: Rancangan pembalasan bermula apabila watak utama tanpa belas kasihan menghancurkan kuasa yang mengkhianatinya. Namun, dalam proses pembalasan, dia sama ada menyalakan semula perasaannya terhadap Eve atau menemui konspirasi yang lebih besar. Selepas menyelesaikan pembalasannya, dia mendapati dirinya tersesat dalam kekosongan, tidak pasti sama ada untuk berkongsi hidupnya dengan seseorang atau terus mengikuti jalan kegelapan."
 			],
 			"cover_image_url": "resources/covers/story_1_cover.png",
 			"background_image_url": "resources/backgrounds/story_1_bg.jpg"
@@ -40,6 +40,26 @@
 			],
 			"cover_image_url": "resources/covers/story_2_cover.png",
 			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		},
+		{
+			"id": "story_3",
+			"title": "Pedang Bintang Jatuh",
+			"description": "Di benua Elserai yang misteri, pedang legenda yang dikenali sebagai Pedang Bintang Jatuh dikatakan dapat membuka portal ke alam dewa. Ethan, seorang pengembara muda, secara tidak sengaja mendapati bahawa dia adalah pewaris darah penjaga kuno, dan dibebani dengan misi mencari Pedang Bintang Jatuh. Walau bagaimanapun, kuasa gelap menginginkan artifak suci ini, cuba menggunakannya untuk membangkitkan dewa jahat yang sedang tidur. Dalam perjalanannya, Ethan bertemu dengan Aria si penjelajah misteri dari bangsa peri, Torin si dwarf pejuang yang setia, dan Lila si ahli sihir manusia yang licik. Mereka mesti bekerjasama untuk menghadapi perangkap sihir yang mematikan, makhluk ganas dan konspirasi pengkhianatan yang akan menentukan nasib dunia.",
+			"category_id": 3,
+			"tags": [
+				"Fantasi",
+				"Pengembaraan",
+				"Takdir",
+				"Pengkhianatan",
+				"Artifak Suci"
+			],
+			"plot_direction": [
+				"Permulaan: Ethan adalah seorang perantis tukang besi desa biasa yang menemui tablet batu dengan ukiran mistik semasa tanah runtuh, yang mengaktifkan darah penjaga yang tidur dalam dirinya. Aria, penjelajah peri yang misteri muncul, memberitahunya tentang legenda Pedang Bintang Jatuh dan memberi amaran bahawa kuasa gelap sedang mengejarnya. Ethan mesti memutuskan sama ada untuk menerima misinya dan memulakan pengembaraan mencari artifak suci tersebut.",
+				"Pertengahan: Ethan membentuk kumpulan pengembaraan dengan Aria, Torin dan Lila, menjelajah melalui hutan, padang pasir dan runtuhan purba untuk mencari petunjuk tentang Pedang Bintang Jatuh. Mereka menghadapi makhluk ajaib, perangkap sihir dan pengejaran kuasa gelap. Tingkah laku Lila mula menunjukkan keraguan, seolah-olah dia menyembunyikan rahsia. Semasa perjalanan mereka semakin mendalam, Ethan mendapati bahawa Pedang Bintang Jatuh bukan sahaja boleh membuka alam dewa, tetapi juga boleh membangkitkan dewa jahat yang akan memusnahkan dunia. Dia mesti memilih antara mempercayai rakan-rakannya atau bertindak sendirian.",
+				"Pengakhiran: Kumpulan pengembaraan menemui tempat persembunyian Pedang Bintang Jatuh, tetapi mendapati bahawa Lila adalah pengintip kuasa gelap yang cuba merampas artifak tersebut. Ethan membangkitkan kuasa darahnya pada saat kritikal, mengalahkan Lila, tetapi menghadapi pilihan terakhir: memusnahkan Pedang Bintang Jatuh untuk menghalang kebangkitan dewa jahat, atau menggunakannya untuk membuka alam dewa dan mencari bimbingan ilahi. Tidak kira apa pilihannya, Ethan akan menghadapi harga pengorbanan dan takdir."
+			],
+			"cover_image_url": "resources/covers/story_3_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
 		}
 	]
 }

@@ -1,0 +1,61 @@
+{
+	"story_id": "story_3",
+	"chapters": [
+		{
+			"id": "chapter_1",
+			"title": "血脉的觉醒"
+		}
+	],
+	"characters": [
+		{
+			"id": "ethan",
+			"name": "Ethan",
+			"description": "年轻的铁匠学徒，在山崩中意外发现神秘石板，唤醒了体内沉睡的守护者血脉。他善良、正直，但有时也有些固执。面对突如其来的命运，他将如何抉择？",
+			"avatar_url": "resources/characters/ethan.png",
+			"role": "主角",
+			"gender": "男",
+			"age": 18,
+			"personality_traits": ["勇敢", "正直", "固执"]
+		},
+		{
+			"id": "aria",
+			"name": "Aria",
+			"description": "神秘的精灵游侠，奉命寻找星陨之刃的守护者。她身手敏捷，性格冷静，对人类世界抱有戒心，但内心深处隐藏着对正义的渴望。她将是 Ethan 冒险旅途中的重要引导者。",
+			"avatar_url": "resources/characters/aria.png",
+			"role": "引导者",
+			"gender": "女",
+			"age": 100,
+			"personality_traits": ["冷静", "敏捷", "神秘"]
+		},
+		{
+			"id": "torin",
+			"name": "Torin",
+			"description": "来自地下王国的矮人战士，忠诚而豪爽。他擅长使用巨斧，对宝藏和美酒情有独钟。Torin 将在 Ethan 的冒险中提供强大的战斗支援和幽默感。",
+			"avatar_url": "resources/characters/torin.png",
+			"role": "盟友",
+			"gender": "男",
+			"age": 50,
+			"personality_traits": ["忠诚", "豪爽", "贪财"]
+		},
+		{
+			"id": "lila",
+			"name": "Lila",
+			"description": "狡黠的人类女法师，擅长幻术和符文魔法。她背景神秘，行事诡秘，似乎有自己的目的。Lila 的加入将为团队带来不确定性，她的真实身份和意图将是故事的一大悬念。",
+			"avatar_url": "resources/characters/lila.png",
+			"role": "盟友/潜在敌人",
+			"gender": "女",
+			"age": 25,
+			"personality_traits": ["狡黠", "神秘", "自私"]
+		},
+		{
+			"id": "kael",
+			"name": "Kael",
+			"description": "黑暗势力的首领，强大的亡灵法师。他曾是守护者的一员，却因对力量的渴望而堕落。Kael 试图利用星陨之刃的力量复活远古恶魔，是 Ethan 最大的敌人。",
+			"avatar_url": "resources/characters/kael.png",
+			"role": "反派",
+			"gender": "男",
+			"age": 300,
+			"personality_traits": ["冷酷", "强大", "野心勃勃"]
+		}
+	]
+}

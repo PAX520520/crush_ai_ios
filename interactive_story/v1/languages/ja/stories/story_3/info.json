@@ -1,0 +1,87 @@
+{
+	"story_id": "story_3",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "若い村の鍛冶屋の見習い。偶然に自分が守護者の血を引く継承者だと知り、星の剣を探す使命を背負うことになる。",
+			"avatar_url": "/resources/characters/story_3/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"勇敢",
+				"忠実",
+				"好奇心旺盛",
+				"経験不足",
+				"信じやすい"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Aria",
+			"description": "謎めいたエルフのレンジャー。弓術と自然魔法に長け、星の剣の伝説に詳しいが、彼女の本当の動機はEthanを助けることだけではないようだ。",
+			"avatar_url": "/resources/characters/story_3/aria.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"冷静",
+				"賢明",
+				"独立的",
+				"人間を軽蔑"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Torin",
+			"description": "ドワーフの戦士。古い山岳氏族の出身で、戦斧と鍛冶の達人。Ethanの使命に忠実だが、魔法に対して懐疑的。",
+			"avatar_url": "/resources/characters/story_3/torin.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"忠実",
+				"頑固",
+				"率直",
+				"ユーモアがある"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Lila",
+			"description": "人間の魔法使い。火と幻術の魔法に長け、表面的には陽気で面白いが、実は闇の勢力とつながりを持っている。",
+			"avatar_url": "/resources/characters/story_3/lila.jpg",
+			"role": "antagonist",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"狡猾",
+				"魅惑的",
+				"偽装が上手い",
+				"心が矛盾"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Kael",
+			"description": "闇の勢力のリーダー。謎めいた影の術士で、星の剣を狙い、魔神を目覚めさせて世界を支配しようとしている。",
+			"avatar_url": "/resources/characters/story_3/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 0,
+			"personality": [
+				"冷酷",
+				"野心家",
+				"人心を操る"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "血脈の目覚め"
+		}
+	]
+}

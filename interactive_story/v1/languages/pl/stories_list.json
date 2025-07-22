@@ -40,6 +40,26 @@
 			],
 			"cover_image_url": "resources/covers/story_2_cover.png",
 			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		},
+		{
+			"id": "story_3",
+			"title": "Ostrze Spadającej Gwiazdy",
+			"description": "Na tajemniczym kontynencie Elserai, legendarny artefakt znany jako Ostrze Spadającej Gwiazdy podobno może otworzyć portal do królestwa bogów. Młody poszukiwacz przygód Ethan przypadkowo odkrywa, że jest spadkobiercą starożytnej linii strażników i ma misję odnalezienia Ostrza Spadającej Gwiazdy. Jednak siły ciemności pożądają tej świętej broni, próbując wykorzystać ją do przebudzenia uśpionego demona. W swojej podróży Ethan spotyka tajemniczą elfią łowczynię Aria, lojalnego krasnoludziego wojownika Torina i przebiegłą ludzką czarodziejkę Lila. Muszą współpracować, by stawić czoła śmiertelnym magicznym pułapkom, dzikim bestiom i zdradliwym spiskom, które zadecydują o losie świata.",
+			"category_id": 3,
+			"tags": [
+				"Fantastyka",
+				"Przygoda",
+				"Przeznaczenie",
+				"Zdrada",
+				"Artefakt"
+			],
+			"plot_direction": [
+				"Początek: Ethan jest zwykłym uczniem kowala w wiosce, który podczas przypadkowego osunięcia się góry odkrywa kamienną tablicę pokrytą tajemniczymi runami, co budzi uśpioną w nim krew strażnika. Pojawia się tajemnicza elfia łowczyni Aria, która opowiada mu legendę o Ostrzu Spadającej Gwiazdy i ostrzega, że siły ciemności już go ścigają. Ethan musi zdecydować, czy przyjąć misję i wyruszyć w poszukiwaniu świętego artefaktu.",
+				"Środek: Ethan wraz z Arią, Torinem i Lilą tworzą drużynę poszukiwaczy, przemierzając lasy, pustynie i starożytne ruiny w poszukiwaniu wskazówek dotyczących Ostrza Spadającej Gwiazdy. Stawiają czoła magicznym bestiom, pułapkom i pościgowi sił ciemności. Zachowanie Lili staje się coraz bardziej podejrzane, jakby ukrywała jakiś sekret. W miarę postępu podróży Ethan odkrywa, że Ostrze Spadającej Gwiazdy nie tylko może otworzyć królestwo bogów, ale także może obudzić demona zdolnego zniszczyć świat. Musi wybrać między zaufaniem towarzyszom a samodzielnym działaniem.",
+				"Zakończenie: Drużyna znajduje kryjówkę Ostrza Spadającej Gwiazdy, ale odkrywa, że Lila jest szpiegiem sił ciemności, próbującym zdobyć artefakt. W kluczowym momencie Ethan budzi moc swojej krwi i pokonuje Lilę, ale staje przed ostatecznym wyborem: zniszczyć Ostrze Spadającej Gwiazdy, by zapobiec przebudzeniu demona, lub użyć go do otwarcia królestwa bogów i poszukiwania boskiego przewodnictwa. Niezależnie od wyboru, Ethan będzie musiał zmierzyć się z ceną poświęcenia i przeznaczenia."
+			],
+			"cover_image_url": "resources/covers/story_3_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
 		}
 	]
 }

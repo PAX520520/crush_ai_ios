@@ -1,0 +1,87 @@
+{
+	"story_id": "story_3",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "Молодий учень коваля в селі, який несподівано виявляє, що він спадкоємець крові Хранителів і має місію знайти Зоряний Клинок.",
+			"avatar_url": "/resources/characters/story_3/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"Хоробрий",
+				"Вірний",
+				"Допитливий",
+				"Недосвідчений",
+				"Довірливий"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Aria",
+			"description": "Таємнича ельфійська рейнджерка, майстерна у стрільбі з лука та природній магії, добре знає легенду про Зоряний Клинок, але її справжні мотиви, здається, не обмежуються допомогою Ethan.",
+			"avatar_url": "/resources/characters/story_3/aria.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"Спокійна",
+				"Розумна",
+				"Незалежна",
+				"Зневажає людей"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Torin",
+			"description": "Гном-воїн із древнього гірського клану, майстерний у володінні бойовою сокирою та ковальстві, відданий місії Ethan, але скептично ставиться до магії.",
+			"avatar_url": "/resources/characters/story_3/torin.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"Вірний",
+				"Впертий",
+				"Прямолінійний",
+				"Дотепний"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Lila",
+			"description": "Людська чарівниця, майстерна у вогняній та ілюзорній магії, зовні весела та дотепна, але насправді приховує зв'язки з темними силами.",
+			"avatar_url": "/resources/characters/story_3/lila.jpg",
+			"role": "antagonist",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"Хитра",
+				"Чарівна",
+				"Вміє маскуватися",
+				"Внутрішньо суперечлива"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Kael",
+			"description": "Лідер темних сил, таємничий чаклун тіней, який жадає заволодіти Зоряним Клинком і прагне пробудити темних богів, щоб правити світом.",
+			"avatar_url": "/resources/characters/story_3/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 0,
+			"personality": [
+				"Безжалісний",
+				"Амбітний",
+				"Маніпулятивний"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Пробудження крові"
+		}
+	]
+}

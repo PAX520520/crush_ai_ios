@@ -1,0 +1,113 @@
+{
+	"title": "Przebudzenie krwi",
+	"summary": "Młody czeladnik kowalski Ethan odkrywa tajemniczą tablicę podczas osunięcia się ziemi, co budzi uśpioną w nim krew strażnika. Pojawia się tajemnicza elfka zwiadowczyni Aria, która ujawnia legendę o Ostrzu Spadającej Gwiazdy i ostrzega przed zagrożeniem ze strony sił ciemności. Ethan staje przed wyborem, czy wyruszyć w podróż.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Poranna mgła spowiła spokojną wioskę, w powietrzu unosił się zapach ziemi i świeżej trawy. Ethan stał przed kuźnią, jego młot uderzał w rozżarzone żelazo, rozrzucając iskry. Jego życie było proste i zwyczajne, aż do dnia, gdy osunięcie się ziemi wszystko zmieniło."
+		},
+		{
+			"type": "narrator",
+			"content": "Potężny huk przerwał ciszę wioski, zbocze oddalonej góry zawaliło się, wznosząc tumany kurzu. Ethan został wezwany przez mieszkańców do pomocy w akcji ratunkowej, ale wśród gruzów znalazł świecącą tablicę pokrytą niezrozumiałymi runami."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(marszcząc brwi, dotykając tablicy, szepcząc) Co to jest? Czuję... jakby było żywe?"
+		},
+		{
+			"type": "narrator",
+			"content": "Gdy jego palce dotknęły tablicy, ciepła energia przepłynęła przez całe jego ciało, a w jego umyśle pojawiły się fragmentaryczne obrazy: gwiaździste niebo, miecz, niewyraźne pole bitwy. Ostry ból głowy zmusił go do uklęknięcia, a w uszach usłyszał szept, jakby ktoś wzywał jego imię."
+		},
+		{
+			"type": "narrator",
+			"content": "Mieszkańcy wioski w panice próbowali go odciągnąć, ale zielony promień wystrzelił z lasu, precyzyjnie odpychając zbliżające się odłamki skał. Wyszła kobieta - jej złote włosy lśniły w słońcu, a cięciwa łuku wciąż drżała w jej dłoni."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(chłodnym głosem, z ostrym spojrzeniem) Cofnijcie się, ludzie. To nie jest coś, czego możecie dotykać."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(z trudem wstając, patrząc na nią podejrzliwie) Kim jesteś? Dlaczego mi pomagasz? Czym jest ta tablica?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(podchodząc bliżej, z błyskiem złożonych emocji w oczach) Jestem Aria, elfka zwiadowczyni. Ta tablica obudziła w tobie krew strażnika. Jesteś Ethan, ale jesteś kimś więcej niż tylko czeladnikiem kowalskim."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(kręcąc głową ze zmieszaniem) Strażnik? Krew? Nic nie rozumiem! O czym ty mówisz?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(poważnym tonem, spoglądając w stronę odległego lasu) Legendarne Ostrze Spadającej Gwiazdy, klucz do królestwa bogów, jest ukryte gdzieś na tym kontynencie. Jesteś jego strażnikiem, ale siły ciemności już cię wyśledziły. Nie odpuszczą ani tobie, ani tej wiosce."
+		},
+		{
+			"type": "narrator",
+			"content": "Serce Ethana przyspieszyło, w jego umyśle wciąż rozbrzmiewały obrazy wywołane przez tablicę. Patrzył na Arię, jej spokój i tajemniczość budziły w nim niepokój, ale nie mógł zaprzeczyć dziwnemu uczuciu znajomości."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(niskim, wahającym się głosem) Chcesz, żebym w to uwierzył? Wioska jest moim domem, nie mogę tak po prostu odejść."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(z zimnym uśmiechem i pogardliwym błyskiem w oku) Jeśli tu zostaniesz, zginiesz, a wioska zostanie zniszczona. Chodź ze mną, poprowadzę cię do prawdy - i do Ostrza Spadającej Gwiazdy."
+		},
+		{
+			"type": "narrator",
+			"content": "Z oddali, z lasu dobiegło złowrogie warczenie, jakby coś się zbliżało. Ethan zacisnął pięści, w jego umyśle pojawiły się uśmiechnięte twarze mieszkańców wioski i dziwna moc, którą poczuł od tablicy."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(zaciskając zęby, z determinacją w oczach) Jeśli odejdę, czy wioska będzie bezpieczna?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(po chwili milczenia, łagodniejszym tonem) Nie mogę tego zagwarantować. Ale jeśli zostaniesz, nie będą mieli żadnych szans."
+		},
+		{
+			"type": "narrator",
+			"content": "Zapadł zmrok, a warczenie z lasu stawało się coraz głośniejsze. Ethan stał na rozdrożu losu, a spojrzenie Arii, ostre jak gwiazdy, czekało na jego decyzję."
+		},
+		{
+			"type": "narrator",
+			"content": "Czy zaufać tajemniczej elfce i wyruszyć w nieznaną przygodę? Czy zostać w wiosce i stawić czoła nieznanemu zagrożeniu? A może spróbować samemu odkryć tajemnicę tablicy?"
+		}
+	],
+	"choice": {
+		"prompt": "Co wybierzesz",
+		"is_ai_generated": false,
+		"options": [
+			{
+				"content": "Zaufaj Arii i wyrusz z nią na poszukiwanie Ostrza Spadającej Gwiazdy."
+			},
+			{
+				"content": "Odrzuć propozycję Arii, zostań w wiosce, by chronić rodzinę i stawić czoła nieznanemu zagrożeniu."
+			},
+			{
+				"content": "Potajemnie zabierz tablicę i samodzielnie zbadaj tajemnicę krwi strażnika."
+			}
+		]
+	}
+}

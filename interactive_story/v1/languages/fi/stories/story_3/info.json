@@ -1,0 +1,87 @@
+{
+	"story_id": "story_3",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "Nuori kyläsepän oppipoika, joka yllättäen löytää itsensä Suojelijoiden veriperimän perijänä ja kantaa vastuun Tähtimiekan etsimisestä.",
+			"avatar_url": "/resources/characters/story_3/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"Rohkea",
+				"Uskollinen",
+				"Utelias",
+				"Kokematon",
+				"Herkkäuskoinen"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Aria",
+			"description": "Salaperäinen haltijametsästäjä, joka hallitsee jousiammunnan ja luonnonmagian, tuntee Tähtimiekan legendan läpikotaisin, mutta hänen todelliset motiivinsa eivät rajoitu vain Ethanin auttamiseen.",
+			"avatar_url": "/resources/characters/story_3/aria.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"Tyyni",
+				"Älykäs",
+				"Itsenäinen",
+				"Halveksii ihmisiä"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Torin",
+			"description": "Kääpiösoturi muinaisesta vuoristoklaanista, taitava taistelukirveen käyttäjä ja seppä, uskollinen Ethanin tehtävälle mutta epäileväinen magian suhteen.",
+			"avatar_url": "/resources/characters/story_3/torin.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"Uskollinen",
+				"Itsepäinen",
+				"Suorapuheinen",
+				"Huumorintajuinen"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Lila",
+			"description": "Ihmistaikuri, joka hallitsee tulimagian ja illuusiot, pinnallisesti hauska ja humoristinen, mutta todellisuudessa piilottaa yhteytensä pimeyden voimiin.",
+			"avatar_url": "/resources/characters/story_3/lila.jpg",
+			"role": "antagonist",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"Ovela",
+				"Lumoava",
+				"Taitava naamioitumaan",
+				"Sisäisesti ristiriitainen"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Kael",
+			"description": "Pimeyden voimien johtaja, salaperäinen varjomestari, joka himoitsee Tähtimiekkaa ja yrittää herättää paholaisjumalan hallitsemaan maailmaa.",
+			"avatar_url": "/resources/characters/story_3/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 0,
+			"personality": [
+				"Armoton",
+				"Kunnianhimoinen",
+				"Taitava manipuloimaan"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Veriperimän herääminen"
+		}
+	]
+}

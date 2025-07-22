@@ -1,0 +1,87 @@
+{
+	"story_id": "story_3",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "En ung landsbysmedlærling, der ved et tilfælde opdager, at han er arving til Vogterens blodlinje og har til opgave at finde Stjerneklingen.",
+			"avatar_url": "/resources/characters/story_3/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"modig",
+				"loyal",
+				"nysgerrig",
+				"uerfaren",
+				"godtroende"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Aria",
+			"description": "En mystisk elverskytte, der mestrer bueskydning og naturmagi, kender legenden om Stjerneklingen ud og ind, men hendes sande motiver synes at være mere end blot at hjælpe Ethan.",
+			"avatar_url": "/resources/characters/story_3/aria.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"rolig",
+				"klog",
+				"selvstændig",
+				"foragter mennesker"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Torin",
+			"description": "En dværgekriger fra en ældgammel bjergklan, der er dygtig til at bruge kampøkse og smedning, loyal over for Ethans mission, men skeptisk over for magi.",
+			"avatar_url": "/resources/characters/story_3/torin.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"loyal",
+				"stædig",
+				"ligefrem",
+				"humoristisk"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Lila",
+			"description": "En menneskelig troldkvinde, der mestrer ild- og illusionsmagi, udadtil vittig og humoristisk, men skjuler i virkeligheden forbindelser til mørke kræfter.",
+			"avatar_url": "/resources/characters/story_3/lila.jpg",
+			"role": "antagonist",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"snu",
+				"forførende",
+				"god til at foregive",
+				"indre konflikt"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Kael",
+			"description": "Leder af de mørke kræfter, en mystisk skyggemager, der begærer Stjerneklingen og forsøger at vække dæmonguden for at herske over verden.",
+			"avatar_url": "/resources/characters/story_3/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 0,
+			"personality": [
+				"kold",
+				"ambitiøs",
+				"manipulerende"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Blodlinjens Opvågnen"
+		}
+	]
+}

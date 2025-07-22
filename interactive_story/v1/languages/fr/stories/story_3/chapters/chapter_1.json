@@ -1,0 +1,113 @@
+{
+	"title": "L'Éveil du Sang",
+	"summary": "Le jeune apprenti forgeron Ethan découvre une tablette mystérieuse lors d'un éboulement, éveillant le sang du gardien qui sommeille en lui. La mystérieuse rôdeuse elfe Aria apparaît, révélant la légende de la Lame Stellaire et mettant en garde contre la menace des forces obscures. Ethan fait face au choix de s'embarquer ou non dans une aventure.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "La brume matinale enveloppe le village paisible, l'air est imprégné du parfum de la terre et de l'herbe fraîche. Ethan se tient devant la forge, son marteau frappant le fer brûlant, faisant jaillir des étincelles. Sa vie était simple et ordinaire, jusqu'à ce que l'éboulement change tout."
+		},
+		{
+			"type": "narrator",
+			"content": "Un grondement puissant brise la tranquillité du village, la colline au loin s'effondre dans un nuage de poussière. Appelé à l'aide par les villageois, Ethan découvre parmi les débris une tablette luisante couverte de runes incompréhensibles."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(fronçant les sourcils, touchant la tablette, murmurant) Qu'est-ce que c'est ? On dirait... que c'est vivant ?"
+		},
+		{
+			"type": "narrator",
+			"content": "Quand ses doigts touchent la tablette, une chaleur se répand dans tout son corps, des images fragmentées traversent son esprit : ciel étoilé, épée, champ de bataille flou. Une violente migraine le fait tomber à genoux, des murmures résonnent à ses oreilles, comme appelant son nom."
+		},
+		{
+			"type": "narrator",
+			"content": "Les villageois, paniqués, tentent de l'éloigner, mais un rayon vert surgit de la forêt, repoussant précisément les débris qui s'approchaient. Une femme apparaît — ses cheveux dorés brillent au soleil, la corde de son arc vibre encore dans sa main."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(voix froide, regard tranchant) Reculez, humains. Ce n'est pas quelque chose que vous pouvez toucher."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(se relevant péniblement, la regardant avec méfiance) Qui êtes-vous ? Pourquoi m'aider ? Qu'est-ce que cette tablette ?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(s'approchant, une lueur complexe dans les yeux) Je suis Aria, une rôdeuse elfe. Cette tablette a réveillé le sang du gardien en toi. Tu es Ethan, mais tu es bien plus qu'un simple apprenti forgeron."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(secouant la tête, confus) Gardien ? Sang ? Je ne comprends rien ! De quoi parlez-vous ?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(ton grave, regardant vers la forêt lointaine) La légendaire Lame Stellaire, clé du royaume des dieux, est cachée quelque part sur ce continent. Tu en es le gardien, mais les forces obscures t'ont repéré. Ils ne t'épargneront pas, ni ce village."
+		},
+		{
+			"type": "narrator",
+			"content": "Le cœur d'Ethan s'accélère, les visions de la tablette résonnent encore dans son esprit. Il regarde Aria, son calme et son mystère le mettent mal à l'aise, mais il ne peut nier cette étrange familiarité."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(voix basse, hésitante) Vous voulez que je croie tout ça ? Ce village est ma maison, je ne peux pas partir comme ça."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(sourire froid, regard dédaigneux) Reste ici et tu mourras, le village sera détruit. Suis-moi, je te mènerai à la vérité — et à la Lame Stellaire."
+		},
+		{
+			"type": "narrator",
+			"content": "Au loin, des grondements sinistres résonnent dans la forêt, comme si quelque chose approchait. Ethan serre les poings, visualisant les visages souriants des villageois et l'étrange pouvoir de la tablette."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(serrant les dents, regard déterminé) Si je pars, le village sera en sécurité ?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(après un silence, ton plus doux) Je ne peux pas le garantir. Mais si tu restes, ils n'auront aucune chance."
+		},
+		{
+			"type": "narrator",
+			"content": "La nuit tombe, les grondements de la forêt se rapprochent. Ethan se tient à la croisée des chemins, le regard d'Aria, tranchant comme les étoiles, attend sa décision."
+		},
+		{
+			"type": "narrator",
+			"content": "Faire confiance à cette elfe mystérieuse et partir à l'aventure ? Rester au village et affronter la menace inconnue ? Ou peut-être enquêter seul sur le secret de la tablette ?"
+		}
+	],
+	"choice": {
+		"prompt": "Que choisissez-vous",
+		"is_ai_generated": false,
+		"options": [
+			{
+				"content": "Faire confiance à Aria et la suivre dans la quête de la Lame Stellaire."
+			},
+			{
+				"content": "Refuser Aria, rester au village pour protéger sa famille face à la menace inconnue."
+			},
+			{
+				"content": "Partir secrètement avec la tablette pour enquêter seul sur la vérité du sang du gardien."
+			}
+		]
+	}
+}

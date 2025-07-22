@@ -9,6 +9,11 @@
 			"id": 2,
 			"name": "💘 Romantis",
 			"description": "Kisah cinta yang penuh gairah dengan kedalaman emosional"
+		},
+		{
+			"id": 3,
+			"name": "✨ Fantasi",
+			"description": "Petualangan epik yang penuh dengan sihir dan keajaiban"
 		}
 	]
 }

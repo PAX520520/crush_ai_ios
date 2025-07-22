@@ -1,0 +1,87 @@
+{
+	"story_id": "story_3",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "Seorang perantis tukang besi muda di kampung yang secara tidak sengaja mendapati dirinya adalah pewaris darah Penjaga, dan dibebani misi untuk mencari Pedang Bintang Jatuh.",
+			"avatar_url": "/resources/characters/story_3/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"Berani",
+				"Setia",
+				"Ingin tahu",
+				"Kurang pengalaman",
+				"Mudah percaya"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Aria",
+			"description": "Penjaga hutan elf yang misteri, mahir dalam memanah dan sihir alam, sangat mengetahui legenda Pedang Bintang Jatuh, tetapi motif sebenarnya nampaknya lebih daripada sekadar membantu Ethan.",
+			"avatar_url": "/resources/characters/story_3/aria.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"Tenang",
+				"Bijak",
+				"Berdikari",
+				"Memandang rendah manusia"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Torin",
+			"description": "Seorang pahlawan dwarf dari klan gunung purba, mahir menggunakan kapak perang dan pertukangan, setia kepada misi Ethan tetapi sangsi terhadap sihir.",
+			"avatar_url": "/resources/characters/story_3/torin.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"Setia",
+				"Keras kepala",
+				"Terus terang",
+				"Jenaka"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Lila",
+			"description": "Ahli sihir manusia yang mahir dalam sihir api dan ilusi, lucu dan jenaka di permukaan, tetapi sebenarnya menyembunyikan hubungan dengan kuasa kegelapan.",
+			"avatar_url": "/resources/characters/story_3/lila.jpg",
+			"role": "antagonist",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"Licik",
+				"Menggoda",
+				"Pandai menyamar",
+				"Bercanggah dalam hati"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Kael",
+			"description": "Pemimpin kuasa kegelapan, ahli sihir bayangan yang misteri, menginginkan Pedang Bintang Jatuh, cuba membangkitkan dewa jahat untuk menguasai dunia.",
+			"avatar_url": "/resources/characters/story_3/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 0,
+			"personality": [
+				"Kejam",
+				"Berambisi",
+				"Pandai memanipulasi"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Kebangkitan Darah"
+		}
+	]
+}

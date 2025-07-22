@@ -1,0 +1,87 @@
+{
+	"story_id": "story_3",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "Người học việc rèn trẻ tuổi của làng, tình cờ phát hiện mình là người thừa kế dòng máu của Người Bảo Vệ, mang trọng trách tìm kiếm Lưỡi Kiếm Sao Băng.",
+			"avatar_url": "/resources/characters/story_3/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"Dũng cảm",
+				"Trung thành",
+				"Tò mò",
+				"Thiếu kinh nghiệm",
+				"Dễ tin người"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Aria",
+			"description": "Một nữ kiếm sĩ tiên nữ bí ẩn, thông thạo cung thuật và phép thuật tự nhiên, am hiểu truyền thuyết về Lưỡi Kiếm Sao Băng, nhưng động cơ thực sự của cô dường như không chỉ đơn giản là giúp đỡ Ethan.",
+			"avatar_url": "/resources/characters/story_3/aria.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"Điềm tĩnh",
+				"Thông minh",
+				"Độc lập",
+				"Khinh thường con người"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Torin",
+			"description": "Chiến binh người lùn, xuất thân từ bộ tộc núi cổ xưa, giỏi sử dụng rìu chiến và rèn đúc, trung thành với sứ mệnh của Ethan nhưng luôn nghi ngờ phép thuật.",
+			"avatar_url": "/resources/characters/story_3/torin.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"Trung thành",
+				"Cứng đầu",
+				"Thẳng thắn",
+				"Hài hước"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Lila",
+			"description": "Pháp sư loài người, tinh thông phép thuật lửa và ảo thuật, bề ngoài vui vẻ hài hước nhưng thực chất đang che giấu mối liên hệ với thế lực bóng tối.",
+			"avatar_url": "/resources/characters/story_3/lila.jpg",
+			"role": "antagonist",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"Xảo quyệt",
+				"Quyến rũ",
+				"Giỏi ngụy trang",
+				"Mâu thuẫn nội tâm"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Kael",
+			"description": "Thủ lĩnh của thế lực bóng tối, một pháp sư bóng tối bí ẩn, thèm khát Lưỡi Kiếm Sao Băng, âm mưu đánh thức Ma Thần để thống trị thế giới.",
+			"avatar_url": "/resources/characters/story_3/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 0,
+			"personality": [
+				"Lạnh lùng",
+				"Tham vọng",
+				"Giỏi thao túng tâm lý"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Sự thức tỉnh của dòng máu"
+		}
+	]
+}

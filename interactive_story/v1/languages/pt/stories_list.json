@@ -40,6 +40,26 @@
 			],
 			"cover_image_url": "resources/covers/story_2_cover.png",
 			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		},
+		{
+			"id": "story_3",
+			"title": "A Lâmina da Estrela Cadente",
+			"description": "No continente místico de Elserey, conta a lenda que a Lâmina da Estrela Cadente pode abrir um portal para o reino dos deuses. O jovem aventureiro Ethan descobre acidentalmente que é o herdeiro do sangue dos antigos guardiões, carregando a missão de encontrar a Lâmina da Estrela Cadente. No entanto, forças das trevas cobiçam esta relíquia divina, tentando usá-la para despertar o deus demoníaco adormecido. Durante sua jornada, Ethan conhece a misteriosa patrulheira élfica Aria, o leal guerreiro anão Torin e a astuta maga humana Lila. Juntos, eles devem unir forças para enfrentar armadilhas mágicas mortais, feras mágicas ferozes e conspirações de traição, determinando o destino do mundo.",
+			"category_id": 3,
+			"tags": [
+				"Fantasia",
+				"Aventura",
+				"Destino",
+				"Traição",
+				"Relíquia Divina"
+			],
+			"plot_direction": [
+				"Início: Ethan é um aprendiz comum de ferreiro da vila que, durante um deslizamento acidental de terra, descobre uma tábua de pedra gravada com runas misteriosas, despertando o sangue do guardião que dormia dentro dele. A misteriosa patrulheira élfica Aria aparece, contando-lhe a lenda da Lâmina da Estrela Cadente e alertando que as forças das trevas já estão em sua perseguição. Ethan deve decidir se aceita a missão e embarca em uma jornada em busca da relíquia divina.",
+				"Meio: Ethan forma um grupo de aventureiros com Aria, Torin e Lila, atravessando florestas, desertos e ruínas antigas em busca de pistas sobre a Lâmina da Estrela Cadente. Eles enfrentam feras mágicas, armadilhas mágicas e perseguição das forças das trevas. O comportamento de Lila começa a mostrar sinais suspeitos, parecendo esconder seus próprios segredos. Conforme a jornada se aprofunda, Ethan descobre que a Lâmina da Estrela Cadente não só pode abrir o reino dos deuses, mas também pode despertar o deus demoníaco que destruirá o mundo. Ele deve escolher entre confiar em seus companheiros ou agir sozinho.",
+				"Final: O grupo de aventureiros encontra o esconderijo da Lâmina da Estrela Cadente, mas descobre que Lila é uma espiã das forças das trevas, tentando roubar a relíquia. Ethan desperta o poder do seu sangue no momento crucial, derrotando Lila, mas enfrenta uma escolha final: destruir a Lâmina da Estrela Cadente para impedir o despertar do deus demoníaco, ou usá-la para abrir o reino dos deuses em busca de orientação divina. Qualquer que seja a escolha, Ethan terá que enfrentar o preço do sacrifício e do destino."
+			],
+			"cover_image_url": "resources/covers/story_3_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
 		}
 	]
 }

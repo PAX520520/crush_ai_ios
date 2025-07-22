@@ -40,6 +40,26 @@
 			],
 			"cover_image_url": "resources/covers/story_2_cover.png",
 			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		},
+		{
+			"id": "story_3",
+			"title": "Yıldız Kılıcı",
+			"description": "Gizemli Elseri kıtasında, efsanevi Yıldız Kılıcı'nın tanrıların alemine açılan bir portal açabileceği söylenir. Genç maceracı Ethan, kendisinin kadim koruyucuların soyundan gelen bir varis olduğunu ve Yıldız Kılıcı'nı bulma görevini üstlendiğini keşfeder. Ancak, karanlık güçler bu kutsal silahı ele geçirmeye ve uyuyan şeytanı uyandırmak için kullanmaya çalışır. Ethan yolculuğunda gizemli elf korucu Aria, sadık cüce savaşçı Torin ve kurnaz insan büyücü Lila ile tanışır. Birlikte, ölümcül büyü tuzaklarına, vahşi canavarlara ve ihanet komplolarına karşı mücadele ederek dünyanın kaderini belirlemek zorundadırlar.",
+			"category_id": 3,
+			"tags": [
+				"Fantastik",
+				"Macera",
+				"Kader",
+				"İhanet",
+				"Kutsal Eşya"
+			],
+			"plot_direction": [
+				"Başlangıç: Ethan sıradan bir köy demirci çırağıdır. Bir dağ çöküşü sırasında gizemli sembollerle kaplı bir tablet bulur ve içinde uyuyan koruyucu kanını tetikler. Gizemli elf korucu Aria ortaya çıkar, ona Yıldız Kılıcı'nın efsanesini anlatır ve karanlık güçlerin onu avladığı konusunda uyarır. Ethan görevi kabul edip kutsal silahı aramak için maceraya atılıp atılmamaya karar vermek zorundadır.",
+				"Orta: Ethan, Aria, Torin ve Lila ile bir macera ekibi oluşturur, Yıldız Kılıcı'nın izini sürmek için ormanlar, çöller ve antik kalıntılar arasında yolculuk ederler. Canavarlar, büyü tuzakları ve karanlık güçlerin saldırılarıyla yüzleşirler. Lila'nın davranışları giderek şüpheli hale gelir ve kendi sırlarını sakladığı görülür. Yolculuk ilerledikçe Ethan, Yıldız Kılıcı'nın sadece tanrıların alemine açılmakla kalmayıp, dünyayı yok edebilecek şeytanı da uyandırabileceğini keşfeder. Takım arkadaşlarına güvenmek ve tek başına hareket etmek arasında bir seçim yapmalıdır.",
+				"Son: Macera ekibi Yıldız Kılıcı'nın saklandığı yeri bulur, ancak Lila'nın kutsal silahı çalmaya çalışan karanlık güçlerin bir casusu olduğunu keşfederler. Ethan kritik bir anda soyunun gücünü uyandırır ve Lila'yı yener, ancak son bir seçimle karşı karşıya kalır: şeytanın dirilişini engellemek için Yıldız Kılıcı'nı yok etmek ya da tanrıların rehberliğini aramak için onu kullanmak. Hangi seçimi yaparsa yapsın, Ethan fedakarlık ve kaderin bedeliyle yüzleşmek zorunda kalacaktır."
+			],
+			"cover_image_url": "resources/covers/story_3_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
 		}
 	]
 }

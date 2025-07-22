@@ -1,0 +1,113 @@
+{
+	"title": "Sự thức tỉnh của dòng máu",
+	"summary": "Ethan, người học việc thợ rèn trẻ tuổi, phát hiện ra một tấm bia đá bí ẩn trong một vụ lở núi, kích hoạt dòng máu người bảo vệ đang ngủ yên trong cơ thể. Aria, một kiếm sĩ tiên nữ bí ẩn xuất hiện, tiết lộ truyền thuyết về Lưỡi kiếm Sao Băng và cảnh báo về mối đe dọa từ thế lực bóng tối. Ethan phải đối mặt với sự lựa chọn có nên bắt đầu cuộc phiêu lưu hay không.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Sương mù buổi sáng bao phủ ngôi làng yên bình, không khí tràn ngập hương thơm của đất và cỏ xanh. Ethan đứng bên ngoài lò rèn, tay cầm búa đập vào khối sắt nung đỏ, tia lửa bắn tung tóe. Cuộc sống của anh bình dị và đơn giản, cho đến ngày vụ lở núi thay đổi tất cả."
+		},
+		{
+			"type": "narrator",
+			"content": "Một tiếng nổ lớn phá vỡ sự yên bình của ngôi làng, sườn núi xa xa sụp đổ, bụi mù trời. Ethan được dân làng gọi đến giúp cứu hộ, nhưng trong đống đá vụn, anh phát hiện ra một tấm bia đá phát sáng mờ, trên đó khắc đầy những ký tự không thể đọc được."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Nhíu mày, đưa tay chạm vào tấm bia, lẩm bẩm) Đây là cái gì vậy? Cảm giác... như thể nó đang sống?"
+		},
+		{
+			"type": "narrator",
+			"content": "Khi ngón tay anh chạm vào tấm bia, một luồng ấm áp chạy từ đầu ngón tay lan khắp cơ thể, trong đầu anh lóe lên những hình ảnh đứt đoạn: bầu trời đầy sao, thanh kiếm dài, chiến trường mờ ảo. Cơn đau đầu dữ dội khiến anh phải quỳ xuống, bên tai vang lên những tiếng thì thầm, như thể đang gọi tên anh."
+		},
+		{
+			"type": "narrator",
+			"content": "Dân làng hoảng hốt, cố gắng kéo anh ra khỏi đó, nhưng một tia sáng xanh từ trong rừng bắn ra, chính xác đẩy lùi những mảnh đá đang tiến đến gần. Một người phụ nữ bước ra - mái tóc vàng của cô lấp lánh dưới ánh nắng, dây cung trong tay vẫn còn rung nhẹ."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(Giọng lạnh lùng, ánh mắt sắc như dao) Lùi lại, con người. Đây không phải thứ các ngươi có thể chạm vào."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Cố gắng đứng dậy, cảnh giác nhìn cô) Cô là ai? Tại sao giúp tôi? Tấm bia này là gì?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(Tiến lại gần, trong mắt lóe lên cảm xúc phức tạp) Tôi là Aria, kiếm sĩ tiên nữ. Tấm bia này đã đánh thức dòng máu người bảo vệ trong cơ thể anh. Anh là Ethan, nhưng anh không chỉ đơn thuần là một người học việc thợ rèn."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Lắc đầu bối rối) Người bảo vệ? Dòng máu? Tôi chẳng hiểu gì cả! Cô đang nói về cái gì vậy?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(Giọng trở nên nghiêm túc, ánh mắt quét về phía khu rừng xa xa) Lưỡi kiếm Sao Băng trong truyền thuyết, chìa khóa mở cửa vùng đất của các vị thần, đang ẩn giấu đâu đó trên lục địa này. Anh là người bảo vệ nó, nhưng thế lực bóng tối đã để mắt đến anh. Chúng sẽ không tha cho anh, cũng không tha cho ngôi làng này."
+		},
+		{
+			"type": "narrator",
+			"content": "Tim Ethan đập nhanh hơn, trong đầu vẫn vang vọng những hình ảnh từ tấm bia. Anh nhìn Aria, sự điềm tĩnh và bí ẩn của cô khiến anh cảm thấy bất an, nhưng không thể phủ nhận cảm giác quen thuộc kỳ lạ đó."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Giọng trầm xuống, đầy do dự) Cô muốn tôi tin những điều này sao? Ngôi làng là nhà của tôi, tôi không thể cứ thế mà rời đi."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(Cười lạnh, trong mắt lóe lên vẻ khinh thường) Ở lại đây, anh sẽ chết, và ngôi làng cũng sẽ bị phá hủy. Đi với tôi, tôi sẽ dẫn anh đi tìm sự thật - và Lưỡi kiếm Sao Băng."
+		},
+		{
+			"type": "narrator",
+			"content": "Từ xa, trong rừng vọng lại tiếng gầm gừ không lành, như thể có thứ gì đó đang tiến đến gần. Ethan nắm chặt tay, trong đầu hiện lên nụ cười của dân làng, và sức mạnh kỳ lạ mà tấm bia mang lại."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Nghiến răng, ánh mắt kiên định) Nếu tôi đi, ngôi làng sẽ an toàn chứ?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(Im lặng một lúc, giọng dịu đi) Tôi không thể đảm bảo. Nhưng nếu anh ở lại, họ sẽ không có cơ hội nào cả."
+		},
+		{
+			"type": "narrator",
+			"content": "Màn đêm buông xuống, tiếng gầm gừ trong rừng ngày càng gần. Ethan đứng tại ngã rẽ của số phận, ánh mắt Aria sắc như ánh sao, chờ đợi quyết định của anh."
+		},
+		{
+			"type": "narrator",
+			"content": "Tin tưởng nàng tiên nữ bí ẩn này và bước vào cuộc phiêu lưu chưa biết? Hay ở lại ngôi làng, đối mặt với mối đe dọa chưa rõ? Hoặc, anh có thể tự mình điều tra bí mật của tấm bia?"
+		}
+	],
+	"choice": {
+		"prompt": "Bạn sẽ chọn như thế nào",
+		"is_ai_generated": false,
+		"options": [
+			{
+				"content": "Tin tưởng Aria, theo cô ấy lên đường tìm kiếm Lưỡi kiếm Sao Băng."
+			},
+			{
+				"content": "Từ chối Aria, ở lại làng bảo vệ gia đình, đối mặt với mối đe dọa chưa rõ."
+			},
+			{
+				"content": "Lén lấy tấm bia đi, tự mình điều tra sự thật về dòng máu người bảo vệ."
+			}
+		]
+	}
+}

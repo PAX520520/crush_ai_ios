@@ -9,6 +9,11 @@
 			"id": 2,
 			"name": "💘 Romance",
 			"description": "Passionate love stories with emotional depth"
+		},
+		{
+			"id": 3,
+			"name": "✨ Fantasy",
+			"description": "Epic adventures filled with magic and miracles."
 		}
 	]
 }

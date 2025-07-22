@@ -1,0 +1,87 @@
+{
+	"story_id": "story_3",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "年轻的村庄铁匠学徒，意外发现自己是守护者血脉的继承人，肩负寻找星陨之刃的使命。",
+			"avatar_url": "/resources/characters/story_3/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"勇敢",
+				"忠诚",
+				"好奇心强",
+				"缺乏经验",
+				"容易轻信"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Aria",
+			"description": "神秘的精灵游侠，精通弓术和自然魔法，对星陨之刃的传说了如指掌，但她的真实动机似乎不只是帮助 Ethan。",
+			"avatar_url": "/resources/characters/story_3/aria.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"冷静",
+				"机智",
+				"独立",
+				"轻蔑人类"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Torin",
+			"description": "矮人战士，来自古老的山脉氏族，擅长使用战斧和锻造，对 Ethan 的使命充满忠诚，但对魔法充满怀疑。",
+			"avatar_url": "/resources/characters/story_3/torin.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"忠诚",
+				"固执",
+				"直爽",
+				"幽默"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Lila",
+			"description": "人类法师，精通火系与幻术魔法，表面上风趣幽默，但实际上隐藏着与黑暗势力的联系。",
+			"avatar_url": "/resources/characters/story_3/lila.jpg",
+			"role": "antagonist",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"狡黠",
+				"魅惑",
+				"善于伪装",
+				"内心矛盾"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Kael",
+			"description": "黑暗势力的首领，神秘的暗影术士，觊觎星陨之刃，试图唤醒魔神统治世界。",
+			"avatar_url": "/resources/characters/story_3/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 0,
+			"personality": [
+				"冷酷",
+				"野心勃勃",
+				"善于操控人心"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "血脉的觉醒"
+		}
+	]
+}

@@ -1,0 +1,113 @@
+{
+	"title": "Kanın Uyanışı",
+	"summary": "Genç demirci çırağı Ethan, bir heyelanda gizemli bir tablet bulur ve içindeki uyuyan koruyucu kanını tetikler. Gizemli elf korucu Aria ortaya çıkar, Yıldız Kılıcı'nın efsanesini açıklar ve karanlık güçlerin tehdidine karşı uyarır. Ethan maceraya atılıp atılmama kararıyla karşı karşıya kalır.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Sabahın sisi sakin köyü sarmış, havada toprak ve taze çimen kokusu var. Ethan demirci dükkanının önünde duruyor, elindeki çekiçle kızgın demir parçasına vuruyor, kıvılcımlar saçılıyor. Hayatı sıradan ve basitti, ta ki o heyelanın her şeyi değiştirdiği güne kadar."
+		},
+		{
+			"type": "narrator",
+			"content": "Büyük bir gürültü köyün sessizliğini bozdu, uzaktaki yamaç çöktü, toz duman her yeri kapladı. Ethan köylüler tarafından yardıma çağrıldı ve moloz yığınları arasında hafif bir ışık saçan, üzeri anlaşılmaz sembollerle kaplı bir tablet buldu."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Kaşlarını çatarak, tablete dokunup kendi kendine mırıldanarak) Bu ne? Sanki... canlı gibi?"
+		},
+		{
+			"type": "narrator",
+			"content": "Parmakları tablete dokunduğunda, sıcak bir akım parmak uçlarından tüm vücuduna yayıldı, zihninde parçalı görüntüler belirdi: yıldızlı gökyüzü, kılıç, bulanık bir savaş alanı. Şiddetli baş ağrısı onu yere çökertti, kulaklarında ismini çağıran fısıltılar duydu."
+		},
+		{
+			"type": "narrator",
+			"content": "Köylüler panik içinde onu çekmeye çalıştı, ancak ormandan gelen yeşil bir ışık yaklaşan molozları tam isabetle geri püskürttü. Bir kadın ortaya çıktı - güneş ışığında parlayan altın saçları, elinde hala titreşen yay kirişiyle."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(Soğuk bir ses ve keskin bakışlarla) Geri çekilin, insanlar. Bu sizin dokunabileceğiniz bir şey değil."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Zorlukla ayağa kalkıp, temkinli bir şekilde ona bakarak) Sen kimsin? Neden bana yardım ediyorsun? Bu tablet nedir?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(Yaklaşarak, gözlerinde karmaşık duygular) Ben Aria, bir elf korucuyum. Bu tablet içindeki koruyucu kanını uyandırdı. Sen Ethan'sın, ama sadece bir demirci çırağından çok daha fazlasısın."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Kafası karışmış bir şekilde başını sallayarak) Koruyucu? Kan? Hiçbir şey anlamıyorum! Neden bahsediyorsun?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(Ciddi bir tonla, gözleri uzaktaki ormana bakarak) Efsanevi Yıldız Kılıcı, tanrıların diyarının anahtarı, bu kıtanın bir yerinde gizli. Sen onun koruyucususun, ama karanlık güçler seni hedef aldı. Ne seni ne de bu köyü rahat bırakacaklar."
+		},
+		{
+			"type": "narrator",
+			"content": "Ethan'ın kalbi hızlandı, zihninde hala tabletin getirdiği görüntüler yankılanıyordu. Aria'ya baktı, onun sakinliği ve gizemli hali onu rahatsız etse de, içindeki o garip tanıdıklık hissini inkar edemiyordu."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Alçak ve tereddütlü bir sesle) Bunlara inanmamı mı bekliyorsun? Köy benim evim, böyle bırakıp gidemem."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(Soğuk bir gülümseme ve küçümseyici bir bakışla) Burada kalırsan öleceksin ve köy yok olacak. Benimle gel, seni gerçeğe - ve Yıldız Kılıcı'na götüreceğim."
+		},
+		{
+			"type": "narrator",
+			"content": "Uzakta, ormandan uğursuz homurtular geliyor, sanki bir şey yaklaşıyordu. Ethan yumruklarını sıktı, zihninde köylülerin gülümseyen yüzleri ve tabletin verdiği garip güç canlandı."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Dişlerini sıkarak, kararlı bir bakışla) Gidersem köy güvende olacak mı?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(Bir an sessiz kalıp, daha yumuşak bir tonla) Garanti edemem. Ama kalırsan, hiç şansları olmayacak."
+		},
+		{
+			"type": "narrator",
+			"content": "Gece çökerken ormandan gelen homurtular yaklaşıyordu. Ethan kaderin kavşağında duruyordu, Aria'nın bakışları yıldızlar gibi keskindi, onun kararını bekliyordu."
+		},
+		{
+			"type": "narrator",
+			"content": "Bu gizemli elfe güvenip bilinmeyen bir maceraya mı atılmalı? Yoksa köyde kalıp bilinmeyen tehditle mi yüzleşmeli? Ya da belki tabletin sırrını kendi başına mı araştırmalı?"
+		}
+	],
+	"choice": {
+		"prompt": "Ne yapmayı seçersin",
+		"is_ai_generated": false,
+		"options": [
+			{
+				"content": "Aria'ya güven ve onunla birlikte Yıldız Kılıcı'nı aramaya çık."
+			},
+			{
+				"content": "Aria'yı reddet, köyde kal ve aileni koruyarak bilinmeyen tehditle yüzleş."
+			},
+			{
+				"content": "Tableti gizlice al ve koruyucu kanının gerçeğini kendi başına araştır."
+			}
+		]
+	}
+}

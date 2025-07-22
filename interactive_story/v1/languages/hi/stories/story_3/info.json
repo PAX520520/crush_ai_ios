@@ -1,0 +1,87 @@
+{
+	"story_id": "story_3",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "एक युवा गाँव का लोहार शिष्य, जो अचानक खुद को रक्षक वंश का उत्तराधिकारी पाता है और तारा तलवार की खोज का दायित्व उठाता है।",
+			"avatar_url": "/resources/characters/story_3/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"बहादुर",
+				"वफादार",
+				"जिज्ञासु",
+				"अनुभवहीन",
+				"भोला"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Aria",
+			"description": "एक रहस्यमयी एल्फ रेंजर, जो धनुर्विद्या और प्राकृतिक जादू में माहिर है, तारा तलवार की कहानी को अच्छी तरह जानती है, लेकिन उसके वास्तविक इरादे सिर्फ Ethan की मदद करने से कहीं ज्यादा हैं।",
+			"avatar_url": "/resources/characters/story_3/aria.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"शांत",
+				"चतुर",
+				"स्वतंत्र",
+				"मनुष्यों को तुच्छ समझने वाली"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Torin",
+			"description": "बौना योद्धा, प्राचीन पर्वत कबीले से, कुल्हाड़ी चलाने और धातुकर्म में कुशल, Ethan के मिशन के प्रति वफादार, लेकिन जादू के प्रति संदेहशील।",
+			"avatar_url": "/resources/characters/story_3/torin.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"वफादार",
+				"जिद्दी",
+				"स्पष्टवादी",
+				"विनोदी"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Lila",
+			"description": "मानव जादूगर, अग्नि और भ्रम जादू में माहिर, बाहर से मजाकिया और विनोदी, लेकिन वास्तव में अंधेरी शक्तियों से जुड़ी हुई है।",
+			"avatar_url": "/resources/characters/story_3/lila.jpg",
+			"role": "antagonist",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"चालाक",
+				"मोहक",
+				"छलावरण में माहिर",
+				"आंतरिक द्वंद्व से भरी"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Kael",
+			"description": "अंधेरी शक्तियों का नेता, एक रहस्यमयी छाया जादूगर, जो तारा तलवार पर नज़र रखता है और दुनिया पर राज करने के लिए राक्षस देवता को जगाना चाहता है।",
+			"avatar_url": "/resources/characters/story_3/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 0,
+			"personality": [
+				"निर्दयी",
+				"महत्वाकांक्षी",
+				"लोगों को नियंत्रित करने में माहिर"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "वंश का जागरण"
+		}
+	]
+}

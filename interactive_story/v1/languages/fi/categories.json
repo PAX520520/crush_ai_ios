@@ -9,6 +9,11 @@
 			"id": 2,
 			"name": "💘 Romantiikka", 
 			"description": "Tunteikkaita ja intohimoisia rakkaustarinoita"
+		},
+		{
+			"id": 3,
+			"name": "✨ Fantasia",
+			"description": "Eeppisiä seikkailuja täynnä taikuutta ja ihmeitä."
 		}
 	]
 }

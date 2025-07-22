@@ -1,0 +1,113 @@
+{
+	"title": "Het Ontwaken van het Bloed",
+	"summary": "De jonge leerling-smid Ethan ontdekt een mysterieuze stenen tablet tijdens een aardverschuiving, wat het slapende beschermersbloed in hem activeert. De mysterieuze elfenverkenner Aria verschijnt, onthult de legende van het Sterrenzwaard en waarschuwt voor de dreiging van duistere krachten. Ethan staat voor de keuze om een avontuurlijke reis te beginnen.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "De ochtenddauw hangt over het rustige dorp, de lucht gevuld met de frisse geur van aarde en gras. Ethan staat buiten de smederij, zijn hamer slaat op het gloeiende ijzer, vonken vliegen in het rond. Zijn leven was eenvoudig en gewoon, tot die dag dat de aardverschuiving alles veranderde."
+		},
+		{
+			"type": "narrator",
+			"content": "Een oorverdovende knal verstoort de rust van het dorp, de verre helling stort in, stof verduistert de hemel. Ethan wordt door de dorpelingen geroepen om te helpen, maar vindt tussen het puin een lichtgevende stenen tablet, bedekt met onleesbare runen."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(fronst, raakt de tablet aan, mompelt) Wat is dit? Het voelt... alsof het leeft?"
+		},
+		{
+			"type": "narrator",
+			"content": "Zodra zijn vingers de tablet aanraken, stroomt er een warme energie door zijn lichaam, flitsen van beelden doorkruisen zijn gedachten: sterrenhemel, zwaarden, een wazig slagveld. Hevige hoofdpijn dwingt hem op zijn knieën, fluisteringen roepen zijn naam."
+		},
+		{
+			"type": "narrator",
+			"content": "De dorpelingen raken in paniek en proberen hem weg te trekken, maar een groene lichtflits uit het bos duwt de naderende stenen terug. Een vrouw stapt tevoorschijn - haar gouden haar glinsterend in het zonlicht, haar boogpees nog trillend in haar hand."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(met koele stem, scherpe blik) Terug, mensen. Dit is niet iets wat jullie kunnen aanraken."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(komt moeizaam overeind, kijkt haar wantrouwend aan) Wie ben je? Waarom help je me? Wat is deze tablet?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(komt dichterbij, met complexe emoties in haar ogen) Ik ben Aria, een elfenverkenner. Deze tablet heeft het beschermersbloed in je gewekt. Je bent Ethan, maar je bent meer dan alleen een leerling-smid."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(schudt verward zijn hoofd) Beschermer? Bloed? Ik begrijp er niets van! Waar heb je het over?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(op ernstige toon, blik naar het verre woud) Het legendarische Sterrenzwaard, de sleutel tot het rijk der goden, ligt ergens verborgen op dit continent. Jij bent zijn beschermer, maar de duistere krachten hebben je in het vizier. Ze zullen jou niet sparen, noch dit dorp."
+		},
+		{
+			"type": "narrator",
+			"content": "Ethans hart gaat sneller kloppen, de beelden van de tablet nog steeds aanwezig in zijn gedachten. Hij kijkt naar Aria, haar kalmte en mysterie maken hem onrustig, maar hij kan het vreemde gevoel van vertrouwdheid niet ontkennen."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(met gedempte, aarzelende stem) Je verwacht dat ik dit geloof? Dit dorp is mijn thuis, ik kan niet zomaar weggaan."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(koud lachend, met een glimp van minachting) Als je hier blijft, ga je dood en wordt het dorp vernietigd. Kom met mij mee, ik zal je naar de waarheid leiden - en naar het Sterrenzwaard."
+		},
+		{
+			"type": "narrator",
+			"content": "In de verte klinkt een onheilspellend gegrom uit het bos, alsof er iets nadert. Ethan balt zijn vuisten, ziet de glimlachende gezichten van de dorpelingen voor zich, en voelt de vreemde kracht van de tablet."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(bijt op zijn tanden, met vastberaden blik) Als ik vertrek, zal het dorp dan veilig zijn?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(na een moment van stilte, met zachtere toon) Dat kan ik niet garanderen. Maar als je blijft, hebben ze geen enkele kans."
+		},
+		{
+			"type": "narrator",
+			"content": "De nacht valt, het gegrom uit het bos komt dichterbij. Ethan staat op een kruispunt van het lot, Aria's blik scherp als sterrenlicht, wachtend op zijn beslissing."
+		},
+		{
+			"type": "narrator",
+			"content": "Zal hij deze mysterieuze elf vertrouwen en meegaan op een onbekend avontuur? Of blijft hij in het dorp om de onbekende dreiging het hoofd te bieden? Of misschien kan hij zelf het geheim van de tablet onderzoeken?"
+		}
+	],
+	"choice": {
+		"prompt": "Wat zou je kiezen",
+		"is_ai_generated": false,
+		"options": [
+			{
+				"content": "Vertrouw Aria en ga met haar mee op zoek naar het Sterrenzwaard."
+			},
+			{
+				"content": "Weiger Aria's aanbod, blijf in het dorp om je familie te beschermen en trotseer de onbekende dreiging."
+			},
+			{
+				"content": "Neem de tablet stiekem mee en onderzoek zelf het geheim van het beschermersbloed."
+			}
+		]
+	}
+}

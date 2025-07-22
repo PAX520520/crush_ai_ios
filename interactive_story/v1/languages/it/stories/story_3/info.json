@@ -1,0 +1,87 @@
+{
+	"story_id": "story_3",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "Giovane apprendista fabbro del villaggio che scopre accidentalmente di essere l'erede del sangue dei Guardiani, con la missione di trovare la Lama della Stella Cadente.",
+			"avatar_url": "/resources/characters/story_3/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 20,
+			"personality": [
+				"Coraggioso",
+				"Leale",
+				"Curioso",
+				"Inesperto",
+				"Credulone"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Aria",
+			"description": "Misteriosa ranger elfica, esperta di tiro con l'arco e magia naturale, conosce bene la leggenda della Lama della Stella Cadente, ma le sue vere motivazioni sembrano andare oltre l'aiutare Ethan.",
+			"avatar_url": "/resources/characters/story_3/aria.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 25,
+			"personality": [
+				"Calma",
+				"Astuta",
+				"Indipendente",
+				"Sprezzante verso gli umani"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Torin",
+			"description": "Guerriero nano proveniente da un antico clan delle montagne, esperto nell'uso dell'ascia da guerra e nella forgiatura, leale alla missione di Ethan ma scettico verso la magia.",
+			"avatar_url": "/resources/characters/story_3/torin.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"Leale",
+				"Testardo",
+				"Schietto",
+				"Umoristico"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Lila",
+			"description": "Maga umana, esperta di magia del fuoco e illusoria, apparentemente spiritosa e divertente, ma in realtà nasconde legami con le forze oscure.",
+			"avatar_url": "/resources/characters/story_3/lila.jpg",
+			"role": "antagonist",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"Astuta",
+				"Affascinante",
+				"Abile nel fingere",
+				"Interiormente conflittuale"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Kael",
+			"description": "Leader delle forze oscure, misterioso stregone delle ombre che brama la Lama della Stella Cadente e cerca di risvegliare il dio demone per dominare il mondo.",
+			"avatar_url": "/resources/characters/story_3/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 0,
+			"personality": [
+				"Spietato",
+				"Ambizioso",
+				"Manipolatore"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Il Risveglio del Sangue"
+		}
+	]
+}

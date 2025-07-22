@@ -1,0 +1,113 @@
+{
+	"title": "Awakening of the Bloodline",
+	"summary": "Young blacksmith apprentice Ethan discovers a mysterious tablet during a landslide, awakening the dormant guardian bloodline within him. The mysterious elven ranger Aria appears, revealing the legend of the Star-fallen Blade and warning of the threat of dark forces. Ethan faces the choice of whether to embark on an adventure.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Morning mist shrouds the peaceful village, the air filled with the fresh scent of soil and grass. Ethan stands outside the blacksmith's shop, his hammer striking hot iron, sparks flying. His life was simple and ordinary until the day the landslide changed everything."
+		},
+		{
+			"type": "narrator",
+			"content": "A thunderous crash shattered the village's tranquility as the distant hillside collapsed, dust filling the sky. Ethan was called by villagers to help with rescue efforts, but in the rubble, he discovered a glowing tablet covered in incomprehensible runes."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(frowning, reaching out to touch the tablet, muttering) What is this? It feels... alive?"
+		},
+		{
+			"type": "narrator",
+			"content": "When his fingers touched the tablet, a warm current flowed from his fingertips throughout his body. Fragmented images flashed through his mind: starry skies, a sword, a blurry battlefield. Intense headache brought him to his knees as whispers echoed in his ears, seeming to call his name."
+		},
+		{
+			"type": "narrator",
+			"content": "The villagers panicked, trying to pull him away, but a green light shot from the forest, precisely deflecting the approaching debris. A woman emerged—her golden hair gleaming in the sunlight, her bowstring still quivering in her hand."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(voice cold, gaze sharp) Step back, humans. This is not for you to touch."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(struggling to stand, watching her warily) Who are you? Why did you help me? What is this tablet?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(approaching, a complex emotion flashing in her eyes) I am Aria, an elven ranger. This tablet has awakened the guardian bloodline within you. You are Ethan, but you are far more than just a blacksmith's apprentice."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(shaking head in confusion) Guardian? Bloodline? I don't understand any of this! What are you talking about?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(tone turning serious, gaze sweeping toward the distant forest) The legendary Star-fallen Blade, the key to the realm of gods, lies hidden somewhere in this continent. You are its guardian, but dark forces have their eyes on you. They won't spare you, nor will they spare this village."
+		},
+		{
+			"type": "narrator",
+			"content": "Ethan's heart raced, the images from the tablet still echoing in his mind. He looked at Aria, her calmness and mystery making him uneasy, yet he couldn't deny the strange sense of familiarity."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(voice low, hesitant) You expect me to believe all this? The village is my home, I can't just leave."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(cold smile, a flash of disdain in her eyes) Stay here and you'll die, the village will be destroyed. Come with me, and I'll lead you to the truth—and the Star-fallen Blade."
+		},
+		{
+			"type": "narrator",
+			"content": "In the distance, ominous growls emerged from the forest, as if something was approaching. Ethan clenched his fists, his mind filled with images of villagers' smiling faces and the strange power from the tablet."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(gritting teeth, gaze determined) If I leave, will the village be safe?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Aria",
+			"content": "(pausing briefly, tone softening) I can't guarantee that. But if you stay, they won't have any chance at all."
+		},
+		{
+			"type": "narrator",
+			"content": "Night falls, and the growls from the forest grow closer. Ethan stands at a crossroads of fate, with Aria's gaze sharp as starlight, waiting for his decision."
+		},
+		{
+			"type": "narrator",
+			"content": "Should he trust this mysterious elf and embark on an unknown adventure? Stay in the village to face the unknown threat? Or perhaps try to investigate the tablet's secrets on his own?"
+		}
+	],
+	"choice": {
+		"prompt": "What will you choose",
+		"is_ai_generated": false,
+		"options": [
+			{
+				"content": "Trust Aria and follow her on the journey to find the Star-fallen Blade."
+			},
+			{
+				"content": "Refuse Aria, stay in the village to protect family, and face the unknown threat."
+			},
+			{
+				"content": "Secretly take the tablet and investigate the truth of the guardian bloodline alone."
+			}
+		]
+	}
+}

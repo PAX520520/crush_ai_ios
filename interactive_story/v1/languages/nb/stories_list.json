@@ -40,6 +40,26 @@
 			],
 			"cover_image_url": "resources/covers/story_2_cover.png",
 			"background_image_url": "resources/backgrounds/story_2_bg.jpg"
+		},
+		{
+			"id": "story_3",
+			"title": "Stjernefallsbladet",
+			"description": "På det mystiske kontinentet Elserai sies det at det legendariske Stjernefallsbladet kan åpne en portal til gudenes rike. Den unge eventyreren Ethan oppdager tilfeldig at han er arvingen til de gamle vokterne, og bærer ansvaret for å finne Stjernefallsbladet. Mørke krefter begjærer imidlertid dette hellige våpenet og forsøker å bruke det til å vekke den sovende demonguden. På sin reise møter Ethan den mystiske alverangeren Aria, den lojale dvergkrigeren Torin og den listige menneskelige trollmannen Lila. De må samarbeide for å møte dødelige magiske feller, ville magiske beist og forræderiets konspirasjoner, for å avgjøre verdens skjebne.",
+			"category_id": 3,
+			"tags": [
+				"Fantasi",
+				"Eventyr",
+				"Skjebne",
+				"Forræderi",
+				"Hellig gjenstand"
+			],
+			"plot_direction": [
+				"Begynnelse: Ethan er en vanlig landsbysmedlærling som under et tilfeldig fjellskred oppdager en steintavle med mystiske runer, som vekker vokterblodet som sover i ham. Den mystiske alverangeren Aria dukker opp og forteller ham legenden om Stjernefallsbladet, og advarer om at mørke krefter allerede jakter på ham. Ethan må bestemme seg for om han vil akseptere oppdraget og begi seg ut på en reise for å finne det hellige våpenet.",
+				"Midtdel: Ethan danner et eventyrlag med Aria, Torin og Lila, og reiser gjennom skoger, ørkener og gamle ruiner på jakt etter spor av Stjernefallsbladet. De møter magiske beist, magiske feller og forfølgelse fra mørke krefter. Lilas oppførsel begynner å vise mistenkelige tegn, som om hun skjuler sine egne hemmeligheter. Etter hvert som reisen fortsetter, oppdager Ethan at Stjernefallsbladet ikke bare kan åpne gudenes rike, men også kan vekke en demongud som kan ødelegge verden. Han må velge mellom å stole på sine følgesvenner eller handle alene.",
+				"Slutt: Eventyrlaget finner Stjernefallsbladets skjulested, men oppdager at Lila er en spion for de mørke kreftene som prøver å stjele det hellige våpenet. I det avgjørende øyeblikket vekker Ethan kraften i sitt blod og beseirer Lila, men står overfor et endelig valg: ødelegge Stjernefallsbladet for å hindre demongudens gjenoppstandelse, eller bruke det til å åpne gudenes rike og søke guddommelig veiledning. Uansett hva han velger, må Ethan møte konsekvensene av offer og skjebne."
+			],
+			"cover_image_url": "resources/covers/story_3_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
 		}
 	]
 }
