@@ -2,8 +2,8 @@
 	"categories": [
 		{
 			"id": 1,
-			"name": "🎭 Mysterie",
-			"description": "Spennende thrillere fulle av mysterier og spenning"
+			"name": "🌆 Urban",
+			"description": "Spennende historier som utspiller seg i den moderne byen"
 		},
 		{
 			"id": 2,
@@ -12,8 +12,23 @@
 		},
 		{
 			"id": 3,
-			"name": "✨ Magi",
+			"name": "✨ Fantasy",
 			"description": "Episke eventyr fylt med magi og mirakler"
+		},
+		{
+			"id": 4,
+			"name": "🚀 Science Fiction",
+			"description": "En fantastisk reise som utforsker fremtidig teknologi og det ukjente universet"
+		},
+		{
+			"id": 5,
+			"name": "👑 Middelalder",
+			"description": "Episke fortellinger om middelalderske nasjoner og karakterer"
+		},
+		{
+			"id": 6,
+			"name": "🎭 Mysterium",
+			"description": "Spennende thrillere fulle av mystikk og spenning"
 		}
 	]
 }

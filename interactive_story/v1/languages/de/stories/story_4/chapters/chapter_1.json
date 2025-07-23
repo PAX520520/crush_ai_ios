@@ -1,0 +1,127 @@
+{
+	"title": "Flüstern der Leere",
+	"summary": "Der gedächtnislose Protagonist Ethan erwacht auf einem verlassenen Raumschiff, konfrontiert mit einem kollabierenden Schiffsrumpf und der mysteriösen Ava. Er muss entscheiden, ob er Ava vertraut, an Bord nach Hinweisen sucht oder allein flieht, um zu überleben.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "In der Dunkelheit setzt sich dein Bewusstsein wie Scherben zusammen, als würdest du aus einem endlosen Abgrund zurückgezogen. Durchdringende Alarmsirenen zerreißen deine Trommelfelle, rotes Licht flackert in der engen Kabine. Du liegst in einer kalten Schlafkapsel, dein Körper schwer, dein Geist leer wie ausgehöhlt. Um dich herum fremde Metallwände, die Luft erfüllt vom Geruch verbrannter Schaltkreise."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(stöhnt leise, versucht aufzustehen) Wo... wo bin ich? Wer... wer bin ich?"
+		},
+		{
+			"type": "narrator",
+			"content": "Du kämpfst dich hoch, deine Sicht verschwommen, während sich die Glasabdeckung der Schlafkapsel langsam öffnet. Ein sanftes blaues Licht leuchtet aus deinem Armimplantat auf und projiziert ein Hologramm - eine Frau mit silbernem Haar, ihr Blick ruhig, ihre Stimme jedoch dringend."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(klare Stimme, mechanisch gleichmäßig) Willkommen zurück, Captain Ethan. Schiffssysteme kurz vor dem Zusammenbruch, sofortige Evakuierung empfohlen."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(runzelt die Stirn, versucht sich zu erinnern) Captain? Ethan? Das bedeutet mir nichts... Wer bist du? Warum nennst du mich so?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Hologramm flackert leicht, Tonfall unverändert) Ich bin Nova, deine KI-Navigationsassistentin. Deine Erinnerungen wurden durch eine Fehlfunktion der Schlafkapsel beschädigt, aber jetzt ist keine Zeit für Diskussionen. Der Schiffsrumpf wird in 17 Minuten auseinanderbrechen."
+		},
+		{
+			"type": "narrator",
+			"content": "Bevor du diese Informationen verarbeiten kannst, wird die Tür gewaltsam geöffnet. Eine Frau tritt ein, geschmeidig in ihren Bewegungen, grüne Augen glänzen im gedämpften Licht. Sie trägt einen eng anliegenden Kampfanzug, hält einen leuchtenden Energiedolch und trägt ein kaum wahrnehmbares Lächeln."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(leichter Ton, mit einem Hauch Spott) Lang genug geschlafen, Ethan? Ich bin Ava, deine Partnerin. Wir müssen schnell hier raus, sonst werden wir zu Sternenstaub."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(tritt wachsam einen Schritt zurück, starrt sie an) Partnerin? Ich erinnere mich nicht an dich. Woher kennst du meinen Namen?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(zuckt mit den Schultern, lächelt weiter) Gedächtnisverlust? Wie lästig. Vertrau mir, wir sind alte Freunde. Das Schiff wird gleich explodieren, komm mit mir, ich erkläre dir alles."
+		},
+		{
+			"type": "narrator",
+			"content": "Ihre Stimme klingt selbstsicher, aber du bemerkst ein kurzes Zögern in ihren Augen. Die Alarmsirenen werden dringlicher, der Boden vibriert leicht und erinnert dich daran, dass die Zeit knapp wird. Du spürst, wie dein Armimplantat sich leicht erwärmt, als würde es auf ein unbekanntes Signal reagieren."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(murmelt leise, versucht die Gedankenfetzen zu fassen) Warum fühlt sich das alles... nicht richtig an?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Hologramm wendet sich Ava zu, mit einem Hauch von Zweifel) Ava, keine Identitätsbestätigung gefunden. Vorsicht empfohlen, Captain."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(lacht leicht, winkt ab) Hör nicht auf diesen Schaltkreismüll. Ethan, wir müssen los, jetzt!"
+		},
+		{
+			"type": "narrator",
+			"content": "Du stehst regungslos da, während ein verschwommenes Bild durch deinen Kopf huscht: ein brennender Planet, eine flüsternde Frauenstimme, die deinen Namen ruft. Avas Erscheinen macht dich instinktiv unruhig, aber hier zu bleiben scheint keine kluge Wahl. Was sollst du tun?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(atmet tief durch, versucht ruhig zu bleiben) Also gut... sag mir, Ava, wer bist du wirklich? Warum habe ich das Gefühl, du weißt mehr, als du sagst?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Blick flackert, Ton wird ernst) Jetzt ist keine Zeit für Fragen, Ethan. Vertrau mir, oder bleib hier und stirb. Deine Wahl."
+		},
+		{
+			"type": "narrator",
+			"content": "Die Alarmsirenen werden ohrenbetäubend, der Schiffsrumpf beginnt heftig zu vibrieren. Du musst schnell entscheiden. In Avas Augen liegen Geheimnisse, Novas Warnung hallt in deinen Ohren nach, und tief in deinem Inneren scheint eine Stimme dich zu drängen, die Wahrheit zu finden."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(fügt ruhig hinzu) Externe Signalstörungen erkannt, möglicherweise nähert sich ein unbekanntes Schiff. Sofortiges Handeln empfohlen."
+		},
+		{
+			"type": "narrator",
+			"content": "Du spürst die Dringlichkeit der Zeit, während der Nebel in deinem Kopf dichter wird. Vertraust du Ava und folgst ihr? Bleibst du, um nach weiteren Hinweisen zu suchen? Oder wagst du die Flucht auf eigene Faust, um deine eigenen Antworten zu finden?"
+		}
+	],
+	"choice": {
+		"prompt": "Wie wirst du dich entscheiden",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Vertraue Ava und folge ihr vom Schiff"
+			},
+			{
+				"content": "Bleibe an Bord und durchsuche die Schlafkapsel oder die Brücke nach Hinweisen"
+			},
+			{
+				"content": "Ignoriere Ava und suche allein nach einer Rettungskapsel"
+			}
+		]
+	}
+}

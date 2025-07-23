@@ -1,0 +1,84 @@
+{
+	"story_id": "story_5",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Calian",
+			"description": "Putera muda yang dirampas takhta, nama asalnya Calian Valencia, menanggung misi pembalasan dendam dan penebusan.",
+			"avatar_url": "/resources/characters/story_5/calian.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 22,
+			"personality": [
+				"Tabah",
+				"Bijak",
+				"Bercanggah dalaman",
+				"Mendambakan keadilan tetapi ragu-ragu tentang sifat manusia"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Elina",
+			"description": "Penyajak misteri, sebenarnya puteri negara musuh, mahir dalam penyamaran dan memanipulasi hati manusia, namun masih menyimpan harapan untuk kedamaian.",
+			"avatar_url": "/resources/characters/story_5/elina.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 20,
+			"personality": [
+				"Cerdik",
+				"Menawan",
+				"Kompleks",
+				"Pandai menyembunyikan perasaan sebenar"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Roland",
+			"description": "Kesatria setia, bekas pengawal Calian, sangat setia kepada putera.",
+			"avatar_url": "/resources/characters/story_5/roland.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Jujur",
+				"Berani",
+				"Keras kepala"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Victor",
+			"description": "Pencuri licik, mahir dalam mencuri dan mengumpul maklumat, skeptikal terhadap idealisme Calian.",
+			"avatar_url": "/resources/characters/story_5/victor.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 28,
+			"personality": [
+				"Cerdas",
+				"Tidak serius",
+				"Kesetiaan diragui"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Marian",
+			"description": "Ahli sihir bijak, menguasai sihir kuno, hidup mengasingkan diri di hutan, mengetahui rahsia keluarga diraja.",
+			"avatar_url": "/resources/characters/story_5/marian.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 40,
+			"personality": [
+				"Tenang",
+				"Misteri",
+				"Berwawasan tajam"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Perjalanan Pulang Si Buangan"
+		}
+	]
+}

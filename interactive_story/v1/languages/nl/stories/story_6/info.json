@@ -1,0 +1,87 @@
+{
+	"story_id": "story_6",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Carter",
+			"description": "Een jonge en koppige journalist voor wie het zoeken naar de waarheid zijn levensmotto is. Hij komt naar Mistige Vallei om een vermissingszaak te onderzoeken, maar raakt onverwacht betrokken bij paranormale gebeurtenissen.",
+			"avatar_url": "/resources/characters/story_6/carter.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 27,
+			"personality": [
+				"nieuwsgierig",
+				"moedig",
+				"koppig",
+				"sterk logisch denken maar sceptisch over bovennatuurlijke verschijnselen"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Eliza",
+			"description": "De voormalige eigenaar van Blackwood Manor, die honderd jaar geleden werd verraden door haar familie en een offer werd in het bloedmaanritueel. Haar geest dwaalt door het landhuis en probeert via Carter de vloek te verbreken, maar haar motieven lijken niet zuiver.",
+			"avatar_url": "/resources/characters/story_6/eliza.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"melancholisch",
+				"mysterieus",
+				"complex",
+				"verlangt naar hulp maar brandt ook van wraak"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Aiden",
+			"description": "Een eenzame zwerver die vaak rond Mistige Vallei dwaalt en beweert de geheimen van het landhuis te kennen. Zijn ware identiteit en motieven zijn onduidelijk.",
+			"avatar_url": "/resources/characters/story_6/aiden.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"zwijgzaam",
+				"voorzichtig",
+				"schrander",
+				"lijkt gewend aan paranormale verschijnselen"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Vera",
+			"description": "Een oudere inwoner van Mistige Vallei die zichzelf historicus noemt en veel weet over het verleden van het landhuis, maar haar verhalen lijken altijd iets achter te houden, alsof ze geheimen verbergt.",
+			"avatar_url": "/resources/characters/story_6/vera.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 60,
+			"personality": [
+				"wijs",
+				"mysterieus",
+				"voorzichtig",
+				"spreekt met waarschuwende ondertoon"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Lucas",
+			"description": "De politieagent van Mistige Vallei die de vermissingszaak onderzoekt en sceptisch staat tegenover Carters komst. Zijn gedrag suggereert dat hij bekend is met de geruchten over het landhuis, maar hij wil er niet dieper op ingaan.",
+			"avatar_url": "/resources/characters/story_6/lucas.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"ernstig",
+				"waakzaam",
+				"behoudend",
+				"ambivalent over paranormale verschijnselen"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Landhuis in de Mist"
+		}
+	]
+}

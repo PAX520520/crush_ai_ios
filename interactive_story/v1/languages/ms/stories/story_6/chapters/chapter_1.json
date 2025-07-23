@@ -1,0 +1,97 @@
+{
+	"title": "Rumah Besar dalam Kabut",
+	"summary": "Wartawan Carter tiba di Bandar Kabut untuk menyiasat kes kehilangan orang dan memasuki Rumah Besar Blackwood yang terbiar. Dia menemui sebuah diari misteri, mengalami kejadian pelik, dan bertemu dengan hantu Elizabeth. Carter perlu membuat keputusan bagaimana untuk menghadapi kejadian supernatural ini.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Malam yang gelap, Bandar Kabut diliputi kabut tebal, jalan-jalan kosong tanpa seorang pun, hanya lampu jalan memancarkan cahaya kekuningan dalam kabut. Anda, Carter, seorang wartawan muda, berdiri di hadapan pintu pagar besi Rumah Besar Blackwood, menggenggam lampu suluh dengan erat. Bentuk rumah besar itu samar-samar dalam kabut, seperti raksasa yang sedang tidur, memancarkan aura yang mengganggu."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(berbisik kepada diri sendiri, membetulkan cermin mata) Tempat ini... benar-benar menakutkan. Semua petunjuk kes kehilangan orang menuju ke sini, tapi kenapa aku rasa ini bukan idea yang baik?"
+		},
+		{
+			"type": "narrator",
+			"content": "Anda menolak pintu pagar berkarat, bunyi derit yang menusuk telinga bergema dalam kesunyian. Pintu utama rumah besar terbuka luas, beranda dipenuhi sarang labah-labah, udara dipenuhi bau kulat dan sejuk yang sukar dijelaskan. Anda melangkah masuk ke dewan, cahaya lampu suluh menyapu perabot usang dan dinding yang retak, sayup-sayup kedengaran bisikan dari jauh, seperti bunyi angin, seperti gumaman manusia."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(mengerutkan dahi, menggenggam lampu suluh dengan erat) Siapa di sana? Keluar!"
+		},
+		{
+			"type": "narrator",
+			"content": "Tiada jawapan, tetapi suara bisikan seolah-olah semakin dekat. Anda perhatikan sebuah diari berdebu di atas meja di tengah dewan, dengan nama 'Eliza Blackwood' terukir pada kulit bukunya. Anda membuka diari itu, mendapati tulisan yang tidak teratur, mencatatkan petikan tentang 'Upacara Bulan Darah': 'Mereka mengkhianati saya... menggunakan darah saya untuk mendapatkan kuasa... sumpahan akan kekal...'"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(bergumam) Upacara Bulan Darah? Apa benda ni? Mungkinkah kes kehilangan orang ada kaitan dengan ini?"
+		},
+		{
+			"type": "narrator",
+			"content": "Tiba-tiba, angin sejuk bertiup, lilin di atas kaki lilin menyala sendiri tanpa api, mengeluarkan cahaya biru pucat. Anda merasa kesejukan merayap di tulang belakang, apabila berpaling, satu bayangan wanita yang kabur muncul di hujung tangga dewan. Dia memakai gaun panjang yang lusuh, memegang lampu tangan yang berkelip-kelip, wajahnya yang pucat tanpa ekspresi, tetapi matanya penuh dengan kesedihan."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(suara bergema, rendah seperti keluhan) Kamu... kenapa datang? Ini bukan tempat untuk yang hidup..."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(melangkah ke belakang, jantung berdegup kencang) Siapa awak?! Saya... saya datang untuk mencari kebenaran! Tentang kes kehilangan orang, tentang rumah besar ini!"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(perlahan-lahan menghampiri, suara dengan sedikit kemarahan) Kebenaran? Kebenaran telah dikuburkan dengan darah... jika kamu ingin tahu, tinggallah... tetapi berhati-hati, jiwa kamu juga akan ditelan."
+		},
+		{
+			"type": "narrator",
+			"content": "Bayangannya tiba-tiba hilang, api lilin padam, dewan menjadi gelap. Lampu suluh di tangan anda mula berkelip-kelip, udara menjadi lebih sejuk. Anda merasa tekanan yang tidak dapat dilihat, seolah-olah ada sesuatu yang memerhati anda."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(terengah-engah, cuba untuk tenang) Tenang, Carter, ini cuma halusinasi... kan? Tapi diari ini... tempat ini... aku mesti cari tahu!"
+		},
+		{
+			"type": "narrator",
+			"content": "Anda mendengar bunyi langkah kaki berkeriut dari lantai, sepertinya datang dari tingkat atas. Anda boleh memilih untuk naik ke atas mencari sumber bunyi itu, atau terus mengkaji diari untuk mencari petunjuk, atau terus meninggalkan tempat berhantu ini dan kembali ke bandar untuk mendapatkan bantuan."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(menggigit bibir, berbisik) Aku tak boleh berundur macam ni... tapi tempat ni memang menakutkan."
+		},
+		{
+			"type": "narrator",
+			"content": "Bunyi degupan jantung anda bergema di telinga, bayang-bayang rumah besar seolah-olah bergerak-gerak. Apa yang akan anda lakukan?"
+		}
+	],
+	"choice": {
+		"prompt": "Apakah tindakan anda?",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Naik ke atas untuk menyiasat bunyi langkah kaki misteri itu dan meneroka lebih dalam rumah besar ini."
+			},
+			{
+				"content": "Kekal di dewan, terus membaca diari Elizabeth untuk mencari lebih banyak petunjuk."
+			},
+			{
+				"content": "Tinggalkan rumah besar ini, kembali ke Bandar Kabut, dan dapatkan bantuan dari Pegawai Lucas atau penduduk bandar Vera."
+			}
+		]
+	}
+}

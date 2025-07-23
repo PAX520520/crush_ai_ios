@@ -2,18 +2,33 @@
 	"categories": [
 		{
 			"id": 1,
-			"name": "🎭 Mystère",
-			"description": "Des histoires pleines de mystère et de suspense"
+			"name": "🌆 Urbain",
+			"description": "Des histoires fascinantes qui se déroulent dans une ville moderne"
 		},
 		{
 			"id": 2,
 			"name": "💘 Romance",
-			"description": "Des histoires d'amour passionnées et émouvantes"
+			"description": "Des histoires d'amour passionnées pleines de profondeur émotionnelle"
 		},
 		{
 			"id": 3,
 			"name": "✨ Fantaisie",
-			"description": "Aventures épiques remplies de magie et de miracles."
+			"description": "Des aventures épiques remplies de magie et de merveilles"
+		},
+		{
+			"id": 4,
+			"name": "🚀 Science-fiction",
+			"description": "Un voyage fascinant explorant les technologies futures et l'univers inconnu"
+		},
+		{
+			"id": 5,
+			"name": "👑 Médiéval",
+			"description": "Une grande narration sur les nations et les personnages médiévaux"
+		},
+		{
+			"id": 6,
+			"name": "🎭 Mystère",
+			"description": "Des histoires à suspense pleines de mystère et de tension"
 		}
 	]
 }

@@ -1,0 +1,97 @@
+{
+	"title": "Mansão na Névoa",
+	"summary": "O jornalista Carter chega à cidade de Vale Nebuloso para investigar casos de desaparecimento e entra na mansão abandonada dos Blackwood. Ele descobre um diário misterioso, encontra fenômenos estranhos e se depara com o fantasma de Elizabeth. Carter precisa decidir como lidar com esses eventos sobrenaturais.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "A noite está profunda, e Vale Nebuloso está coberto por uma densa névoa, as ruas estão desertas, com apenas os postes de luz projetando um brilho amarelado através da névoa. Você, Carter, um jovem jornalista, está parado em frente ao portão de ferro da Mansão Blackwood, segurando firmemente uma lanterna. O contorno da mansão aparece e desaparece na névoa, como uma besta adormecida, emanando uma aura inquietante."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(murmurando, ajustando os óculos) Este lugar... é realmente assustador. Todas as pistas dos desaparecimentos levam até aqui, mas por que sinto que isso não é uma boa ideia?"
+		},
+		{
+			"type": "narrator",
+			"content": "Você empurra o portão enferrujado, que range assustadoramente no silêncio. A porta principal da mansão está aberta, o pórtico coberto de teias de aranha, o ar impregnado com cheiro de mofo e uma inexplicável sensação de frio. Você entra no saguão, a luz da lanterna revelando móveis deteriorados e paredes rachadas, ouvindo ao longe sussurros que parecem tanto o vento quanto murmúrios humanos."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(franzindo a testa, apertando a lanterna) Quem está aí? Apareça!"
+		},
+		{
+			"type": "narrator",
+			"content": "Ninguém responde, mas os sussurros parecem mais próximos. Você nota um diário empoeirado sobre a mesa central do saguão, com o nome 'Eliza Blackwood' gravado na capa. Ao abri-lo, encontra uma escrita irregular com trechos sobre um 'Ritual da Lua de Sangue': 'Eles me traíram... usaram meu sangue para obter poder... a maldição permanecerá para sempre...'"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(murmurando) Ritual da Lua de Sangue? Que diabos é isso? Será que os desaparecimentos têm algo a ver com isso?"
+		},
+		{
+			"type": "narrator",
+			"content": "De repente, uma rajada de ar frio passa, e as velas nos castiçais se acendem sozinhas, emitindo uma luz azulada. Você sente um arrepio subir pela espinha e, ao se virar, vê uma figura feminina nebulosa no topo da escada do saguão. Ela usa um vestido desgastado, carrega uma lamparina cintilante, e seu rosto pálido não tem expressão, mas seus olhos transmitem uma profunda melancolia."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(voz etérea, profunda como um suspiro) Por que... você veio? Este não é um lugar para os vivos..."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(dando um passo atrás, coração acelerado) Quem é você?! Eu... eu vim em busca da verdade! Sobre os desaparecimentos, sobre esta mansão!"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(aproximando-se lentamente, com um toque de raiva na voz) Verdade? A verdade está enterrada em sangue... Se deseja conhecê-la, fique... mas cuidado, sua alma também será consumida."
+		},
+		{
+			"type": "narrator",
+			"content": "Sua figura desaparece repentinamente, as velas se apagam, e o saguão mergulha na escuridão. Sua lanterna começa a piscar, e o ar fica ainda mais frio. Você sente uma pressão invisível, como se algo estivesse observando você."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(ofegante, tentando manter a calma) Calma, Carter, isso é só uma alucinação... certo? Mas este diário... este lugar... preciso descobrir!"
+		},
+		{
+			"type": "narrator",
+			"content": "Você ouve passos rangendo no assoalho, parecendo vir do andar de cima. Você pode escolher subir para investigar a origem do som, continuar examinando o diário em busca de pistas, ou simplesmente sair deste lugar assombrado e voltar à cidade para buscar ajuda."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(rangendo os dentes, em voz baixa) Não posso simplesmente desistir... mas este lugar é realmente assustador."
+		},
+		{
+			"type": "narrator",
+			"content": "Seu coração bate forte em seus ouvidos, e as sombras da mansão parecem se mover. O que você vai fazer?"
+		}
+	],
+	"choice": {
+		"prompt": "Como você vai agir?",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Subir as escadas para investigar os passos misteriosos e explorar o interior da mansão."
+			},
+			{
+				"content": "Permanecer no saguão e continuar lendo o diário de Elizabeth em busca de mais pistas."
+			},
+			{
+				"content": "Deixar a mansão e retornar a Vale Nebuloso para pedir ajuda ao oficial Lucas ou à moradora Vera."
+			}
+		]
+	}
+}

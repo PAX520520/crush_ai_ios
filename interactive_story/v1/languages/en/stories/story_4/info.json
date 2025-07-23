@@ -1,0 +1,70 @@
+{
+	"story_id": "story_4",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "An amnesiac starship navigator, real name unknown, once a legendary figure in the Interstellar Fleet, possibly one of the creators of the Star Fall event.",
+			"avatar_url": "/resources/characters/story_4/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Calm",
+				"Determined",
+				"Full of doubts",
+				"Obsessed with truth"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Ava",
+			"description": "A mysterious agent who claims to be Ethan's partner, but is actually a secret member of the Interstellar Alliance, tasked with obtaining the Star Core. Her motives are complex, showing both loyalty and self-interest.",
+			"avatar_url": "/resources/characters/story_4/ava.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"Clever",
+				"Cunning",
+				"Good at disguise",
+				"Internally conflicted"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Nova",
+			"description": "Ethan's AI assistant, existing within the starship system and his implants, possessing near-human intelligence. Appears loyal but seems to hide secrets about Ethan's past.",
+			"avatar_url": "/resources/characters/story_4/nova.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"Calm",
+				"Strictly logical",
+				"Occasionally shows human-like care"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Kael",
+			"description": "A renegade space mercenary hunting Ethan for the Star Core bounty, but weary of the Interstellar Alliance's corruption, potentially an ally.",
+			"avatar_url": "/resources/characters/story_4/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Rugged",
+				"Decisive",
+				"Outwardly cold but guided by principles"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Whispers of the Void"
+		}
+	]
+}

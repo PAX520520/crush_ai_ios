@@ -1,0 +1,87 @@
+{
+	"story_id": "story_6",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Carter",
+			"description": "Um jovem repórter teimoso que tem como princípio de vida buscar a verdade. Ele chega à cidade de Vale Nebuloso para investigar um caso de desaparecimento, mas acaba se envolvendo em eventos sobrenaturais.",
+			"avatar_url": "/resources/characters/story_6/carter.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 27,
+			"personality": [
+				"Curioso",
+				"Corajoso",
+				"Teimoso",
+				"Forte pensamento lógico mas cético em relação a fenômenos sobrenaturais"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Eliza",
+			"description": "A antiga proprietária da Mansão Blackwood, traída por sua família há cem anos e transformada em sacrifício para o ritual da lua de sangue. Seu espírito vaga pela mansão, tentando quebrar a maldição através de Carter, mas seus motivos parecem não ser tão puros.",
+			"avatar_url": "/resources/characters/story_6/eliza.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"Melancólica",
+				"Misteriosa",
+				"Complexa",
+				"Tem tanto desejo de ajuda quanto sede de vingança"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Aiden",
+			"description": "Um andarilho solitário que frequentemente vaga perto de Vale Nebuloso, alegando conhecer os segredos da mansão. Sua verdadeira identidade e motivações são obscuras.",
+			"avatar_url": "/resources/characters/story_6/aiden.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Taciturno",
+				"Cauteloso",
+				"Astuto",
+				"Parece estar acostumado com fenômenos sobrenaturais"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Vera",
+			"description": "Uma idosa moradora de Vale Nebuloso que se diz historiadora e conhece muito sobre o passado da mansão, mas suas narrativas sempre parecem ter algo reservado, como se escondesse alguns segredos.",
+			"avatar_url": "/resources/characters/story_6/vera.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 60,
+			"personality": [
+				"Sábia",
+				"Misteriosa",
+				"Cautelosa",
+				"Suas palavras carregam tons de advertência"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Lucas",
+			"description": "O policial de Vale Nebuloso, responsável por investigar o caso de desaparecimento, que se mostra cético quanto à chegada de Carter. Seu comportamento indica que ele sabe algo sobre os rumores da mansão, mas reluta em discutir o assunto.",
+			"avatar_url": "/resources/characters/story_6/lucas.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"Sério",
+				"Vigilante",
+				"Conservador",
+				"Ambíguo em relação a fenômenos sobrenaturais"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Mansão na Névoa"
+		}
+	]
+}

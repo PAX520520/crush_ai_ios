@@ -1,0 +1,97 @@
+{
+	"title": "Kartano sumussa",
+	"summary": "Toimittaja Carter saapuu Sumun laaksoon tutkimaan katoamistapauksia ja menee hylättyyn Blackwoodin kartanoon. Hän löytää salaperäisen päiväkirjan, kohtaa outoja ilmiöitä ja tapaa Elizabeth-aaveen. Carterin täytyy päättää, miten suhtautua näihin yliluonnollisiin tapahtumiin.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Yö on syvä, ja Sumun laakso on tiheän sumun peitossa. Kadut ovat tyhjät, vain katulamput luovat kellertävän hohteen sumuun. Sinä, Carter, nuori toimittaja, seisot Blackwoodin kartanon rautaportin edessä taskulamppu tiukasti kädessäsi. Kartanon ääriviivat häämöttävät sumussa kuin nukkuva peto, levittäen levotonta tunnelmaa."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(mutisee hiljaa, säätäen silmälasejaan) Tämä paikka... on todella karmiva. Kaikki katoamistapauksen johtolangat viittaavat tänne, mutta jotenkin tuntuu, ettei tämä ole hyvä idea."
+		},
+		{
+			"type": "narrator",
+			"content": "Työnnät ruostuneen rautaportin auki, ja sen kirskuva ääni kaikuu hiljaisuudessa. Kartanon pääovi on auki, kuisti on hämähäkinseittien peitossa, ja ilmassa leijuu homeen ja selittämättömän kylmyyden tuoksu. Astut aulaan, taskulampun valo pyyhkii yli kuluneiden huonekalujen ja halkeilleiden seinien. Kaukaa kuuluu kuiskauksia, kuin tuulen ääntä tai ihmisten mutinaa."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(rypistää otsaansa, puristaa taskulamppua) Kuka siellä on? Tule esiin!"
+		},
+		{
+			"type": "narrator",
+			"content": "Kukaan ei vastaa, mutta kuiskaukset tuntuvat lähestyvän. Huomaat pölyisen päiväkirjan aulan keskellä olevalla pöydällä. Kannessa on kaiverrettu nimi 'Eliza Blackwood'. Avaat päiväkirjan ja löydät sotkuista käsialaa, katkelmia 'verikuurituaalista': 'He pettivät minut... käyttivät vertani voiman saamiseksi... kirous säilyy ikuisesti...'"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(mutisee) Verikuurituaali? Mikä helvetin juttu tämä on? Liittyykö katoamistapaus tähän?"
+		},
+		{
+			"type": "narrator",
+			"content": "Yhtäkkiä kylmä tuulenpuuska pyyhkäisee ohi, ja kynttilänjalkojen kynttilät syttyvät itsestään, levittäen sinertävää valoa. Tunnet kylmyyden hiipivän selkärankaasi pitkin. Kääntyessäsi näet hämärän naishahmon aulan päässä olevilla portailla. Hänellä on yllään kulunut pitkä mekko, kädessään välkkyvä lyhty, ja hänen kalpeilla kasvoillaan ei ole ilmettä, mutta silmissä näkyy syvä suru."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(eteerinen ääni, matala kuin huokaus) Miksi... olet tullut? Tämä ei ole elävien asuinsija..."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(astuu askeleen taaksepäin, sydän hakaten) Kuka sinä olet?! Minä... minä etsin totuutta! Katoamistapauksesta, tästä kartanosta!"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(lähestyy hitaasti, äänessä vihaa) Totuutta? Totuus on haudattu veren alle... Jos haluat tietää, jää... mutta varo, sielusi voi tulla nielaistuksi."
+		},
+		{
+			"type": "narrator",
+			"content": "Hänen hahmonsa katoaa äkisti, kynttilät sammuvat, ja aula vaipuu pimeyteen. Taskulamppusi alkaa välkkyä, ja ilma muuttuu entistä kylmemmäksi. Tunnet näkymättömän paineen, kuin jokin tarkkailisi sinua."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(hengittää raskaasti, yrittää rauhoittua) Rauhoitu, Carter, tämä on vain harhaa... eikö niin? Mutta tämä päiväkirja... tämä paikka... minun täytyy selvittää tämä!"
+		},
+		{
+			"type": "narrator",
+			"content": "Kuulet narisevien askelten ääniä lattialta, ne tuntuvat tulevan yläkerrasta. Voit valita menetkö yläkertaan tutkimaan äänien lähdettä, jatkatko päiväkirjan tutkimista löytääksesi lisää johtolankoja, vai lähdetkö tästä kummituspaikasta ja palaat kaupunkiin hakemaan apua."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(puree hammasta, hiljaa) En voi vain perääntyä... mutta tämä paikka on todella outo."
+		},
+		{
+			"type": "narrator",
+			"content": "Sydämenlyöntisi kaikuvat korvissasi, ja kartanon varjot tuntuvat liikkuvan. Mitä aiot tehdä?"
+		}
+	],
+	"choice": {
+		"prompt": "Miten toimit?",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Mene yläkertaan tutkimaan salaperäisiä askelia ja tutki kartanon syvälle."
+			},
+			{
+				"content": "Jää aulaan ja jatka Elizabethin päiväkirjan lukemista löytääksesi lisää johtolankoja."
+			},
+			{
+				"content": "Poistu kartanosta, palaa Sumun laaksoon ja pyydä apua konstaapeli Lucasilta tai kyläläinen Veralta."
+			}
+		]
+	}
+}

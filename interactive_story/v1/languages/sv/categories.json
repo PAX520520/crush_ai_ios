@@ -2,8 +2,8 @@
 	"categories": [
 		{
 			"id": 1,
-			"name": "🎭 Mysterium",
-			"description": "Spännande thrillerberättelser fyllda med mystik och spänning"
+			"name": "🌆 Stad",
+			"description": "Spännande berättelser som utspelar sig i moderna städer"
 		},
 		{
 			"id": 2,
@@ -12,8 +12,23 @@
 		},
 		{
 			"id": 3,
-			"name": "✨ Magi",
-			"description": "Episka äventyr fyllda med magi och underverk"
+			"name": "✨ Fantasy",
+			"description": "Episka äventyr fyllda med magi och mirakel"
+		},
+		{
+			"id": 4,
+			"name": "🚀 Science Fiction",
+			"description": "En fantastisk resa som utforskar framtida teknologi och det okända universum"
+		},
+		{
+			"id": 5,
+			"name": "👑 Medeltid",
+			"description": "Storslagna berättelser om medeltida länder och personer"
+		},
+		{
+			"id": 6,
+			"name": "🎭 Mysterium",
+			"description": "Spännande thrillers fyllda med mystik och spänning"
 		}
 	]
 }

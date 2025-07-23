@@ -1,0 +1,127 @@
+{
+	"title": "Sussurros do Vazio",
+	"summary": "O protagonista amnésico Ethan acorda em uma nave espacial abandonada, enfrentando uma estrutura prestes a colapsar e o aparecimento da misteriosa Ava. Ele deve decidir se confia em Ava, permanece na nave procurando pistas ou foge sozinho para sobreviver.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Na escuridão, sua consciência se reúne como fragmentos, como se fosse arrancada de um abismo sem fim. Um alarme estridente perfura seus tímpanos, luzes vermelhas piscam na cabine estreita. Você está deitado em uma câmara de estase fria, seu corpo pesado, sua mente vazia como se tivesse sido esvaziada. Ao seu redor, paredes metálicas estranhas, o ar impregnado com cheiro de circuitos queimados."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(gemendo baixo, tentando se levantar) Onde... onde estou? Quem... quem sou eu?"
+		},
+		{
+			"type": "narrator",
+			"content": "Você se esforça para sentar, sua visão embaçada, a tampa de vidro da câmara de estase se abrindo lentamente. Uma suave luz azul emana do implante em seu braço, projetando um holograma - uma mulher de cabelos prateados, olhar calmo, mas voz com um toque de urgência."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(voz clara, com estabilidade mecânica) Bem-vindo de volta, Captain Ethan. Detectada falha iminente nos sistemas da nave, evacuação imediata recomendada."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(franzindo a testa, tentando lembrar) Captain? Ethan? Isso não significa nada para mim... Quem é você? Por que está me chamando assim?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(holograma tremulando levemente, tom inalterado) Sou Nova, sua IA assistente de navegação. Sua memória foi comprometida devido a uma falha na câmara de estase, mas não há tempo para discussões. A nave se desintegrará em 17 minutos."
+		},
+		{
+			"type": "narrator",
+			"content": "Antes que você pudesse processar essas informações, a porta da cabine foi forçada aberta. Uma mulher entrou, movimentos ágeis, olhos verdes brilhando na luz fraca. Ela vestia um traje de combate justo, empunhava uma adaga de energia luminosa, com um sorriso quase imperceptível no rosto."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(tom leve, com um toque de provocação) Dormiu o suficiente, Ethan? Sou Ava, sua parceira. Precisamos sair rápido, ou viraremos poeira espacial."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(recuando um passo, encarando-a) Parceira? Não me lembro de você. Como sabe meu nome?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(dando de ombros, mantendo o sorriso) Amnésia? Que inconveniente. Confie em mim, somos velhos amigos. A nave vai explodir, venha comigo, explicarei tudo."
+		},
+		{
+			"type": "narrator",
+			"content": "Sua voz transborda confiança, mas você nota um lampejo de hesitação em seus olhos. Os alarmes da nave ficam mais urgentes, o piso treme levemente, lembrando que o tempo é curto. Você sente o implante em seu braço esquentar, como se respondesse a algum sinal desconhecido."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(murmurando, tentando agarrar fragmentos mentais) Por que sinto que... algo está errado?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(holograma voltando-se para Ava, tom levemente desconfiado) Ava, nenhuma credencial detectada. Cautela recomendada, Captain."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(rindo levemente, acenando) Ignore essa baboseira eletrônica. Ethan, precisamos ir, agora!"
+		},
+		{
+			"type": "narrator",
+			"content": "Você permanece imóvel, uma imagem nebulosa passa por sua mente: um planeta em chamas, uma voz feminina sussurrando seu nome. A presença de Ava o deixa instintivamente inquieto, mas ficar aqui claramente não é uma opção sensata. O que você deve fazer?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(respirando fundo, tentando manter a calma) Certo... me diga, Ava, quem é você realmente? Por que sinto que sabe mais do que está dizendo?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(olhar penetrante, tom sério) Não é hora de perguntas, Ethan. Confie em mim ou fique aqui e morra. Você escolhe."
+		},
+		{
+			"type": "narrator",
+			"content": "Os alarmes ficam mais ensurdecedores, a estrutura da nave começa a tremer violentamente. Você precisa decidir rapidamente. Os olhos de Ava escondem segredos, o aviso de Nova ecoa em seus ouvidos, e no fundo de sua mente, uma voz parece urgir você a buscar a verdade."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(acrescentando calmamente) Detectada interferência de sinal externo, possível aproximação de nave não identificada. Ação imediata recomendada."
+		},
+		{
+			"type": "narrator",
+			"content": "Você sente a urgência do tempo, mas a névoa em sua mente só aumenta. Confiar em Ava e segui-la? Ficar e procurar mais pistas? Ou arriscar uma fuga solitária em busca de suas próprias respostas?"
+		}
+	],
+	"choice": {
+		"prompt": "Como você vai escolher",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Confiar em Ava e segui-la para fora da nave"
+			},
+			{
+				"content": "Permanecer na nave, procurar pistas na câmara de estase ou na ponte"
+			},
+			{
+				"content": "Ignorar Ava e procurar sozinho uma cápsula de escape"
+			}
+		]
+	}
+}

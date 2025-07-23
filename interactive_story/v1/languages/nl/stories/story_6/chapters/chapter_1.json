@@ -1,0 +1,97 @@
+{
+	"title": "Landhuis in de Mist",
+	"summary": "Journalist Carter komt aan in Mistvalley om een vermissingszaak te onderzoeken en betreedt het verlaten Blackwood landhuis. Hij vindt een mysterieus dagboek, ervaart bovennatuurlijke verschijnselen en ontmoet de geest van Elizabeth. Carter moet beslissen hoe hij met deze paranormale gebeurtenissen omgaat.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "De nacht is diep, Mistvalley is gehuld in dichte mist, de straten zijn verlaten met alleen straatlantaarns die een gelige gloed door de mist werpen. Jij, Carter, een jonge journalist, staat voor het ijzeren hek van het Blackwood landhuis, met een zaklamp stevig in je hand. De contouren van het landhuis doemen op in de mist als een slapend monster, een onheilspellende sfeer uitstralend."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(mompelend, bril rechtzettend) Deze plek... is verdomd eng. Alle aanwijzingen in de vermissingszaak leiden hierheen, maar waarom heb ik het gevoel dat dit geen goed idee is?"
+		},
+		{
+			"type": "narrator",
+			"content": "Je duwt het roestige hek open, dat een doordringend gepiep laat horen in de stilte. De hoofdingang van het landhuis staat open, de veranda is bedekt met spinnenwebben, en de lucht is doordrongen van schimmel en een onbeschrijfelijke kilte. Je stapt de hal binnen, je zaklamp glijdt over verweerd meubilair en gebarsten muren, en in de verte hoor je gefluister, als de wind of menselijk gemompel."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(fronsend, zaklamp stevig vastklemmend) Wie is daar? Kom tevoorschijn!"
+		},
+		{
+			"type": "narrator",
+			"content": "Er komt geen antwoord, maar het gefluister lijkt dichterbij te komen. Je merkt een stoffig dagboek op de tafel in het midden van de hal op, met de naam 'Eliza Blackwood' op de kaft gegraveerd. Je slaat het open en vindt haastig geschreven passages over een 'Bloedmaanritueel': 'Ze hebben me verraden... gebruikten mijn bloed voor macht... de vloek zal eeuwig voortduren...'"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(mompelend) Bloedmaanritueel? Wat is dit voor onzin? Zou de vermissingszaak hiermee te maken hebben?"
+		},
+		{
+			"type": "narrator",
+			"content": "Plotseling waait er een koude wind, de kaarsen in de kandelaars ontbranden spontaan met een blauwachtig licht. Je voelt een rilling over je rug lopen en als je je omdraait, zie je een vage vrouwelijke gedaante aan het einde van de trap in de hal. Ze draagt een versleten jurk, houdt een flikkerende lantaarn vast, haar bleke gezicht is uitdrukkingsloos, maar haar ogen stralen diepe droefheid uit."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(etherische stem, zacht als een zucht) Waarom... ben je hier? Dit is geen plaats voor de levenden..."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(een stap achteruit zettend, hart bonzend) Wie ben jij?! Ik... ik ben hier voor de waarheid! Over de verdwijningen, over dit landhuis!"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(langzaam naderend, stem met een zweem van woede) De waarheid? De waarheid ligt begraven onder bloed... Als je het wilt weten, blijf dan... maar pas op, je ziel zal worden verzwolgen."
+		},
+		{
+			"type": "narrator",
+			"content": "Haar gedaante verdwijnt plotseling, de kaarsen doven en de hal wordt donker. Je zaklamp begint te flikkeren en de lucht wordt nog kouder. Je voelt een onzichtbare druk, alsof iets je in de gaten houdt."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(hijgend, proberend kalm te blijven) Rustig, Carter, het is maar een hallucinatie... toch? Maar dit dagboek... deze plek... ik moet erachter komen!"
+		},
+		{
+			"type": "narrator",
+			"content": "Je hoort krakende voetstappen op de vloer, die van boven lijken te komen. Je kunt ervoor kiezen om naar boven te gaan en de bron van het geluid te onderzoeken, het dagboek verder te bestuderen voor aanwijzingen, of deze griezelige plek te verlaten en terug naar het dorp te gaan voor hulp."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(op zijn tanden bijtend, zacht) Ik kan nu niet opgeven... maar deze plek is echt behekst."
+		},
+		{
+			"type": "narrator",
+			"content": "Je hartslag bonkt in je oren, de schaduwen in het landhuis lijken te bewegen. Wat ga je doen?"
+		}
+	],
+	"choice": {
+		"prompt": "Wat ga je doen?",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Naar boven gaan om de mysterieuze voetstappen te onderzoeken en het landhuis verder te verkennen."
+			},
+			{
+				"content": "In de hal blijven en Elizabeth's dagboek verder lezen voor meer aanwijzingen."
+			},
+			{
+				"content": "Het landhuis verlaten en terugkeren naar Mistvalley om hulp te vragen aan agent Lucas of dorpeling Vera."
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"story_id": "story_6",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Carter",
+			"description": "En ung och envis journalist vars livsfilosofi är att söka sanningen. Han kommer till Dimmdalen för att undersöka ett försvinnande fall men blir oväntat indragen i paranormala händelser.",
+			"avatar_url": "/resources/characters/story_6/carter.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 27,
+			"personality": [
+				"nyfiken",
+				"modig",
+				"envis",
+				"logisk men skeptisk till övernaturliga fenomen"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Eliza",
+			"description": "Den tidigare ägaren av Blackwood Manor, som för hundra år sedan förråddes av sin familj och blev ett offer i blodmåneritualen. Hennes spöke vandrar i herrgården och försöker bryta förbannelsen genom Carter, men hennes motiv verkar inte vara helt rena.",
+			"avatar_url": "/resources/characters/story_6/eliza.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"sorgsen",
+				"mystisk",
+				"komplex",
+				"har både en längtan efter hjälp och en hämndens vrede"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Aiden",
+			"description": "En enslig vandrare som ofta strövar omkring nära Dimmdalen och påstår sig känna till herrgårdens hemligheter. Hans sanna identitet och motiv är oklara.",
+			"avatar_url": "/resources/characters/story_6/aiden.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"tystlåten",
+				"försiktig",
+				"skarpsinning",
+				"verkar van vid paranormala fenomen"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Vera",
+			"description": "En äldre invånare i Dimmdalen som påstår sig vara historiker och känner väl till herrgårdens historia, men hennes berättelser är alltid återhållsamma och tycks dölja vissa hemligheter.",
+			"avatar_url": "/resources/characters/story_6/vera.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 60,
+			"personality": [
+				"vis",
+				"mystisk",
+				"försiktig",
+				"talar med en varnande underton"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Lucas",
+			"description": "Polisen i Dimmdalen som utreder försvinnandet och är skeptisk till Carters ankomst. Hans beteende antyder att han känner till ryktena om herrgården men är ovillig att diskutera dem djupare.",
+			"avatar_url": "/resources/characters/story_6/lucas.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"allvarlig",
+				"vaksam",
+				"konservativ",
+				"tvetydig inställning till övernaturliga fenomen"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Herrgården i dimman"
+		}
+	]
+}

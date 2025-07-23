@@ -1,0 +1,97 @@
+{
+	"title": "Sisli Malikane",
+	"summary": "Gazeteci Carter, kayıp vakasını araştırmak için Sis Vadisi kasabasına gelir ve terk edilmiş Blackwood Malikânesi'ne girer. Gizemli bir günlük bulur, tuhaf olaylarla karşılaşır ve hayalet Elizabeth ile tanışır. Carter bu doğaüstü olaylarla nasıl başa çıkacağına karar vermek zorundadır.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Gece karanlık, Sis Vadisi kasabası yoğun bir sisle kaplı, sokaklar bomboş, sadece sokak lambaları sisin içinde soluk sarı bir hale oluşturuyor. Sen, Carter, genç bir gazeteci olarak, Blackwood Malikânesi'nin demir kapısının önünde duruyorsun, elinde sıkıca tuttuğun bir el feneri var. Malikânenin silueti sis içinde belirsiz, uyuyan dev bir canavar gibi, rahatsız edici bir hava yayıyor."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(Alçak sesle mırıldanarak, gözlüğünü düzelterek) Bu yer... gerçekten ürkütücü. Kayıp vakasının tüm izleri buraya işaret ediyor, ama bunun iyi bir fikir olduğundan emin değilim."
+		},
+		{
+			"type": "narrator",
+			"content": "Paslı demir kapıyı itiyorsun, gıcırtı sesi sessizlikte yankılanıyor. Malikânenin kapısı açık, giriş sundurması örümcek ağlarıyla kaplı, havada küf ve tarif edilemez bir soğukluk var. Hole giriyorsun, el fenerinin ışığı eski mobilyaları ve çatlak duvarları aydınlatıyor, uzaktan gelen fısıltıları duyuyorsun, rüzgâr sesi gibi, insan mırıltısı gibi."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(Kaşlarını çatarak, el fenerini sıkıca tutarak) Kim var orada? Çıkın ortaya!"
+		},
+		{
+			"type": "narrator",
+			"content": "Yanıt yok, ama fısıltılar daha da yaklaşmış gibi. Holün ortasındaki masada tozlu bir günlük görüyorsun, kapağında 'Eliza Blackwood' ismi kazınmış. Günlüğü açıyorsun, karmakarışık el yazısıyla yazılmış 'Kanlı Ay Ritüeli' hakkında bir bölüm buluyorsun: 'Bana ihanet ettiler... kanımı güç için kullandılar... lanet sonsuza dek sürecek...'"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(Kendi kendine mırıldanarak) Kanlı Ay Ritüeli? Bu da ne? Kayıp vakasının bununla bir ilgisi mi var?"
+		},
+		{
+			"type": "narrator",
+			"content": "Aniden, soğuk bir rüzgâr esiyor, şamdandaki mumlar kendiliğinden yanıyor ve mavimsi bir ışık yayıyor. Sırtında bir ürperti hissediyorsun, döndüğünde, holün sonundaki merdivenlerde belirsiz bir kadın silüeti görüyorsun. Yırtık pırtık bir elbise giymiş, elinde titreyen bir fener var, solgun yüzünde hiçbir ifade yok ama gözlerinde derin bir keder var."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(Boş, iç çekişi andıran bir sesle) Neden... geldin buraya? Burası yaşayanların yeri değil..."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(Bir adım geri atarak, kalbi hızlanarak) Sen kimsin?! Ben... ben gerçeği bulmaya geldim! Kayıp vakası hakkında, bu malikâne hakkında!"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(Yavaşça yaklaşarak, sesinde öfke ile) Gerçek mi? Gerçek kan altında gömülü... Bilmek istiyorsan, kal... Ama dikkat et, ruhun da yutulabilir."
+		},
+		{
+			"type": "narrator",
+			"content": "Silüeti aniden kayboluyor, mumlar sönüyor, hol karanlığa gömülüyor. Elindeki el feneri yanıp sönmeye başlıyor, hava daha da soğuyor. Görünmez bir baskı hissediyorsun, sanki bir şey seni izliyor gibi."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(Nefes nefese, sakinleşmeye çalışarak) Sakin ol, Carter, bu sadece bir halüsinasyon... değil mi? Ama bu günlük... bu yer... Anlamalıyım!"
+		},
+		{
+			"type": "narrator",
+			"content": "Yerden gıcırtılı ayak sesleri duyuyorsun, yukarıdan geliyor gibi. Yukarı çıkıp sesin kaynağını araştırabilir, günlüğü incelemeye devam edebilir ya da bu tekinsiz yerden çıkıp kasabaya dönerek yardım isteyebilirsin."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(Dişlerini sıkarak, alçak sesle) Böyle geri çekilemem... ama bu yer gerçekten çok tuhaf."
+		},
+		{
+			"type": "narrator",
+			"content": "Kalp atışların kulaklarında yankılanıyor, malikânenin gölgeleri kıpırdanıyor gibi. Ne yapacaksın?"
+		}
+	],
+	"choice": {
+		"prompt": "Ne yapmak istersin?",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Yukarı çıkıp gizemli ayak seslerini takip et ve malikânenin derinliklerini keşfet."
+			},
+			{
+				"content": "Holde kal ve Elizabeth'in günlüğünü okumaya devam ederek daha fazla ipucu ara."
+			},
+			{
+				"content": "Malikâneden ayrıl, Sis Vadisi'ne dön ve Memur Lucas veya kasabalı Vera'dan yardım iste."
+			}
+		]
+	}
+}

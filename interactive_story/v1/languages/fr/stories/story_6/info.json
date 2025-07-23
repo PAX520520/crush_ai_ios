@@ -1,0 +1,87 @@
+{
+	"story_id": "story_6",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Carter",
+			"description": "Un jeune journaliste obstiné dont la quête de vérité est le principe de vie. Il arrive à Misty Valley pour enquêter sur une disparition, mais se retrouve accidentellement impliqué dans des événements paranormaux.",
+			"avatar_url": "/resources/characters/story_6/carter.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 27,
+			"personality": [
+				"Curieux",
+				"Courageux",
+				"Obstiné",
+				"Esprit logique mais sceptique face aux phénomènes surnaturels"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Eliza",
+			"description": "L'ancienne propriétaire du manoir Blackwood, trahie par sa famille il y a un siècle et sacrifiée lors du rituel de la lune de sang. Son fantôme hante le manoir, cherchant à briser la malédiction à travers Carter, mais ses motivations ne semblent pas pures.",
+			"avatar_url": "/resources/characters/story_6/eliza.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"Mélancolique",
+				"Mystérieuse",
+				"Complexe",
+				"Partagée entre le désir d'aide et la soif de vengeance"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Aiden",
+			"description": "Un vagabond solitaire qui rôde près de Misty Valley, prétendant connaître les secrets du manoir. Son identité réelle et ses motivations restent floues.",
+			"avatar_url": "/resources/characters/story_6/aiden.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Taciturne",
+				"Prudent",
+				"Perspicace",
+				"Semble habitué aux phénomènes paranormaux"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Vera",
+			"description": "Une ancienne habitante de Misty Valley qui se présente comme historienne, très au fait du passé du manoir, mais ses récits semblent toujours réservés, comme si elle cachait certains secrets.",
+			"avatar_url": "/resources/characters/story_6/vera.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 60,
+			"personality": [
+				"Sage",
+				"Mystérieuse",
+				"Prudente",
+				"Parle avec un ton d'avertissement"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Lucas",
+			"description": "L'officier de police de Misty Valley, chargé d'enquêter sur la disparition, se méfie de l'arrivée de Carter. Son comportement suggère qu'il connaît les rumeurs sur le manoir mais refuse d'en parler en détail.",
+			"avatar_url": "/resources/characters/story_6/lucas.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"Sérieux",
+				"Vigilant",
+				"Conservateur",
+				"Ambivalent face aux phénomènes surnaturels"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Le Manoir dans la Brume"
+		}
+	]
+}

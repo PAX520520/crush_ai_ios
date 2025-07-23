@@ -2,8 +2,8 @@
 	"categories": [
 		{
 			"id": 1,
-			"name": "🎭 Misteri",
-			"description": "Cerita seram yang penuh dengan misteri dan ketegangan"
+			"name": "🌆 Bandar",
+			"description": "Kisah menarik yang berlaku di bandar moden"
 		},
 		{
 			"id": 2,
@@ -14,6 +14,21 @@
 			"id": 3,
 			"name": "✨ Fantasi",
 			"description": "Pengembaraan epik yang penuh dengan sihir dan keajaiban"
+		},
+		{
+			"id": 4,
+			"name": "🚀 Sains Fiksyen",
+			"description": "Perjalanan menakjubkan meneroka teknologi masa depan dan alam semesta yang tidak diketahui"
+		},
+		{
+			"id": 5,
+			"name": "👑 Zaman Pertengahan",
+			"description": "Naratif besar tentang negara dan watak-watak dari zaman pertengahan"
+		},
+		{
+			"id": 6,
+			"name": "🎭 Misteri",
+			"description": "Kisah seram yang penuh dengan misteri dan ketegangan"
 		}
 	]
 }

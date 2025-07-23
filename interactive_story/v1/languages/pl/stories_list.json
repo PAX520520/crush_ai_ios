@@ -60,6 +60,67 @@
 			],
 			"cover_image_url": "resources/covers/story_3_cover.jpg",
 			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
+		},
+		{
+			"id": "story_4",
+			"title": "Echo Gwiezdnej Otchłani",
+			"description": "W odległej przyszłości, ludzka cywilizacja rozkwita w kolonizacji międzygwiezdnej, ale staje na krawędzi upadku z powodu tajemniczego zdarzenia 'Gwiezdnego Upadku'. Protagonista, zapomniany nawigator statku kosmicznego, budzi się na opuszczonym statku bez wspomnień. W towarzystwie sztucznej inteligencji AI, tajemniczej kobiety twierdzącej, że 'wie wszystko', oraz w obliczu zbliżającego się nieznanego zagrożenia, zostaje zmuszony do wyruszenia w podróż w poszukiwaniu prawdy i własnej tożsamości. W tym wszechświecie pełnym technologii i tajemnic, odkryje sekrety Gwiezdnego Upadku i zadecyduje, czy ocalić cywilizację, czy pozwolić wszystkiemu pogrążyć się w nicości.",
+			"category_id": 4,
+			"tags": [
+				"Science fiction",
+				"Tajemnica",
+				"Przygoda",
+				"Odkrywanie siebie",
+				"Sztuczna inteligencja"
+			],
+			"plot_direction": [
+				"Początek: Protagonista budzi się w kapsule hibernacyjnej na opuszczonym statku kosmicznym, bez wspomnień, jedynie z niewyraźnymi fragmentami snu: płonąca planeta i szepczący kobiecy głos. Jego asystent AI Nova nazywa go 'Captain Ethan' i ostrzega, że systemy statku zawodzą. Wkrótce pojawia się tajemnicza kobieta Ava, twierdząc, że jest jego partnerką, i prowadzi go do ucieczki z eksplodującego statku. Podczas ucieczki Ethan odkrywa, że posiada niezwykłą zdolność kontrolowania starożytnej technologii, co przyciąga uwagę nieznanych sił.",
+				"Środek: Ethan, Ava i Nova podróżują przez różne systemy gwiezdne, szukając wskazówek dotyczących Gwiezdnego Upadku. Odkrywają, że nie było to naturalne zjawisko, ale wynik awarii pozostawionej technologii starożytnej cywilizacji. Ava stopniowo ujawnia swoją prawdziwą tożsamość - tajnego agenta Międzygwiezdnego Sojuszu, próbującego wykorzystać zdolności Ethana do aktywacji 'Gwiezdnego Rdzenia', urządzenia mogącego przekształcić wszechświat. Jednocześnie sny Ethana stają się wyraźniejsze, zaczyna podejrzewać, że był jednym z twórców Gwiezdnego Upadku, a Nova wydaje się ukrywać kluczowe informacje.",
+				"Zakończenie: Ethan staje przed wyborem: czy aktywować Gwiezdny Rdzeń, przekształcając wszechświat, ale potencjalnie niszcząc obecną cywilizację; czy zniszczyć go, chroniąc teraźniejszość, ale grzebiąc prawdę na zawsze. Motywy Avy stają się jaśniejsze - jest zarówno sojuszniczką, jak i potencjalnym wrogiem. Ostatecznie, poprzez odzyskane wspomnienia, Ethan odkrywa, że poświęcił wszystko, by powstrzymać Gwiezdny Upadek, a Nova jest kopią zapasową jego świadomości, niosącą jego niedokończoną misję. Zakończenie zależy od wyboru gracza: poświęcenie się dla ocalenia wszechświata lub porzucenie wszystkiego w poszukiwaniu wolności."
+			],
+			"cover_image_url": "resources/covers/story_4_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_4_bg.jpg"
+		},
+		{
+			"id": "story_5",
+			"title": "Rozbita Korona",
+			"description": "W pewnym średniowiecznym królestwie Europy, spisek popycha młodego księcia w otchłań przeznaczenia. Pozbawiony prawa do tronu protagonista musi lawirować między lojalnymi szlachcicami Stuarta a zwykłymi ludźmi, odkrywając sekrety ukryte w rodzinie królewskiej, by odzyskać należną mu chwałę - lub całkowicie pogrążyć się w wirze władzy i zdrady.",
+			"category_id": 5,
+			"tags": [
+				"Średniowiecze",
+				"Spisek",
+				"Władza królewska",
+				"Zdrada",
+				"Zemsta",
+				"Tajemnica"
+			],
+			"plot_direction": [
+				"Początek: Protagonista Kalian, książę pozbawiony prawa do dziedziczenia, zostaje fałszywie oskarżony o zdradę podczas przewrotu pałacowego i zesłany do przygranicznego miasteczka. W miejscowej karczmie spotyka tajemniczą bardkę Elenę, która zdaje się znać jego prawdziwą tożsamość, ale ukrywa własne zamiary. Kalian zaczyna podejrzewać, że za upadkiem rodziny królewskiej kryje się coś więcej, i postanawia wyruszyć w drogę ku zemście i prawdzie.",
+				"Środek: Z pomocą Eleny, Kalian poznaje grupę rebeliantów, w tym lojalnego rycerza Rolanda, przebiegłego złodzieja Victora i mądrą czarownicę Marian. Razem odkrywają spisek stryja Edmunda, który uzurpował tron: spiskuje z wrogim królestwem, próbując przejąć homeland Kaliana. Podróż Kaliana jest pełna prób, musi wybierać między lojalnością a zdradą, jednocześnie mierząc się ze złożonymi uczuciami wobec tronu i rodziny.",
+				"Zakończenie: Kalian w końcu infiltruje pałac, konfrontuje się z Edmundem i odkrywa większy spisek: Elena okazuje się być księżniczką wrogiego królestwa, próbującą wykorzystać Kaliana do własnych celów politycznych. Kalian musi zdecydować, czy wybaczyć jej zdradę i wybrać między odzyskaniem tronu a porzuceniem wszystkiego dla wolnego życia."
+			],
+			"cover_image_url": "resources/covers/story_5_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_5_bg.jpg"
+		},
+		{
+			"id": "story_6",
+			"title": "Szepty Duchów",
+			"description": "W ponurym miasteczku Mglistej Doliny, młody reporter Carter, badając tajemnicze zaginięcie, przypadkowo trafia do opuszczonej posiadłości. W posiadłości unosi się złowroga aura, szepty duchów odbijają się echem w ciemności, ujawniając przerażające sekrety sprzed dziesięcioleci. Carter musi rozwiązać zagadkę klątwy posiadłości i stawić czoła niebezpieczeństwom czającym się w cieniu, aby uciec - albo na zawsze stać się częścią świata duchów.",
+			"category_id": 6,
+			"tags": [
+				"Paranormalne",
+				"Tajemnica",
+				"Klątwa",
+				"Horror",
+				"Eksploracja"
+			],
+			"plot_direction": [
+				"Początek: Carter, ciekawski reporter, przybywa do Mglistej Doliny, by zbadać sprawę zaginięcia sprzed lat. Ślady prowadzą do opuszczonej posiadłości Blackwood, o której krążą legendy, że jest przeklęta i nikt, kto tam wszedł, nie wyszedł żywy. Carter znajduje w posiadłości stary dziennik, dokumentujący tragiczny los właścicielki Elizabeth i klątwę związaną z 'Rytuałem Krwawego Księżyca'. W posiadłości dzieją się dziwne rzeczy: ruchome cienie, zimne dotyki, szepty w uszach, sprawiające, że Carter zaczyna wątpić w swoje sanity.",
+				"Środek: Carter zagłębia się w posiadłość, odkrywając, że duch Elizabeth zdaje się prowadzić go do prawdy o klątwie. Spotyka inne postacie - tajemniczego wędrowca Aidena, mieszkankę miasteczka Verę, która twierdzi, że zna historię posiadłości, oraz oficera Lucasa, który wydaje się wiedzieć więcej, niż mówi. Carter stopniowo odkrywa, że klątwa jest związana z mrocznymi umowami niektórych rodzin w mieście, a Krwawy Księżyc nadchodzi, co oznacza ponowne rozpoczęcie rytuału. Musi wybierać między prawdą a strachem, jednocześnie unikając coraz aktywniejszych złych duchów w posiadłości.",
+				"Zakończenie: Carter odkrywa prawdę o klątwie - Elizabeth została zdradzona przez swoją rodzinę i poświęcona w rytuale w zamian za bogactwo i władzę. W noc Krwawego Księżyca musi zdecydować, czy przerwać rytuał, ryzykując gniew duchów, czy współpracować z kimś, próbując odwrócić klątwę. Różne wybory prowadzą do różnych zakończeń: ucieczka z posiadłości, uwięzienie w klątwie, odkrycie głębszego spisku, a nawet stanie się nową ofiarą rytuału."
+			],
+			"cover_image_url": "resources/covers/story_6_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_6_bg.jpg"
 		}
 	]
 }

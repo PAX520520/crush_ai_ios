@@ -60,6 +60,67 @@
 			],
 			"cover_image_url": "resources/covers/story_3_cover.jpg",
 			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
+		},
+		{
+			"id": "story_4",
+			"title": "Echo des Sternenabgrunds",
+			"description": "In ferner Zukunft floriert die menschliche Zivilisation in interstellaren Kolonien, steht aber durch ein mysteriöses 'Sternfall'-Ereignis am Rande des Zusammenbruchs. Der Protagonist, ein vergessener Raumschiffnavigator, erwacht auf einem verlassenen Raumschiff ohne Erinnerungen. Begleitet von einer KI-Assistentin, einer mysteriösen Frau, die behauptet, 'alles zu wissen', und bedroht von unbekannten Gefahren, begibt er sich auf eine Reise zur Wahrheitsfindung und Selbstentdeckung. In diesem Universum voller Technologie und Mysterien muss er das Geheimnis des Sternfalls lüften und entscheiden, ob er die Zivilisation rettet oder alles der Leere überlässt.",
+			"category_id": 4,
+			"tags": [
+				"Science-Fiction",
+				"Mystery",
+				"Abenteuer",
+				"Selbstfindung",
+				"Künstliche Intelligenz"
+			],
+			"plot_direction": [
+				"Anfang: Der Protagonist erwacht in einer Schlafkapsel eines verlassenen Raumschiffs ohne Erinnerungen, nur mit vagen Traumfragmenten: ein brennender Planet und eine flüsternde Frauenstimme. Seine KI-Assistentin Nova nennt ihn 'Captain Ethan' und warnt vor dem Zusammenbruch der Schiffssysteme. Bald erscheint eine mysteriöse Frau namens Ava, die behauptet, seine Partnerin zu sein, und führt ihn aus dem explodierenden Schiff. Während der Flucht entdeckt Ethan, dass er über außergewöhnliche Fähigkeiten verfügt, alte Technologie zu kontrollieren, was jedoch unbekannte Mächte auf seine Spur bringt.",
+				"Mittelteil: Ethan, Ava und Nova durchqueren mehrere Sternensysteme auf der Suche nach Hinweisen zum Sternfall-Ereignis. Sie entdecken, dass der Sternfall kein natürliches Phänomen war, sondern durch außer Kontrolle geratene Technologie einer alten Zivilisation verursacht wurde. Ava enthüllt allmählich ihre wahre Identität - eine Geheimagentin der Sternenallianz, die Ethans Fähigkeiten nutzen will, um den 'Sternenkern' zu aktivieren, ein Gerät zur Neugestaltung des Universums. Währenddessen werden Ethans Träume klarer, und er beginnt zu vermuten, dass er einer der Schöpfer des Sternfalls war, während Nova wichtige Informationen zu verbergen scheint.",
+				"Ende: Ethan steht vor der Entscheidung: den Sternenkern zu aktivieren und das Universum neu zu gestalten, dabei aber möglicherweise die existierende Zivilisation auszulöschen; oder ihn zu zerstören und den Status quo zu bewahren, während die Wahrheit für immer verborgen bleibt. Avas Motive werden klarer - sie ist sowohl Verbündete als auch potenzielle Feindin. Schließlich erinnert sich Ethan, dass er einst alles opferte, um den Sternfall zu verhindern, und Nova eine Kopie seines Bewusstseins ist, die seine unerfüllte Mission trägt. Das Ende hängt von der Wahl des Spielers ab: Selbstopferung zur Rettung des Universums oder Aufgabe allem für die Freiheit."
+			],
+			"cover_image_url": "resources/covers/story_4_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_4_bg.jpg"
+		},
+		{
+			"id": "story_5",
+			"title": "Die Zerbrochene Krone",
+			"description": "In einem mittelalterlichen Königreich Europas stürzt eine Verschwörung den jungen Prinzen in einen Abgrund des Schicksals. Der seiner Thronfolge beraubte Protagonist muss zwischen loyalen Stuart-Adeligen und dem gemeinen Volk lavieren, die im königlichen Hof verborgenen Geheimnisse aufdecken und seine Ehre wiederfinden - oder im Strudel von Macht und Verrat untergehen.",
+			"category_id": 5,
+			"tags": [
+				"Mittelalter",
+				"Intrige",
+				"Königsmacht",
+				"Verrat",
+				"Rache",
+				"Mysterium"
+			],
+			"plot_direction": [
+				"Anfang: Der Protagonist Calian, ein enterbter Prinz, wird bei einem Hofputsch als Verräter gebrandmarkt und in eine Grenzstadt verbannt. In der örtlichen Taverne trifft er auf die mysteriöse Bardin Elena, die seine wahre Identität zu kennen scheint, aber ihre eigenen Absichten verbirgt. Calian beginnt am offiziellen Narrativ des königlichen Niedergangs zu zweifeln und beschließt, einen Weg der Rache und Wahrheitsfindung einzuschlagen.",
+				"Mittelteil: Mit Elenas Hilfe schließt sich Calian einer Gruppe von Rebellen an, darunter der loyale Ritter Roland, der verschlagene Dieb Victor und die weise Hexe Marian. Gemeinsam decken sie die Verschwörung seines thronräuberischen Onkels Edmund auf: Er paktiert mit einem feindlichen Königreich, um Calians Heimat zu annektieren. Calians Reise ist voller Prüfungen, er muss zwischen Loyalität und Verrat wählen und sich gleichzeitig seinen komplexen Gefühlen gegenüber Thron und Familie stellen.",
+				"Ende: Calian dringt schließlich in den Palast ein, konfrontiert Edmund und deckt eine noch größere Verschwörung auf: Elena ist in Wahrheit eine Prinzessin des feindlichen Königreichs, die Calian für ihre politischen Ziele ausnutzen wollte. Calian muss entscheiden, ob er ihren Verrat verzeiht und ob er den Thron zurückerobert oder alles aufgibt, um ein Leben in Freiheit zu führen."
+			],
+			"cover_image_url": "resources/covers/story_5_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_5_bg.jpg"
+		},
+		{
+			"id": "story_6",
+			"title": "Geisterflüstern",
+			"description": "In der düsteren Nebeltalstadt stößt der junge Reporter Carter bei der Untersuchung eines mysteriösen Vermisstenfalles zufällig auf ein verlassenes Herrenhaus. Im Anwesen herrscht eine unheilvolle Atmosphäre, Geisterflüstern hallt durch die Dunkelheit und enthüllt schreckliche Geheimnisse aus Jahrzehnten. Carter muss das Rätsel des Fluches lösen und sich den in den Schatten lauernden Gefahren stellen, um zu überleben - oder für immer Teil der Geisterwelt zu werden.",
+			"category_id": 6,
+			"tags": [
+				"Übernatürlich",
+				"Mystery",
+				"Fluch",
+				"Horror",
+				"Abenteuer"
+			],
+			"plot_direction": [
+				"Anfang: Carter, ein neugieriger Reporter, kommt nach Nebeltal, um einen Jahre zurückliegenden Vermisstenfall zu untersuchen. Die Spuren führen zum verlassenen Blackwood-Anwesen, das der Legende nach verflucht ist - niemand, der es betritt, kommt lebend heraus. Carter findet im Herrenhaus ein altes Tagebuch, das das tragische Schicksal der Hausherrin Elizabeth und einen mit dem 'Blutritual' verbundenen Fluch dokumentiert. Seltsame Vorkommnisse häufen sich: bewegende Schatten, eisige Berührungen und Flüstern lassen Carter an seinem Verstand zweifeln.",
+				"Mittelteil: Carter dringt tiefer ins Anwesen vor und entdeckt, dass Elizabeths Geist ihn zur Wahrheit über den Fluch zu führen scheint. Er trifft auf weitere Charaktere - den mysteriösen Wanderer Aiden, die Dorfbewohnerin Vera, die behauptet, die Geschichte des Anwesens zu kennen, und den Polizisten Lucas, der mehr zu wissen scheint, als er preisgibt. Carter erkennt allmählich, dass der Fluch mit dunklen Geschäften bestimmter Familien im Dorf zusammenhängt. Der Blutmond naht, und das Ritual wird sich wiederholen. Er muss zwischen Wahrheit und Furcht wählen, während er den zunehmend aktiven bösen Geistern im Anwesen ausweicht.",
+				"Ende: Carter enthüllt die Wahrheit über den Fluch - Elizabeth wurde von ihrer Familie verraten und dem Ritual geopfert, um Reichtum und Macht zu erlangen. In der Nacht des Blutmonds muss er entscheiden: das Ritual zu stören und den Zorn der bösen Geister zu riskieren oder mit jemandem zusammenzuarbeiten, um den Fluch durch das Ritual umzukehren. Seine Entscheidungen führen zu verschiedenen Ausgängen: Flucht aus dem Anwesen, Gefangenschaft im Fluch, Entdeckung tieferer Verschwörungen oder gar zum neuen Opfer des Rituals zu werden."
+			],
+			"cover_image_url": "resources/covers/story_6_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_6_bg.jpg"
 		}
 	]
 }

@@ -1,0 +1,70 @@
+{
+	"story_id": "story_4",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "En hukommelsesløs rumskibsnavigator, hvis rigtige navn er ukendt. Han var engang en legendarisk figur i rumflåden og kan være en af skaberne af stjernefaldshændelsen.",
+			"avatar_url": "/resources/characters/story_4/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Rolig",
+				"Beslutsom",
+				"Fuld af tvivl",
+				"Dedikeret til sandheden"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Ava",
+			"description": "En mystisk agent, der hævder at være Ethans partner, men er faktisk et hemmeligt medlem af Den Interstellare Alliance med missionen om at erhverve stjernekerne. Hendes motiver er komplekse, med både loyalitet og personlige interesser.",
+			"avatar_url": "/resources/characters/story_4/ava.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"Klog",
+				"Snu",
+				"God til at foregive",
+				"Indre konflikt"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Nova",
+			"description": "Ethans AI-assistent, der eksisterer i rumskibets system og hans implantater, med en intelligens tæt på menneskets. Tilsyneladende loyal, men synes at skjule hemmeligheder om Ethans fortid.",
+			"avatar_url": "/resources/characters/story_4/nova.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"Rolig",
+				"Logisk",
+				"Viser lejlighedsvis menneskelig omsorg"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Kael",
+			"description": "En deserteret rumlejesoldat, der jager Ethan for dusøren på stjernekerne, men er træt af korruptionen i Den Interstellare Alliance. Kan være en potentiel allieret.",
+			"avatar_url": "/resources/characters/story_4/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Barsk",
+				"Resolut",
+				"Tilsyneladende hård, men har sin egen moral"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Tomrummets hvisken"
+		}
+	]
+}

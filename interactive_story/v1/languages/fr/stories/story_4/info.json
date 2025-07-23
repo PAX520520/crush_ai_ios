@@ -1,0 +1,70 @@
+{
+	"story_id": "story_4",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "Un navigateur amnésique de vaisseau spatial, dont le vrai nom est inconnu. Autrefois une figure légendaire de la flotte stellaire, il pourrait être l'un des créateurs de l'événement de la chute des étoiles.",
+			"avatar_url": "/resources/characters/story_4/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Calme",
+				"Déterminé",
+				"Plein de doutes",
+				"Obsédé par la vérité"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Ava",
+			"description": "Une agente mystérieuse qui prétend être la partenaire d'Ethan, mais qui est en réalité un membre secret de l'Alliance Stellaire. Sa mission est d'obtenir le noyau stellaire. Ses motivations sont complexes, mêlant loyauté et intérêts personnels.",
+			"avatar_url": "/resources/characters/story_4/ava.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"Intelligente",
+				"Rusée",
+				"Habile à la dissimulation",
+				"Intérieurement conflictuelle"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Nova",
+			"description": "L'assistante IA intelligente d'Ethan, existant dans le système du vaisseau spatial et ses implants, possédant une intelligence proche de l'humain. Apparemment loyale, mais semble cacher des secrets liés au passé d'Ethan.",
+			"avatar_url": "/resources/characters/story_4/nova.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"Calme",
+				"Logique rigoureuse",
+				"Montre occasionnellement des signes d'humanité"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Kael",
+			"description": "Un mercenaire stellaire déserteur qui poursuit Ethan pour la prime sur le noyau stellaire, mais qui est las de la corruption de l'Alliance Stellaire. Pourrait être un allié potentiel.",
+			"avatar_url": "/resources/characters/story_4/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Rugueux",
+				"Décisif",
+				"Dur en apparence mais avec son propre code moral"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Les murmures du vide"
+		}
+	]
+}

@@ -60,6 +60,67 @@
 			],
 			"cover_image_url": "resources/covers/story_3_cover.jpg",
 			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
+		},
+		{
+			"id": "story_4",
+			"title": "Ecos do Abismo Estelar",
+			"description": "Em um futuro distante, a civilização humana prospera na colonização interestelar, mas está à beira do colapso devido a um misterioso evento 'Queda Estelar'. O protagonista, um navegador estelar esquecido, acorda em uma nave abandonada sem memória. Acompanhado por uma assistente AI inteligente, uma misteriosa mulher que afirma 'saber tudo' e ameaças desconhecidas se aproximando, ele é forçado a embarcar em uma jornada em busca da verdade e autodescoberta. Neste universo cheio de tecnologia e mistério, ele descobrirá o segredo da Queda Estelar e decidirá entre salvar a civilização ou deixar tudo cair no vazio.",
+			"category_id": 4,
+			"tags": [
+				"Ficção Científica",
+				"Mistério",
+				"Aventura",
+				"Autodescoberta",
+				"Inteligência Artificial"
+			],
+			"plot_direction": [
+				"O protagonista acorda em uma câmara criogênica de uma nave abandonada, sem memórias, apenas com fragmentos nebulosos de sonhos: um planeta em chamas e uma voz feminina sussurrante. Sua assistente AI Nova o chama de 'Captain Ethan' e avisa que os sistemas da nave estão entrando em colapso. Logo, uma misteriosa mulher chamada Ava aparece, alegando ser sua parceira, e o guia para escapar da nave prestes a explodir. Durante a fuga, Ethan descobre que possui uma habilidade anormal de controlar tecnologia antiga, mas isso também atrai perseguidores desconhecidos.",
+				"Ethan, Ava e Nova viajam por vários sistemas estelares, procurando pistas sobre o evento da Queda Estelar. Eles descobrem que não foi um fenômeno natural, mas resultado de uma antiga tecnologia civilizacional fora de controle. Ava gradualmente revela sua verdadeira identidade - uma agente secreta da Aliança Interestelar, tentando usar as habilidades de Ethan para ativar o 'Núcleo Estelar', um dispositivo capaz de remodelar o universo. Enquanto isso, os sonhos de Ethan se tornam mais claros, e ele começa a suspeitar que foi um dos criadores da Queda Estelar, enquanto Nova parece esconder informações cruciais.",
+				"Ethan enfrenta uma escolha: ativar o Núcleo Estelar para remodelar o universo, possivelmente apagando a civilização existente; ou destruí-lo, preservando o presente mas enterrando a verdade para sempre. As motivações de Ava se tornam claras - ela é tanto aliada quanto possível inimiga. No final, através de suas memórias recuperadas, Ethan descobre que sacrificou tudo para impedir a Queda Estelar, e Nova é um backup de sua consciência, carregando sua missão inacabada. O final depende da escolha do jogador: sacrificar-se para salvar o universo ou abandonar tudo em busca da liberdade."
+			],
+			"cover_image_url": "resources/covers/story_4_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_4_bg.jpg"
+		},
+		{
+			"id": "story_5",
+			"title": "A Coroa Quebrada",
+			"description": "Em um reino da Europa medieval, uma conspiração empurra um jovem príncipe para o abismo do destino. Privado de seus direitos de sucessão, o protagonista deve navegar entre nobres leais a Stuart e plebeus, descobrindo segredos ocultos na família real, recuperando sua honra - ou afundando completamente no turbilhão de poder e traição.",
+			"category_id": 5,
+			"tags": [
+				"Medieval",
+				"Conspiração",
+				"Realeza",
+				"Traição",
+				"Vingança",
+				"Mistério"
+			],
+			"plot_direction": [
+				"O protagonista Callian, um príncipe privado de seus direitos de sucessão, é falsamente acusado de traição durante um golpe na corte e exilado para uma cidade fronteiriça. Em uma taverna local, ele encontra uma misteriosa barda chamada Elena, que parece conhecer sua verdadeira identidade mas esconde seus próprios motivos. Callian começa a suspeitar que há mais por trás do declínio da família real e decide embarcar em uma jornada de vingança e verdade.",
+				"Com a ajuda de Elena, Callian conhece um grupo de rebeldes, incluindo o leal cavaleiro Roland, o astuto ladrão Victor e a sábia bruxa Marian. Juntos, eles descobrem a conspiração de seu tio usurpador Edmund: ele está conspirando com um reino rival para anexar a pátria de Callian. A jornada de Callian é cheia de provações, onde ele deve escolher entre lealdade e traição, enquanto lida com sentimentos complexos sobre o trono e a família.",
+				"Callian finalmente se infiltra no palácio para confrontar Edmund, descobrindo uma conspiração ainda maior: Elena é na verdade uma princesa do reino inimigo, tentando usar Callian para seus próprios fins políticos. Callian deve decidir se perdoa sua traição e escolher entre recuperar o trono ou abandonar tudo em busca de uma vida livre."
+			],
+			"cover_image_url": "resources/covers/story_5_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_5_bg.jpg"
+		},
+		{
+			"id": "story_6",
+			"title": "Sussurros Fantasmagóricos",
+			"description": "Na sombria cidade de Vale da Névoa, um jovem repórter chamado Carter, investigando um misterioso caso de desaparecimento, acidentalmente entra em uma mansão abandonada. A mansão está impregnada com uma aura sinistra, sussurros fantasmagóricos ecoam na escuridão, revelando segredos horríveis de décadas atrás. Carter deve desvendar o mistério da maldição da mansão e enfrentar os perigos ocultos nas sombras para escapar - ou se tornar permanentemente parte dos fantasmas.",
+			"category_id": 6,
+			"tags": [
+				"Sobrenatural",
+				"Mistério",
+				"Maldição",
+				"Terror",
+				"Aventura"
+			],
+			"plot_direction": [
+				"Carter, um repórter curioso, chega a Vale da Névoa para investigar casos de desaparecimento de anos atrás. As pistas o levam à abandonada Mansão Blackwood, que dizem ser amaldiçoada - ninguém que entra consegue sair vivo. Dentro da mansão, Carter encontra um antigo diário que documenta o trágico destino da proprietária Elizabeth e uma maldição relacionada ao 'Ritual da Lua de Sangue'. Eventos estranhos começam a acontecer na mansão: sombras em movimento, toques frios, sussurros no ouvido, fazendo Carter questionar sua sanidade.",
+				"Carter explora mais fundo na mansão e descobre que o fantasma de Elizabeth parece estar guiando-o para revelar a verdade sobre a maldição. Ele encontra outros personagens - o misterioso andarilho Aiden, Vera, uma moradora local que alega conhecer a história da mansão, e o oficial Lucas, que parece saber mais do que revela. Carter gradualmente descobre que a maldição está ligada a negócios sombrios com certas famílias da cidade, e com a Lua de Sangue se aproximando, o ritual será realizado novamente. Ele deve escolher entre a verdade e o medo, enquanto evita os espíritos cada vez mais ativos na mansão.",
+				"Carter revela a verdade sobre a maldição - Elizabeth foi traída por sua família e sacrificada em um ritual em troca de riqueza e poder. Na noite da Lua de Sangue, ele deve decidir se interrompe o ritual, arriscando a ira dos espíritos, ou colabora com alguém para tentar reverter a maldição. Diferentes escolhas levarão Carter a escapar da mansão, ficar preso na maldição, descobrir conspirações mais profundas ou até mesmo se tornar o novo sacrifício do ritual."
+			],
+			"cover_image_url": "resources/covers/story_6_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_6_bg.jpg"
 		}
 	]
 }

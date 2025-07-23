@@ -1,0 +1,70 @@
+{
+	"story_id": "story_4",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "Muistinsa menettänyt tähtialuksen navigaattori, jonka alkuperäinen nimi on tuntematon. Hän oli aikoinaan tähtilaivaston legendaarinen hahmo ja mahdollisesti yksi tähtien tuhoutumisen aiheuttajista.",
+			"avatar_url": "/resources/characters/story_4/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Rauhallinen",
+				"Päättäväinen",
+				"Epäilevä",
+				"Totuuteen sitoutunut"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Ava",
+			"description": "Salaperäinen agentti, joka väittää olevansa Ethanin kumppani, mutta on todellisuudessa Galaktisen liiton salainen jäsen, jonka tehtävänä on hankkia tähtiydin. Hänen motiivinsa ovat monimutkaiset, sisältäen sekä uskollisuutta että itsekkäitä pyrkimyksiä.",
+			"avatar_url": "/resources/characters/story_4/ava.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"Älykäs",
+				"Ovela",
+				"Taitava naamioitumaan",
+				"Sisäisesti ristiriitainen"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Nova",
+			"description": "Ethanin älykäs AI-avustaja, joka toimii sekä tähtialuksen järjestelmässä että hänen implanteissaan. Omaa lähes ihmismäisen älykkyyden. Vaikuttaa uskolliselta, mutta näyttää piilottelevan salaisuuksia Ethanin menneisyydestä.",
+			"avatar_url": "/resources/characters/story_4/nova.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"Rauhallinen",
+				"Looginen",
+				"Osoittaa ajoittain inhimillistä huolenpitoa"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Kael",
+			"description": "Loikannut tähtipalkkasoturi, joka jahtaa Ethania tähtiydinpalkkion vuoksi, mutta on kyllästynyt Galaktisen liiton korruptioon. Saattaa olla mahdollinen liittolainen.",
+			"avatar_url": "/resources/characters/story_4/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Karski",
+				"Päättäväinen",
+				"Ulkoisesti kylmä mutta omaa oman moraalinsa"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Tyhjyyden kuiskaus"
+		}
+	]
+}

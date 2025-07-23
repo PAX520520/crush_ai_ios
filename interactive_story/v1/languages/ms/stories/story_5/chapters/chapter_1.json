@@ -1,0 +1,113 @@
+{
+	"title": "Perjalanan Pulang Si Buangan",
+	"summary": "Calian terbangun di sebuah kedai di bandar sempadan, menyedari bahawa dia telah dilucutkan takhta dan dibuang negeri. Dia bertemu dengan penyair misteri Elina, yang seolah-olah mengetahui identitinya, tetapi tidak memberikan penjelasan penuh. Calian menghadapi pilihan: mempercayai Elina dan mengikutinya mencari kebenaran; bertindak sendirian dan menyusup kembali ke ibu kota; atau tinggal di bandar kecil, menyembunyikan identitinya.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Malam gelap pekat, bau bir dan peluh memenuhi kedai minuman di bandar sempadan. Cahaya lilin yang malap menari-nari di atas meja kayu, menerangi wajah yang letih tetapi tampan. Calian Valencia, bekas putera yang kini hanya seorang pengembara berselubung jubah lusuh, duduk di sudut, matanya kosong menatap gelas kosong di tangannya."
+		},
+		{
+			"type": "narrator",
+			"content": "Perkara terakhir yang diingatnya ialah jamuan di istana, di tengah-tengah pesta, senyuman Pak Cik Edmund yang sedikit licik. Kemudian kegelapan, diikuti dengan hukuman buang negeri. Dia tidak tahu mengapa dia dituduh pengkhianat, atau bagaimana dia sampai ke bandar terpencil ini."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(berbisik kepada diri sendiri, menggenggam gelas) Siapakah aku? Mengapa aku di sini?"
+		},
+		{
+			"type": "narrator",
+			"content": "Pintu kedai terbuka, angin sejuk membawa titisan hujan masuk. Satu bayangan melangkah masuk, mengenakan jubah hijau, memeluk sebuah harpa. Dia membuka tudungnya, mendedahkan rambut keemasan yang bersinar seperti cahaya bulan. Kedatangannya menyebabkan kedai menjadi senyap, semua mata tertumpu padanya."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(berjalan ke arah Calian, suaranya merdu seperti air mengalir) Kamu kelihatan seperti seseorang yang telah kehilangan jiwanya, orang asing."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(mengangkat kepala dengan waspada, pandangan tajam) Kamu kenal saya?"
+		},
+		{
+			"type": "narrator",
+			"content": "Senyumannya mengandungi sedikit ejekan, seolah-olah dia telah mengetahui rahasianya. Dia duduk berhadapan dengan Calian, memetik harpa, tali-talinya mengeluarkan bunyi perlahan."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(berkata perlahan, matanya menunjukkan kelicikan) Mungkin. Calian Valencia, bintang yang hilang dari Kerajaan Valencia, betul?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(berdiri tiba-tiba, tangan di hulu pedang) Siapa kamu sebenarnya? Bagaimana kamu tahu nama saya?"
+		},
+		{
+			"type": "narrator",
+			"content": "Orang-orang di kedai mula berbisik-bisik, Calian merasakan tekanan yang tidak kelihatan. Tangannya bergetar sedikit, bukan kerana takut, tetapi kerana nama yang sudah lama tidak didengar itu membangkitkan kemarahan dalam hatinya."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(mengangkat kedua-dua tangan, menunjukkan tiada niat jahat) Tenang, Yang Mulia. Nama saya Elina, seorang penyair pengembara. Saya tahu banyak perkara, contohnya... bagaimana Pak Cik Edmund merampas takhta."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(suara rendah, penuh syak wasangka) Kamu mahu saya percaya pada kamu? Seorang wanita yang baru dikenali?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(tersenyum, nada mencabar) Saya tidak memaksa kepercayaan, tetapi saya boleh membawa kamu kepada kebenaran. Atau, kamu boleh terus minum di sini sehingga seseorang mengenali kamu."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian menatapnya, cuba memahami mata biru itu. Nadanya ikhlas, tetapi senyuman itu sukar ditafsirkan. Hatinya bergelut: dia mungkin sekutu, atau mungkin perangkap."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(duduk perlahan-lahan, suara sejuk) Jika kamu menipu saya, kamu akan menyesal."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(ketawa kecil, memetik tali harpa) Urusan yang adil, Yang Mulia. Kita akan bertolak esok pagi ke Hutan Hitam. Seseorang menunggu kamu di sana."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian merasakan kesejukan. Hutan Hitam, tempat larangan yang penuh dengan legenda, apakah yang tersembunyi di sana? Identiti dan tujuan Elina masih misteri, tetapi dia tiada pilihan lain."
+		},
+		{
+			"type": "narrator",
+			"content": "Malam semakin larut, keriuhan kedai beransur reda. Calian memandang ribut di luar tingkap, secercah harapan menyala dalam hatinya—atau mungkin, bahaya yang lebih besar."
+		}
+	],
+	"choice": {
+		"title": "Pilihan Anda",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Percaya kepada Elina dan ikut dia ke Hutan Hitam."
+			},
+			{
+				"content": "Tolak Elina dan menyusup kembali ke ibu kota sendirian untuk mencari kebenaran."
+			},
+			{
+				"content": "Tinggal di bandar kecil, menyembunyikan identiti dan menyiasat secara senyap."
+			}
+		]
+	}
+}

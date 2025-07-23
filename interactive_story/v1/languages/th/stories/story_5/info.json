@@ -1,0 +1,84 @@
+{
+	"story_id": "story_5",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Calian",
+			"description": "เจ้าชายหนุ่มผู้ถูกพรากบัลลังก์ มีชื่อเดิมว่า คาเลียน วาเลนเซีย ผู้แบกรับภารกิจแห่งการแก้แค้นและการไถ่บาป",
+			"avatar_url": "/resources/characters/story_5/calian.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 22,
+			"personality": [
+				"เข้มแข็ง",
+				"ฉลาด",
+				"ขัดแย้งในใจ",
+				"กระหายความยุติธรรมแต่สงสัยในธรรมชาติของมนุษย์"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Elina",
+			"description": "กวีเร่ร่อนผู้ลึกลับ แท้จริงแล้วเป็นเจ้าหญิงจากประเทศศัตรู เชี่ยวชาญการปลอมตัวและการควบคุมจิตใจผู้อื่น แต่ในใจยังคงมีความหวังเล็กๆ ในสันติภาพ",
+			"avatar_url": "/resources/characters/story_5/elina.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 20,
+			"personality": [
+				"เฉลียวฉลาด",
+				"มีเสน่ห์",
+				"ซับซ้อน",
+				"เก่งในการซ่อนความรู้สึกที่แท้จริง"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Roland",
+			"description": "อัศวินผู้ซื่อสัตย์ อดีตผู้พิทักษ์ของคาเลียน จงรักภักดีต่อเจ้าชายอย่างสุดหัวใจ",
+			"avatar_url": "/resources/characters/story_5/roland.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"ซื่อตรง",
+				"กล้าหาญ",
+				"ดื้อรั้น"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Victor",
+			"description": "โจรเจ้าเล่ห์ผู้เชี่ยวชาญการขโมยและรวบรวมข้อมูล รู้สึกกึ่งๆ กับอุดมคติของคาเลียน",
+			"avatar_url": "/resources/characters/story_5/victor.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 28,
+			"personality": [
+				"ว่องไว",
+				"ไม่จริงจังกับชีวิต",
+				"ความภักดีน่าสงสัย"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Marian",
+			"description": "แม่มดผู้ชาญฉลาด ผู้ครอบครองเวทมนตร์โบราณ อาศัยอยู่ในป่า และรู้ความลับของราชวงศ์",
+			"avatar_url": "/resources/characters/story_5/marian.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 40,
+			"personality": [
+				"ใจเย็น",
+				"ลึกลับ",
+				"มีไหวพริบดี"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "เส้นทางกลับบ้านของผู้ถูกเนรเทศ"
+		}
+	]
+}

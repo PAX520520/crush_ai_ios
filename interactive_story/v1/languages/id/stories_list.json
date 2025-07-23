@@ -60,6 +60,67 @@
 			],
 			"cover_image_url": "resources/covers/story_3_cover.jpg",
 			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
+		},
+		{
+			"id": "story_4",
+			"title": "Gema Kedalaman Bintang",
+			"description": "Di masa depan yang jauh, peradaban manusia berkembang pesat dalam kolonisasi antariksa, namun hampir runtuh karena peristiwa misterius 'Bintang Jatuh'. Protagonis, seorang navigator kapal bintang yang terlupakan, terbangun di kapal yang ditinggalkan dengan ingatan kosong. Dengan asisten AI pintar di sisinya, seorang wanita misterius yang mengaku 'mengetahui segalanya', dan ancaman tak dikenal yang semakin mendekat, dia terpaksa memulai perjalanan mencari kebenaran dan jati diri. Di alam semesta yang penuh teknologi dan misteri ini, dia akan mengungkap rahasia Bintang Jatuh, memutuskan antara menyelamatkan peradaban atau membiarkan segalanya lenyap.",
+			"category_id": 4,
+			"tags": [
+				"Fiksi Ilmiah",
+				"Misteri",
+				"Petualangan",
+				"Penemuan Diri",
+				"Kecerdasan Buatan"
+			],
+			"plot_direction": [
+				"Awal: Protagonis terbangun di pod hibernasi sebuah kapal bintang yang ditinggalkan, tanpa ingatan, hanya dengan potongan mimpi kabur: sebuah planet yang terbakar dan suara bisikan wanita. Asisten AI-nya Nova memanggilnya 'Captain Ethan' dan memperingatkan bahwa sistem kapal sedang runtuh. Segera, seorang wanita misterius bernama Ava muncul, mengaku sebagai rekannya, dan membantunya melarikan diri dari kapal yang akan meledak. Selama pelarian, Ethan menemukan bahwa dia memiliki kemampuan aneh untuk mengendalikan teknologi kuno, namun ini juga mengundang pengejaran dari kekuatan tak dikenal.",
+				"Tengah: Ethan, Ava, dan Nova melintasi berbagai sistem bintang, mencari petunjuk tentang insiden Bintang Jatuh. Mereka menemukan bahwa Bintang Jatuh bukanlah fenomena alami, melainkan akibat dari teknologi peradaban kuno yang tak terkendali. Ava perlahan mengungkap identitas aslinya—seorang agen rahasia dari Aliansi Antariksa yang berusaha menggunakan kemampuan Ethan untuk mengaktifkan 'Inti Bintang', sebuah perangkat yang dapat membentuk ulang alam semesta. Sementara itu, mimpi Ethan semakin jelas, dia mulai curiga bahwa dirinya adalah salah satu pencipta Bintang Jatuh, dan Nova tampaknya menyembunyikan informasi penting.",
+				"Akhir: Ethan menghadapi pilihan: apakah akan mengaktifkan Inti Bintang, membentuk ulang alam semesta namun mungkin menghapus peradaban yang ada; atau menghancurkannya, melindungi status quo tetapi mengubur kebenaran selamanya. Motif Ava menjadi jelas, dia bisa menjadi sekutu sekaligus musuh. Akhirnya, melalui ingatannya yang pulih, Ethan menemukan bahwa dia telah mengorbankan segalanya untuk menghentikan Bintang Jatuh, dan Nova adalah backup kesadarannya, membawa misi yang belum selesai. Akhir cerita tergantung pada pilihan pemain: mengorbankan diri untuk menyelamatkan alam semesta, atau melepaskan segalanya demi kebebasan."
+			],
+			"cover_image_url": "resources/covers/story_4_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_4_bg.jpg"
+		},
+		{
+			"id": "story_5",
+			"title": "Mahkota yang Hancur",
+			"description": "Di sebuah kerajaan di Eropa abad pertengahan, sebuah konspirasi mendorong pangeran muda ke dalam jurang takdir. Setelah kehilangan hak warisnya atas tahta, protagonis harus bermanuver di antara bangsawan Stuart yang setia dan rakyat biasa, mengungkap rahasia tersembunyi dalam keluarga kerajaan, dan menemukan kembali kehormatannya—atau tenggelam sepenuhnya dalam pusaran kekuasaan dan pengkhianatan.",
+			"category_id": 5,
+			"tags": [
+				"Abad Pertengahan",
+				"Konspirasi",
+				"Kekuasaan Kerajaan",
+				"Pengkhianatan",
+				"Balas Dendam",
+				"Misteri"
+			],
+			"plot_direction": [
+				"Awal: Protagonis Callian, seorang pangeran yang kehilangan hak warisnya, difitnah sebagai pengkhianat dalam kudeta istana dan diasingkan ke kota perbatasan. Di sebuah kedai di kota kecil, dia bertemu dengan penyair misterius Elena, yang tampaknya mengetahui identitas asli Callian namun menyembunyikan tujuannya sendiri. Callian mulai mencurigai ada sesuatu di balik kemunduran keluarga kerajaan dan memutuskan untuk memulai perjalanan mencari kebenaran dan pembalasan.",
+				"Tengah: Dengan bantuan Elena, Callian bertemu dengan sekelompok pemberontak, termasuk Roland si ksatria setia, Victor si pencuri licik, dan Marian si penyihir bijak. Bersama-sama mereka mengungkap konspirasi Paman Edmund yang merebut tahta: dia berkolusi dengan kerajaan musuh untuk mencaplok tanah air Callian. Perjalanan Callian penuh dengan cobaan, dia harus memilih antara kesetiaan dan pengkhianatan, sambil menghadapi perasaan kompleks tentang tahta dan keluarga.",
+				"Akhir: Callian akhirnya menyusup ke istana, menghadapi Edmund, dan mengungkap konspirasi yang lebih besar: Elena ternyata adalah putri dari kerajaan musuh yang mencoba menggunakan Callian untuk tujuan politiknya. Callian harus memutuskan apakah akan memaafkan pengkhianatannya dan memilih antara merebut kembali tahta atau melepaskan segalanya demi kehidupan yang bebas."
+			],
+			"cover_image_url": "resources/covers/story_5_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_5_bg.jpg"
+		},
+		{
+			"id": "story_6",
+			"title": "Bisikan Hantu",
+			"description": "Di Kota Kabut yang suram, seorang jurnalis muda Carter, saat menyelidiki kasus hilangnya orang secara misterius, tidak sengaja memasuki sebuah manor yang ditinggalkan. Manor itu dipenuhi aura jahat, bisikan hantu bergema dalam kegelapan, mengungkap rahasia mengerikan dari puluhan tahun yang lalu. Carter harus memecahkan misteri kutukan manor, menghadapi bahaya yang tersembunyi dalam bayangan, untuk bisa melarikan diri—atau selamanya menjadi bagian dari hantu.",
+			"category_id": 6,
+			"tags": [
+				"Supernatural",
+				"Misteri",
+				"Kutukan",
+				"Horor",
+				"Petualangan"
+			],
+			"plot_direction": [
+				"Awal: Carter, seorang jurnalis yang penuh rasa ingin tahu, datang ke Kota Kabut untuk menyelidiki kasus orang hilang bertahun-tahun yang lalu. Petunjuk mengarah ke Manor Blackwood yang ditinggalkan, yang konon dikutuk sehingga siapa pun yang masuk tidak bisa keluar hidup-hidup. Di dalam manor, Carter menemukan buku harian kuno yang mencatat nasib tragis pemilik manor Elizabeth dan kutukan terkait 'Ritual Bulan Darah'. Kejadian aneh mulai terjadi di manor: bayangan yang bergerak, sentuhan dingin, bisikan di telinga, membuat Carter mulai meragukan kewarasannya.",
+				"Tengah: Carter menjelajahi lebih dalam ke manor dan menemukan bahwa hantu Elizabeth tampaknya membimbingnya untuk mengungkap kebenaran kutukan. Dia bertemu karakter lain—Aiden si pengembara misterius, Vera si penduduk kota yang mengaku mengetahui sejarah manor, dan Lucas si petugas polisi yang tampaknya tahu lebih banyak namun tidak jelas. Carter perlahan menemukan bahwa kutukan itu terkait dengan perjanjian gelap beberapa keluarga di kota, dan bulan darah akan segera tiba, ritual akan dimulai kembali. Dia harus memilih antara kebenaran dan ketakutan, sambil menghindari hantu yang semakin aktif di manor.",
+				"Akhir: Carter mengungkap kebenaran kutukan—Elizabeth dikhianati oleh keluarganya, dikorbankan dalam ritual untuk mendapatkan kekayaan dan kekuasaan. Pada malam bulan darah, dia harus memutuskan apakah akan menghancurkan ritual, mengambil risiko membangkitkan kemarahan hantu, atau bekerja sama dengan seseorang, mencoba menggunakan ritual untuk membalikkan kutukan. Pilihan berbeda akan membawa Carter melarikan diri dari manor, terjebak dalam kutukan, atau menemukan konspirasi yang lebih dalam, bahkan menjadi persembahan baru untuk ritual."
+			],
+			"cover_image_url": "resources/covers/story_6_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_6_bg.jpg"
 		}
 	]
 }

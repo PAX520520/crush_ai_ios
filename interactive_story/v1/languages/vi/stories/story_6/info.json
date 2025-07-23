@@ -1,0 +1,87 @@
+{
+	"story_id": "story_6",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Carter",
+			"description": "Một phóng viên trẻ và bướng bỉnh, với phương châm sống là tìm kiếm sự thật. Anh đến Thung lũng Sương mù để điều tra một vụ mất tích, nhưng vô tình bị cuốn vào các sự kiện siêu nhiên.",
+			"avatar_url": "/resources/characters/story_6/carter.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 27,
+			"personality": [
+				"Tò mò",
+				"Can đảm",
+				"Bướng bỉnh",
+				"Tư duy logic mạnh mẽ nhưng hoài nghi về hiện tượng siêu nhiên"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Eliza",
+			"description": "Cựu chủ nhân của dinh thự Blackwood, bị gia đình phản bội cách đây một thế kỷ và trở thành vật tế trong nghi lễ trăng máu. Hồn ma của cô vẫn còn lảng vảng quanh dinh thự, cố gắng phá vỡ lời nguyền thông qua Carter, nhưng động cơ của cô dường như không đơn giản.",
+			"avatar_url": "/resources/characters/story_6/eliza.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"Sầu muộn",
+				"Bí ẩn",
+				"Phức tạp",
+				"Vừa khao khát được giúp đỡ, vừa mang trong mình ngọn lửa trả thù"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Aiden",
+			"description": "Một kẻ lang thang cô độc, thường lảng vảng quanh Thung lũng Sương mù, tự nhận mình biết những bí mật của dinh thự. Danh tính và động cơ thực sự của anh ta vẫn còn mờ ám.",
+			"avatar_url": "/resources/characters/story_6/aiden.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Ít nói",
+				"Thận trọng",
+				"Nhanh trí",
+				"Dường như đã quen với các hiện tượng siêu nhiên"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Vera",
+			"description": "Một cư dân già của Thung lũng Sương mù, tự xưng là nhà sử học, biết rất rõ về quá khứ của dinh thự, nhưng câu chuyện của bà luôn có điều gì đó giấu giếm, như thể đang che giấu những bí mật nào đó.",
+			"avatar_url": "/resources/characters/story_6/vera.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 60,
+			"personality": [
+				"Thông thái",
+				"Bí ẩn",
+				"Thận trọng",
+				"Lời nói luôn mang ý cảnh báo"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Lucas",
+			"description": "Viên cảnh sát của Thung lũng Sương mù, phụ trách điều tra vụ mất tích, nghi ngờ về sự xuất hiện của Carter. Hành động của anh ta cho thấy anh ta biết về những tin đồn về dinh thự, nhưng không muốn đào sâu vào.",
+			"avatar_url": "/resources/characters/story_6/lucas.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"Nghiêm túc",
+				"Cảnh giác",
+				"Bảo thủ",
+				"Thái độ mơ hồ về hiện tượng siêu nhiên"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Dinh thự trong sương mù"
+		}
+	]
+}

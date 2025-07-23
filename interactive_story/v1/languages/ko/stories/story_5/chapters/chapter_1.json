@@ -1,0 +1,113 @@
+{
+	"title": "추방자의 귀환",
+	"summary": "Calian은 국경 마을의 술집에서 깨어나 자신이 왕위를 박탈당하고 추방되었음을 깨닫습니다. 그는 신비로운 음유시인 Elina를 만나게 되는데, 그녀는 그의 신분을 알고 있는 것 같지만 모호하게 말합니다. Calian은 선택에 직면합니다: Elina를 신뢰하고 그녀와 함께 진실을 찾아 나서거나, 혼자 행동하여 왕도로 잠입하거나, 마을에 머물며 신분을 숨기는 것입니다.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "밤은 먹물처럼 짙었고, 국경 마을의 술집에는 맥주와 땀 냄새가 가득했다. 어둑한 촛불이 나무 테이블 위에서 춤추며, 초췌하지만 잘생긴 얼굴을 비추고 있었다. Calian Valencia, 한때는 왕자였지만 지금은 낡은 망토를 걸친 방랑자일 뿐, 구석에 앉아 공허한 눈빛으로 빈 술잔을 바라보고 있었다."
+		},
+		{
+			"type": "narrator",
+			"content": "그가 마지막으로 기억하는 것은 왕궁에서의 연회였다. 술잔이 오가는 중에 삼촌 Edmund의 미소에는 음흉함이 깃들어 있었다. 그리고 암흑이 찾아왔고, 곧이어 추방 판결이 내려졌다. 그는 왜 반역죄로 몰렸는지, 또 어떻게 이 황량한 마을에 오게 되었는지 알 수 없었다."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(낮은 목소리로 중얼거리며, 술잔을 꽉 쥐고) 나는 누구지? 왜 여기 있는 거지?"
+		},
+		{
+			"type": "narrator",
+			"content": "술집 문이 열리며 찬바람이 빗방울과 함께 불어 들어왔다. 한 그림자가 들어왔는데, 녹색 망토를 걸치고 하프를 안고 있었다. 그녀가 후드를 벗자 달빛처럼 빛나는 금발이 드러났다. 그녀의 등장에 술집은 순식간에 조용해졌고, 모든 사람들이 그녀를 바라보았다."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(Calian에게 다가가며, 맑은 샘물 같은 목소리로) 당신은 영혼을 잃어버린 사람처럼 보이네요, 낯선 이여."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(경계하며 고개를 들고, 날카로운 눈빛으로) 나를 알고 있나?"
+		},
+		{
+			"type": "narrator",
+			"content": "그녀의 미소에는 장난기가 서려 있었고, 마치 그의 비밀을 이미 꿰뚫어 본 듯했다. 그녀는 Calian의 맞은편에 앉아 하프를 살짝 튕겼고, 현은 낮은 울림을 내었다."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(부드럽게 말하며, 눈에 교활한 빛이 스쳐 지나가며) 그럴지도 모르죠. Calian Valencia, Valencia 왕국의 잃어버린 별이시여, 맞나요?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(벌떡 일어나며, 검 손잡이에 손을 얹고) 당신은 대체 누구요? 어떻게 내 이름을 알고 있지?"
+		},
+		{
+			"type": "narrator",
+			"content": "술집의 사람들이 수군거리기 시작했고, Calian은 보이지 않는 압박감을 느꼈다. 그의 손이 미세하게 떨렸는데, 두려움 때문이 아니라 오랫동안 듣지 못했던 그 이름이 그의 마음속 분노를 일깨웠기 때문이었다."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(양손을 들어 무해함을 보이며) 진정하세요, 전하. 제 이름은 Elina, 떠돌이 음유시인입니다. 저는 많은 것을 알고 있죠, 예를 들면... 당신의 삼촌 Edmund가 어떻게 왕위를 찬탈했는지도요."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(낮고 의심스러운 목소리로) 내가 당신을 믿길 바라나? 방금 만난 여자를?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(미소 지으며, 약간의 도발적인 어조로) 신뢰를 강요하진 않아요. 하지만 저는 당신을 진실로 인도할 수 있죠. 아니면, 여기서 계속 술이나 마시다가 누군가에게 발각되길 기다리시든지요."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian은 그녀를 뚫어지게 쳐다보며 그 푸른 눈동자 속을 읽으려 했다. 그녀의 말투는 진실되어 보였지만, 그 미소는 알 수 없었다. 그의 마음은 갈등했다: 그녀는 동맹일 수도, 함정일 수도 있었다."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(천천히 앉으며, 차가운 목소리로) 만약 날 속였다면, 후회하게 만들겠소."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(가볍게 웃으며, 하프 현을 튕기며) 공평한 거래죠, 전하. 내일 새벽에 출발해서 검은 숲으로 갈 거예요. 거기서 당신을 기다리는 사람이 있거든요."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian은 한기를 느꼈다. 검은 숲, 전설로 가득한 그 금단의 땅에는 과연 무엇이 숨겨져 있을까? Elina의 정체와 목적은 수수께끼였지만, 그에겐 선택의 여지가 없었다."
+		},
+		{
+			"type": "narrator",
+			"content": "밤이 깊어갔고, 술집의 소란도 점차 잦아들었다. Calian은 창 밖의 폭풍우를 바라보며 마음속에 희망의 불씨를 피웠다 - 아니면, 더 큰 위험일지도 모를 일이었다."
+		}
+	],
+	"choice": {
+		"title": "당신의 선택",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Elina를 신뢰하고 그녀와 함께 검은 숲으로 간다."
+			},
+			{
+				"content": "Elina를 거절하고 혼자서 왕도로 잠입하여 진실을 찾는다."
+			},
+			{
+				"content": "마을에 머물며 신분을 숨기고 몰래 조사한다."
+			}
+		]
+	}
+}

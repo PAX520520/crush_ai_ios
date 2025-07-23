@@ -1,0 +1,127 @@
+{
+	"title": "Szepty Pustki",
+	"summary": "Cierpiący na amnezję protagonista Ethan budzi się na opuszczonym statku kosmicznym, stając w obliczu rozpadu kadłuba i pojawienia się tajemniczej kobiety Avy. Musi zdecydować, czy zaufać Avie, zostać na pokładzie w poszukiwaniu wskazówek, czy uciec samotnie, aby przeżyć.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "W ciemności twoja świadomość składa się jak kawałki układanki, jakbyś został siłą wyciągnięty z nieskończonej otchłani. Przenikliwy dźwięk alarmu przeszywa bębenki uszne, czerwone światło migocze w ciasnej kabinie. Leżysz w zimnej kapsule hibernacyjnej, twoje ciało jest ciężkie, a umysł pusty jak wydrążony. Wokół obce metalowe ściany, w powietrzu unosi się zapach spalonych obwodów."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(jęcząc cicho, próbując wstać) Gdzie... gdzie ja jestem? Kim... kim jestem?"
+		},
+		{
+			"type": "narrator",
+			"content": "Z trudem siadasz, twój wzrok jest zamglony, szklana kopuła kapsuły hibernacyjnej powoli się otwiera. Łagodne niebieskie światło rozbłyska z implantu w twoim ramieniu, projektując hologram - kobietę o srebrnych włosach, o spokojnym spojrzeniu, ale głosie zdradzającym pilność."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(wyraźny głos, mechanicznie spokojny) Witaj z powrotem, Captain Ethan. Wykryto zbliżającą się awarię systemu kadłuba, zalecana natychmiastowa ewakuacja."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(marszcząc brwi, próbując sobie przypomnieć) Captain? Ethan? Te słowa nic dla mnie nie znaczą... Kim jesteś? Dlaczego nazywasz mnie tym imieniem?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(hologram lekko migocze, ton niezmieniony) Jestem Nova, twój asystent AI do nawigacji. Twoja pamięć została uszkodzona przez awarię kapsuły hibernacyjnej, ale teraz nie czas na dyskusję. Kadłub rozpadnie się w ciągu 17 minut."
+		},
+		{
+			"type": "narrator",
+			"content": "Zanim zdążyłeś przetworzyć te informacje, drzwi kabiny zostały gwałtownie otwarte. Weszła kobieta o zwinnej sylwetce, jej zielone oczy błyszczały w przyćmionym świetle. Ubrana w obcisły kombinezon bojowy, trzymała świecący nóż energetyczny, a na jej twarzy widniał ledwo dostrzegalny uśmiech."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(lekki ton z nutą przekory) Wystarczająco długo spałeś, Ethan? Jestem Ava, twoja partnerka. Musimy się szybko stąd wydostać, inaczej zamienimy się w kosmiczny pył."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(cofając się czujnie, wpatrując się w nią) Partnerka? Nie pamiętam cię. Skąd znasz moje imię?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(wzruszając ramionami, wciąż z uśmiechem) Amnezja? Co za kłopot. Zaufaj mi, jesteśmy starymi przyjaciółmi. Ten statek zaraz wybuchnie, chodź ze mną, wszystko ci wyjaśnię."
+		},
+		{
+			"type": "narrator",
+			"content": "Jej głos był pełen pewności siebie, ale zauważyłeś przelotne wahanie w jej oczach. Alarm na statku stawał się coraz bardziej natarczywy, podłoga lekko drżała, przypominając, że czasu jest niewiele. Czujesz, jak implant w twoim ramieniu delikatnie się nagrzewa, jakby odpowiadając na jakiś nieznany sygnał."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(szepcząc do siebie, próbując złapać fragmenty wspomnień) Dlaczego czuję... że coś tu nie gra?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(hologram zwraca się do Avy, z nutą podejrzliwości) Ava, nie wykryto twojej autoryzacji. Zalecam ostrożność, Captain."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(lekki śmiech, machając ręką) Nie słuchaj tych elektronicznych bzdur. Ethan, musimy iść, teraz!"
+		},
+		{
+			"type": "narrator",
+			"content": "Stoisz w miejscu, przez twój umysł przemyka niewyraźny obraz: płonąca planeta, kobiecy głos szepczący twoje imię. Pojawienie się Avy instynktownie budzi twój niepokój, ale pozostanie tutaj wyraźnie nie jest mądrym wyborem. Co powinieneś zrobić?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(biorąc głęboki oddech, próbując zachować spokój) Dobrze... powiedz mi, Ava, kim naprawdę jesteś? Dlaczego czuję, że wiesz więcej niż mówisz?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(błysk w oczach, ton staje się poważny) Teraz nie czas na pytania, Ethan. Zaufaj mi albo zostań i czekaj na śmierć. Wybieraj."
+		},
+		{
+			"type": "narrator",
+			"content": "Alarm staje się coraz bardziej przenikliwy, kadłub zaczyna gwałtownie drżeć. Musisz szybko podjąć decyzję. W oczach Avy kryją się tajemnice, ostrzeżenie Novy brzmi w twoich uszach, a gdzieś w głębi duszy czujesz głos popychający cię do szukania prawdy."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(spokojnie dodając) Wykryto zewnętrzne zakłócenia sygnału, możliwe zbliżanie się niezidentyfikowanego statku. Zalecane natychmiastowe działanie."
+		},
+		{
+			"type": "narrator",
+			"content": "Czujesz presję czasu, ale mgła w twoim umyśle staje się coraz gęstsza. Zaufać Avie i pójść z nią? Zostać i szukać więcej wskazówek? A może zaryzykować samotną ucieczkę w poszukiwaniu własnych odpowiedzi?"
+		}
+	],
+	"choice": {
+		"prompt": "Co wybierzesz",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Zaufaj Avie i podążaj za nią, by opuścić statek"
+			},
+			{
+				"content": "Zostań na pokładzie, przeszukaj kapsułę hibernacyjną lub mostek w poszukiwaniu wskazówek"
+			},
+			{
+				"content": "Zignoruj Avę i samodzielnie poszukaj kapsuły ratunkowej"
+			}
+		]
+	}
+}

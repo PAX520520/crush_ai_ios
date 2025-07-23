@@ -1,0 +1,84 @@
+{
+	"story_id": "story_5",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Calian",
+			"description": "Молодий принц, позбавлений трону, справжнє ім'я Каліан Валенсія, який несе тягар помсти та спокути.",
+			"avatar_url": "/resources/characters/story_5/calian.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 22,
+			"personality": [
+				"Стійкий",
+				"Розумний",
+				"Внутрішньо суперечливий",
+				"Прагне справедливості, але сумнівається в людській природі"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Elina",
+			"description": "Таємнича мандрівна співачка, насправді принцеса ворожого королівства, майстерна в маскуванні та маніпуляції, але в глибині душі має надію на мир.",
+			"avatar_url": "/resources/characters/story_5/elina.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 20,
+			"personality": [
+				"Кмітлива",
+				"Чарівна",
+				"Складна",
+				"Вміє приховувати справжні почуття"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Roland",
+			"description": "Вірний лицар, колишній охоронець Каліана, безмежно відданий принцу.",
+			"avatar_url": "/resources/characters/story_5/roland.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Чесний",
+				"Хоробрий",
+				"Впертий"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Victor",
+			"description": "Хитрий злодій, майстер крадіжок та збору інформації, скептично ставиться до ідеалізму Каліана.",
+			"avatar_url": "/resources/characters/story_5/victor.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 28,
+			"personality": [
+				"Спритний",
+				"Легковажний",
+				"Сумнівна лояльність"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Marian",
+			"description": "Мудра відьма, що володіє древньою магією, живе відлюдницею в лісі та знає королівські таємниці.",
+			"avatar_url": "/resources/characters/story_5/marian.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 40,
+			"personality": [
+				"Спокійна",
+				"Таємнича",
+				"Проникливa"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Шлях вигнанця"
+		}
+	]
+}

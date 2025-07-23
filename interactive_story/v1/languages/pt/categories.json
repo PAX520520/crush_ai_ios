@@ -2,8 +2,8 @@
 	"categories": [
 		{
 			"id": 1,
-			"name": "🎭 Mistério",
-			"description": "Histórias de suspense cheias de mistério e tensão"
+			"name": "🌆 Urbano",
+			"description": "Histórias emocionantes que se desenrolam na cidade moderna"
 		},
 		{
 			"id": 2,
@@ -14,6 +14,21 @@
 			"id": 3,
 			"name": "✨ Fantasia",
 			"description": "Aventuras épicas cheias de magia e milagres"
+		},
+		{
+			"id": 4,
+			"name": "🚀 Ficção Científica",
+			"description": "Uma jornada maravilhosa explorando tecnologia futura e universo desconhecido"
+		},
+		{
+			"id": 5,
+			"name": "👑 Medieval",
+			"description": "Uma grande narrativa sobre nações e personagens medievais"
+		},
+		{
+			"id": 6,
+			"name": "🎭 Mistério",
+			"description": "Histórias de suspense cheias de mistério e tensão"
 		}
 	]
 }

@@ -1,0 +1,87 @@
+{
+	"story_id": "story_6",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Carter",
+			"description": "一位年輕而固執的記者，追尋真相是他的人生信條。來到霧谷鎮是為了調查失蹤案，卻意外捲入靈異事件。",
+			"avatar_url": "/resources/characters/story_6/carter.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 27,
+			"personality": [
+				"好奇",
+				"勇敢",
+				"固執",
+				"邏輯思維強但對超自然現象持懷疑態度"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Eliza",
+			"description": "布萊克伍德莊園的前主人，百年前被家族背叛，成為血月儀式的祭品。她的幽魂徘徊在莊園，試圖通過卡特打破詛咒，但她的動機似乎並不單純。",
+			"avatar_url": "/resources/characters/story_6/eliza.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"哀怨",
+				"神秘",
+				"複雜",
+				"既有求助的渴望，也有復仇的怒火"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Aiden",
+			"description": "一個獨來獨往的流浪者，常在霧谷鎮附近徘徊，聲稱了解莊園的秘密。他的真實身份和動機模糊不清。",
+			"avatar_url": "/resources/characters/story_6/aiden.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"沉默寡言",
+				"謹慎",
+				"機敏",
+				"似乎對靈異現象習以為常"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Vera",
+			"description": "霧谷鎮的年老鎮民，自稱是歷史學家，對莊園的過去知之甚詳，但她的敘述總有保留，似乎隱藏了某些秘密。",
+			"avatar_url": "/resources/characters/story_6/vera.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 60,
+			"personality": [
+				"睿智",
+				"神秘",
+				"謹慎",
+				"言語中帶著警告意味"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Lucas",
+			"description": "霧谷鎮的警官，負責調查失蹤案，對卡特的到來持懷疑態度。他的行為表明他對莊園的傳聞有所了解，卻不願深入探討。",
+			"avatar_url": "/resources/characters/story_6/lucas.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"嚴肅",
+				"警惕",
+				"保守",
+				"對超自然現象的態度模棱兩可"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "霧中莊園"
+		}
+	]
+}

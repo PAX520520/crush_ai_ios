@@ -1,0 +1,70 @@
+{
+	"story_id": "story_4",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "記憶を失った宇宙船のナビゲーター。本名不明。かつて宇宙艦隊の伝説的な人物で、スターフォール事件の創造者の一人かもしれない。",
+			"avatar_url": "/resources/characters/story_4/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"冷静",
+				"不屈",
+				"疑問に満ちている",
+				"真実への執着"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Ava",
+			"description": "謎めいたエージェント。Ethanのパートナーを自称するが、実は星間同盟の秘密メンバーで、スターコアを入手することが任務。彼女の動機は複雑で、忠誠心と私心の両方を持ち合わせている。",
+			"avatar_url": "/resources/characters/story_4/ava.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"機知に富む",
+				"狡猾",
+				"偽装が得意",
+				"心の中で葛藤している"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Nova",
+			"description": "EthanのAIアシスタント。宇宙船のシステムと彼のインプラントに存在し、人間に近い知性を持つ。表面上は忠実だが、Ethanの過去に関する秘密を隠しているようだ。",
+			"avatar_url": "/resources/characters/story_4/nova.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"冷静",
+				"論理的",
+				"時々人間らしい思いやりを見せる"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Kael",
+			"description": "脱走した宇宙傭兵。スターコアの賞金を得るためにEthanを追跡しているが、星間同盟の腐敗に嫌気がさしており、潜在的な同盟者となる可能性がある。",
+			"avatar_url": "/resources/characters/story_4/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"荒々しい",
+				"決断力がある",
+				"表面は冷酷だが独自の正義感を持つ"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "虚空のささやき"
+		}
+	]
+}

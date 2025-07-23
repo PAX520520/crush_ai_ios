@@ -2,8 +2,8 @@
 	"categories": [
 		{
 			"id": 1,
-			"name": "🎭 Mysterium",
-			"description": "Spannende Thriller-Geschichten voller Geheimnisse und Nervenkitzel"
+			"name": "🌆 Stadt",
+			"description": "Spannende Geschichten, die sich in modernen Städten abspielen"
 		},
 		{
 			"id": 2,
@@ -12,8 +12,23 @@
 		},
 		{
 			"id": 3,
-			"name": "✨ Magie",
-			"description": "Epische Abenteuer voller Magie und Wunder."
+			"name": "✨ Fantasy",
+			"description": "Epische Abenteuer voller Magie und Wunder"
+		},
+		{
+			"id": 4,
+			"name": "🚀 Science-Fiction",
+			"description": "Eine wunderbare Reise zur Erforschung zukünftiger Technologien und des unbekannten Universums"
+		},
+		{
+			"id": 5,
+			"name": "👑 Mittelalter",
+			"description": "Große Erzählungen über mittelalterliche Länder und Persönlichkeiten"
+		},
+		{
+			"id": 6,
+			"name": "🎭 Mystery",
+			"description": "Spannende Geschichten voller Geheimnisse und Nervenkitzel"
 		}
 	]
 }

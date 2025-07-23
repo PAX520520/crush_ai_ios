@@ -1,0 +1,70 @@
+{
+	"story_id": "story_4",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "Hafızasını kaybetmiş bir yıldız gemisi navigatörü, gerçek adı bilinmiyor, bir zamanlar Yıldızlar Arası Filonun efsanevi bir figürüydü ve muhtemelen Yıldız Düşüşü olayının yaratıcılarından biriydi.",
+			"avatar_url": "/resources/characters/story_4/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Sakin",
+				"Kararlı",
+				"Şüpheci",
+				"Gerçeğe tutkulu"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Ava",
+			"description": "Gizemli bir ajan, kendisini Ethan'ın ortağı olarak tanıtıyor, aslında Yıldızlar Arası Birliğin gizli bir üyesi ve görevi yıldız çekirdeğini ele geçirmek. Motivasyonları karmaşık, hem sadık hem de bencil.",
+			"avatar_url": "/resources/characters/story_4/ava.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"Zeki",
+				"Kurnaz",
+				"İyi bir aktör",
+				"İç çatışmalı"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Nova",
+			"description": "Ethan'ın yapay zeka asistanı, yıldız gemisi sisteminde ve onun implantlarında var olan, neredeyse insan zekasına sahip. Görünüşte sadık, ancak Ethan'ın geçmişiyle ilgili sırları saklıyor gibi görünüyor.",
+			"avatar_url": "/resources/characters/story_4/nova.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"Sakin",
+				"Mantıklı",
+				"Zaman zaman insani ilgi gösteriyor"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Kael",
+			"description": "Kaçak bir yıldızlar arası paralı asker, yıldız çekirdeğinin ödülü için Ethan'ı avlıyor, ancak Yıldızlar Arası Birliğin yozlaşmasından bıkmış durumda, potansiyel bir müttefik olabilir.",
+			"avatar_url": "/resources/characters/story_4/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Kaba",
+				"Kararlı",
+				"Dıştan sert ama kendi prensipleri var"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Boşluğun Fısıltısı"
+		}
+	]
+}

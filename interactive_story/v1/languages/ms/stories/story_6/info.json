@@ -1,0 +1,87 @@
+{
+	"story_id": "story_6",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Carter",
+			"description": "Seorang wartawan muda yang keras kepala yang menjadikan pencarian kebenaran sebagai prinsip hidupnya. Dia datang ke Bandar Kabut untuk menyiasat kes kehilangan, tetapi secara tidak sengaja terlibat dalam kejadian paranormal.",
+			"avatar_url": "/resources/characters/story_6/carter.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 27,
+			"personality": [
+				"Ingin tahu",
+				"Berani",
+				"Keras kepala",
+				"Pemikiran logik tetapi skeptikal terhadap fenomena supernatural"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Eliza",
+			"description": "Bekas pemilik Mansion Blackwood, yang dikhianati oleh keluarganya seratus tahun yang lalu dan menjadi korban ritual bulan darah. Rohnya berkeliaran di mansion, cuba memecahkan kutukan melalui Carter, tetapi motifnya kelihatan tidak murni.",
+			"avatar_url": "/resources/characters/story_6/eliza.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"Sedih",
+				"Misteri",
+				"Kompleks",
+				"Mempunyai keinginan untuk bantuan dan kemarahan untuk membalas dendam"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Aiden",
+			"description": "Seorang pengembara yang bersendirian, sering berkeliaran di sekitar Bandar Kabut, mendakwa mengetahui rahsia mansion. Identiti dan motif sebenarnya tidak jelas.",
+			"avatar_url": "/resources/characters/story_6/aiden.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Pendiam",
+				"Berhati-hati",
+				"Bijak",
+				"Seolah-olah biasa dengan fenomena paranormal"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Vera",
+			"description": "Penduduk tua Bandar Kabut yang mengaku sebagai ahli sejarah, sangat mengetahui tentang sejarah mansion, tetapi penceritaannya sentiasa terhad, seolah-olah menyembunyikan beberapa rahsia.",
+			"avatar_url": "/resources/characters/story_6/vera.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 60,
+			"personality": [
+				"Bijaksana",
+				"Misteri",
+				"Berhati-hati",
+				"Kata-katanya mengandungi nada amaran"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Lucas",
+			"description": "Pegawai polis Bandar Kabut yang bertanggungjawab menyiasat kes kehilangan, skeptikal terhadap kedatangan Carter. Tingkah lakunya menunjukkan dia tahu tentang khabar angin mansion tetapi enggan membincangkannya secara mendalam.",
+			"avatar_url": "/resources/characters/story_6/lucas.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"Serius",
+				"Waspada",
+				"Konservatif",
+				"Sikap yang tidak jelas terhadap fenomena supernatural"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Mansion dalam Kabut"
+		}
+	]
+}

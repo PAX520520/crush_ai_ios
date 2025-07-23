@@ -60,6 +60,67 @@
 			],
 			"cover_image_url": "resources/covers/story_3_cover.jpg",
 			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
+		},
+		{
+			"id": "story_4",
+			"title": "Ekot från Stjärnavgrunden",
+			"description": "I en avlägsen framtid blomstrar mänskligheten genom interstellär kolonisering, tills en mystisk 'Stjärnfall'-händelse bringar den nära kollaps. Protagonisten, en bortglömd rymdfartygsstyrman, vaknar upp på ett övergivet rymdskepp utan minnen. Med en AI-assistent vid sin sida och en mystisk kvinna som påstår sig 'veta allt', samt ett närvarande okänt hot, tvingas han ut på en resa för att finna sanningen och sig själv. I detta universum fyllt av teknologi och mysterier måste han avslöja Stjärnfallets hemlighet och välja mellan att rädda civilisationen eller låta allt återgå till tomhet.",
+			"category_id": 4,
+			"tags": [
+				"Science fiction",
+				"Mysterium",
+				"Äventyr",
+				"Självupptäckt",
+				"Artificiell intelligens"
+			],
+			"plot_direction": [
+				"Början: Protagonisten vaknar i en sömnkapsel på ett övergivet rymdskepp utan minnen, med endast vaga drömfragment: en brinnande planet och en viskande kvinnoröst. Hans AI-assistent Nova kallar honom 'Captain Ethan' och varnar för att skeppets system håller på att kollapsa. Snart dyker en mystisk kvinna, Ava, upp och påstår sig vara hans partner, och leder honom i flykten från det exploderande skeppet. Under flykten upptäcker Ethan att han har en ovanlig förmåga att kontrollera forntida teknologi, vilket drar till sig uppmärksamhet från okända krafter som jagar honom.",
+				"Mitten: Ethan, Ava och Nova reser genom flera stjärnsystem på jakt efter ledtrådar om Stjärnfallet. De upptäcker att Stjärnfallet inte var ett naturligt fenomen utan orsakades av en forntida civilisations okontrollerade teknologi. Ava avslöjar gradvis sin sanna identitet - en hemlig agent från Stjärnfederationen som försöker använda Ethans förmåga för att aktivera 'Stjärnkärnan', en enhet som kan omforma universum. Samtidigt blir Ethans drömmar tydligare, och han börjar misstänka att han var en av Stjärnfallets skapare, medan Nova verkar dölja viktig information.",
+				"Slut: Ethan står inför ett val: aktivera Stjärnkärnan för att omforma universum men riskera att radera den nuvarande civilisationen, eller förstöra den och bevara status quo men begrava sanningen för evigt. Avas motiv blir tydligare - hon är både allierad och potentiell fiende. Till slut återfår Ethan sina minnen och upptäcker att han en gång offrade allt för att stoppa Stjärnfallet, och att Nova är en backup av hans medvetande som bär hans oavslutade uppdrag. Slutet beror på spelarens val: offra sig själv för att rädda universum eller överge allt för frihet."
+			],
+			"cover_image_url": "resources/covers/story_4_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_4_bg.jpg"
+		},
+		{
+			"id": "story_5",
+			"title": "Den Brutna Kronan",
+			"description": "I ett medeltida europeiskt kungarike driver en konspiration den unge prinsen mot ödets avgrund. Efter att ha förlorat sin arvsrätt till tronen måste protagonisten manövrera mellan de lojala Stuart-adelsmännen och allmänheten, avslöja hemligheterna som döljer sig i kungahuset och återta sin ära - eller sjunka djupare i maktkampens och förräderiets virvel.",
+			"category_id": 5,
+			"tags": [
+				"Medeltid",
+				"Konspiration",
+				"Kungamakt",
+				"Förräderi",
+				"Hämnd",
+				"Mystik"
+			],
+			"plot_direction": [
+				"Början: Protagonisten Calian, en prins berövad sin arvsrätt, blir falskt anklagad för förräderi under en palatskupp och förvisas till en gränsstad. I stadens värdshus möter han den mystiska trubaduren Elena, som verkar känna till hans sanna identitet men döljer sina egna motiv. Calian börjar misstänka att kungahusets nedgång har en dold orsak och bestämmer sig för att söka hämnd och sanning.",
+				"Mitten: Med Elenas hjälp lär Calian känna en grupp rebeller, inklusive den lojala riddaren Roland, den sluga tjuven Victor och den visa häxan Marian. Tillsammans avslöjar de hans farbror Edmunds konspiration: han har konspirerat med fiendekungariken för att ta över Calians homeland. Under sin resa möter Calian många prövningar där han måste välja mellan lojalitet och förräderi, samtidigt som han brottas med komplexa känslor kring tronen och familjen.",
+				"Slut: Calian infiltrerar slutligen palatset och konfronterar Edmund, bara för att upptäcka en större konspiration: Elena är i själva verket en prinsessa från fienderiket som försöker använda Calian för sina politiska syften. Calian måste besluta om han ska förlåta hennes förräderi och välja mellan att återta tronen eller överge allt för ett liv i frihet."
+			],
+			"cover_image_url": "resources/covers/story_5_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_5_bg.jpg"
+		},
+		{
+			"id": "story_6",
+			"title": "Spökenas Viskningar",
+			"description": "I den kusliga Dimdalens stad, när den unge reportern Carter undersöker ett mystiskt försvinnande, råkar han av misstag ta sig in i ett övergivet herrgård. Herrgården är fylld av olycksbådande atmosfär, spökenas viskningar ekar i mörkret och avslöjar hemska hemligheter från årtionden tillbaka. Carter måste lösa herrgårdens förbannelse och möta farorna som lurar i skuggorna för att överleva - eller för evigt bli en del av spökena.",
+			"category_id": 6,
+			"tags": [
+				"Övernaturligt",
+				"Mysterium",
+				"Förbannelse",
+				"Skräck",
+				"Äventyr"
+			],
+			"plot_direction": [
+				"Början: Carter, en nyfiken reporter, kommer till Dimdalen för att undersöka ett årsgammalt försvinnande. Spåren leder till den övergivna Blackwood-herrgården, som sägs vara förbannad så att ingen som går in kommer ut levande. I herrgården hittar Carter en gammal dagbok som dokumenterar ägarinnan Elizabeths tragiska öde och en förbannelse kopplad till 'Blodmåneritualen'. Konstiga händelser börjar inträffa i herrgården: rörliga skuggor, kalla beröringskänslor, viskningar i örat, vilket får Carter att ifrågasätta sin sanity.",
+				"Mitten: Carter utforskar djupare in i herrgården och upptäcker att Elizabeths spöke verkar guida honom mot förbannelsens sanning. Han möter andra karaktärer - den mystiska vandraren Aiden, byborna Vera som påstår sig känna till herrgårdens historia, och polisen Lucas som verkar veta mer än han säger. Carter upptäcker gradvis att förbannelsen är kopplad till mörka överenskommelser med vissa familjer i staden, och att blodmånen närmar sig när ritualen ska upprepas. Han måste välja mellan sanning och rädsla, samtidigt som han undviker de alltmer aktiva spökena i herrgården.",
+				"Slut: Carter avslöjar förbannelsens sanning - Elizabeth blev förrådd av sin familj och offrad i ritualen i utbyte mot rikedom och makt. Under blodmånenatten måste han bestämma sig för att antingen störa ritualen och riskera spökenas vrede, eller samarbeta med någon för att försöka vända förbannelsen. Olika val leder till att Carter antingen flyr från herrgården, blir fångad i förbannelsen, upptäcker djupare konspirationer eller blir ritualens nya offer."
+			],
+			"cover_image_url": "resources/covers/story_6_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_6_bg.jpg"
 		}
 	]
 }

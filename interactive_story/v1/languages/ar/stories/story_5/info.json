@@ -1,0 +1,84 @@
+{
+	"story_id": "story_5",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Calian",
+			"description": "أمير شاب مجرد من عرشه، واسمه الأصلي كاليان فالنسيا، يحمل مهمة الانتقام والخلاص.",
+			"avatar_url": "/resources/characters/story_5/calian.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 22,
+			"personality": [
+				"صلب",
+				"ذكي",
+				"متناقض داخليًا",
+				"متعطش للعدالة لكنه يشك في الطبيعة البشرية"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Elina",
+			"description": "شاعرة غامضة، في الواقع أميرة من مملكة معادية، ماهرة في التنكر والتلاعب بالعقول، لكنها تحمل في قلبها أملاً في السلام.",
+			"avatar_url": "/resources/characters/story_5/elina.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 20,
+			"personality": [
+				"ذكية",
+				"ساحرة",
+				"معقدة",
+				"ماهرة في إخفاء مشاعرها الحقيقية"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Roland",
+			"description": "فارس مخلص، كان حارسًا لكاليان، ومخلص تمامًا للأمير.",
+			"avatar_url": "/resources/characters/story_5/roland.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"مستقيم",
+				"شجاع",
+				"عنيد"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Victor",
+			"description": "لص ماكر، ماهر في السرقة وجمع المعلومات، متشكك في مثالية كاليان.",
+			"avatar_url": "/resources/characters/story_5/victor.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 28,
+			"personality": [
+				"ذكي",
+				"متهكم",
+				"ولاؤه مشكوك فيه"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Marian",
+			"description": "ساحرة حكيمة، تتقن السحر القديم، تعيش في عزلة في الغابة، وتعرف أسرار العائلة المالكة.",
+			"avatar_url": "/resources/characters/story_5/marian.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 40,
+			"personality": [
+				"هادئة",
+				"غامضة",
+				"حادة البصيرة"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "عودة المنفي"
+		}
+	]
+}

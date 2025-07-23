@@ -1,0 +1,84 @@
+{
+	"story_id": "story_5",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Calian",
+			"description": "Ein junger Prinz, der seines Thrones beraubt wurde, geboren als Calian Valencia, trägt die Last der Rache und Erlösung.",
+			"avatar_url": "/resources/characters/story_5/calian.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 22,
+			"personality": [
+				"Widerstandsfähig",
+				"Intelligent",
+				"Innerlich zerrissen",
+				"Sehnt sich nach Gerechtigkeit, zweifelt aber an der menschlichen Natur"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Elina",
+			"description": "Eine mysteriöse Bardin, in Wahrheit eine Prinzessin des feindlichen Königreichs, geschickt in Täuschung und Manipulation, hegt jedoch insgeheim Hoffnung auf Frieden.",
+			"avatar_url": "/resources/characters/story_5/elina.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 20,
+			"personality": [
+				"Scharfsinnig",
+				"Verführerisch",
+				"Vielschichtig",
+				"Geschickt im Verbergen wahrer Gefühle"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Roland",
+			"description": "Ein treuer Ritter, ehemaliger Beschützer von Calian, dem Prinzen bedingungslos ergeben.",
+			"avatar_url": "/resources/characters/story_5/roland.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Aufrichtig",
+				"Mutig",
+				"Stur"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Victor",
+			"description": "Ein schlauer Dieb, geschickt im Stehlen und Informationsbeschaffung, steht Calians Idealismus skeptisch gegenüber.",
+			"avatar_url": "/resources/characters/story_5/victor.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 28,
+			"personality": [
+				"Gerissen",
+				"Leichtfertig",
+				"Fragwürdige Loyalität"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Marian",
+			"description": "Eine weise Hexe, die alte Magie beherrscht, lebt zurückgezogen im Wald und kennt die Geheimnisse des Königshauses.",
+			"avatar_url": "/resources/characters/story_5/marian.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 40,
+			"personality": [
+				"Gelassen",
+				"Geheimnisvoll",
+				"Scharfsichtig"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Die Rückkehr des Verbannten"
+		}
+	]
+}

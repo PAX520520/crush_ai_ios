@@ -1,0 +1,70 @@
+{
+	"story_id": "story_4",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "Navigator kapal bintang yang hilang ingatan, nama asli tidak diketahui, dulunya adalah tokoh legendaris di armada antariksa, mungkin salah satu pencipta Insiden Bintang Jatuh.",
+			"avatar_url": "/resources/characters/story_4/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Tenang",
+				"Teguh",
+				"Penuh keraguan",
+				"Terobsesi dengan kebenaran"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Ava",
+			"description": "Agen misterius yang mengaku sebagai rekan Ethan, sebenarnya adalah anggota rahasia Aliansi Antariksa, dengan misi untuk mendapatkan Inti Bintang. Motifnya rumit, memiliki kesetiaan sekaligus kepentingan pribadi.",
+			"avatar_url": "/resources/characters/story_4/ava.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"Cerdik",
+				"Licik",
+				"Pandai menyamar",
+				"Berkonflik batin"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Nova",
+			"description": "Asisten AI pintar Ethan, yang ada dalam sistem kapal bintang dan implannya, memiliki kecerdasan yang hampir setara dengan manusia. Tampak setia, tapi sepertinya menyembunyikan rahasia tentang masa lalu Ethan.",
+			"avatar_url": "/resources/characters/story_4/nova.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"Tenang",
+				"Logis",
+				"Terkadang menunjukkan kepedulian manusiawi"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Kael",
+			"description": "Tentara bayaran antariksa yang membelot, memburu Ethan untuk hadiah Inti Bintang, tapi merasa muak dengan korupsi di Aliansi Antariksa, mungkin bisa menjadi sekutu potensial.",
+			"avatar_url": "/resources/characters/story_4/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Kasar",
+				"Tegas",
+				"Tampak dingin tapi punya prinsip sendiri"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Bisikan Kekosongan"
+		}
+	]
+}

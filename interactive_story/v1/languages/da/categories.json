@@ -2,18 +2,33 @@
 	"categories": [
 		{
 			"id": 1,
-			"name": "🎭 Mysterie",
-			"description": "Spændende thrillerhistorier fyldt med mystik og spænding"
+			"name": "🌆 By",
+			"description": "Spændende historier der udspiller sig i den moderne by"
 		},
 		{
 			"id": 2,
-			"name": "💘 Romance",
+			"name": "💘 Romantik",
 			"description": "Passionerede kærlighedshistorier fyldt med følelsesmæssig dybde"
 		},
 		{
 			"id": 3,
-			"name": "✨ Magi",
-			"description": "Episke eventyr fyldt med magi og mirakler."
+			"name": "✨ Fantasy",
+			"description": "Episke eventyr fyldt med magi og mirakler"
+		},
+		{
+			"id": 4,
+			"name": "🚀 Science Fiction",
+			"description": "En fantastisk rejse der udforsker fremtidens teknologi og det ukendte univers"
+		},
+		{
+			"id": 5,
+			"name": "👑 Middelalder",
+			"description": "Storslåede fortællinger om middelalderlige nationer og personer"
+		},
+		{
+			"id": 6,
+			"name": "🎭 Mysterie",
+			"description": "Spændende historier fyldt med mystik og suspense"
 		}
 	]
 }

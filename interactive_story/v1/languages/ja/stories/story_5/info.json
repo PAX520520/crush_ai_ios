@@ -1,0 +1,84 @@
+{
+	"story_id": "story_5",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Calian",
+			"description": "王位を奪われた若き王子、本名カリアン・ヴァレンシア、復讐と贖罪の使命を背負う。",
+			"avatar_url": "/resources/characters/story_5/calian.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 22,
+			"personality": [
+				"不屈",
+				"賢明",
+				"心の葛藤",
+				"正義への渇望と人間性への懐疑"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Elina",
+			"description": "謎めいた吟遊詩人、実は敵国の王女で、変装と人心操作に長けているが、心の奥には平和への希望を抱いている。",
+			"avatar_url": "/resources/characters/story_5/elina.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 20,
+			"personality": [
+				"機知に富む",
+				"魅惑的",
+				"複雑",
+				"本心を隠すのが上手い"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Roland",
+			"description": "忠実な騎士、かつてカリアンの護衛を務め、王子に忠誠を誓う。",
+			"avatar_url": "/resources/characters/story_5/roland.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"正直",
+				"勇敢",
+				"頑固"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Victor",
+			"description": "狡猾な盗賊、盗みと情報収集に長け、カリアンの理想主義に半信半疑。",
+			"avatar_url": "/resources/characters/story_5/victor.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 28,
+			"personality": [
+				"機敏",
+				"不真面目",
+				"忠誠心が疑わしい"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Marian",
+			"description": "賢明な魔女、古代の魔法を操り、森に隠れ住み、王室の秘密を知る。",
+			"avatar_url": "/resources/characters/story_5/marian.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 40,
+			"personality": [
+				"冷静",
+				"神秘的",
+				"洞察力が鋭い"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "追放者の帰路"
+		}
+	]
+}

@@ -60,6 +60,67 @@
 			],
 			"cover_image_url": "resources/covers/story_3_cover.jpg",
 			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
+		},
+		{
+			"id": "story_4",
+			"title": "Tähtisyvyyden Kaiku",
+			"description": "Kaukaisessa tulevaisuudessa ihmiskunta kukoistaa tähtienvälisissä siirtokunnissa, kunnes salaperäinen 'tähtiputouksen' tapahtuma uhkaa tuhota kaiken. Päähenkilö, unohdettu avaruusaluksen navigaattori, herää hylätyllä aluksella muistinsa menettäneenä. Hänen seuranaan ovat älykäs AI-avustaja, salaperäinen nainen joka väittää tietävänsä kaiken, sekä lähestyvä tuntematon uhka. Nämä pakottavat hänet matkalle etsimään totuutta ja itseään. Tässä teknologian ja mystiikan täyttämässä universumissa hänen on paljastettava tähtiputouksen salaisuus ja päätettävä, pelastaako sivilisaation vai antaako kaiken vajota tyhjyyteen.",
+			"category_id": 4,
+			"tags": [
+				"Scifi",
+				"Mysteeri",
+				"Seikkailu",
+				"Itsensä löytäminen",
+				"Tekoäly"
+			],
+			"plot_direction": [
+				"Alku: Päähenkilö herää hylätyn avaruusaluksen lepokammiosta ilman muistoja, vain hämäriä unikuvia palavasta planeetasta ja naisen kuiskauksesta. Hänen AI-avustajansa Nova kutsuu häntä nimellä 'Captain Ethan' ja varoittaa aluksen järjestelmien romahtavan. Pian mysteerinen nainen Ava ilmestyy väittäen olevansa hänen kumppaninsa ja johdattaa hänet pois räjähtämäisillään olevalta alukselta. Paon aikana Ethan huomaa omaavansa erikoisen kyvyn hallita muinaista teknologiaa, mikä houkuttelee tuntemattomia voimia jahtaamaan häntä.",
+				"Keskivaihe: Ethan, Ava ja Nova matkustavat tähtijärjestelmien halki etsien vihjeitä tähtiputouksesta. He paljastavat, ettei se ollut luonnollinen ilmiö vaan muinaisen sivilisaation teknologian hallitsematon seuraus. Ava paljastuu vähitellen tähtiliiton salaiseksi agentiksi, joka yrittää käyttää Ethanin kykyjä aktivoidakseen 'tähtiydin'-laitteen, joka voi muokata universumia uudelleen. Samaan aikaan Ethanin unet selkenevät, ja hän alkaa epäillä olleensa itse osallinen tähtiputoukseen, kun taas Nova näyttää salaavan kriittistä tietoa.",
+				"Loppu: Ethan kohtaa valinnan: käynnistääkö tähtiydin ja muokata universumi uudelleen riskeeraten nykyisen sivilisaation, vai tuhota se ja säilyttää nykytila mutta haudata totuus ikuisesti. Avan motiivit selkenevät - hän on sekä liittolainen että mahdollinen vihollinen. Lopulta Ethan muistaa uhranneensa kaiken estääkseen tähtiputouksen, ja Nova paljastuu hänen tietoisuutensa varmuuskopioksi, joka kantaa hänen keskeneräistä tehtäväänsä. Loppu riippuu pelaajan valinnoista: uhrautuako universumin pelastamiseksi vai hylätäkö kaikki vapauden vuoksi."
+			],
+			"cover_image_url": "resources/covers/story_4_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_4_bg.jpg"
+		},
+		{
+			"id": "story_5",
+			"title": "Särkynyt Kruunu",
+			"description": "Keskiaikaisessa Euroopan kuningaskunnassa salajuoni syöksee nuoren prinssin kohtalon kuiluun. Menetettyään kruununperimysoikeutensa päähenkilön täytyy tasapainoilla uskollisen Stuart-aateliston ja tavallisen kansan välillä, paljastaa kuninkaallisen perheen salaisuudet ja voittaa takaisin kunniansa - tai vajota lopullisesti vallan ja petoksen pyörteisiin.",
+			"category_id": 5,
+			"tags": [
+				"Keskiaika",
+				"Juonittelu",
+				"Kuninkuus",
+				"Petos",
+				"Kosto",
+				"Mysteeri"
+			],
+			"plot_direction": [
+				"Alku: Päähenkilö Calian, kruununperimysoikeutensa menettänyt prinssi, leimataan petturiksi hovijuonessa ja karkotetaan raja-alueen kylään. Kylän majatalossa hän kohtaa salaperäisen trubaduuri Elenan, joka näyttää tietävän Calianin todellisen henkilöllisyyden mutta salaa omat motiivinsa. Calian alkaa epäillä kuningashuoneen rappeutumisen takana olevan muutakin ja päättää lähteä etsimään totuutta ja kostoa.",
+				"Keskivaihe: Elenan avulla Calian tutustuu kapinallisryhmään, johon kuuluvat uskollinen ritari Roland, ovela varas Victor ja viisas noita Marian. Yhdessä he paljastavat vallananastaja-setä Edmundin juonen: hän on liittoutunut viholliskuningaskunnan kanssa vallatakseen Calianin kotimaan. Calianin matka on täynnä koettelemuksia, hänen täytyy valita uskollisuuden ja petoksen välillä sekä kohdata monimutkaiset tunteensa kruunua ja perhettään kohtaan.",
+				"Loppu: Calian hiipii lopulta palatsiin kohtaamaan Edmundin ja paljastaa suuremman salaliiton: Elena onkin viholliskuningaskunnan prinsessa, joka yritti käyttää Caliania omiin poliittisiin tarkoituksiinsa. Calianin täytyy päättää, antaako anteeksi hänen petoksensa ja valitseeko kruunun takaisin voittamisen vai kaiken hylkäämisen vapaan elämän vuoksi."
+			],
+			"cover_image_url": "resources/covers/story_5_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_5_bg.jpg"
+		},
+		{
+			"id": "story_6",
+			"title": "Aaveiden Kuiskaukset",
+			"description": "Synkässä Sumunlaakson kylässä nuori toimittaja Carter tutkii mysteeristä katoamistapausta ja päätyy vahingossa hylätylle kartanolle. Kartanossa leijuu pahaenteinen tunnelma, aaveiden kuiskaukset kaikuvat pimeydessä paljastaen vuosikymmenten takaisia kauheita salaisuuksia. Carterin täytyy ratkaista kartanon kirouksen mysteeri ja kohdata varjoissa piilevät vaarat selviytyäkseen - tai tulla ikuisesti osaksi aaveita.",
+			"category_id": 6,
+			"tags": [
+				"Yliluonnollinen",
+				"Mysteeri",
+				"Kirous",
+				"Kauhu",
+				"Seikkailu"
+			],
+			"plot_direction": [
+				"Alku: Carter, utelias toimittaja, saapuu Sumunlaakson kylään tutkimaan vuosien takaista katoamistapausta. Johtolangat vievät hylätylle Blackwoodin kartanolle, jonka huhutaan olevan kirottu - kukaan sisään mennyt ei ole selvinnyt ulos elävänä. Carter löytää kartanosta vanhan päiväkirjan, joka kertoo kartanon emännän Elizabethin traagisesta kohtalosta ja 'verikuun rituaaliin' liittyvästä kirouksesta. Kartanossa alkaa tapahtua outoja asioita: liikkuvia varjoja, kylmiä kosketuksia ja kuiskauksia, jotka saavat Carterin epäilemään mielenterveyttään.",
+				"Keskivaihe: Carter tutkii kartanoa syvemmältä ja huomaa Elizabethin aaveen näyttävän ohjaavan häntä kohti kirouksen totuutta. Hän kohtaa muita hahmoja - salaperäisen kulkuri Aidenin, kartanon historiaa tuntevan kyläläisen Veran sekä enemmän tietävältä vaikuttavan mutta vaitonaisen konstaapeli Lucasin. Carter alkaa paljastaa, että kirous liittyy kylän tiettyjen sukujen pimeisiin sopimuksiin, ja verikuu on tulossa, jolloin rituaali aktivoituu uudelleen. Hänen täytyy valita totuuden ja pelon välillä samalla vältellen kartanon yhä aktiivisempia pahoja henkiä.",
+				"Loppu: Carter paljastaa kirouksen totuuden - Elizabeth uhrattiin perheensä pettämänä rituaalissa varallisuuden ja vallan vuoksi. Verikuun yönä hänen täytyy päättää, yrittääkö tuhota rituaalin riskeeraten pahojen henkien vihan vai tehdä yhteistyötä jonkun kanssa kirouksen kääntämiseksi. Erilaiset valinnat johtavat Carterin joko pakenemaan kartanosta, jäämään kirouksen vangiksi tai paljastamaan syvemmän salaliiton, ehkä jopa päätymään rituaalin uudeksi uhriksi."
+			],
+			"cover_image_url": "resources/covers/story_6_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_6_bg.jpg"
 		}
 	]
 }

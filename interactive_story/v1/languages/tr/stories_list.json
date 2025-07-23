@@ -60,6 +60,67 @@
 			],
 			"cover_image_url": "resources/covers/story_3_cover.jpg",
 			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
+		},
+		{
+			"id": "story_4",
+			"title": "Yıldız Uçurumunun Yankısı",
+			"description": "Uzak gelecekte, insanlık yıldızlararası kolonileşmede gelişirken, gizemli bir 'Yıldız Düşüşü' olayı nedeniyle çöküşün eşiğine gelir. Unutulmuş bir yıldız gemisi navigatörü olan kahraman, terk edilmiş bir gemide uyanır ve hafızası silinmiştir. Yanındaki AI asistanı, 'her şeyi bildiğini' iddia eden gizemli bir kadın ve yaklaşan bilinmeyen tehditler, onu gerçeği ve kendini keşfetme yolculuğuna iter. Teknoloji ve gizem dolu bu evrende, Yıldız Düşüşü'nün sırrını çözecek ve medeniyeti kurtarmak ya da her şeyi hiçliğe bırakmak arasında seçim yapacaktır.",
+			"category_id": 4,
+			"tags": [
+				"Bilim Kurgu",
+				"Gizem",
+				"Macera",
+				"Kendini Keşfetme",
+				"Yapay Zeka"
+			],
+			"plot_direction": [
+				"Başlangıç: Kahraman, terk edilmiş bir yıldız gemisinin kriyojenik kapsülünde uyanır, hafızası yoktur ve sadece bulanık rüya parçaları kalmıştır: yanan bir gezegen ve fısıldayan bir kadın sesi. AI asistanı Nova ona 'Kaptan Ethan' diye seslenir ve gemi sistemlerinin çökmekte olduğunu uyarır. Kısa süre sonra gizemli bir kadın olan Ava ortaya çıkar, onun ortağı olduğunu iddia eder ve onu patlamak üzere olan gemiden kaçmaya yönlendirir. Kaçış sırasında, Ethan kendisinde antik teknolojiyi kontrol etme yeteneği olduğunu keşfeder, ancak bu bilinmeyen güçlerin peşine düşmesine neden olur.",
+				"Orta: Ethan, Ava ve Nova, Yıldız Düşüşü olayının izlerini sürmek için birçok yıldız sistemini gezerler. Yıldız Düşüşü'nün doğal bir olay olmadığını, antik bir medeniyetin kontrolden çıkmış teknolojisinin sonucu olduğunu keşfederler. Ava yavaş yavaş gerçek kimliğini açığa çıkarır - Yıldızlararası Birlik'in gizli bir ajanıdır ve Ethan'ın yeteneklerini kullanarak 'Yıldız Çekirdeği'ni, evreni yeniden şekillendirebilen bir cihazı aktive etmeye çalışmaktadır. Bu sırada, Ethan'ın rüyaları netleşir ve kendisinin Yıldız Düşüşü'nün yaratıcılarından biri olabileceğinden şüphelenmeye başlar, Nova ise önemli bilgileri saklıyor gibidir.",
+				"Son: Ethan bir seçimle karşı karşıya kalır: Yıldız Çekirdeği'ni aktive edip evreni yeniden şekillendirmek ama mevcut medeniyeti silme riskini almak; ya da onu yok edip, gerçeği sonsuza dek gömmek pahasına mevcut durumu korumak. Ava'nın motivasyonları netleşir, hem müttefik hem de düşman olabilir. Sonunda, Ethan geri gelen hafızasıyla kendisinin Yıldız Düşüşü'nü durdurmak için her şeyini feda ettiğini ve Nova'nın kendi bilincinin bir yedeklemesi olduğunu, tamamlanmamış görevini taşıdığını keşfeder. Son, oyuncunun seçimine bağlıdır: evreni kurtarmak için kendini feda etmek ya da özgürlüğü aramak için her şeyi geride bırakmak."
+			],
+			"cover_image_url": "resources/covers/story_4_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_4_bg.jpg"
+		},
+		{
+			"id": "story_5",
+			"title": "Kırık Taç",
+			"description": "Ortaçağ Avrupası'nın bir krallığında, bir komplo genç prensi kaderin derinliklerine sürükler. Taht hakkını kaybeden kahraman, sadık Stuart soyluları ve halk arasında manevra yapmak, kraliyet ailesindeki sırları ortaya çıkarmak ve şerefini geri kazanmak zorundadır - ya da güç ve ihanet girdabında tamamen kaybolacaktır.",
+			"category_id": 5,
+			"tags": [
+				"Ortaçağ",
+				"Entrika",
+				"Kraliyet",
+				"İhanet",
+				"İntikam",
+				"Gizem"
+			],
+			"plot_direction": [
+				"Başlangıç: Kahraman Calian, veraset hakkından mahrum bırakılmış bir prens, bir saray darbesinde hain olmakla suçlanır ve sınır kasabasına sürgün edilir. Kasabadaki bir meyhanede gizemli ozan Elena ile tanışır. Elena, Calian'ın gerçek kimliğini biliyor gibidir ama kendi amacını gizlemektedir. Calian, kraliyet ailesinin çöküşünün arkasında başka bir hikaye olduğundan şüphelenmeye başlar ve intikam ve gerçeği arama yolculuğuna çıkmaya karar verir.",
+				"Orta: Calian, Elena'nın yardımıyla bir direniş grubuyla tanışır: sadık şövalye Roland, kurnaz hırsız Victor ve bilge cadı Marian. Birlikte, tahtı gasp eden amcası Edmund'un komplosunu ortaya çıkarırlar: düşman krallıkla işbirliği yaparak Calian'ın anavatanını ele geçirmeye çalışmaktadır. Calian'ın yolculuğu sınavlarla doludur, sadakat ve ihanet arasında seçim yapmak zorundadır ve aynı zamanda taht ve ailesiyle ilgili karmaşık duygularıyla yüzleşir.",
+				"Son: Calian sonunda saraya sızar, Edmund'la yüzleşir ve daha büyük bir komployu ortaya çıkarır: Elena aslında düşman krallığın prensesidir ve Calian'ı kendi politik amaçları için kullanmaya çalışmaktadır. Calian onun ihanetini affedip affetmemeye ve tahtı geri almak ya da her şeyi bırakıp özgür bir hayat sürmek arasında karar vermek zorundadır."
+			],
+			"cover_image_url": "resources/covers/story_5_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_5_bg.jpg"
+		},
+		{
+			"id": "story_6",
+			"title": "Hayaletlerin Fısıltısı",
+			"description": "Kasvetli Sis Vadisi kasabasında, genç gazeteci Carter esrarengiz bir kaybolma vakasını araştırırken kazara terk edilmiş bir malikaneye girer. Malikane uğursuz bir atmosferle doludur, hayaletlerin fısıltıları karanlıkta yankılanır ve onlarca yıl öncesinin korkunç sırlarını açığa çıkarır. Carter, malikanenin lanetinin gizemini çözmeli ve gölgelerde gizlenen tehlikelerle yüzleşmelidir - ya hayatta kalacak ya da sonsuza dek hayaletlerin bir parçası olacaktır.",
+			"category_id": 6,
+			"tags": [
+				"Paranormal",
+				"Gizem",
+				"Lanet",
+				"Korku",
+				"Macera"
+			],
+			"plot_direction": [
+				"Başlangıç: Meraklı gazeteci Carter, yıllar önce gerçekleşen kaybolma vakasını araştırmak için Sis Vadisi'ne gelir. İzler, lanetli olduğu söylenen ve içeri girenlerin canlı çıkamadığı terk edilmiş Blackwood Malikânesi'ne götürür. Carter malikânede eski bir günlük bulur, malikânenin sahibi Elizabeth'in trajik kaderini ve 'Kanlı Ay Ritüeli' ile ilgili bir laneti anlatmaktadır. Malikânede tuhaf olaylar yaşanır: hareket eden gölgeler, soğuk dokunuşlar, kulağa gelen fısıltılar, Carter'ın aklını sorgulamasına neden olur.",
+				"Orta: Carter malikâneyi keşfederken, Elizabeth'in hayaleti onu lanetin gerçeğini çözmeye yönlendiriyor gibidir. Diğer karakterlerle tanışır - gizemli gezgin Aiden, malikânenin tarihini bildiğini iddia eden kasabalı Vera ve daha fazlasını biliyor gibi görünen ama belirsiz konuşan polis memuru Lucas. Carter yavaş yavaş lanetin kasabadaki bazı ailelerin karanlık anlaşmalarıyla ilgili olduğunu keşfeder ve Kanlı Ay yaklaşmaktadır, ritüel yeniden başlayacaktır. Gerçek ve korku arasında seçim yapmalı, aynı zamanda malikânedeki giderek aktifleşen kötü ruhlardan kaçınmalıdır.",
+				"Son: Carter lanetin gerçeğini ortaya çıkarır - Elizabeth ailesi tarafından ihanete uğramış, servet ve güç karşılığında ritüelde kurban edilmiştir. Kanlı Ay gecesinde, ya ritüeli bozup kötü ruhları kızdırma riskini almalı ya da birisiyle işbirliği yapıp ritüeli kullanarak laneti tersine çevirmeye çalışmalıdır. Farklı seçimler Carter'ı ya malikâneden kaçmaya, lanet içinde hapsolmaya ya da daha derin komplolar keşfetmeye, hatta ritüelin yeni kurbanı olmaya götürecektir."
+			],
+			"cover_image_url": "resources/covers/story_6_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_6_bg.jpg"
 		}
 	]
 }

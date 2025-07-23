@@ -2,18 +2,33 @@
 	"categories": [
 		{
 			"id": 1,
-			"name": "🎭 Bí ẩn",
-			"description": "Những câu chuyện kinh dị đầy bí ẩn và căng thẳng"
+			"name": "🌆 Đô thị",
+			"description": "Những câu chuyện thú vị diễn ra trong thành phố hiện đại"
 		},
 		{
 			"id": 2,
 			"name": "💘 Lãng mạn",
-			"description": "Những câu chuyện tình yêu đam mê với chiều sâu cảm xúc"
+			"description": "Những câu chuyện tình yêu đầy đam mê với chiều sâu cảm xúc"
 		},
 		{
 			"id": 3,
 			"name": "✨ Huyền ảo",
 			"description": "Cuộc phiêu lưu sử thi đầy phép thuật và điều kỳ diệu"
+		},
+		{
+			"id": 4,
+			"name": "🚀 Khoa học viễn tưởng",
+			"description": "Hành trình kỳ diệu khám phá công nghệ tương lai và vũ trụ chưa biết"
+		},
+		{
+			"id": 5,
+			"name": "👑 Trung cổ",
+			"description": "Câu chuyện hoành tráng về các quốc gia và nhân vật thời trung cổ"
+		},
+		{
+			"id": 6,
+			"name": "🎭 Bí ẩn",
+			"description": "Những câu chuyện kinh dị đầy bí ẩn và căng thẳng"
 		}
 	]
 }

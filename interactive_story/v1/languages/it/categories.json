@@ -2,8 +2,8 @@
 	"categories": [
 		{
 			"id": 1,
-			"name": "🎭 Mistero",
-			"description": "Storie thriller piene di mistero e suspense"
+			"name": "🌆 Urbano",
+			"description": "Storie avvincenti ambientate nella città moderna"
 		},
 		{
 			"id": 2,
@@ -12,8 +12,23 @@
 		},
 		{
 			"id": 3,
-			"name": "✨ Fantastico",
+			"name": "✨ Fantasy",
 			"description": "Avventure epiche piene di magia e meraviglia"
+		},
+		{
+			"id": 4,
+			"name": "🚀 Fantascienza",
+			"description": "Un viaggio meraviglioso alla scoperta della tecnologia futura e dell'universo sconosciuto"
+		},
+		{
+			"id": 5,
+			"name": "👑 Medievale",
+			"description": "Grande narrativa sui paesi e i personaggi medievali"
+		},
+		{
+			"id": 6,
+			"name": "🎭 Mistero",
+			"description": "Storie thriller piene di mistero e suspense"
 		}
 	]
 }

@@ -60,6 +60,67 @@
 			],
 			"cover_image_url": "resources/covers/story_3_cover.jpg",
 			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
+		},
+		{
+			"id": "story_4", 
+			"title": "Tiếng vọng từ vực sao",
+			"description": "Trong tương lai xa xôi, nền văn minh nhân loại phát triển mạnh mẽ trong quá trình thuộc địa hóa không gian, nhưng lại đứng bên bờ vực sụp đổ vì một sự kiện bí ẩn 'Sao Băng'. Nhân vật chính, một hoa tiêu tàu vũ trụ bị lãng quên, tỉnh dậy và thấy mình trên một con tàu bị bỏ hoang, không còn ký ức. Bên cạnh anh là trợ lý AI thông minh, một người phụ nữ lạ tự xưng 'biết tất cả', và những mối đe dọa không ngừng tiến đến, buộc anh phải bắt đầu hành trình tìm kiếm sự thật và bản thân. Trong vũ trụ đầy công nghệ và bí ẩn này, anh sẽ khám phá bí mật của Sao Băng, quyết định là cứu vãn nền văn minh, hay để mọi thứ chìm vào hư vô.",
+			"category_id": 4,
+			"tags": [
+				"Khoa học viễn tưởng",
+				"Bí ẩn",
+				"Phiêu lưu",
+				"Khám phá bản thân",
+				"Trí tuệ nhân tạo"
+			],
+			"plot_direction": [
+				"Mở đầu: Nhân vật chính tỉnh dậy trong khoang ngủ đông của một con tàu vũ trụ bị bỏ hoang, không còn ký ức, chỉ còn những mảnh ký ức mơ hồ: một hành tinh đang cháy và giọng nói thì thầm của một người phụ nữ. Trợ lý AI thông minh Nova gọi anh là 'Captain Ethan' và cảnh báo hệ thống tàu đang sụp đổ. Không lâu sau, một người phụ nữ bí ẩn Ava xuất hiện, tự nhận là đồng đội của anh và dẫn anh thoát khỏi con tàu sắp nổ. Trong quá trình chạy trốn, Ethan phát hiện mình có khả năng điều khiển công nghệ cổ đại bất thường, nhưng điều này cũng thu hút sự truy đuổi của những thế lực không xác định.",
+				"Giữa truyện: Ethan, Ava và Nova du hành qua nhiều hệ sao, tìm kiếm manh mối về sự kiện Sao Băng. Họ phát hiện ra Sao Băng không phải hiện tượng tự nhiên, mà là kết quả của công nghệ cổ đại mất kiểm soát. Ava dần lộ rõ thân phận thật - một đặc vụ bí mật của Liên minh Các vì sao, đang cố gắng sử dụng khả năng của Ethan để kích hoạt 'Nhân Sao', một thiết bị có thể tái tạo vũ trụ. Đồng thời, giấc mơ của Ethan ngày càng rõ ràng, anh bắt đầu nghi ngờ mình từng là một trong những người tạo ra Sao Băng, và Nova dường như đang giấu giếm thông tin quan trọng.",
+				"Kết thúc: Ethan phải đối mặt với sự lựa chọn: có nên kích hoạt Nhân Sao, tái tạo vũ trụ nhưng có thể xóa sổ nền văn minh hiện tại; hay phá hủy nó, bảo vệ hiện tại nhưng để sự thật mãi mãi bị chôn vùi. Động cơ của Ava dần trở nên rõ ràng, cô vừa là đồng minh vừa có thể là kẻ thù. Cuối cùng, thông qua ký ức được phục hồi, Ethan phát hiện ra mình đã từng hy sinh tất cả để ngăn chặn Sao Băng, và Nova là bản sao ý thức của anh, mang trong mình sứ mệnh chưa hoàn thành. Kết thúc phụ thuộc vào lựa chọn của người chơi: hy sinh bản thân để cứu vũ trụ, hay từ bỏ tất cả để tìm kiếm tự do."
+			],
+			"cover_image_url": "resources/covers/story_4_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_4_bg.jpg"
+		},
+		{
+			"id": "story_5",
+			"title": "Vương miện vỡ vụn",
+			"description": "Trong một vương quốc ở châu Âu thời trung cổ, một âm mưu đẩy vị hoàng tử trẻ vào vực thẳm của số phận. Mất quyền kế vị ngai vàng, nhân vật chính phải chu du giữa những quý tộc trung thành Stuart và thường dân, khám phá những bí mật ẩn giấu trong hoàng tộc, tìm lại vinh quang thuộc về mình - hoặc chìm đắm hoàn toàn trong vòng xoáy của quyền lực và phản bội.",
+			"category_id": 5,
+			"tags": [
+				"Trung cổ",
+				"Âm mưu",
+				"Vương quyền",
+				"Phản bội",
+				"Trả thù",
+				"Bí ẩn"
+			],
+			"plot_direction": [
+				"Mở đầu: Nhân vật chính Calian, một hoàng tử bị tước quyền kế vị, bị vu oan là kẻ phản bội trong một cuộc đảo chính cung đình và bị đày đến một thị trấn biên giới. Tại quán rượu trong thị trấn, anh gặp nữ nhạc sĩ lang thang bí ẩn Elena, người dường như biết thân phận thật của Calian nhưng lại giấu giếm mục đích của mình. Calian bắt đầu nghi ngờ sự suy tàn của hoàng tộc còn có uẩn khúc khác, và quyết định bắt đầu hành trình tìm kiếm sự thật và trả thù.",
+				"Giữa truyện: Với sự giúp đỡ của Elena, Calian kết giao với một nhóm quân nổi dậy, bao gồm hiệp sĩ trung thành Roland, tên trộm xảo quyệt Victor và phù thủy thông thái Marian. Họ cùng nhau vạch trần âm mưu của người chú Edmund đã soán ngôi: ông ta đã thông đồng với vương quốc thù địch, âm mưu thôn tính homeland của Calian. Cuộc hành trình của Calian đầy rẫy thử thách, anh phải lựa chọn giữa trung thành và phản bội, đồng thời đối mặt với những cảm xúc phức tạp về ngai vàng và gia đình.",
+				"Kết thúc: Calian cuối cùng đã lẻn vào hoàng cung, đối đầu với Edmund, và phát hiện ra một âm mưu lớn hơn: Elena thực ra là công chúa của vương quốc thù địch, đang cố lợi dụng Calian để đạt được mục đích chính trị của mình. Calian phải quyết định có tha thứ cho sự phản bội của cô hay không, và lựa chọn giữa việc giành lại ngai vàng hay từ bỏ tất cả để theo đuổi cuộc sống tự do."
+			],
+			"cover_image_url": "resources/covers/story_5_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_5_bg.jpg"
+		},
+		{
+			"id": "story_6",
+			"title": "Lời thì thầm của hồn ma",
+			"description": "Tại thị trấn Sương Cốc âm u, một phóng viên trẻ Carter trong quá trình điều tra một vụ mất tích bí ẩn, vô tình lạc vào một dinh thự bỏ hoang. Trong dinh thự tràn ngập bầu không khí không lành, tiếng thì thầm của những hồn ma vang vọng trong bóng tối, tiết lộ những bí mật kinh hoàng từ hàng chục năm trước. Carter phải giải mã bí ẩn về lời nguyền của dinh thự, đối mặt với những nguy hiểm ẩn giấu trong bóng tối để thoát thân - hoặc mãi mãi trở thành một phần của những hồn ma.",
+			"category_id": 6,
+			"tags": [
+				"Siêu nhiên",
+				"Bí ẩn",
+				"Lời nguyền",
+				"Kinh dị",
+				"Phiêu lưu"
+			],
+			"plot_direction": [
+				"Mở đầu: Carter, một phóng viên đầy tò mò, đến thị trấn Sương Cốc để điều tra một vụ mất tích từ nhiều năm trước. Manh mối dẫn đến dinh thự Blackwood bỏ hoang, nơi đồn đại bị nguyền rủa, ai vào cũng không thể sống sót trở ra. Carter tìm thấy trong dinh thự một cuốn nhật ký cổ, ghi lại số phận bi thảm của Elizabeth - chủ nhân dinh thự, cùng một lời nguyền liên quan đến 'Nghi lễ Huyết Nguyệt'. Những hiện tượng kỳ lạ liên tục xảy ra trong dinh thự: bóng đen di chuyển, cảm giác lạnh buốt, tiếng thì thầm bên tai, khiến Carter bắt đầu nghi ngờ sanity của mình.",
+				"Giữa truyện: Carter đi sâu vào dinh thự, phát hiện hồn ma của Elizabeth dường như đang dẫn dắt anh khám phá sự thật về lời nguyền. Anh gặp những nhân vật khác - kẻ lang thang bí ẩn Aiden, dân làng Vera tự nhận biết lịch sử dinh thự, và viên cảnh sát Lucas dường như biết nhiều nhưng nói năng mập mờ. Carter dần phát hiện ra lời nguyền có liên quan đến những thỏa thuận đen tối của một số gia tộc trong thị trấn, và Huyết Nguyệt sắp đến, nghi lễ sẽ được thực hiện lần nữa. Anh phải lựa chọn giữa sự thật và nỗi sợ hãi, đồng thời tránh né những ác linh ngày càng hung hăng trong dinh thự.",
+				"Kết thúc: Carter khám phá ra sự thật về lời nguyền - Elizabeth đã bị gia tộc phản bội, hy sinh trong nghi lễ để đổi lấy của cải và quyền lực. Trong đêm Huyết Nguyệt, anh phải quyết định có phá hủy nghi lễ, chấp nhận rủi ro làm giận dữ ác linh, hay hợp tác với ai đó, cố gắng sử dụng nghi lễ để đảo ngược lời nguyền. Những lựa chọn khác nhau sẽ dẫn đến việc Carter thoát khỏi dinh thự, bị mắc kẹt trong lời nguyền, hoặc phát hiện ra âm mưu sâu xa hơn, thậm chí trở thành vật tế mới cho nghi lễ."
+			],
+			"cover_image_url": "resources/covers/story_6_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_6_bg.jpg"
 		}
 	]
 }

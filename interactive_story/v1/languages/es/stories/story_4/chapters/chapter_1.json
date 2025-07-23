@@ -1,0 +1,127 @@
+{
+	"title": "Susurros del Vacío",
+	"summary": "El protagonista amnésico Ethan despierta en una nave espacial abandonada, enfrentándose al inminente colapso del casco y la aparición de la misteriosa Ava. Debe decidir si confiar en Ava, quedarse para buscar pistas o escapar solo para sobrevivir.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "En la oscuridad, tu conciencia se recompone como fragmentos, como si fueras arrancado de un abismo sin fin. Una estridente alarma perfora tus oídos, mientras una luz roja parpadea en la estrecha cabina. Yaces en una fría cápsula de hibernación, tu cuerpo pesado, tu mente vacía como si hubiera sido vaciada. Te rodean paredes metálicas extrañas, el aire impregnado con el olor a circuitos quemados."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Gimiendo suavemente, intentando levantarse) ¿Dónde... estoy? ¿Quién... quién soy?"
+		},
+		{
+			"type": "narrator",
+			"content": "Te esfuerzas por sentarte, con la visión borrosa, mientras la cubierta de cristal de la cápsula de hibernación se abre lentamente. Un suave resplandor azul emerge del implante en tu brazo, proyectando un holograma: una mujer de cabello plateado, con mirada serena pero voz urgente."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Con voz clara y mecánicamente estable) Bienvenido de nuevo, Captain Ethan. Se detecta un inminente colapso del sistema del casco. Se recomienda evacuación inmediata."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Frunciendo el ceño, intentando recordar) ¿Captain? ¿Ethan? Esto no significa nada para mí... ¿Quién eres? ¿Por qué me llamas así?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(El holograma parpadea levemente, tono invariable) Soy Nova, tu asistente de navegación AI. Tu memoria está dañada debido a un mal funcionamiento de la cápsula de hibernación, pero no hay tiempo para discutir. El casco se desintegrará en 17 minutos."
+		},
+		{
+			"type": "narrator",
+			"content": "Antes de que puedas procesar esta información, la escotilla se abre de golpe. Una mujer entra, ágil y atlética, con ojos verdes brillando en la tenue luz. Viste un traje de combate ajustado y empuña una daga de energía brillante, con una leve sonrisa apenas perceptible en su rostro."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Con tono ligero y un toque de burla) ¿Dormiste lo suficiente, Ethan? Soy Ava, tu compañera. Debemos irnos rápido o nos convertiremos en polvo estelar."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Retrocediendo con cautela, mirándola fijamente) ¿Compañera? No te recuerdo. ¿Cómo sabes mi nombre?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Encogiéndose de hombros, sin perder la sonrisa) ¿Amnesia? Qué molestia. Confía en mí, somos viejos amigos. La nave va a explotar, ven conmigo, te explicaré todo."
+		},
+		{
+			"type": "narrator",
+			"content": "Su voz rebosa confianza, pero captas un destello de duda en sus ojos. Las alarmas de la nave se vuelven más urgentes, el suelo tiembla levemente, recordándote que el tiempo se agota. Sientes que el implante en tu brazo se calienta ligeramente, como respondiendo a alguna señal desconocida."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Murmurando, intentando aferrarte a fragmentos de memoria) ¿Por qué siento que... algo no está bien?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(El holograma se gira hacia Ava, con tono de sospecha) Ava, no se detecta autenticación de identidad. Se recomienda precaución, Captain."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Riendo suavemente, haciendo un gesto con la mano) No escuches a esta chatarra de circuitos. Ethan, ¡tenemos que irnos, ahora!"
+		},
+		{
+			"type": "narrator",
+			"content": "Te quedas inmóvil mientras una imagen borrosa cruza tu mente: un planeta en llamas, una voz femenina susurrando tu nombre. La presencia de Ava te inquieta instintivamente, pero quedarte aquí claramente no es una opción sensata. ¿Qué deberías hacer?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Respirando profundamente, intentando mantener la calma) Bien... dime, Ava, ¿quién eres realmente? ¿Por qué siento que sabes más de lo que dices?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Con un destello en los ojos, tono serio) No es momento de preguntas, Ethan. Confía en mí o quédate aquí a morir. Tú eliges."
+		},
+		{
+			"type": "narrator",
+			"content": "Las alarmas se vuelven más estridentes, el casco comienza a vibrar violentamente. Debes tomar una decisión rápida. Los ojos de Ava ocultan secretos, las advertencias de Nova resuenan en tus oídos, y en lo profundo de tu ser, una voz parece urgirte a buscar la verdad."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Añadiendo con calma) Detectada interferencia de señal externa, posible aproximación de nave desconocida. Se recomienda acción inmediata."
+		},
+		{
+			"type": "narrator",
+			"content": "Sientes la urgencia del tiempo, pero la niebla en tu mente se hace más densa. ¿Confiar en Ava y seguirla? ¿Quedarte para buscar más pistas? ¿O arriesgarte a escapar solo, buscando tus propias respuestas?"
+		}
+	],
+	"choice": {
+		"prompt": "¿Qué vas a elegir?",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Confiar en Ava y seguirla fuera de la nave"
+			},
+			{
+				"content": "Quedarte en la nave, buscar pistas en la cápsula de hibernación o el puente"
+			},
+			{
+				"content": "Ignorar a Ava y buscar una cápsula de escape por tu cuenta"
+			}
+		]
+	}
+}

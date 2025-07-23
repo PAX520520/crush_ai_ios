@@ -1,0 +1,84 @@
+{
+	"story_id": "story_5",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Calian",
+			"description": "Tahttan mahrum bırakılan genç prens, asıl adı Calian Valencia, intikam ve kurtuluş misyonunu üstleniyor.",
+			"avatar_url": "/resources/characters/story_5/calian.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 22,
+			"personality": [
+				"Dayanıklı",
+				"Zeki",
+				"İç çelişkili",
+				"Adalete susamış ama insan doğasından şüpheli"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Elina",
+			"description": "Gizemli bir ozan, aslında düşman ülkenin prensesi, kılık değiştirme ve kalpleri manipüle etmede usta, içinde barışa dair bir umut taşıyor.",
+			"avatar_url": "/resources/characters/story_5/elina.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 20,
+			"personality": [
+				"Kurnaz",
+				"Büyüleyici",
+				"Karmaşık",
+				"Gerçek duygularını gizlemekte usta"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Roland",
+			"description": "Sadık şövalye, bir zamanlar Calian'ın muhafızıydı, prense son derece bağlı.",
+			"avatar_url": "/resources/characters/story_5/roland.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Dürüst",
+				"Cesur",
+				"İnatçı"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Victor",
+			"description": "Kurnaz bir hırsız, hırsızlık ve istihbarat toplamada usta, Calian'ın idealizmine karşı şüpheci.",
+			"avatar_url": "/resources/characters/story_5/victor.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 28,
+			"personality": [
+				"Zeki",
+				"Umursamaz",
+				"Sadakati şüpheli"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Marian",
+			"description": "Bilge cadı, eski büyülere hakim, ormanda inzivada yaşıyor, kraliyet sırlarını biliyor.",
+			"avatar_url": "/resources/characters/story_5/marian.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 40,
+			"personality": [
+				"Sakin",
+				"Gizemli",
+				"Sezgileri güçlü"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Sürgünün Dönüş Yolu"
+		}
+	]
+}

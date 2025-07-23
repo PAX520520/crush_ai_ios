@@ -1,0 +1,127 @@
+{
+	"title": "Boşluğun Fısıltıları",
+	"summary": "Hafızasını kaybeden kahraman Ethan, terk edilmiş bir uzay gemisinde uyanır ve çökmek üzere olan gemi gövdesi ve gizemli kadın Ava'nın ortaya çıkışıyla yüzleşir. Ava'ya güvenip güvenmemeye, gemide kalıp ipuçları aramaya veya hayatta kalmak için tek başına kaçmaya karar vermek zorundadır.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Karanlıkta, bilincin parçalar halinde bir araya geliyor, sonsuz bir uçurumdan zorla geri çekilmiş gibi. Kulak zarını delen alarm sesleri, dar kabinde yanıp sönen kırmızı ışıklar. Soğuk uyku kapsülünde yatıyorsun, vücudun ağır, zihnin boşaltılmış gibi bomboş. Etrafında yabancı metal duvarlar, havada yanık devre kokusu var."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Alçak sesle inleyerek, kalkmaya çalışarak) Burası... neresi? Ben... ben kimim?"
+		},
+		{
+			"type": "narrator",
+			"content": "Zorlukla doğruluyorsun, görüşün bulanık, uyku kapsülünün cam kapağı yavaşça açılıyor. Kolundaki implanttan yumuşak bir mavi ışık yayılıyor ve bir hologram yansıtıyor - gümüş saçlı bir kadın, bakışları sakin ama sesi telaşlı."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Net bir ses, mekanik bir sakinlikle) Hoş geldiniz, Kaptan Ethan. Gemi sistemlerinin çökmek üzere olduğu tespit edildi, derhal tahliye önerilir."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Kaşlarını çatarak, hatırlamaya çalışarak) Kaptan? Ethan? Bunların benim için hiçbir anlamı yok... Sen kimsin? Neden bana bu isimle sesleniyorsun?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Hologram hafifçe titreşiyor, ses tonu değişmiyor) Ben Nova, senin navigasyon AI asistanınım. Hafızan uyku kapsülü arızası nedeniyle hasar gördü, ama şimdi tartışma zamanı değil. Gemi 17 dakika içinde parçalanacak."
+		},
+		{
+			"type": "narrator",
+			"content": "Bu bilgileri sindirmeye fırsat bulamadan, kabin kapısı aniden zorla açıldı. Bir kadın içeri girdi, çevik bir duruşu vardı, yeşil gözleri loş ışıkta parlıyordu. Dar bir savaş giysisi giymiş, elinde parlayan bir enerji hançeri tutuyordu, yüzünde belli belirsiz bir gülümseme vardı."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Neşeli bir tonla, hafif alaycı) Yeterince uyudun, Ethan? Ben Ava, ortağınım. Hızlı hareket etmeliyiz, yoksa hepimiz kozmik toza dönüşeceğiz."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Tetikte bir adım geri çekilerek, ona bakarak) Ortak? Seni hatırlamıyorum. Adımı nereden biliyorsun?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Omuz silkerek, gülümsemesi devam ediyor) Hafıza kaybı mı? Ne sıkıntı. Bana güven, biz eski dostuz. Bu gemi patlamak üzere, benimle gel, her şeyi açıklayacağım."
+		},
+		{
+			"type": "narrator",
+			"content": "Sesi kendinden emin, ama gözlerinde bir anlık tereddüt yakaladın. Gemideki alarm sesleri giderek artıyor, zemin hafifçe titriyor, zamanın azaldığını hatırlatıyor. Kolundaki implantın hafifçe ısındığını hissediyorsun, sanki bilinmeyen bir sinyale yanıt veriyor gibi."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Kendi kendine mırıldanarak, zihnindeki parçaları yakalamaya çalışarak) Neden hissediyorum ki... bir şeyler yanlış?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Hologram Ava'ya dönerek, şüpheli bir tonla) Ava, kimlik doğrulaman tespit edilemedi. Kaptan'a dikkatli olmasını öneririm."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Hafifçe gülerek, el sallayarak) Bu elektronik saçmalığı dinleme. Ethan, gitmemiz gerek, şimdi!"
+		},
+		{
+			"type": "narrator",
+			"content": "Olduğun yerde duruyorsun, zihninde bulanık bir görüntü beliriyor: yanan bir gezegen, ismini fısıldayan bir kadın sesi. Ava'nın varlığı içgüdüsel olarak seni rahatsız ediyor, ama burada kalmak da açıkça akıllıca değil. Ne yapmalısın?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Derin bir nefes alarak, sakin kalmaya çalışarak) Pekala... söyle bana, Ava, sen gerçekten kimsin? Neden söylediğinden daha fazlasını bildiğini hissediyorum?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Gözleri parlayarak, ciddi bir tona bürünerek) Şimdi soru sorma zamanı değil, Ethan. Bana güven, ya da kalıp öl. Sen seç."
+		},
+		{
+			"type": "narrator",
+			"content": "Alarm sesleri giderek daha keskin hale geliyor, gemi gövdesi şiddetle sarsılmaya başlıyor. Hızlı bir karar vermen gerekiyor. Ava'nın gözlerinde sırlar saklı, Nova'nın uyarısı kulaklarında çınlıyor ve içinde bir ses seni gerçeği aramaya teşvik ediyor."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Sakin bir şekilde ekleyerek) Dış sinyal paraziti tespit edildi, bilinmeyen gemiler yaklaşıyor olabilir. Derhal harekete geçmeniz önerilir."
+		},
+		{
+			"type": "narrator",
+			"content": "Zamanın daraldığını hissediyorsun, ama zihnindeki sis giderek yoğunlaşıyor. Ava'ya güvenip onunla gitmelisin mi? Yoksa daha fazla ipucu aramak için gemide kalmalı mısın? Ya da tek başına kaçıp kendi cevaplarını mı aramalısın?"
+		}
+	],
+	"choice": {
+		"prompt": "Nasıl seçim yapacaksın",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Ava'ya güven ve onunla birlikte gemiyi terk et"
+			},
+			{
+				"content": "Gemide kal, uyku kapsülünü veya köprüyü arayarak ipuçları bul"
+			},
+			{
+				"content": "Ava'yı görmezden gel, tek başına firar kapsülünü bul ve kaç"
+			}
+		]
+	}
+}

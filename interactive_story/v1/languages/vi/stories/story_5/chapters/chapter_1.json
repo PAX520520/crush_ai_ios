@@ -1,0 +1,113 @@
+{
+	"title": "Con đường trở về của kẻ lưu đày",
+	"summary": "Calian tỉnh dậy trong một quán rượu ở thị trấn biên giới, nhận ra mình đã bị tước đoạt ngai vàng và bị lưu đày. Anh gặp Elina, một nữ nghệ sĩ lang thang bí ẩn, người dường như biết danh tính của anh nhưng lại nói năng mập mờ. Calian phải đối mặt với sự lựa chọn: tin tưởng Elina và đi theo cô ấy tìm kiếm sự thật; hành động một mình, mạo hiểm quay về kinh thành; hoặc ở lại thị trấn, che giấu thân phận.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Đêm đen như mực, mùi bia và mồ hôi tràn ngập trong quán rượu ở thị trấn biên giới. Ánh nến mờ nhảy múa trên bàn gỗ, soi sáng một gương mặt tiều tụy nhưng điển trai. Calian Valencia, từng là hoàng tử, giờ chỉ là một kẻ lang thang khoác chiếc áo choàng rách nát, ngồi ở góc phòng, ánh mắt trống rỗng nhìn chằm chằm vào ly rượu trống không trong tay."
+		},
+		{
+			"type": "narrator",
+			"content": "Điều cuối cùng anh nhớ được là bữa tiệc trong cung điện, giữa tiếng ly chén chạm nhau, nụ cười của người chú Edmund mang một chút xảo quyệt. Sau đó là bóng tối, và tiếp theo là bản án lưu đày. Anh không biết tại sao mình bị buộc tội phản quốc, cũng không biết làm sao mình lại đến được thị trấn hoang vắng này."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(Lẩm bẩm, nắm chặt ly rượu) Ta là ai? Tại sao ta lại ở đây?"
+		},
+		{
+			"type": "narrator",
+			"content": "Cửa quán rượu bị đẩy ra, gió lạnh cuốn theo những hạt mưa thổi vào. Một bóng người bước vào, khoác áo choàng xanh lá, tay ôm một cây đàn hạc. Cô ta tháo mũ trùm, để lộ mái tóc vàng rực rỡ như ánh trăng. Sự xuất hiện của cô khiến quán rượu lập tức im lặng, mọi người đều nhìn chằm chằm vào cô."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(Bước về phía Calian, giọng trong như suối) Trông ngài như người đã đánh mất linh hồn vậy, người lạ ạ."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(Ngẩng đầu cảnh giác, ánh mắt sắc lẹm) Ngươi biết ta?"
+		},
+		{
+			"type": "narrator",
+			"content": "Nụ cười của cô mang chút tinh nghịch, như thể đã nhìn thấu bí mật của anh. Cô ngồi xuống đối diện Calian, khẽ gảy đàn hạc, dây đàn phát ra tiếng ngân nhẹ."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(Nói nhẹ nhàng, ánh mắt lấp lánh ranh mãnh) Có lẽ vậy. Calian Valencia, ngôi sao thất lạc của vương quốc Valencia, phải không?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(Đứng bật dậy, tay đặt trên chuôi kiếm) Ngươi là ai? Sao ngươi biết tên ta?"
+		},
+		{
+			"type": "narrator",
+			"content": "Những người trong quán rượu bắt đầu xì xào, Calian cảm thấy một áp lực vô hình. Tay anh hơi run, không phải vì sợ hãi, mà vì cái tên đã lâu không nghe ấy đã đánh thức cơn giận trong lòng anh."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(Giơ hai tay lên, tỏ ý vô hại) Bình tĩnh, Điện hạ. Tôi là Elina, một nghệ sĩ lang thang. Tôi biết nhiều chuyện, ví dụ như... cách chú Edmund của ngài đã cướp ngôi như thế nào."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(Giọng trầm xuống, đầy nghi ngờ) Ngươi muốn ta tin ngươi? Một người phụ nữ mới gặp?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(Mỉm cười, giọng mang chút thách thức) Tôi không ép buộc ngài tin tưởng, nhưng tôi có thể dẫn ngài đến với sự thật. Hoặc, ngài có thể tiếp tục ngồi đây uống rượu giải sầu, cho đến khi bị người khác nhận ra."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian nhìn chằm chằm vào cô, cố gắng đọc hiểu đôi mắt xanh biếc kia. Giọng nói của cô chân thành, nhưng nụ cười ấy lại khó đoán. Nội tâm anh giằng xé: cô ta có thể là đồng minh, nhưng cũng có thể là cái bẫy."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(Từ từ ngồi xuống, giọng lạnh lùng) Nếu ngươi lừa ta, ngươi sẽ phải hối hận."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(Cười nhẹ, gảy đàn) Một thỏa thuận công bằng, Điện hạ. Chúng ta sẽ khởi hành vào sáng mai, đến Rừng Đen. Có người đang đợi ngài ở đó."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian cảm thấy một luồng hơi lạnh. Rừng Đen, vùng đất cấm đầy truyền thuyết ấy, rốt cuộc đang ẩn giấu điều gì? Danh tính và mục đích của Elina vẫn là một bí ẩn, nhưng anh không còn lựa chọn nào khác."
+		},
+		{
+			"type": "narrator",
+			"content": "Đêm đã khuya, tiếng ồn ào trong quán rượu dần lắng xuống. Calian nhìn ra cơn bão bên ngoài cửa sổ, trong lòng le lói một tia hy vọng - hoặc, có thể là một mối nguy hiểm lớn hơn."
+		}
+	],
+	"choice": {
+		"title": "Lựa chọn của bạn",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Tin tưởng Elina và đi theo cô ấy đến Rừng Đen."
+			},
+			{
+				"content": "Từ chối Elina, một mình lẻn về kinh thành tìm kiếm sự thật."
+			},
+			{
+				"content": "Ở lại thị trấn, che giấu thân phận và điều tra bí mật."
+			}
+		]
+	}
+}

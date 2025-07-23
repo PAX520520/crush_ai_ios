@@ -1,0 +1,113 @@
+{
+	"title": "De Terugkeer van de Banneling",
+	"summary": "Calian wordt wakker in een herberg in een grensstad en realiseert zich dat hij van zijn troon is beroofd en verbannen. Hij ontmoet de mysterieuze bard Elina, die zijn identiteit lijkt te kennen maar vaag blijft. Calian staat voor een keuze: Elina vertrouwen en haar volgen om de waarheid te vinden; alleen handelen en terug naar de hoofdstad sluipen; of in de stad blijven en zijn identiteit verbergen.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "De nacht was inktzwart, en de geur van bier en zweet hing in de herberg aan de grens. Kaarslicht danste op de houten tafels en verlichtte een uitgeput maar knap gezicht. Calian Valencia, ooit een prins, nu niet meer dan een zwerver in een gescheurde mantel, zat in een hoek, starend met lege ogen naar zijn lege glas."
+		},
+		{
+			"type": "narrator",
+			"content": "Het laatste wat hij zich herinnerde was het feest in het paleis, waar tussen het geklink van glazen door zijn oom Edmund's glimlach iets kwaadaardigs had. Daarna duisternis, gevolgd door het vonnis tot verbanning. Hij wist niet waarom hij van verraad was beschuldigd, noch hoe hij in dit desolate stadje terecht was gekomen."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(mompelend, het glas stevig vasthoudend) Wie ben ik? Waarom ben ik hier?"
+		},
+		{
+			"type": "narrator",
+			"content": "De deur van de herberg werd opengeduwd, koude wind en regen waaiden naar binnen. Een figuur stapte binnen, gehuld in een groene mantel, met een harp in de armen. Ze deed haar kap af en onthulde goudblond haar, stralend als maanlicht. Haar verschijning bracht de herberg tot stilte, alle ogen waren op haar gericht."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(naar Calian lopend, haar stem als een heldere beek) Je ziet eruit als iemand die zijn ziel heeft verloren, vreemdeling."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(alert opkijkend, met scherpe blik) Ken je mij?"
+		},
+		{
+			"type": "narrator",
+			"content": "Haar glimlach had iets plagerigs, alsof ze zijn geheimen al kende. Ze ging tegenover Calian zitten en tokkelde even op haar harp, die een zachte toon voortbracht."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(zacht sprekend, met een slimme blik in haar ogen) Misschien. Calian Valencia, de verloren ster van het koninkrijk Valencia, nietwaar?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(plotseling opstaand, hand op zijn zwaard) Wie ben jij? Hoe weet je mijn naam?"
+		},
+		{
+			"type": "narrator",
+			"content": "De mensen in de herberg begonnen te fluisteren, en Calian voelde een onzichtbare druk. Zijn hand trilde licht, niet van angst, maar omdat die lang vergeten naam de woede in zijn hart weer deed oplaaien."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(haar handen opheffend in een vredelievend gebaar) Rustig, Uwe Hoogheid. Ik ben Elina, een zwervende bard. Ik weet veel dingen, zoals... hoe je oom Edmund de troon heeft gestolen."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(met diepe, wantrouwende stem) Je verwacht dat ik je vertrouw? Een vrouw die ik net heb ontmoet?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(glimlachend, met een uitdagende toon) Ik vraag niet om vertrouwen, maar ik kan je naar de waarheid leiden. Of je kunt hier blijven zitten drinken tot iemand je herkent."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian staarde naar haar, probeerde die helderblauwe ogen te doorgronden. Haar toon was oprecht, maar die glimlach was ondoorgrondelijk. Hij worstelde innerlijk: ze kon een bondgenoot zijn, of een val."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(langzaam zittend, met harde stem) Als je me bedriegt, zul je er spijt van krijgen."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(lachend, tokkelend op haar harp) Een eerlijke deal, Uwe Hoogheid. We vertrekken morgenochtend vroeg naar het Zwarte Woud. Iemand wacht daar op je."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian voelde een rilling. Het Zwarte Woud, dat verboden gebied vol legendes, wat verborg het? Elina's identiteit en motieven waren een mysterie, maar hij had geen andere keus."
+		},
+		{
+			"type": "narrator",
+			"content": "De nacht vorderde en het rumoer in de herberg verstomde. Calian keek naar de storm buiten het raam, terwijl er een sprankje hoop in zijn hart ontstak - of misschien nog groter gevaar."
+		}
+	],
+	"choice": {
+		"title": "Jouw Keuze",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Vertrouw Elina en volg haar naar het Zwarte Woud."
+			},
+			{
+				"content": "Weiger Elina's hulp en sluip alleen terug naar de hoofdstad om de waarheid te zoeken."
+			},
+			{
+				"content": "Blijf in de stad, verberg je identiteit en doe heimelijk onderzoek."
+			}
+		]
+	}
+}

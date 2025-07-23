@@ -1,0 +1,113 @@
+{
+	"title": "Karkotetun paluu",
+	"summary": "Calian herää rajakaupungin kapakassa ja tajuaa menettäneensä valtaistuimensa ja tulleensa karkotetuksi. Hän tapaa salaperäisen trubaduuri Elinan, joka näyttää tietävän hänen henkilöllisyytensä, mutta puhuu arvoituksellisesti. Calian kohtaa valinnan: luottaako Elinaan ja seurata häntä totuuden löytämiseksi, toimia yksin ja hiipiä takaisin pääkaupunkiin, vai jäädä kaupunkiin piilottaen henkilöllisyytensä.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Yö on musta kuin muste, ja rajakaupungin kapakassa leijuu oluen ja hien tuoksu. Himmeä kynttilänvalo tanssii puupöydällä, valaisten uupuneet mutta komeat kasvot. Calian Valencia, entinen prinssi, nyt vain repaleiseen viittaan pukeutunut kulkuri, istuu nurkassa tuijottaen tyhjin silmin tyhjää lasiaan."
+		},
+		{
+			"type": "narrator",
+			"content": "Viimeinen asia, jonka hän muistaa, on palatsin juhla, jossa hänen setänsä Edmondin hymy oli aavistuksen pahaenteinen maljojen kilistelyn keskellä. Sitten tuli pimeys ja karkotustuomio. Hän ei tiedä, miksi häntä syytettiin maanpetoksesta tai miten hän päätyi tähän autioon kaupunkiin."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(mutisee hiljaa, puristaen lasia) Kuka minä olen? Miksi olen täällä?"
+		},
+		{
+			"type": "narrator",
+			"content": "Kapakan ovi työntyy auki, ja kylmä tuuli pyöräyttää sadepisarat sisään. Hahmo astuu sisään vihreään viittaan pukeutuneena, sylissään harppu. Hän riisuu huppunsa paljastaen kultaiset hiuksensa, jotka hohtavat kuin kuunvalo. Hänen saapumisensa hiljentää kapakan, kaikki tuijottavat häntä."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(kävelee Caliania kohti, ääni kuin kirkas puro) Näytät siltä kuin olisit kadottanut sielusi, muukalainen."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(nostaa päänsä valppaana, katse terävä) Tunnetko minut?"
+		},
+		{
+			"type": "narrator",
+			"content": "Hänen hymynsä on leikkisä, kuin hän olisi jo nähnyt läpi salaisuuden. Hän istuutuu Calianin vastapäätä ja näppäilee harppua, joka päästää hiljaisen äänen."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(sanoo hiljaa, silmissä viekas pilke) Ehkäpä. Calian Valencia, Valencian kuningaskunnan kadonnut tähti, vai mitä?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(nousee äkisti, käsi miekankahvalla) Kuka oikein olet? Miksi tiedät nimeni?"
+		},
+		{
+			"type": "narrator",
+			"content": "Kapakan asiakkaat alkavat kuiskutella, ja Calian tuntee näkymättömän paineen. Hänen kätensä tärisee hieman, ei pelosta, vaan koska kauan unohdettu nimi herättää vihan hänen sydämessään."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(nostaa kätensä osoittaen vaarattomuutta) Rauhoittukaa, teidän korkeutenne. Olen Elina, vaeltava trubaduuri. Tiedän paljon asioita, kuten... miten setänne Edmond kaappasi vallan."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(ääni matala, epäilevä) Haluat minun luottavan sinuun? Juuri tapaamaani naiseen?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(hymyilee, äänessä haastetta) En vaadi luottamusta, mutta voin johdattaa sinut totuuden luo. Tai voit jatkaa täällä juomista, kunnes joku tunnistaa sinut."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian tuijottaa häntä yrittäen lukea noita sinisiä silmiä. Hänen äänensävynsä on vilpitön, mutta tuo hymy on arvoituksellinen. Hänen sisällään käy taistelu: nainen voi olla liittolainen tai ansa."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(istuutuu hitaasti, ääni kylmä) Jos huijaat minua, saat katua."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(naurahtaa, näppäilee harppua) Reilu kauppa, teidän korkeutenne. Lähdemme huomenna aamunkoitteessa Mustaan metsään. Joku odottaa teitä siellä."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian tuntee kylmän väristyksen. Musta metsä, tuo legendojen kielletty paikka, mitä se kätkee sisäänsä? Elinan henkilöllisyys ja tarkoitusperät ovat mysteeri, mutta hänellä ei ole vaihtoehtoja."
+		},
+		{
+			"type": "narrator",
+			"content": "Yö syvenee, ja kapakan hälinä vaimenee. Calian katsoo ulos myrskyyn, ja hänen sydämessään syttyy toivon kipinä – tai ehkä suurempi vaara."
+		}
+	],
+	"choice": {
+		"title": "Valintasi",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Luota Elinaan ja seuraa häntä Mustaan metsään."
+			},
+			{
+				"content": "Kieltäydy Elinasta ja hiivi yksin takaisin pääkaupunkiin etsimään totuutta."
+			},
+			{
+				"content": "Jää kaupunkiin, piilota henkilöllisyytesi ja tutki salaa."
+			}
+		]
+	}
+}

@@ -1,0 +1,84 @@
+{
+	"story_id": "story_5",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Calian",
+			"description": "Een jonge prins die van zijn troon is beroofd, geboren als Calian Valencia, belast met een missie van wraak en verlossing.",
+			"avatar_url": "/resources/characters/story_5/calian.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 22,
+			"personality": [
+				"Veerkrachtig",
+				"Intelligent",
+				"Innerlijk conflict",
+				"Verlangt naar rechtvaardigheid maar twijfelt aan de menselijke natuur"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Elina",
+			"description": "Een mysterieuze troubadour, in werkelijkheid een vijandelijke prinses, bedreven in vermomming en manipulatie, maar koestert stiekem hoop op vrede.",
+			"avatar_url": "/resources/characters/story_5/elina.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 20,
+			"personality": [
+				"Slim",
+				"Betoverend",
+				"Complex",
+				"Goed in het verbergen van ware gevoelens"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Roland",
+			"description": "Een trouwe ridder, voormalig bewaker van Calian, onwrikbaar loyaal aan de prins.",
+			"avatar_url": "/resources/characters/story_5/roland.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Rechtschapen",
+				"Moedig",
+				"Koppig"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Victor",
+			"description": "Een sluwe dief, bedreven in diefstal en het verzamelen van informatie, sceptisch over Calians idealisme.",
+			"avatar_url": "/resources/characters/story_5/victor.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 28,
+			"personality": [
+				"Schrander",
+				"Cynisch",
+				"Twijfelachtige loyaliteit"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Marian",
+			"description": "Een wijze heks die oude magie beheerst, leeft afgezonderd in het bos en kent de geheimen van het koninklijk huis.",
+			"avatar_url": "/resources/characters/story_5/marian.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 40,
+			"personality": [
+				"Kalm",
+				"Mysterieus",
+				"Scherp inzicht"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "De terugkeer van de banneling"
+		}
+	]
+}

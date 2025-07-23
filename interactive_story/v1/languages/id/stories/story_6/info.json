@@ -1,0 +1,87 @@
+{
+	"story_id": "story_6",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Carter",
+			"description": "Seorang jurnalis muda yang keras kepala yang menjadikan pencarian kebenaran sebagai prinsip hidupnya. Dia datang ke Kota Kabut untuk menyelidiki kasus orang hilang, tetapi secara tidak terduga terlibat dalam kejadian supernatural.",
+			"avatar_url": "/resources/characters/story_6/carter.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 27,
+			"personality": [
+				"Penasaran",
+				"Berani",
+				"Keras kepala",
+				"Pemikiran logis tapi skeptis terhadap fenomena supernatural"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Eliza",
+			"description": "Mantan pemilik Manor Blackwood yang dikhianati oleh keluarganya seratus tahun yang lalu dan dijadikan persembahan dalam ritual bulan darah. Arwahnya berkeliaran di manor, berusaha memecahkan kutukan melalui Carter, namun motifnya tampaknya tidak murni.",
+			"avatar_url": "/resources/characters/story_6/eliza.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"Sedih",
+				"Misterius",
+				"Kompleks",
+				"Memiliki keinginan untuk meminta bantuan sekaligus amarah untuk membalas dendam"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Aiden",
+			"description": "Seorang pengembara penyendiri yang sering berkeliaran di sekitar Kota Kabut, mengklaim mengetahui rahasia manor. Identitas dan motif sebenarnya tidak jelas.",
+			"avatar_url": "/resources/characters/story_6/aiden.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Pendiam",
+				"Hati-hati",
+				"Cerdik",
+				"Tampaknya terbiasa dengan fenomena supernatural"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Vera",
+			"description": "Penduduk tua Kota Kabut yang mengaku sebagai sejarawan, sangat mengetahui masa lalu manor, tetapi ceritanya selalu ada yang disembunyikan, seolah menyimpan beberapa rahasia.",
+			"avatar_url": "/resources/characters/story_6/vera.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 60,
+			"personality": [
+				"Bijaksana",
+				"Misterius",
+				"Hati-hati",
+				"Kata-katanya mengandung nada peringatan"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Lucas",
+			"description": "Petugas polisi Kota Kabut yang bertanggung jawab menyelidiki kasus orang hilang, skeptis terhadap kedatangan Carter. Perilakunya menunjukkan bahwa dia tahu tentang rumor manor tetapi enggan membahasnya lebih dalam.",
+			"avatar_url": "/resources/characters/story_6/lucas.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"Serius",
+				"Waspada",
+				"Konservatif",
+				"Bersikap ambigu terhadap fenomena supernatural"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Manor dalam Kabut"
+		}
+	]
+}

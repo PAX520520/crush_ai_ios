@@ -1,0 +1,87 @@
+{
+	"story_id": "story_6",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Carter",
+			"description": "Un joven y terco periodista cuyo principio de vida es buscar la verdad. Llega al pueblo de Valle Brumoso para investigar un caso de desaparición, pero accidentalmente se ve envuelto en eventos paranormales.",
+			"avatar_url": "/resources/characters/story_6/carter.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 27,
+			"personality": [
+				"curioso",
+				"valiente",
+				"terco",
+				"pensamiento lógico pero escéptico de lo paranormal"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Eliza",
+			"description": "La antigua dueña de la Mansión Blackwood, traicionada por su familia hace un siglo y convertida en sacrificio para el ritual de la luna de sangre. Su espíritu vaga por la mansión, intentando romper la maldición a través de Carter, pero sus motivos no parecen ser puros.",
+			"avatar_url": "/resources/characters/story_6/eliza.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"melancólica",
+				"misteriosa",
+				"compleja",
+				"dividida entre el deseo de ayuda y la sed de venganza"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Aiden",
+			"description": "Un vagabundo solitario que merodea cerca del Valle Brumoso, afirmando conocer los secretos de la mansión. Su verdadera identidad y motivos son poco claros.",
+			"avatar_url": "/resources/characters/story_6/aiden.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"taciturno",
+				"cauteloso",
+				"astuto",
+				"parece estar acostumbrado a los fenómenos paranormales"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Vera",
+			"description": "Una anciana residente del Valle Brumoso que se proclama historiadora y conoce mucho sobre el pasado de la mansión, pero sus relatos siempre parecen tener reservas, como si ocultara ciertos secretos.",
+			"avatar_url": "/resources/characters/story_6/vera.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 60,
+			"personality": [
+				"sabia",
+				"misteriosa",
+				"cautelosa",
+				"sus palabras tienen un tono de advertencia"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Lucas",
+			"description": "El oficial de policía del Valle Brumoso, encargado de investigar las desapariciones, se muestra escéptico ante la llegada de Carter. Su comportamiento sugiere que conoce los rumores sobre la mansión, pero es reacio a profundizar en ellos.",
+			"avatar_url": "/resources/characters/story_6/lucas.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"serio",
+				"vigilante",
+				"conservador",
+				"ambivalente hacia los fenómenos paranormales"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "La Mansión en la Niebla"
+		}
+	]
+}

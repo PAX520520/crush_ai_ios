@@ -60,6 +60,67 @@
 			],
 			"cover_image_url": "resources/covers/story_3_cover.jpg",
 			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
+		},
+		{
+			"id": "story_4",
+			"title": "L'Eco dell'Abisso Stellare",
+			"description": "In un lontano futuro, la civiltà umana prospera nella colonizzazione interstellare, ma si trova sull'orlo del collasso a causa di un misterioso evento chiamato 'Caduta Stellare'. Il protagonista, un navigatore stellare dimenticato, si sveglia su una nave spaziale abbandonata senza memoria. Accompagnato da un assistente AI, una misteriosa donna che afferma di 'sapere tutto' e minacce sconosciute che si avvicinano, è costretto a intraprendere un viaggio alla ricerca della verità e di se stesso. In questo universo pieno di tecnologia e mistero, svelerà il segreto della Caduta Stellare, decidendo se salvare la civiltà o lasciare che tutto torni al nulla.",
+			"category_id": 4,
+			"tags": [
+				"Fantascienza",
+				"Mistero",
+				"Avventura",
+				"Scoperta di sé",
+				"Intelligenza Artificiale"
+			],
+			"plot_direction": [
+				"Inizio: Il protagonista si sveglia in una capsula criogenica su una nave spaziale abbandonata, senza memoria, con solo frammenti di sogni sfocati: un pianeta in fiamme e una voce femminile sussurrante. Il suo assistente AI Nova lo chiama 'Captain Ethan' e lo avverte che i sistemi della nave stanno collassando. Presto appare una misteriosa donna, Ava, che afferma di essere la sua partner e lo guida nella fuga dalla nave in procinto di esplodere. Durante la fuga, Ethan scopre di possedere una strana abilità di controllare l'antica tecnologia, ma questo attira l'attenzione di forze sconosciute che lo inseguono.",
+				"Fase Centrale: Ethan, Ava e Nova attraversano diversi sistemi stellari alla ricerca di indizi sulla Caduta Stellare. Scoprono che non è un fenomeno naturale, ma il risultato di un'antica tecnologia fuori controllo. Ava rivela gradualmente la sua vera identità: un'agente segreta dell'Alleanza Stellare che cerca di usare le abilità di Ethan per attivare il 'Nucleo Stellare', un dispositivo capace di rimodellare l'universo. Nel frattempo, i sogni di Ethan diventano più chiari e inizia a sospettare di essere stato uno dei creatori della Caduta Stellare, mentre Nova sembra nascondere informazioni cruciali.",
+				"Finale: Ethan deve scegliere se attivare il Nucleo Stellare, rischiando di cancellare la civiltà esistente per rimodellare l'universo, o distruggerlo, proteggendo il presente ma seppellendo per sempre la verità. Le motivazioni di Ava diventano più chiare, rivelando la sua natura di alleata e possibile nemica. Alla fine, attraverso i ricordi recuperati, Ethan scopre di aver sacrificato tutto per fermare la Caduta Stellare, e che Nova è un backup della sua coscienza, portatore della sua missione incompiuta. Il finale dipende dalle scelte del giocatore: sacrificarsi per salvare l'universo o abbandonare tutto per la libertà."
+			],
+			"cover_image_url": "resources/covers/story_4_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_4_bg.jpg"
+		},
+		{
+			"id": "story_5",
+			"title": "La Corona Infranta",
+			"description": "In un regno dell'Europa medievale, un complotto spinge un giovane principe verso un destino oscuro. Il protagonista, privato del suo diritto al trono, deve destreggiarsi tra nobili fedeli a Stuart e comuni cittadini, scoprire i segreti nascosti nella famiglia reale e recuperare il suo onore - o perdersi completamente nel vortice del potere e del tradimento.",
+			"category_id": 5,
+			"tags": [
+				"Medievale",
+				"Cospirazione",
+				"Potere Reale",
+				"Tradimento",
+				"Vendetta",
+				"Mistero"
+			],
+			"plot_direction": [
+				"Inizio: Il protagonista Callian, un principe privato del suo diritto di successione, viene accusato falsamente di tradimento durante un colpo di stato a corte e esiliato in una città di confine. In una taverna della città, incontra una misteriosa barda, Elena, che sembra conoscere la sua vera identità ma nasconde i propri motivi. Callian inizia a sospettare che ci sia altro dietro il declino della famiglia reale e decide di intraprendere un viaggio alla ricerca della verità e della vendetta.",
+				"Fase Centrale: Con l'aiuto di Elena, Callian si unisce a un gruppo di ribelli, tra cui il leale cavaliere Roland, l'astuto ladro Victor e la saggia strega Marian. Insieme svelano il complotto dello zio Edmund che ha usurpato il trono: sta collaborando con un regno nemico per annettere la patria di Callian. Il viaggio di Callian è pieno di prove, deve scegliere tra lealtà e tradimento, mentre affronta sentimenti complessi riguardo al trono e alla famiglia.",
+				"Finale: Callian si infiltra infine nel palazzo reale per affrontare Edmund, scoprendo un complotto più grande: Elena è in realtà una principessa del regno nemico che cerca di usare Callian per i suoi scopi politici. Callian deve decidere se perdonare il suo tradimento e scegliere tra reclamare il trono o abbandonare tutto per una vita libera."
+			],
+			"cover_image_url": "resources/covers/story_5_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_5_bg.jpg"
+		},
+		{
+			"id": "story_6",
+			"title": "Sussurri Spettrali",
+			"description": "Nella tetra città di Valle Nebbiosa, un giovane giornalista, Carter, mentre indaga su un misterioso caso di scomparsa, si imbatte accidentalmente in una villa abbandonata. La villa è pervasa da un'aura sinistra, sussurri spettrali echeggiano nell'oscurità, rivelando terribili segreti di decenni fa. Carter deve svelare il mistero della maledizione della villa e affrontare i pericoli nascosti nell'ombra per sopravvivere - o diventare per sempre parte degli spiriti.",
+			"category_id": 6,
+			"tags": [
+				"Soprannaturale",
+				"Mistero",
+				"Maledizione",
+				"Horror",
+				"Avventura"
+			],
+			"plot_direction": [
+				"Inizio: Carter, un giornalista curioso, arriva a Valle Nebbiosa per investigare su un caso di scomparsa avvenuto anni prima. Gli indizi lo conducono a Villa Blackwood abbandonata, che si dice sia maledetta e che nessuno che vi entri ne esca vivo. Nella villa, Carter trova un antico diario che documenta il tragico destino della proprietaria Elizabeth e una maledizione legata al 'Rituale della Luna di Sangue'. Eventi strani iniziano a verificarsi nella villa: ombre in movimento, sensazioni gelide, sussurri nell'aria, che fanno dubitare Carter della propria sanità mentale.",
+				"Fase Centrale: Carter si addentra nella villa, scoprendo che lo spettro di Elizabeth sembra guidarlo verso la verità sulla maledizione. Incontra altri personaggi - il misterioso vagabondo Aiden, Vera, una cittadina che afferma di conoscere la storia della villa, e l'ufficiale Lucas che sembra sapere più di quanto riveli. Carter scopre gradualmente che la maledizione è legata a oscuri patti tra alcune famiglie della città, e che la Luna di Sangue sta per tornare, riattivando il rituale. Deve scegliere tra verità e paura, mentre evita gli spiriti sempre più attivi nella villa.",
+				"Finale: Carter svela la verità sulla maledizione - Elizabeth fu tradita dalla sua famiglia e sacrificata nel rituale in cambio di ricchezza e potere. Nella notte della Luna di Sangue, deve decidere se interrompere il rituale rischiando l'ira degli spiriti, o collaborare con qualcuno per cercare di invertire la maledizione. Le diverse scelte porteranno Carter a fuggire dalla villa, rimanere intrappolato nella maledizione, scoprire cospirazioni più profonde o diventare la nuova vittima sacrificale del rituale."
+			],
+			"cover_image_url": "resources/covers/story_6_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_6_bg.jpg"
 		}
 	]
 }

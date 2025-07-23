@@ -1,0 +1,127 @@
+{
+	"title": "Bisikan Kekosongan",
+	"summary": "Watak utama Ethan yang hilang ingatan terjaga di sebuah kapal angkasa yang terbengkalai, berhadapan dengan struktur kapal yang hampir runtuh dan kemunculan wanita misteri Ava. Dia perlu memutuskan sama ada untuk mempercayai Ava, tinggal di kapal untuk mencari petunjuk, atau melarikan diri bersendirian untuk terus hidup.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Dalam kegelapan, kesedaran anda terkumpul seperti serpihan, seolah-olah ditarik paksa dari jurang yang tak berpenghujung. Bunyi penggera yang memekakkan telinga menembusi gegendang telinga, cahaya merah berkelip-kelip dalam bilik yang sempit. Anda berbaring di dalam pod hibernasi yang sejuk, badan terasa berat, minda kosong seperti telah dikosongkan. Sekeliling anda adalah dinding logam yang asing, udara dipenuhi dengan bau litar terbakar."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Mengerang perlahan, cuba untuk bangun) Di mana... ini? Siapa... saya?"
+		},
+		{
+			"type": "narrator",
+			"content": "Anda bersusah payah untuk duduk, penglihatan kabur, penutup kaca pod hibernasi perlahan-lahan terbuka. Cahaya biru lembut menyala dari implan di lengan anda, memproyeksikan hologram - seorang wanita berambut perak, dengan pandangan yang tenang tetapi suara yang agak mendesak."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Suara jelas, dengan kestabilan mekanikal) Selamat kembali, Captain Ethan. Sistem kapal dikesan akan gagal, disarankan untuk mengosongkan kapal dengan segera."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Mengerutkan dahi, cuba untuk mengingat) Captain? Ethan? Semua ini tidak bermakna bagi saya... Siapa awak? Kenapa awak memanggil saya dengan nama itu?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Hologram berkelip-kelip, nada tidak berubah) Saya Nova, pembantu AI navigasi anda. Ingatan anda rosak disebabkan kerosakan pod hibernasi, tetapi sekarang bukan masa untuk berbincang. Kapal akan hancur dalam masa 17 minit."
+		},
+		{
+			"type": "narrator",
+			"content": "Sebelum anda sempat memproses maklumat ini, pintu bilik tiba-tiba dibuka secara paksa. Seorang wanita masuk, dengan pergerakan yang tangkas, mata hijaunya bersinar dalam cahaya malap. Dia memakai pakaian tempur ketat, memegang sebilah pisau tenaga yang bercahaya, dengan senyuman halus di wajahnya."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Nada riang, dengan sedikit jenaka) Sudah cukup lama tidur, Ethan? Saya Ava, rakan anda. Kita perlu bergegas, kalau tidak kita akan menjadi debu angkasa."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Melangkah ke belakang dengan waspada, menatapnya) Rakan? Saya tidak ingat awak. Macam mana awak tahu nama saya?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Mengangkat bahu, masih tersenyum) Hilang ingatan? Menyusahkan. Percayalah, kita adalah kawan lama. Kapal ini akan meletup, ikut saya, saya akan jelaskan semuanya."
+		},
+		{
+			"type": "narrator",
+			"content": "Suaranya penuh keyakinan, tetapi anda menangkap keraguan yang sekilas dalam matanya. Bunyi penggera dalam kapal semakin mendesak, lantai bergetar perlahan, mengingatkan anda bahawa masa semakin suntuk. Anda merasakan implan di lengan anda menjadi hangat, seolah-olah bertindak balas terhadap isyarat yang tidak diketahui."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Berbisik kepada diri sendiri, cuba untuk menangkap serpihan dalam minda) Kenapa saya rasa... ada sesuatu yang tidak kena?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Hologram berpaling ke arah Ava, dengan nada syak wasangka) Ava, pengesahan identiti tidak dikesan. Captain disarankan untuk berhati-hati."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Ketawa kecil, melambai tangan) Jangan dengar omong kosong litar ini. Ethan, kita perlu pergi, SEKARANG!"
+		},
+		{
+			"type": "narrator",
+			"content": "Anda berdiri di situ, bayangan kabur melintas dalam minda: sebuah planet yang terbakar, suara wanita berbisik memanggil nama anda. Kemunculan Ava membuat anda secara naluri berasa tidak selesa, tetapi kekal di sini jelas bukan pilihan yang bijak. Apa yang harus anda lakukan?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Menarik nafas dalam, cuba untuk tenang) Baiklah... beritahu saya, Ava, siapa anda sebenarnya? Kenapa saya rasa anda tahu lebih daripada yang anda katakan?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Mata berkelip, nada menjadi serius) Sekarang bukan masa untuk soalan, Ethan. Percaya saya, atau tinggal dan mati. Pilihan anda."
+		},
+		{
+			"type": "narrator",
+			"content": "Bunyi penggera semakin memekakkan telinga, struktur kapal mula bergegar dengan kuat. Anda perlu membuat keputusan dengan segera. Mata Ava menyembunyikan rahsia, amaran Nova bergema di telinga, dan di dalam hati anda, seolah-olah ada suara yang mendesak anda untuk mencari kebenaran."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Menambah dengan tenang) Gangguan isyarat luar dikesan, mungkin ada kapal tidak dikenali menghampiri. Disarankan untuk bertindak segera."
+		},
+		{
+			"type": "narrator",
+			"content": "Anda merasakan masa semakin mendesak, tetapi kabus dalam minda semakin tebal. Adakah anda akan mempercayai Ava dan mengikutinya? Atau tinggal untuk mencari lebih banyak petunjuk? Atau, mengambil risiko untuk melarikan diri bersendirian, mencari jawapan anda sendiri?"
+		}
+	],
+	"choice": {
+		"prompt": "Apakah pilihan anda",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Percaya Ava, ikut dia meninggalkan kapal angkasa"
+			},
+			{
+				"content": "Tinggal di dalam kapal, cari petunjuk di pod hibernasi atau anjung kawalan"
+			},
+			{
+				"content": "Abaikan Ava, cari pod penyelamat untuk melarikan diri bersendirian"
+			}
+		]
+	}
+}

@@ -1,0 +1,113 @@
+{
+	"title": "追放者の帰路",
+	"summary": "Calianは辺境の町の酒場で目覚め、王位を奪われ追放されたことを悟る。彼は謎めいた吟遊詩人Elinaと出会う。彼女は彼の身分を知っているようだが、詳しいことは語らない。Calianは選択を迫られる：Elinaを信じて真実を探す、単独で王都に潜入する、または町に留まって身分を隠す。",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "夜は墨のように黒く、辺境の町の酒場には麦酒と汗の匂いが漂っていた。薄暗い蝋燭の光が木のテーブルの上で揺らめき、疲れた顔立ちながらも端正な顔を照らしていた。Calian Valencia、かつての王子は今や破れた外套を纏った放浪者となり、片隅に座って虚ろな目で手の中の空の杯を見つめていた。"
+		},
+		{
+			"type": "narrator",
+			"content": "彼が最後に覚えているのは、王宮での宴会で、杯を交わす中、叔父Edmondの笑みに潜む不気味さだった。その後は暗闇と、追放の宣告だけ。なぜ反逆の罪で告発されたのか、どうしてこの寂れた町に来ることになったのか、分からなかった。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(小声で呟き、杯を握りしめて) 私は誰だ？なぜここにいるのだ？"
+		},
+		{
+			"type": "narrator",
+			"content": "酒場のドアが開き、冷たい風が雨を巻き込んで入ってきた。一つの影が入ってきて、緑の外套を身にまとい、竪琴を抱えていた。彼女がフードを脱ぐと、月光のように輝く金髪が現れた。彼女の出現に酒場は一瞬にして静まり返り、全員が彼女を見つめた。"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(Calianに近づき、清らかな泉のような声で) あなたは魂を失くした人のように見えますね、見知らぬ方。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(警戒して顔を上げ、鋭い眼差しで) 私を知っているのか？"
+		},
+		{
+			"type": "narrator",
+			"content": "彼女の笑みには軽い冗談めいた様子があり、まるで彼の秘密を見透かしているかのようだった。彼女はCalianの向かいに座り、竪琴を軽く弾くと、弦が低く鳴った。"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(小声で、目に狡猾な光を宿して) かもしれませんね。Calian Valencia、Valencia王国の失われた星、でしょう？"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(突然立ち上がり、剣の柄に手を置いて) 貴様は何者だ？なぜ私の名を知っている？"
+		},
+		{
+			"type": "narrator",
+			"content": "酒場の客たちがひそひそと話し始め、Calianは目に見えない重圧を感じた。彼の手が微かに震えたのは、恐怖からではなく、久しく聞かなかった名前が心の中の怒りを呼び覚ましたからだった。"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(両手を上げて、無害を示して) お落ち着きください、殿下。私はElina、放浪の吟遊詩人です。多くのことを知っています。例えば...あなたの叔父Edmondが王位を簒奪した経緯なども。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(声を低め、疑いを込めて) 私に信じろというのか？たった今出会った女を？"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(微笑み、挑発的な口調で) 信頼は強要しません。でも、真実へと導くことはできます。それとも、ここで酒を飲み続けて、誰かに正体を見破られるまで待ちますか？"
+		},
+		{
+			"type": "narrator",
+			"content": "Calianは彼女を見つめ、その青い瞳の意味を読み取ろうとした。彼女の口調は誠実だったが、その笑みは測り知れないものだった。彼の心は揺れていた：彼女は味方かもしれないし、罠かもしれない。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(ゆっくりと座り直し、冷たい声で) もし私を騙すなら、後悔させてやる。"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(軽く笑い、琴線を弾きながら) 公平な取引ですね、殿下。明朝、黒い森へ向かいましょう。そこにはあなたを待つ人がいます。"
+		},
+		{
+			"type": "narrator",
+			"content": "Calianは寒気を感じた。黒い森、伝説に満ちたその禁断の地に何が隠されているのか？Elinaの正体と目的は謎に包まれていたが、彼に選択の余地はなかった。"
+		},
+		{
+			"type": "narrator",
+			"content": "夜は更け、酒場の喧騒も次第に収まっていった。Calianは窓の外の嵐を見つめながら、心に一筋の希望を感じた——あるいは、さらなる危険を。"
+		}
+	],
+	"choice": {
+		"title": "あなたの選択",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Elinaを信じ、黒い森へ向かう。"
+			},
+			{
+				"content": "Elinaを拒否し、単独で王都に潜入して真実を探る。"
+			},
+			{
+				"content": "町に留まり、身分を隠して密かに調査を進める。"
+			}
+		]
+	}
+}

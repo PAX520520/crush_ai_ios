@@ -60,6 +60,67 @@
 			],
 			"cover_image_url": "resources/covers/story_3_cover.jpg",
 			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
+		},
+		{
+			"id": "story_4",
+			"title": "Echo van de Sterrenzee",
+			"description": "In de verre toekomst bloeit de menselijke beschaving in interstellaire kolonies, totdat een mysterieuze 'Sterval' gebeurtenis hen op de rand van de ondergang brengt. De protagonist, een vergeten ruimteschipnavigator, wordt wakker in een verlaten ruimteschip zonder herinneringen. Vergezeld door een AI-assistent en een mysterieuze vrouw die beweert 'alles te weten', en achtervolgd door naderende onbekende dreigingen, wordt hij gedwongen op een reis te gaan om de waarheid en zichzelf te vinden. In dit universum vol technologie en mysterie zal hij het geheim van de Sterval onthullen en moeten beslissen of hij de beschaving redt of alles laat vervallen in het niets.",
+			"category_id": 4,
+			"tags": [
+				"Sciencefiction",
+				"Mysterie",
+				"Avontuur",
+				"Zelfontdekking",
+				"Kunstmatige Intelligentie"
+			],
+			"plot_direction": [
+				"Begin: De protagonist wordt wakker in een cryogene slaapkamer van een verlaten ruimteschip, zonder herinneringen, met alleen vage droomfragmenten: een brandende planeet en een fluisterende vrouwenstem. Zijn AI-assistent Nova noemt hem 'Captain Ethan' en waarschuwt dat de scheepssystemen falen. Al snel verschijnt een mysterieuze vrouw genaamd Ava, die beweert zijn partner te zijn en hem helpt te ontsnappen van het exploderende schip. Tijdens hun vlucht ontdekt Ethan dat hij over een bijzondere gave beschikt om oude technologie te beheersen, maar dit trekt ook de aandacht van onbekende krachten die hem achtervolgen.",
+				"Midden: Ethan, Ava en Nova reizen door verschillende sterrenstelsels op zoek naar aanwijzingen over de Sterval. Ze ontdekken dat de Sterval geen natuurlijk fenomeen was, maar het gevolg van buitencontrole geraakte technologie van een oude beschaving. Ava onthult geleidelijk haar ware identiteit - een geheim agent van de Interstellaire Alliantie die Ethan's krachten wil gebruiken om de 'Sterkern' te activeren, een apparaat dat het universum kan herscheppen. Ondertussen worden Ethan's dromen helderder en begint hij te vermoeden dat hij één van de veroorzakers van de Sterval was, terwijl Nova cruciale informatie lijkt achter te houden.",
+				"Einde: Ethan staat voor een keuze: de Sterkern activeren om het universum te herscheppen maar mogelijk de huidige beschaving uit te wissen, of het vernietigen en de waarheid voor altijd begraven. Ava's motieven worden duidelijker - ze is zowel bondgenoot als potentiële vijand. Uiteindelijk ontdekt Ethan door zijn herstelde herinneringen dat hij alles opofferde om de Sterval te stoppen, en dat Nova een back-up is van zijn bewustzijn, dragend zijn onvoltooide missie. Het einde hangt af van de keuzes van de speler: zichzelf opofferen om het universum te redden, of alles opgeven voor vrijheid."
+			],
+			"cover_image_url": "resources/covers/story_4_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_4_bg.jpg"
+		},
+		{
+			"id": "story_5",
+			"title": "De Gebroken Kroon",
+			"description": "In een middeleeuws koninkrijk in Europa duwt een samenzwering een jonge prins in een afgrond van het lot. De protagonist, beroofd van zijn recht op de troon, moet laveren tussen loyale Stuart-edelen en gewone burgers, de geheimen van het koninklijk huis onthullen en zijn eer terugwinnen - of voor altijd ten onder gaan in een maalstroom van macht en verraad.",
+			"category_id": 5,
+			"tags": [
+				"Middeleeuws",
+				"Samenzwering",
+				"Koninklijke macht",
+				"Verraad",
+				"Wraak",
+				"Mysterie"
+			],
+			"plot_direction": [
+				"Begin: De protagonist Calian, een prins beroofd van zijn erfrecht, wordt valselijk beschuldigd van verraad tijdens een paleiscoup en verbannen naar een grensstadje. In de plaatselijke taverne ontmoet hij de mysterieuze troubadour Elena, die zijn ware identiteit lijkt te kennen maar haar eigen bedoelingen verborgen houdt. Calian begint te vermoeden dat er meer schuilgaat achter de neergang van het koningshuis en besluit op zoek te gaan naar wraak en waarheid.",
+				"Midden: Met Elena's hulp ontmoet Calian een groep rebellen, waaronder de trouwe ridder Roland, de sluwe dief Victor en de wijze heks Marian. Samen onthullen ze het complot van zijn oom Edmund die de troon heeft gestolen: hij werkt samen met een vijandig koninkrijk om Calian's homeland in te nemen. Calian's reis is vol beproevingen waarbij hij moet kiezen tussen loyaliteit en verraad, terwijl hij worstelt met zijn complexe gevoelens over de troon en familie.",
+				"Einde: Calian infiltreert uiteindelijk het paleis om Edmund te confronteren en ontdekt een nog groter complot: Elena blijkt een prinses te zijn uit het vijandige koninkrijk, die Calian probeert te gebruiken voor haar politieke doeleinden. Calian moet beslissen of hij haar verraad kan vergeven en kiezen tussen het heroveren van zijn troon of alles opgeven voor een leven in vrijheid."
+			],
+			"cover_image_url": "resources/covers/story_5_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_5_bg.jpg"
+		},
+		{
+			"id": "story_6",
+			"title": "Fluisteringen van Geesten",
+			"description": "In het griezelige Mistvalei-dorp stuit een jonge journalist Carter tijdens het onderzoeken van een mysterieuze verdwijning per ongeluk op een verlaten landhuis. Het landgoed is doordrongen van onheilspellende energie, waar gefluister van geesten door de duisternis echoot en gruwelijke geheimen van decennia geleden onthult. Carter moet het raadsel van de vloek op het landgoed oplossen en de gevaren in de schaduwen trotseren om te kunnen ontsnappen - of voor altijd deel worden van de geesten.",
+			"category_id": 6,
+			"tags": [
+				"Bovennatuurlijk",
+				"Mysterie",
+				"Vloek",
+				"Horror",
+				"Avontuur"
+			],
+			"plot_direction": [
+				"Begin: Carter, een nieuwsgierige journalist, komt naar Mistvalei om een jaren oude verdwijningszaak te onderzoeken. De aanwijzingen leiden naar het verlaten Blackwood-landgoed, waarvan wordt gezegd dat het vervloekt is en niemand die er binnengaat levend terugkeert. Carter vindt in het landhuis een oud dagboek dat het tragische lot van de landhuis-eigenares Elizabeth beschrijft en een vloek gerelateerd aan het 'Bloedmaan Ritueel'. Vreemde gebeurtenissen beginnen zich voor te doen in het landhuis: bewegende schaduwen, koude aanrakingen en gefluister dat Carter aan zijn sanity doet twijfelen.",
+				"Midden: Carter dringt dieper door in het landgoed en ontdekt dat Elizabeth's geest hem lijkt te leiden naar de waarheid achter de vloek. Hij ontmoet andere personages - de mysterieuze zwerver Aiden, dorpeling Vera die beweert de geschiedenis van het landgoed te kennen, en agent Lucas die meer lijkt te weten maar vaag blijft. Carter ontdekt geleidelijk dat de vloek verbonden is met duistere deals van bepaalde families in het dorp, en dat de bloedmaan nadert waarop het ritueel opnieuw zal plaatsvinden. Hij moet kiezen tussen waarheid en angst, terwijl hij de steeds actiever wordende kwade geesten in het landhuis ontwijkt.",
+				"Einde: Carter onthult de waarheid achter de vloek - Elizabeth werd verraden door haar familie en geofferd in een ritueel voor rijkdom en macht. Tijdens de bloedmaannacht moet hij beslissen of hij het ritueel verstoort en het risico neemt de kwade geesten te provoceren, of met iemand samenwerkt om het ritueel te gebruiken om de vloek om te keren. Verschillende keuzes leiden ertoe dat Carter ontsnapt uit het landgoed, gevangen raakt in de vloek, een dieper complot ontdekt, of zelfs het nieuwe offer voor het ritueel wordt."
+			],
+			"cover_image_url": "resources/covers/story_6_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_6_bg.jpg"
 		}
 	]
 }

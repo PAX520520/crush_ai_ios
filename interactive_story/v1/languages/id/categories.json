@@ -2,18 +2,33 @@
 	"categories": [
 		{
 			"id": 1,
-			"name": "🎭 Misteri",
-			"description": "Cerita thriller yang penuh dengan misteri dan ketegangan"
+			"name": "🌆 Urban",
+			"description": "Cerita menarik yang berlangsung di kota modern"
 		},
 		{
 			"id": 2,
 			"name": "💘 Romantis",
-			"description": "Kisah cinta yang penuh gairah dengan kedalaman emosional"
+			"description": "Kisah cinta yang penuh gairah dengan kedalaman emosi"
 		},
 		{
 			"id": 3,
 			"name": "✨ Fantasi",
-			"description": "Petualangan epik yang penuh dengan sihir dan keajaiban"
+			"description": "Petualangan epik yang dipenuhi dengan sihir dan keajaiban"
+		},
+		{
+			"id": 4,
+			"name": "🚀 Fiksi Ilmiah",
+			"description": "Perjalanan menakjubkan menjelajahi teknologi masa depan dan alam semesta yang tidak diketahui"
+		},
+		{
+			"id": 5,
+			"name": "👑 Abad Pertengahan",
+			"description": "Narasi epik tentang negara dan tokoh-tokoh abad pertengahan"
+		},
+		{
+			"id": 6,
+			"name": "🎭 Misteri",
+			"description": "Cerita thriller yang penuh dengan misteri dan ketegangan"
 		}
 	]
 }

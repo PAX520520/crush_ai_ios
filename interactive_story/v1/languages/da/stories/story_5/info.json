@@ -1,0 +1,84 @@
+{
+	"story_id": "story_5",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Calian",
+			"description": "En ung prins berøvet sin trone, oprindeligt kendt som Calian Valencia, der bærer byrden af hævn og frelse.",
+			"avatar_url": "/resources/characters/story_5/calian.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 22,
+			"personality": [
+				"Udholdende",
+				"Intelligent",
+				"Indre konflikt",
+				"Længes efter retfærdighed men tvivler på menneskeheden"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Elina",
+			"description": "En mystisk troubadour, der faktisk er en fjendtlig prinsesse, dygtig til forklædning og manipulation, men nærer et håb om fred i sit hjerte.",
+			"avatar_url": "/resources/characters/story_5/elina.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 20,
+			"personality": [
+				"Klog",
+				"Forførende",
+				"Kompleks",
+				"God til at skjule sande følelser"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Roland",
+			"description": "En loyal ridder, tidligere Calians beskytter, ubrydeligt loyal over for prinsen.",
+			"avatar_url": "/resources/characters/story_5/roland.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Retfærdig",
+				"Modig",
+				"Stædig"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Victor",
+			"description": "En snu tyv, dygtig til tyveri og informationsindsamling, skeptisk over for Calians idealisme.",
+			"avatar_url": "/resources/characters/story_5/victor.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 28,
+			"personality": [
+				"Snarrådig",
+				"Kynisk",
+				"Tvivlsom loyalitet"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Marian",
+			"description": "En klog heks, der mestrer ældgammel magi, lever tilbagetrukket i skoven og kender kongefamiliens hemmeligheder.",
+			"avatar_url": "/resources/characters/story_5/marian.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 40,
+			"personality": [
+				"Rolig",
+				"Mystisk",
+				"Skarpsindig"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Den forvistes hjemrejse"
+		}
+	]
+}

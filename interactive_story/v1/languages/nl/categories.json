@@ -2,8 +2,8 @@
 	"categories": [
 		{
 			"id": 1,
-			"name": "🎭 Mysterie",
-			"description": "Spannende verhalen vol mysterie en spanning"
+			"name": "🌆 Stedelijk",
+			"description": "Boeiende verhalen die zich afspelen in een moderne stad"
 		},
 		{
 			"id": 2,
@@ -14,6 +14,21 @@
 			"id": 3,
 			"name": "✨ Fantasie",
 			"description": "Epische avonturen vol magie en wonderen"
+		},
+		{
+			"id": 4,
+			"name": "🚀 Sciencefiction",
+			"description": "Een wonderbaarlijke reis door toekomstige technologie en het onbekende universum"
+		},
+		{
+			"id": 5,
+			"name": "👑 Middeleeuws",
+			"description": "Grootse verhalen over middeleeuwse landen en personages"
+		},
+		{
+			"id": 6,
+			"name": "🎭 Mysterie",
+			"description": "Spannende verhalen vol mysterie en suspense"
 		}
 	]
 }

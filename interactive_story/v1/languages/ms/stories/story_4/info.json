@@ -1,0 +1,70 @@
+{
+	"story_id": "story_4",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "Juruterbang kapal angkasa yang hilang ingatan, nama asalnya tidak diketahui, pernah menjadi tokoh legenda dalam armada angkasa, mungkin salah seorang yang terlibat dalam kejadian kejatuhan bintang.",
+			"avatar_url": "/resources/characters/story_4/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Tenang",
+				"Tabah",
+				"Penuh keraguan",
+				"Tekad untuk mencari kebenaran"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Ava",
+			"description": "Ejen misteri yang mengaku sebagai rakan Ethan, sebenarnya ahli rahsia Persekutuan Angkasa, dengan misi untuk mendapatkan teras bintang. Motifnya rumit, mempunyai kesetiaan dan kepentingan peribadi.",
+			"avatar_url": "/resources/characters/story_4/ava.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"Bijak",
+				"Licik",
+				"Pandai menyamar",
+				"Konflik dalaman"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Nova",
+			"description": "Pembantu AI pintar Ethan, wujud dalam sistem kapal angkasa dan implan tubuhnya, memiliki kecerdasan hampir setara manusia. Kelihatan setia, tetapi seolah-olah menyembunyikan rahsia tentang masa lalu Ethan.",
+			"avatar_url": "/resources/characters/story_4/nova.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"Tenang",
+				"Logik yang ketat",
+				"Kadangkala menunjukkan sifat kemanusiaan"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Kael",
+			"description": "Seorang askar upahan angkasa yang membelot, memburu Ethan untuk mendapatkan ganjaran teras bintang, tetapi berasa jemu dengan rasuah dalam Persekutuan Angkasa, berkemungkinan menjadi sekutu.",
+			"avatar_url": "/resources/characters/story_4/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Kasar",
+				"Tegas",
+				"Kelihatan kejam tetapi mempunyai prinsip sendiri"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Bisikan Kekosongan"
+		}
+	]
+}

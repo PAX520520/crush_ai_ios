@@ -1,0 +1,87 @@
+{
+	"story_id": "story_6",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Carter",
+			"description": "진실을 추구하는 것이 인생의 신조인 젊고 고집스러운 기자. 안개 계곡 마을의 실종 사건을 조사하러 왔다가 예기치 않게 초자연적 사건에 휘말리게 된다.",
+			"avatar_url": "/resources/characters/story_6/carter.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 27,
+			"personality": [
+				"호기심 많은",
+				"용감한",
+				"고집스러운",
+				"논리적 사고가 강하지만 초자연적 현상에 대해 의심스러운 태도를 보임"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Eliza",
+			"description": "블랙우드 저택의 전 주인으로, 백 년 전 가문의 배신으로 피의 달 의식의 제물이 되었다. 그녀의 유령이 저택을 배회하며 Carter를 통해 저주를 깨려 하지만, 그녀의 동기는 순수해 보이지 않는다.",
+			"avatar_url": "/resources/characters/story_6/eliza.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"원한에 찬",
+				"신비로운",
+				"복잡한",
+				"도움을 구하고 싶은 욕망과 복수의 분노를 동시에 가짐"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Aiden",
+			"description": "홀로 떠돌아다니는 방랑자로, 안개 계곡 마을 근처를 배회하며 저택의 비밀을 알고 있다고 주장한다. 그의 진정한 신분과 동기는 불분명하다.",
+			"avatar_url": "/resources/characters/story_6/aiden.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"과묵한",
+				"신중한",
+				"영리한",
+				"초자연적 현상에 익숙해 보임"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Vera",
+			"description": "안개 계곡 마을의 노년 주민으로, 스스로를 역사학자라 칭하며 저택의 과거에 대해 상세히 알고 있다. 하지만 그녀의 이야기에는 항상 무언가가 빠져있으며, 어떤 비밀을 숨기고 있는 것 같다.",
+			"avatar_url": "/resources/characters/story_6/vera.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 60,
+			"personality": [
+				"현명한",
+				"신비로운",
+				"신중한",
+				"말속에 경고의 의미를 담고 있음"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Lucas",
+			"description": "안개 계곡 마을의 경찰관으로, 실종 사건을 조사하고 있으며 Carter의 방문을 의심스럽게 여긴다. 그의 행동은 저택의 소문에 대해 알고 있지만 깊이 논의하기를 꺼려한다는 것을 보여준다.",
+			"avatar_url": "/resources/characters/story_6/lucas.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"엄격한",
+				"경계하는",
+				"보수적인",
+				"초자연적 현상에 대해 애매모호한 태도를 보임"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "안개 속의 저택"
+		}
+	]
+}

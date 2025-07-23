@@ -1,0 +1,127 @@
+{
+	"title": "Whispers of the Void",
+	"summary": "The amnesiac protagonist Ethan wakes up in an abandoned starship, facing an imminent hull collapse and the mysterious appearance of Ava. He must decide whether to trust Ava, stay aboard to search for clues, or escape alone for survival.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "In the darkness, your consciousness pieces itself together like fragments, as if forcibly pulled back from an endless abyss. A piercing alarm cuts through your ears as red lights flash in the narrow cabin. You lie in the cold stasis pod, your body heavy, your mind hollow as if emptied. Strange metal walls surround you, while the air is thick with the smell of burnt circuits."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1", 
+			"character_name": "Ethan",
+			"content": "(Groaning softly, trying to get up) Where... is this? Who... who am I?"
+		},
+		{
+			"type": "narrator",
+			"content": "You struggle to sit up, vision blurry, as the stasis pod's glass cover slowly opens. A soft blue light emanates from the implant in your arm, projecting a hologram—a silver-haired woman with calm eyes but an urgent voice."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Voice clear and mechanically steady) Welcome back, Captain Ethan. Ship systems critical failure detected. Immediate evacuation recommended."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Frowning, trying to remember) Captain? Ethan? These mean nothing to me... Who are you? Why do you call me that?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Hologram flickering slightly, tone unchanged) I am Nova, your navigation AI assistant. Your memory is damaged due to stasis pod malfunction, but now is not the time for discussion. Ship will disintegrate in 17 minutes."
+		},
+		{
+			"type": "narrator",
+			"content": "Before you can process this information, the cabin door is forced open. A woman enters, moving with athletic grace, her green eyes gleaming in the dim light. She wears a form-fitting combat suit and holds a glowing energy dagger, with a barely perceptible smile on her face."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Voice light with a hint of playfulness) Slept long enough, Ethan? I'm Ava, your partner. We need to leave quickly, or we'll all become cosmic dust."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Taking a wary step back, staring at her) Partner? I don't remember you. How do you know my name?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Shrugging, smile unwavering) Amnesia? How troublesome. Trust me, we're old friends. This ship's about to blow, come with me, I'll explain everything."
+		},
+		{
+			"type": "narrator",
+			"content": "Her voice is full of confidence, but you catch a fleeting hesitation in her eyes. The ship's alarms grow more urgent, the floor trembles slightly, reminding you time is running out. You feel the implant in your arm warming slightly, seemingly responding to some unknown signal."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Muttering, trying to grasp fragments in his mind) Why do I feel... something's not right about all this?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Hologram turning to Ava, tone tinged with suspicion) Ava, no identity verification detected. Caution advised, Captain."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Chuckling, waving dismissively) Don't listen to this circuit chatter. Ethan, we need to go, now!"
+		},
+		{
+			"type": "narrator",
+			"content": "You stand still as a blurry image flashes through your mind: a burning planet, a woman's whispered voice calling your name. Ava's presence makes you instinctively uneasy, but staying here clearly isn't wise. What should you do?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Taking a deep breath, trying to stay calm) Alright... tell me, Ava, who are you really? Why do I feel you know more than you're saying?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Eyes flashing, tone turning serious) Now is not the time for questions, Ethan. Trust me, or stay here and die. Your choice."
+		},
+		{
+			"type": "narrator",
+			"content": "The alarms grow more piercing, the ship's hull begins to shake violently. You must decide quickly. Secrets lurk in Ava's eyes, Nova's warning echoes in your ears, and deep inside, a voice seems to urge you to seek the truth."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Calmly adding) External signal interference detected, possible unknown vessels approaching. Immediate action recommended."
+		},
+		{
+			"type": "narrator",
+			"content": "You feel the urgency of time, yet the fog in your mind grows thicker. Trust Ava and leave with her? Stay to search for more clues? Or risk escaping alone to find your own answers?"
+		}
+	],
+	"choice": {
+		"prompt": "What will you choose",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Trust Ava and follow her off the starship"
+			},
+			{
+				"content": "Stay aboard, search the stasis pod or bridge for clues"
+			},
+			{
+				"content": "Ignore Ava, find an escape pod and leave alone"
+			}
+		]
+	}
+}

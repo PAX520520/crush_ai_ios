@@ -1,0 +1,84 @@
+{
+	"story_id": "story_5",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Calian",
+			"description": "왕위를 빼앗긴 젊은 왕자, 본명은 칼리안 발렌시아로, 복수와 구원의 사명을 짊어지고 있다.",
+			"avatar_url": "/resources/characters/story_5/calian.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 22,
+			"personality": [
+				"강인함",
+				"영리함",
+				"내면의 갈등",
+				"정의를 갈망하지만 인간성에 대해 의심"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Elina",
+			"description": "신비로운 음유시인, 실제로는 적국의 공주로, 위장과 사람의 마음을 조종하는데 능숙하지만 내면에는 평화에 대한 희망을 품고 있다.",
+			"avatar_url": "/resources/characters/story_5/elina.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 20,
+			"personality": [
+				"지혜로움",
+				"매혹적",
+				"복잡함",
+				"진정한 감정을 숨기는데 능숙함"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Roland",
+			"description": "충성스러운 기사, 칼리안의 호위병이었으며, 왕자에게 충성을 다한다.",
+			"avatar_url": "/resources/characters/story_5/roland.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"정직함",
+				"용감함",
+				"고집스러움"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Victor",
+			"description": "교활한 도적, 도둑질과 정보 수집에 능숙하며, 칼리안의 이상주의에 대해 반신반의한다.",
+			"avatar_url": "/resources/characters/story_5/victor.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 28,
+			"personality": [
+				"영리함",
+				"냉소적",
+				"충성도 의심스러움"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Marian",
+			"description": "현명한 마녀, 고대 마법을 다루며, 숲에 은거하면서 왕실의 비밀을 알고 있다.",
+			"avatar_url": "/resources/characters/story_5/marian.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 40,
+			"personality": [
+				"침착함",
+				"신비로움",
+				"통찰력이 뛰어남"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "추방자의 귀환"
+		}
+	]
+}

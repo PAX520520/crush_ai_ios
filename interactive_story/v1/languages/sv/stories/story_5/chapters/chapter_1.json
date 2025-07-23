@@ -1,0 +1,113 @@
+{
+	"title": "Den landsförvisades återkomst",
+	"summary": "Calian vaknar upp på ett värdshus i en gränsstad och inser att han har berövats sin tron och förvisats. Han möter den mystiska trubaduren Elina som verkar känna till hans identitet men är vag i sina svar. Calian står inför ett val: att lita på Elina och följa henne för att söka sanningen; att agera på egen hand och våga sig tillbaka till huvudstaden; eller att stanna i staden och dölja sin identitet.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Natten är becksvart och värdshuset i gränsstaden är fyllt med doften av öl och svett. Det dämpade ljuset från stearinljusen dansar över träbordet och lyser upp ett utmattat men stiligt ansikte. Calian Valencia, den forne prinsen, är nu bara en vandrare i sliten mantel som sitter i hörnet och stirrar tomt på sitt tomma ölglas."
+		},
+		{
+			"type": "narrator",
+			"content": "Det sista han minns är banketten i palatset, där hans farbror Edmonds leende bar en underton av ondska mitt i festligheterna. Sedan blev allt svart, följt av domen om landsförvisning. Han vet varken varför han anklagades för förräderi eller hur han hamnade i denna ödsliga stad."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(mumlar tyst, griper hårt om glaset) Vem är jag? Varför är jag här?"
+		},
+		{
+			"type": "narrator",
+			"content": "Värdshuset dörr öppnas och den kalla vinden sveper in med regnet. En gestalt träder in, klädd i grön mantel med en harpa i famnen. Hon tar av sig huvan och avslöjar ett gyllene hår, strålande som månljus. Hennes entré får värdshuset att tystna, alla ögon vänds mot henne."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(går mot Calian med en röst klar som en bäck) Du ser ut som en man som förlorat sin själ, främling."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(tittar upp vaksamt med skarp blick) Känner du mig?"
+		},
+		{
+			"type": "narrator",
+			"content": "Hennes leende bär en antydan till retsam humor, som om hon redan känner till hans hemligheter. Hon sätter sig mitt emot Calian och knäpper lätt på harpan som ger ifrån sig en mjuk ton."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(säger tyst med en glimt i ögat) Kanske det. Calian Valencia, den förlorade stjärnan av Valencia-riket, eller hur?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(reser sig häftigt med handen på svärdfästet) Vem är du egentligen? Hur känner du till mitt namn?"
+		},
+		{
+			"type": "narrator",
+			"content": "Folk i värdshuset börjar viska, och Calian känner ett osynligt tryck. Hans hand darrar lätt, inte av rädsla utan av den vrede som det länge bortglömda namnet väcker inom honom."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(höjer händerna i en lugnande gest) Ta det lugnt, ers höghet. Jag är Elina, en vandrande trubadur. Jag vet mycket, till exempel... hur din farbror Edmond tog makten."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(med djup, misstänksam röst) Du vill att jag ska lita på dig? En kvinna jag just mött?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(ler med en utmanande ton) Jag kräver inte ditt förtroende, men jag kan leda dig till sanningen. Eller så kan du sitta kvar här och dricka tills någon känner igen dig."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian stirrar på henne och försöker tyda hennes klarblå ögon. Hennes ton är uppriktig, men leendet är svårtolkat. Hans inre kämpar: hon kan vara en allierad eller en fälla."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(sätter sig långsamt, med kall röst) Om du ljuger för mig kommer du att ångra det."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(skrattar lätt och slår an harpan) En rättvis överenskommelse, ers höghet. Vi ger oss av i gryningen mot Svarta skogen. Någon väntar på dig där."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian känner en kyla. Svarta skogen, den förbjudna platsen full av legender, vad döljer den? Elinas identitet och motiv är ett mysterium, men han har inget val."
+		},
+		{
+			"type": "narrator",
+			"content": "Natten är sen och värdshusets sorl avtar. Calian betraktar stormen utanför fönstret medan ett hopp tänds i hans hjärta - eller kanske är det en ännu större fara."
+		}
+	],
+	"choice": {
+		"title": "Ditt val",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Lita på Elina och följ henne till Svarta skogen."
+			},
+			{
+				"content": "Avvisa Elina och ta dig tillbaka till huvudstaden på egen hand."
+			},
+			{
+				"content": "Stanna i staden, håll dig gömd och undersök saken i hemlighet."
+			}
+		]
+	}
+}

@@ -1,0 +1,84 @@
+{
+	"story_id": "story_5",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Calian",
+			"description": "En ung prins berövad sin tron, född som Calian Valencia, bär på ett uppdrag av hämnd och försoning.",
+			"avatar_url": "/resources/characters/story_5/calian.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 22,
+			"personality": [
+				"Motståndskraftig",
+				"Intelligent",
+				"Inre konflikt",
+				"Längtar efter rättvisa men tvivlar på mänskligheten"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Elina",
+			"description": "En mystisk trubadur som egentligen är en prinsessa från fiendelandet, skicklig på förklädnad och manipulation, men bär på ett hopp om fred.",
+			"avatar_url": "/resources/characters/story_5/elina.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 20,
+			"personality": [
+				"Listig",
+				"Förtrollande",
+				"Komplex",
+				"Skicklig på att dölja känslor"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Roland",
+			"description": "En lojal riddare, tidigare Calians väktare, orubbligt trogen mot prinsen.",
+			"avatar_url": "/resources/characters/story_5/roland.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Rättfärdig",
+				"Modig",
+				"Envis"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Victor",
+			"description": "En slug tjuv, skicklig på stöld och informationsinsamling, skeptisk till Calians idealism.",
+			"avatar_url": "/resources/characters/story_5/victor.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 28,
+			"personality": [
+				"Kvicktänkt",
+				"Cynisk",
+				"Tvivelaktig lojalitet"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Marian",
+			"description": "En vis häxa som behärskar uråldrig magi, lever i skogen och känner till kungahusets hemligheter.",
+			"avatar_url": "/resources/characters/story_5/marian.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 40,
+			"personality": [
+				"Lugn",
+				"Mystisk",
+				"Skarpsinnig"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Den landsförvisades återkomst"
+		}
+	]
+}

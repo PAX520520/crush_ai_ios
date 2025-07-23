@@ -1,0 +1,113 @@
+{
+	"title": "Kembalinya Sang Pengasingan",
+	"summary": "Calian terbangun di sebuah kedai minuman di kota perbatasan, menyadari bahwa ia telah kehilangan tahtanya dan diasingkan. Dia bertemu dengan penyair misterius bernama Elina yang tampaknya mengetahui identitasnya namun tetap misterius. Calian menghadapi pilihan: mempercayai Elina dan mengikutinya mencari kebenaran; bertindak sendiri dan diam-diam kembali ke ibukota; atau tetap di kota kecil dengan menyembunyikan identitasnya.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Malam gelap pekat, aroma bir dan keringat memenuhi kedai minuman di kota perbatasan. Cahaya lilin yang redup menari-nari di atas meja kayu, menerangi wajah yang lelah namun tampan. Calian Valencia, yang dulunya seorang pangeran, kini hanyalah seorang pengembara berselimut jubah usang, duduk di sudut, menatap kosong gelas kosong di tangannya."
+		},
+		{
+			"type": "narrator",
+			"content": "Hal terakhir yang dia ingat adalah pesta di istana kerajaan, di tengah hiruk pikuk perjamuan, senyum pamannya Edmund yang terlihat licik. Kemudian kegelapan, diikuti vonis pengasingan. Dia tidak tahu mengapa dirinya dituduh berkhianat, atau bagaimana dia bisa sampai di kota terpencil ini."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(berbisik pada diri sendiri, menggenggam gelas erat) Siapa aku? Mengapa aku di sini?"
+		},
+		{
+			"type": "narrator",
+			"content": "Pintu kedai terbuka, angin dingin berhembus masuk bersama tetesan hujan. Sesosok bayangan masuk, mengenakan jubah hijau, memeluk sebuah harpa. Dia menurunkan tudungnya, memperlihatkan rambut pirang yang bersinar seperti cahaya bulan. Kedatangannya membuat kedai mendadak sunyi, semua mata tertuju padanya."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(berjalan menuju Calian, suaranya merdu seperti mata air) Kau tampak seperti seseorang yang kehilangan jiwanya, orang asing."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(mengangkat kepala dengan waspada, tatapan tajam) Kau mengenalku?"
+		},
+		{
+			"type": "narrator",
+			"content": "Senyumnya mengandung sedikit ejekan, seolah dia telah mengetahui rahasianya sejak lama. Dia duduk di hadapan Calian, memetik harpa yang mengeluarkan dengung lembut."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(berkata pelan, matanya berkilat nakal) Mungkin. Calian Valencia, bintang yang hilang dari Kerajaan Valencia, benar kan?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(berdiri tiba-tiba, tangan di gagang pedang) Siapa kau sebenarnya? Bagaimana kau tahu namaku?"
+		},
+		{
+			"type": "narrator",
+			"content": "Orang-orang di kedai mulai berbisik-bisik, Calian merasakan tekanan tak kasat mata. Tangannya sedikit gemetar, bukan karena takut, tapi karena nama yang sudah lama tidak didengarnya itu membangkitkan amarah dalam hatinya."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(mengangkat kedua tangan, menunjukkan tidak berbahaya) Tenanglah, Yang Mulia. Namaku Elina, seorang penyair pengembara. Aku tahu banyak hal, seperti... bagaimana pamanmu Edmund merebut tahta."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(suara dalam, penuh keraguan) Kau ingin aku mempercayaimu? Seorang wanita yang baru kutemui?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(tersenyum, nada menantang) Aku tidak memaksa untuk dipercaya, tapi aku bisa membawamu pada kebenaran. Atau, kau bisa terus minum di sini sampai seseorang mengenalimu."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian menatapnya, mencoba membaca mata birunya yang dalam. Nadanya tulus, tapi senyumnya sulit ditebak. Hatinya bergejolak: dia bisa jadi sekutu, atau mungkin jebakan."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(duduk perlahan, suara dingin) Jika kau menipuku, kau akan menyesalinya."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(tertawa kecil, memetik senar) Kesepakatan yang adil, Yang Mulia. Kita berangkat besok pagi menuju Hutan Hitam. Seseorang menunggumu di sana."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian merasakan hawa dingin. Hutan Hitam, tempat terlarang yang penuh legenda, apa yang tersembunyi di sana? Identitas dan tujuan Elina masih misterius, tapi dia tidak punya pilihan lain."
+		},
+		{
+			"type": "narrator",
+			"content": "Malam semakin larut, keramaian kedai berangsur mereda. Calian memandang badai di luar jendela, secercah harapan muncul dalam hatinya—atau mungkin, bahaya yang lebih besar."
+		}
+	],
+	"choice": {
+		"title": "Pilihanmu",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Percaya pada Elina dan ikut dengannya ke Hutan Hitam."
+			},
+			{
+				"content": "Menolak Elina dan diam-diam kembali ke ibukota sendirian untuk mencari kebenaran."
+			},
+			{
+				"content": "Tetap di kota kecil, menyembunyikan identitas, dan menyelidiki diam-diam."
+			}
+		]
+	}
+}

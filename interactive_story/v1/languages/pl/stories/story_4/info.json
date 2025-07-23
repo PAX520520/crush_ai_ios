@@ -1,0 +1,70 @@
+{
+	"story_id": "story_4",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "Nawigator statku kosmicznego z amnezją, którego prawdziwe imię jest nieznane. Był kiedyś legendarną postacią we flocie międzygwiezdnej i mógł być jednym z twórców Incydentu Gwiezdnego Upadku.",
+			"avatar_url": "/resources/characters/story_4/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Spokojny",
+				"Wytrwały",
+				"Pełen wątpliwości",
+				"Zdeterminowany w poszukiwaniu prawdy"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Ava",
+			"description": "Tajemniczy agent, który twierdzi, że jest partnerem Ethana, ale w rzeczywistości jest tajnym członkiem Sojuszu Międzygwiezdnego z misją zdobycia rdzenia gwiezdnego. Jej motywy są złożone, łączące lojalność z osobistymi ambicjami.",
+			"avatar_url": "/resources/characters/story_4/ava.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"Sprytna",
+				"Przebiegła",
+				"Dobra w udawaniu",
+				"Wewnętrznie rozdarta"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Nova",
+			"description": "Inteligentny asystent AI Ethana, istniejący w systemie statku kosmicznego i jego implantach, posiadający niemal ludzką inteligencję. Pozornie lojalny, ale wydaje się ukrywać tajemnice związane z przeszłością Ethana.",
+			"avatar_url": "/resources/characters/story_4/nova.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"Spokojna",
+				"Logiczna",
+				"Czasami okazująca ludzką troskę"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Kael",
+			"description": "Zbiegły najemnik międzygwiezdny, który poluje na Ethana dla nagrody za rdzeń gwiezdny, ale jest zmęczony korupcją w Sojuszu Międzygwiezdnym. Może być potencjalnym sojusznikiem.",
+			"avatar_url": "/resources/characters/story_4/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Szorstki",
+				"Zdecydowany",
+				"Na zewnątrz zimny, ale kierujący się własnym kodeksem moralnym"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Szept Pustki"
+		}
+	]
+}

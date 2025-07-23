@@ -1,0 +1,70 @@
+{
+	"story_id": "story_4",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "失憶的星艦導航員，原名未知，曾是星際艦隊的傳奇人物，可能是星隕事件的締造者之一。",
+			"avatar_url": "/resources/characters/story_4/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"冷靜",
+				"堅毅",
+				"充滿疑惑",
+				"對真相的執著"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Ava",
+			"description": "神秘的特工，自稱是Ethan的搭檔，實為星際聯盟的秘密成員，任務是獲取星核。她的動機複雜，既有忠誠也有私心。",
+			"avatar_url": "/resources/characters/story_4/ava.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"機智",
+				"狡黠",
+				"善於偽裝",
+				"內心矛盾"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Nova",
+			"description": "Ethan的智能AI助手，存在於星艦系統和他的植入物中，擁有接近人類的智慧。表面忠誠，但似乎隱藏了與Ethan過去相關的秘密。",
+			"avatar_url": "/resources/characters/story_4/nova.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"冷靜",
+				"邏輯嚴密",
+				"偶爾流露人性化的關懷"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Kael",
+			"description": "一名叛逃的星際傭兵，追殺Ethan以獲取星核的賞金，但內心對星際聯盟的腐敗感到厭倦，可能是潛在的盟友。",
+			"avatar_url": "/resources/characters/story_4/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"粗獷",
+				"果斷",
+				"表面冷酷但有自己的道義"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "虛空的低語"
+		}
+	]
+}

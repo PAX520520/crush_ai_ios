@@ -1,0 +1,127 @@
+{
+	"title": "Tyhjyyden kuiskaus",
+	"summary": "Muistinsa menettänyt päähenkilö Ethan herää hylätyssä avaruusaluksessa, kohdaten hajoavan aluksen ja salaperäisen naisen Avan ilmestymisen. Hänen täytyy päättää, luottaako Avaan, jääkö alukselle etsimään johtolankoja vai paetako yksin selviytyäkseen.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Pimeydessä tietoisuutesi kokoontuu pirstaleina, kuin väkisin vedettynä takaisin pohjattomasta kuilusta. Korvia vihlova hälytysääni lävistää tärykalvot, punainen valo välkkyy ahtaassa hytissä. Makaat kylmässä unitankissa, kehosi raskaana, mielesi tyhjänä kuin tyhjennetty astia. Ympärilläsi on vieraita metalliseiniä, ilmassa leijuu palaneiden virtapiirien tuoksu."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Vaikeroiden hiljaa, yrittäen nousta) Missä... minä olen? Kuka... kuka minä olen?"
+		},
+		{
+			"type": "narrator",
+			"content": "Kampeat itsesi istumaan, näkösi on sumea, unitankin lasikansi avautuu hitaasti. Pehmeä sininen valo syttyy käsivarteesi istutetusta laitteesta, projisoiden hologrammin - hopeahiuksisen naisen, katse tyyni mutta ääni kiireinen."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Selkeällä, mekaanisen tasaisella äänellä) Tervetuloa takaisin, Captain Ethan. Aluksen järjestelmät ovat romahtamassa, suosittelen välitöntä evakuointia."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Rypistäen otsaansa, yrittäen muistaa) Captain? Ethan? Nämä eivät merkitse minulle mitään... Kuka sinä olet? Miksi kutsut minua tuolla nimellä?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Hologrammi välkkyy hieman, äänensävy muuttumaton) Olen Nova, navigointi-AI-avustajasi. Muistisi on vaurioitunut unitankin toimintahäiriön vuoksi, mutta nyt ei ole aikaa keskustella. Alus hajoaa 17 minuutin kuluessa."
+		},
+		{
+			"type": "narrator",
+			"content": "Et ehdi sisäistää tietoja, kun hytin ovi pakotetaan auki. Nainen astuu sisään, liikkeet ketterät, vihreät silmät kimaltavat hämärässä valossa. Hänellä on yllään ihonmyötäinen taisteluasu, kädessään hohtava energiaveitsi, kasvoillaan häivähdys huomaamatonta hymyä."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Kevyellä, leikkisällä äänensävyllä) Nukuitko tarpeeksi pitkään, Ethan? Olen Ava, parisi. Meidän täytyy lähteä nopeasti, tai muutumme kaikki avaruuspölyksi."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Perääntyy varovasti askeleen, tuijottaen häntä) Pari? En muista sinua. Mistä tiedät nimeni?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Kohauttaa olkiaan, yhä hymyillen) Muistinmenetys? Hankalaa. Luota minuun, olemme vanhoja ystäviä. Tämä alus räjähtää pian, tule kanssani, selitän kaiken."
+		},
+		{
+			"type": "narrator",
+			"content": "Hänen äänensä on itsevarma, mutta huomaat hänen silmissään välähtävän epäröinnin. Aluksen hälytysäänet kiihtyvät, lattia tärisee kevyesti muistuttaen ajan vähyydestä. Tunnet käsivarren implantin lämpenevän hieman, kuin vastaten johonkin tuntemattomaan signaaliin."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Mutisee hiljaa, yrittäen tavoittaa mielen sirpaleita) Miksi minusta tuntuu... että jokin on vialla?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Hologrammi kääntyy Avaa kohti, äänessä epäilystä) Ava, henkilöllisyystunnistusta ei löydy. Suosittelen varovaisuutta, Captain."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Naurahtaa, heilauttaa kättään) Älä kuuntele tuota virtapiirihöpinää. Ethan, meidän täytyy mennä, nyt!"
+		},
+		{
+			"type": "narrator",
+			"content": "Seisot paikallasi, mielessäsi välähtää sumea kuva: palava planeetta, naisääni kuiskaa nimeäsi. Avan ilmestyminen herättää vaistomaisesti levottomuutta, mutta tänne jääminen ei selvästikään ole viisasta. Mitä sinun pitäisi tehdä?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Hengittää syvään, yrittäen pysyä rauhallisena) Hyvä on... kerro minulle, Ava, kuka oikein olet? Miksi minusta tuntuu, että tiedät enemmän kuin kerrot?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Katse välähtää, äänensävy muuttuu vakavaksi) Nyt ei ole aikaa kysymyksille, Ethan. Luota minuun tai jää tänne kuolemaan. Sinä valitset."
+		},
+		{
+			"type": "narrator",
+			"content": "Hälytysäänet muuttuvat yhä vihlovammiksi, alus alkaa täristä rajusti. Sinun on tehtävä päätös nopeasti. Avan katseessa piilee salaisuuksia, Novan varoitus kaikuu korvissasi, ja syvällä sisimmässäsi tuntuu kuin jokin ääni kehottaisi sinua etsimään totuutta."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Lisää rauhallisesti) Havaittu ulkoista signaalihäirintää, mahdollisesti tuntemattomia aluksia lähestyy. Suosittelen välitöntä toimintaa."
+		},
+		{
+			"type": "narrator",
+			"content": "Tunnet ajan paineen, mutta mielen sumu vain tihenee. Luotatko Avaan ja seuraat häntä? Vai jäätkö etsimään lisää johtolankoja? Vai uskaltaudutko pakenemaan yksin, etsimään omia vastauksiasi?"
+		}
+	],
+	"choice": {
+		"prompt": "Miten valitset",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Luota Avaan ja seuraa häntä pois alukselta"
+			},
+			{
+				"content": "Jää alukselle etsimään johtolankoja unitankista tai komentosillalta"
+			},
+			{
+				"content": "Jätä Ava huomiotta ja etsi pelastuskapselit yksin"
+			}
+		]
+	}
+}

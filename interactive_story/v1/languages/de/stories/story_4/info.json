@@ -1,0 +1,70 @@
+{
+	"story_id": "story_4",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "Ein Raumschiffnavigator mit Gedächtnisverlust, dessen wahrer Name unbekannt ist. Er war einst eine legendäre Figur in der Sternenflotte und könnte einer der Urheber des Sternenfall-Vorfalls sein.",
+			"avatar_url": "/resources/characters/story_4/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Gelassen",
+				"Entschlossen",
+				"Voller Zweifel",
+				"Besessen von der Wahrheit"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Ava",
+			"description": "Eine mysteriöse Agentin, die behauptet, Ethans Partnerin zu sein. In Wirklichkeit ist sie ein geheimes Mitglied der Sternenallianz mit der Mission, den Sternenkern zu beschaffen. Ihre Motive sind komplex, geprägt von Loyalität und Eigeninteresse.",
+			"avatar_url": "/resources/characters/story_4/ava.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"Clever",
+				"Schlau",
+				"Geschickt im Täuschen",
+				"Innerlich zerrissen"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Nova",
+			"description": "Ethans KI-Assistentin, die im Raumschiffsystem und seinen Implantaten existiert. Sie besitzt nahezu menschliche Intelligenz. Äußerlich loyal, scheint sie jedoch Geheimnisse über Ethans Vergangenheit zu verbergen.",
+			"avatar_url": "/resources/characters/story_4/nova.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"Gelassen",
+				"Logisch präzise",
+				"Zeigt gelegentlich menschliche Fürsorge"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Kael",
+			"description": "Ein abtrünniger Weltraum-Söldner, der Ethan jagt, um das Kopfgeld für den Sternenkern zu kassieren. Er ist der Korruption in der Sternenallianz überdrüssig und könnte ein potenzieller Verbündeter sein.",
+			"avatar_url": "/resources/characters/story_4/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Rau",
+				"Entschieden",
+				"Nach außen hart, aber mit eigenem Ehrenkodex"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Flüstern der Leere"
+		}
+	]
+}

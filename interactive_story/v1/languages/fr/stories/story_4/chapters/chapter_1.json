@@ -1,0 +1,127 @@
+{
+	"title": "Les murmures du vide",
+	"summary": "Le protagoniste amnésique Ethan se réveille dans un vaisseau spatial abandonné, confronté à l'effondrement imminent de la coque et à l'apparition mystérieuse d'Ava. Il doit décider s'il fait confiance à Ava, reste à bord pour chercher des indices, ou s'échappe seul pour survivre.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Dans l'obscurité, votre conscience se rassemble comme des fragments, comme si vous étiez arraché d'un abîme sans fin. Une alarme stridente perce vos tympans, une lumière rouge clignote dans l'étroite cabine. Vous êtes allongé dans une capsule de stase glacée, votre corps lourd, votre esprit vide comme s'il avait été vidé. Autour de vous, des murs métalliques étrangers, l'air imprégné d'une odeur de circuits brûlés."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(gémissant doucement, essayant de se lever) Où... où suis-je ? Qui... qui suis-je ?"
+		},
+		{
+			"type": "narrator",
+			"content": "Vous vous redressez péniblement, la vision floue, le couvercle en verre de la capsule de stase s'ouvre lentement. Une douce lumière bleue émane de l'implant dans votre bras, projetant un hologramme - une femme aux cheveux argentés, le regard calme mais la voix teintée d'urgence."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(voix claire, mécaniquement stable) Bienvenue, Capitaine Ethan. Détection d'une défaillance imminente des systèmes du vaisseau, évacuation immédiate recommandée."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(fronçant les sourcils, essayant de se souvenir) Capitaine ? Ethan ? Ça ne signifie rien pour moi... Qui êtes-vous ? Pourquoi m'appelez-vous ainsi ?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(l'hologramme vacille légèrement, ton inchangé) Je suis Nova, votre assistant AI de navigation. Votre mémoire a été endommagée par un dysfonctionnement de la capsule de stase, mais ce n'est pas le moment d'en discuter. Le vaisseau se désintégrera dans 17 minutes."
+		},
+		{
+			"type": "narrator",
+			"content": "Avant que vous ne puissiez digérer ces informations, la porte de la cabine s'ouvre brusquement. Une femme entre, agile, ses yeux verts brillant dans la faible lumière. Elle porte une combinaison de combat ajustée, tenant un poignard énergétique lumineux, un léger sourire imperceptible sur son visage."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(ton léger, légèrement taquin) Assez dormi, Ethan ? Je suis Ava, votre partenaire. Il faut partir vite, sinon nous finirons en poussière cosmique."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(reculant d'un pas, méfiant) Partenaire ? Je ne me souviens pas de vous. Comment connaissez-vous mon nom ?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(haussant les épaules, souriant toujours) Amnésique ? Quel ennui. Faites-moi confiance, nous sommes de vieux amis. Ce vaisseau va exploser, suivez-moi, je vous expliquerai tout."
+		},
+		{
+			"type": "narrator",
+			"content": "Sa voix est pleine d'assurance, mais vous captez une hésitation fugace dans son regard. L'alarme du vaisseau devient plus urgente, le sol tremble légèrement, vous rappelant que le temps presse. Vous sentez l'implant dans votre bras chauffer légèrement, comme s'il répondait à un signal inconnu."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(murmurant, essayant de saisir les fragments dans son esprit) Pourquoi ai-je l'impression que... quelque chose ne va pas ?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(l'hologramme se tourne vers Ava, ton légèrement méfiant) Ava, aucune authentification d'identité détectée. Prudence conseillée, Capitaine."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(riant légèrement, faisant un geste de la main) N'écoutez pas ces circuits bavards. Ethan, nous devons partir, maintenant !"
+		},
+		{
+			"type": "narrator",
+			"content": "Vous restez immobile, une image floue traverse votre esprit : une planète en flammes, une voix féminine murmurant votre nom. L'apparition d'Ava vous met instinctivement mal à l'aise, mais rester ici n'est clairement pas une option sage. Que devez-vous faire ?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(respirant profondément, essayant de rester calme) D'accord... dites-moi, Ava, qui êtes-vous vraiment ? Pourquoi ai-je l'impression que vous en savez plus que vous ne le dites ?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(regard vif, ton devenant sérieux) Ce n'est pas le moment des questions, Ethan. Faites-moi confiance, ou restez ici pour mourir. À vous de choisir."
+		},
+		{
+			"type": "narrator",
+			"content": "L'alarme devient de plus en plus stridente, le vaisseau commence à trembler violemment. Vous devez prendre une décision rapidement. Les yeux d'Ava cachent des secrets, l'avertissement de Nova résonne à vos oreilles, et au fond de vous, une voix semble vous pousser à chercher la vérité."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(ajoutant calmement) Détection d'interférences de signal externe, possible approche de vaisseaux non identifiés. Action immédiate recommandée."
+		},
+		{
+			"type": "narrator",
+			"content": "Vous sentez l'urgence du temps qui passe, mais le brouillard dans votre esprit s'épaissit. Faire confiance à Ava et la suivre ? Rester pour chercher plus d'indices ? Ou risquer de s'échapper seul, à la recherche de vos propres réponses ?"
+		}
+	],
+	"choice": {
+		"prompt": "Comment allez-vous choisir",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Faire confiance à Ava et la suivre hors du vaisseau"
+			},
+			{
+				"content": "Rester à bord pour chercher des indices dans la capsule de stase ou sur la passerelle"
+			},
+			{
+				"content": "Ignorer Ava et chercher seul une capsule de sauvetage"
+			}
+		]
+	}
+}

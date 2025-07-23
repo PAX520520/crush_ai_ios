@@ -1,0 +1,97 @@
+{
+	"title": "Posiadłość we Mgle",
+	"summary": "Reporter Carter przybywa do mglistego miasteczka, by zbadać sprawę zaginięć i wchodzi do opuszczonej posiadłości Blackwood. Odkrywa tajemniczy dziennik, doświadcza paranormalnych zjawisk i spotyka ducha Elizabeth. Carter musi zdecydować, jak poradzić sobie z tymi nadnaturalnymi wydarzeniami.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Głęboka noc, miasteczko Misty Valley spowite jest gęstą mgłą, ulice są puste, tylko latarnie rzucają żółtawe poświaty w mgle. Ty, Carter, młody reporter, stoisz przed żelazną bramą posiadłości Blackwood, mocno ściskając latarkę. Zarys posiadłości majaczy we mgle jak śpiący potwór, emanując niepokojącą aurą."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(szepcząc do siebie, poprawiając okulary) To miejsce... jest cholernie dziwne. Wszystkie ślady zaginięć prowadzą tutaj, ale czuję, że to nie jest dobry pomysł."
+		},
+		{
+			"type": "narrator",
+			"content": "Popychasz zardzewiałą bramę, która wydaje przeraźliwy skrzyp w ciszy. Drzwi do posiadłości są otwarte, ganek pokryty pajęczynami, w powietrzu unosi się zapach stęchlizny i niewytłumaczalny chłód. Wchodzisz do holu, światło latarki prześlizguje się po zniszczonych meblach i popękanych ścianach, w oddali słychać szepty, jak wiatr lub ludzki szept."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(marszcząc brwi, zaciskając latarkę) Kto tam jest? Wychodź!"
+		},
+		{
+			"type": "narrator",
+			"content": "Nikt nie odpowiada, ale szepty wydają się bliższe. Zauważasz zakurzony dziennik na stole w centrum holu, na okładce wygrawerowane jest imię \"Eliza Blackwood\". Otwierasz dziennik i znajdujesz niestaranne pismo, fragmenty o \"Rytuale Krwawego Księżyca\": \"Zdradzili mnie... użyli mojej krwi dla mocy... klątwa będzie trwać wiecznie...\""
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(mamrocząc) Rytuał Krwawego Księżyca? Co to do cholery jest? Czy zaginięcia mają z tym coś wspólnego?"
+		},
+		{
+			"type": "narrator",
+			"content": "Nagle zimny podmuch wiatru, świece w świeczniku zapalają się same, emitując niebieskawą poświatę. Czujesz dreszcz przebiegający po plecach, a gdy się odwracasz, widzisz niewyraźną kobiecą sylwetkę na schodach na końcu holu. Ma na sobie zniszczoną suknię, trzyma migoczącą latarnię, jej blada twarz jest bez wyrazu, ale oczy przepełnione są głębokim smutkiem."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(głos eteryczny, głęboki jak westchnienie) Dlaczego... tu przyszedłeś? To nie jest miejsce dla żywych..."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(cofając się, z przyspieszonym biciem serca) Kim jesteś?! Ja... przyszedłem szukać prawdy! O zaginięciach, o tej posiadłości!"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(powoli się zbliżając, z nutą gniewu w głosie) Prawdy? Prawda została pogrzebana we krwi... Jeśli chcesz wiedzieć, zostań... ale uważaj, twoja dusza może zostać pochłonięta."
+		},
+		{
+			"type": "narrator",
+			"content": "Jej postać nagle znika, świece gasną, hol pogrąża się w ciemności. Twoja latarka zaczyna migotać, powietrze staje się jeszcze zimniejsze. Czujesz niewidzialną presję, jakby coś cię obserwowało."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(dysząc, próbując zachować spokój) Spokojnie, Carter, to tylko złudzenie... prawda? Ale ten dziennik... to miejsce... muszę się dowiedzieć!"
+		},
+		{
+			"type": "narrator",
+			"content": "Słyszysz skrzypiące kroki na podłodze, jakby dobiegające z góry. Możesz pójść na górę zbadać źródło dźwięku, kontynuować badanie dziennika w poszukiwaniu wskazówek lub opuścić to nawiedzone miejsce i wrócić do miasta po pomoc."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(zaciskając zęby, cicho) Nie mogę się teraz wycofać... ale to miejsce jest naprawdę przerażające."
+		},
+		{
+			"type": "narrator",
+			"content": "Bicie twojego serca odbija się echem w uszach, cienie posiadłości zdają się poruszać. Co zrobisz?"
+		}
+	],
+	"choice": {
+		"prompt": "Co zamierzasz zrobić?",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Pójść na górę, by zbadać tajemnicze kroki i eksplorować głębiej posiadłość."
+			},
+			{
+				"content": "Zostać w holu i kontynuować czytanie dziennika Elizabeth w poszukiwaniu kolejnych wskazówek."
+			},
+			{
+				"content": "Opuścić posiadłość, wrócić do Misty Valley i szukać pomocy u oficera Lucasa lub mieszkanki Viery."
+			}
+		]
+	}
+}

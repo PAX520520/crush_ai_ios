@@ -1,0 +1,97 @@
+{
+	"title": "Herrgården i dimman",
+	"summary": "Journalisten Carter kommer till Dimmdalen för att undersöka ett försvinnande och går in i den övergivna Blackwood-herrgården. Han hittar en mystisk dagbok, upplever övernaturliga fenomen och möter spöket Elizabeth. Carter måste bestämma hur han ska hantera dessa övernaturliga händelser.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Natten är mörk och Dimmdalen är insvept i tät dimma. Gatorna är tomma, endast gatlyktorna kastar ett svagt gulaktigt sken genom dimman. Du, Carter, en ung journalist, står framför järngrinden till Blackwood-herrgården med en ficklampa i ett fast grepp. Herrgårdens silhuett skymtar genom dimman som ett sovande odjur, utstrålande en oroande atmosfär."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(mumlar tyst, justerar glasögonen) Den här platsen... är verkligen jävligt kuslig. Alla spår från försvinnandet leder hit, men varför känns det som en dålig idé?"
+		},
+		{
+			"type": "narrator",
+			"content": "Du skjuter upp den rostiga järngrinden som gnisslar högt i tystnaden. Herrgårdens huvudingång står öppen, verandan är täckt av spindelväv, och luften är fylld av mögel och en obeskrivlig kyla. Du kliver in i hallen, ficklampans sken sveper över slitna möbler och spruckna väggar, och du hör avlägsna viskningar som låter som vinden eller mänskligt mummel."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(rynkar pannan, håller ficklampan hårt) Vem är där? Kom fram!"
+		},
+		{
+			"type": "narrator",
+			"content": "Inget svar, men viskningarna verkar närmare nu. Du märker en dammig dagbok på bordet i hallens mitt, med namnet 'Eliza Blackwood' ingraverat på omslaget. Du öppnar dagboken och hittar klottriga anteckningar om en 'blodmåneceremoni': 'De förrådde mig... använde mitt blod för kraft... förbannelsen ska bestå...'"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(mumlar) Blodmåneceremoni? Vad fan är det för något? Kan försvinnandet ha något med detta att göra?"
+		},
+		{
+			"type": "narrator",
+			"content": "Plötsligt sveper en kall vind genom rummet, och ljusen i kandelabrarna tänds av sig själva med ett blåaktigt sken. En rysning går längs din ryggrad när du vänder dig om och ser en suddig kvinnogestalt vid trappans slut. Hon bär en sliten klänning och håller en flimrande lykta, hennes bleka ansikte är uttryckslöst men ögonen är fyllda av djup sorg."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(med en eterisk, suckande röst) Varför... har du kommit? Detta är ingen plats för de levande..."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(tar ett steg bakåt, med bultande hjärta) Vem är du?! Jag... jag är här för att hitta sanningen! Om försvinnandet, om den här herrgården!"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(närmar sig långsamt, med en antydan till vrede i rösten) Sanningen? Sanningen är begravd i blod... Om du vill veta, stanna... men var försiktig, din själ kan bli uppslukad."
+		},
+		{
+			"type": "narrator",
+			"content": "Hennes gestalt försvinner plötsligt, ljusen slocknar och hallen blir mörk. Din ficklampa börjar flimra och luften blir ännu kallare. Du känner en osynlig närvaro, som om något iakttar dig."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(flämtar, försöker lugna sig) Lugn, Carter, det är bara inbillning... eller hur? Men dagboken... den här platsen... jag måste ta reda på sanningen!"
+		},
+		{
+			"type": "narrator",
+			"content": "Du hör knarrande fotsteg från golvet, som verkar komma från övervåningen. Du kan välja att gå upp för att undersöka ljudets källa, fortsätta studera dagboken efter ledtrådar, eller lämna denna spökplats och återvända till staden för att söka hjälp."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(biter ihop, med låg röst) Jag kan inte bara ge upp... men det här stället är verkligen kusligt."
+		},
+		{
+			"type": "narrator",
+			"content": "Ditt hjärta dunkar i öronen och herrgårdens skuggor verkar röra sig. Vad ska du göra?"
+		}
+	],
+	"choice": {
+		"prompt": "Hur vill du agera?",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Gå upp för trappan för att undersöka de mystiska fotstegen och utforska herrgårdens övre våning."
+			},
+			{
+				"content": "Stanna i hallen och fortsätt läsa Elizabeths dagbok för att hitta fler ledtrådar."
+			},
+			{
+				"content": "Lämna herrgården och återvänd till Dimmdalen för att söka hjälp från konstapel Lucas eller byborna Vera."
+			}
+		]
+	}
+}

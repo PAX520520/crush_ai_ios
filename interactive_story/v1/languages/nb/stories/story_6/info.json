@@ -1,0 +1,87 @@
+{
+	"story_id": "story_6",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Carter",
+			"description": "En ung og sta journalist som lever etter mottoet om å søke sannheten. Han kommer til Tåkedalen for å etterforske en forsvinningssak, men blir uventet involvert i overnaturlige hendelser.",
+			"avatar_url": "/resources/characters/story_6/carter.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 27,
+			"personality": [
+				"nysgjerrig",
+				"modig",
+				"sta",
+				"logisk tenkende men skeptisk til overnaturlige fenomener"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Eliza",
+			"description": "Den tidligere eieren av Blackwood Manor, som ble forrådt av sin familie for hundre år siden og ble et offer for blodmåneritualet. Hennes spøkelse vandrer rundt i herregården, og prøver å bryte forbannelsen gjennom Carter, men hennes motiver virker ikke helt rene.",
+			"avatar_url": "/resources/characters/story_6/eliza.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"sorgfull",
+				"mystisk",
+				"kompleks",
+				"har både et ønske om hjelp og en brennende hevnlyst"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Aiden",
+			"description": "En ensom vandrer som ofte streifer rundt i nærheten av Tåkedalen, og hevder å kjenne herregårdens hemmeligheter. Hans sanne identitet og motiver er uklare.",
+			"avatar_url": "/resources/characters/story_6/aiden.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"fåmælt",
+				"forsiktig",
+				"skarpsindig",
+				"virker vant til overnaturlige fenomener"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Vera",
+			"description": "En eldre innbygger i Tåkedalen som kaller seg historiker og kjenner herregårdens fortid godt, men hennes fortellinger virker alltid ufullstendige, som om hun skjuler noen hemmeligheter.",
+			"avatar_url": "/resources/characters/story_6/vera.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 60,
+			"personality": [
+				"vis",
+				"mystisk",
+				"forsiktig",
+				"har en advarende tone i sine ord"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Lucas",
+			"description": "Politibetjenten i Tåkedalen som etterforsker forsvinningssaken og er skeptisk til Carters ankomst. Hans oppførsel antyder at han vet noe om ryktene rundt herregården, men er uvillig til å diskutere det nærmere.",
+			"avatar_url": "/resources/characters/story_6/lucas.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"alvorlig",
+				"på vakt",
+				"konservativ",
+				"tvetydig holdning til overnaturlige fenomener"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Herregården i tåken"
+		}
+	]
+}

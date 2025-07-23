@@ -1,0 +1,87 @@
+{
+	"story_id": "story_6",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Carter",
+			"description": "صحفي شاب وعنيد يجعل البحث عن الحقيقة مبدأه في الحياة. جاء إلى قرية الضباب للتحقيق في قضية اختفاء، لكنه تورط بشكل غير متوقع في أحداث خارقة للطبيعة.",
+			"avatar_url": "/resources/characters/story_6/carter.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 27,
+			"personality": [
+				"فضولي",
+				"شجاع",
+				"عنيد",
+				"تفكير منطقي مع موقف متشكك تجاه الظواهر الخارقة للطبيعة"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Eliza",
+			"description": "المالكة السابقة لقصر بلاكوود، خانتها عائلتها قبل مائة عام وأصبحت قرباناً لطقوس القمر الدموي. شبحها يتجول في القصر، محاولة كسر اللعنة من خلال كارتر، لكن دوافعها تبدو غير خالصة.",
+			"avatar_url": "/resources/characters/story_6/eliza.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"حزينة",
+				"غامضة",
+				"معقدة",
+				"لديها رغبة في طلب المساعدة وغضب الانتقام"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Aiden",
+			"description": "متشرد منعزل يتجول حول قرية الضباب، يدعي معرفته بأسرار القصر. هويته الحقيقية ودوافعه غامضة.",
+			"avatar_url": "/resources/characters/story_6/aiden.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"قليل الكلام",
+				"حذر",
+				"ذكي",
+				"يبدو معتاداً على الظواهر الخارقة للطبيعة"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Vera",
+			"description": "مواطنة مسنة من قرية الضباب، تدعي أنها مؤرخة ولديها معرفة عميقة بماضي القصر، لكن رواياتها دائماً ما تحتفظ بشيء، وكأنها تخفي بعض الأسرار.",
+			"avatar_url": "/resources/characters/story_6/vera.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 60,
+			"personality": [
+				"حكيمة",
+				"غامضة",
+				"حذرة",
+				"كلماتها تحمل نبرة تحذير"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Lucas",
+			"description": "ضابط شرطة في قرية الضباب، مسؤول عن التحقيق في قضية الاختفاء، متشكك في وصول كارتر. سلوكه يشير إلى معرفته بشائعات القصر، لكنه لا يرغب في مناقشتها بعمق.",
+			"avatar_url": "/resources/characters/story_6/lucas.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"جاد",
+				"متيقظ",
+				"محافظ",
+				"موقف غامض تجاه الظواهر الخارقة للطبيعة"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "القصر في الضباب"
+		}
+	]
+}

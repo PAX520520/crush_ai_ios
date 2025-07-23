@@ -1,0 +1,113 @@
+{
+	"title": "The Exile's Return",
+	"summary": "Calian wakes up in a border town tavern, realizing he has been stripped of his throne and exiled. He meets a mysterious bard Elina, who seems to know his identity but remains cryptic. Calian faces a choice: trust Elina and follow her to find the truth; act alone and risk sneaking back to the capital; or stay in town, hiding his identity.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "The night was dark as ink, and the border town tavern was filled with the smell of ale and sweat. Dim candlelight danced on wooden tables, illuminating a haggard yet handsome face. Calian Valencia, once a prince, now nothing more than a wanderer in a tattered cloak, sat in the corner, staring emptily at the empty glass in his hand."
+		},
+		{
+			"type": "narrator",
+			"content": "The last thing he remembered was the feast in the palace, amidst the clinking of glasses, his uncle Edmund's smile carried a hint of malice. Then came darkness, followed by the sentence of exile. He didn't know why he was charged with treason, nor how he ended up in this desolate town."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(muttering softly, gripping the glass) Who am I? Why am I here?"
+		},
+		{
+			"type": "narrator",
+			"content": "The tavern door was pushed open, cold wind swept in with raindrops. A figure entered, wearing a green cloak and carrying a harp. She removed her hood, revealing golden hair that shone like moonlight. Her appearance instantly silenced the tavern, all eyes fixed on her."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(approaching Calian, voice melodious like a spring) You look like a man who's lost his soul, stranger."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(looking up alertly, eyes sharp) Do you know me?"
+		},
+		{
+			"type": "narrator",
+			"content": "Her smile carried a hint of playfulness, as if she had already seen through his secrets. She sat down across from Calian, strumming the harp, its strings humming softly."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(speaking softly, a glint of cunning in her eyes) Perhaps. Calian Valencia, the lost star of the Valencia Kingdom, isn't it?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(standing abruptly, hand on sword hilt) Who are you? How do you know my name?"
+		},
+		{
+			"type": "narrator",
+			"content": "People in the tavern began to whisper, and Calian felt an invisible pressure. His hand trembled slightly, not from fear, but because that long-forgotten name awakened the anger in his heart."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(raising both hands in harmless gesture) Relax, Your Highness. I'm Elina, a wandering bard. I know many things, like... how your uncle Edmund usurped the throne."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(voice deep with suspicion) You want me to trust you? A woman I just met?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(smiling, with a hint of challenge in her tone) I don't demand trust, but I can lead you to the truth. Or you can continue drinking here until someone recognizes you."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian stared at her, trying to read those azure eyes. Her tone was sincere, but that smile was inscrutable. His heart struggled: she could be an ally, or it could be a trap."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(sitting down slowly, voice cold) If you deceive me, you'll regret it."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(chuckling, strumming the harp) A fair deal, Your Highness. We leave at dawn for the Black Forest. Someone is waiting for you there."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian felt a chill. The Black Forest, that forbidden place of legends, what secrets did it hide? Elina's identity and motives remained a mystery, yet he had no choice."
+		},
+		{
+			"type": "narrator",
+			"content": "The night grew deep, the tavern's noise gradually subsiding. Calian watched the storm outside the window, a spark of hope igniting in his heart—or perhaps, greater danger."
+		}
+	],
+	"choice": {
+		"title": "Your Choice",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Trust Elina and follow her to the Black Forest."
+			},
+			{
+				"content": "Refuse Elina and secretly return to the capital alone to seek the truth."
+			},
+			{
+				"content": "Stay in town, hide your identity, and investigate quietly."
+			}
+		]
+	}
+}

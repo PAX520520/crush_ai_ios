@@ -1,0 +1,113 @@
+{
+	"title": "流放者的歸途",
+	"summary": "卡利安在邊境小鎮的酒館中醒來，意識到自己被剝奪了王位，流放至此。他遇到了神秘的吟遊詩人艾琳娜，她似乎知道他的身份，卻語焉不詳。卡利安面臨選擇：信任艾琳娜，跟隨她尋找真相；獨自行動，冒險潛回王都；或留在小鎮，隱藏身份。",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "夜色如墨，邊境小鎮的酒館裡瀰漫著麥酒和汗水的味道。昏暗的燭光在木桌上跳躍，照亮了一張憔悴卻英俊的臉龐。卡利安·瓦倫西亞，曾經的王子，如今不過是個披著破斗篷的流浪者，坐在角落裡，眼神空洞地盯著手中的空酒杯。"
+		},
+		{
+			"type": "narrator",
+			"content": "他記得的最後一件事，是王宮裡的盛宴，觥籌交錯間，叔叔埃德蒙的笑容帶著一絲陰險。然後是一片黑暗，緊接著是流放的判決。他不知道自己為何被控叛國，也不知道如何來到這個荒涼的小鎮。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(低聲自語，握緊酒杯) 我是誰？為什麼我會在這裡？"
+		},
+		{
+			"type": "narrator",
+			"content": "酒館的門被推開，寒風捲著雨點吹了進來。一個身影走了進來，身披綠色斗篷，手中抱著一把豎琴。她摘下兜帽，露出一頭金髮，宛如月光般耀眼。她的出現讓酒館瞬間安靜，所有人都盯著她。"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(走向卡利安，聲音如清泉般悅耳) 你看起來像是丟了靈魂的人，陌生人。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(警覺地抬頭，眼神銳利) 你認識我？"
+		},
+		{
+			"type": "narrator",
+			"content": "她的笑容帶著一絲戲謔，彷彿早已看透了他的秘密。她在卡利安對面坐下，撥弄了一下豎琴，琴弦發出低吟。"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(輕聲說，眼中閃過一絲狡黠) 也許吧。卡利安·瓦倫西亞，瓦倫西亞王國的失落之星，對嗎？"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(猛地站起，手按在劍柄上) 你到底是誰？為何知道我的名字？"
+		},
+		{
+			"type": "narrator",
+			"content": "酒館裡的人開始竊竊私語，卡利安感到一股無形的壓力。他的手微微顫抖，不是因為恐懼，而是因為那久違的名字喚醒了他心中的怒火。"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(舉起雙手，示意無害) 放鬆，殿下。我叫艾琳娜，一個流浪的吟遊詩人。我知道很多事，比如……你的叔叔埃德蒙是如何篡位的。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(聲音低沉，充滿懷疑) 你想讓我相信你？一個剛認識的女人？"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(微笑，語氣中帶著一絲挑釁) 我不強求信任，但我可以帶你找到真相。或者，你可以繼續在這兒喝悶酒，直到被人認出來。"
+		},
+		{
+			"type": "narrator",
+			"content": "卡利安盯著她，試圖讀懂那雙湛藍的眼睛。她的語氣真誠，但那抹笑容卻讓人捉摸不透。他的內心在掙扎：她可能是盟友，也可能是陷阱。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(緩緩坐下，聲音冷硬) 如果你騙我，我會讓你後悔。"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(輕笑，撥動琴弦) 公平的交易，殿下。我們明天清晨出發，前往黑森林。有人在那裡等你。"
+		},
+		{
+			"type": "narrator",
+			"content": "卡利安感到一股寒意。黑森林，那個充滿傳說的禁地，究竟隱藏著什麼？艾琳娜的身份和目的成謎，他卻別無選擇。"
+		},
+		{
+			"type": "narrator",
+			"content": "夜深了，酒館的喧囂漸漸平息。卡利安看著窗外的暴風雨，心中燃起了一絲希望——或者，是更大的危險。"
+		}
+	],
+	"choice": {
+		"title": "你的抉擇",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "信任艾琳娜，跟隨她前往黑森林。"
+			},
+			{
+				"content": "拒絕艾琳娜，獨自潛回王都尋找真相。"
+			},
+			{
+				"content": "留在小鎮，隱藏身份，暗中調查。"
+			}
+		]
+	}
+}

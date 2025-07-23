@@ -1,0 +1,70 @@
+{
+	"story_id": "story_4",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "Een stuurman met geheugenverlies, echte naam onbekend, ooit een legendarische figuur in de ruimtevloot, mogelijk een van de architecten van het Sterrenvalevenement.",
+			"avatar_url": "/resources/characters/story_4/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Kalm",
+				"Vastberaden",
+				"Vol twijfels",
+				"Gedreven door waarheid"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Ava",
+			"description": "Een mysterieuze agent die beweert Ethans partner te zijn, maar eigenlijk een geheim lid is van de Interstellaire Alliantie, met als missie de sterrenkern te verkrijgen. Haar motieven zijn complex, met zowel loyaliteit als eigenbelang.",
+			"avatar_url": "/resources/characters/story_4/ava.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"Slim",
+				"Sluw",
+				"Bedreven in vermomming",
+				"Innerlijk conflict"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Nova",
+			"description": "Ethans AI-assistent, aanwezig in het ruimteschipsysteem en zijn implantaten, met bijna menselijke intelligentie. Ogenschijnlijk loyaal, maar lijkt geheimen te verbergen over Ethans verleden.",
+			"avatar_url": "/resources/characters/story_4/nova.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"Kalm",
+				"Logisch",
+				"Toont soms menselijke zorg"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Kael",
+			"description": "Een gedeserteerde ruimtehuurling die op Ethan jaagt voor de premie op de sterrenkern, maar vermoeid is van de corruptie in de Interstellaire Alliantie. Mogelijk een potentiële bondgenoot.",
+			"avatar_url": "/resources/characters/story_4/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Ruig",
+				"Besluitvaardig",
+				"Uiterlijk hard maar met eigen principes"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Fluisteringen uit de Leegte"
+		}
+	]
+}

@@ -1,0 +1,87 @@
+{
+	"story_id": "story_6",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Carter",
+			"description": "Gerçeği aramayı hayat felsefesi haline getirmiş genç ve inatçı bir gazeteci. Sisli Vadi kasabasına kayıp vakasını araştırmak için geldi ancak kendini beklenmedik doğaüstü olayların içinde buldu.",
+			"avatar_url": "/resources/characters/story_6/carter.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 27,
+			"personality": [
+				"Meraklı",
+				"Cesur",
+				"İnatçı",
+				"Mantıklı düşünür ama doğaüstü olaylara şüpheyle yaklaşır"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Eliza",
+			"description": "Blackwood Malikânesi'nin eski sahibi, yüz yıl önce ailesi tarafından ihanete uğrayarak kanlı ay ritüelinde kurban edildi. Hayaleti malikânede dolaşıyor ve Carter'ı kullanarak laneti kırmaya çalışıyor, ancak motivasyonu pek de masum görünmüyor.",
+			"avatar_url": "/resources/characters/story_6/eliza.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"Kederli",
+				"Gizemli",
+				"Karmaşık",
+				"Hem yardım isteme arzusu hem de intikam ateşi taşıyor"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Aiden",
+			"description": "Yalnız başına dolaşan bir gezgin, sık sık Sisli Vadi kasabası civarında görülür ve malikânenin sırlarını bildiğini iddia eder. Gerçek kimliği ve niyetleri belirsizdir.",
+			"avatar_url": "/resources/characters/story_6/aiden.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Az konuşan",
+				"Temkinli",
+				"Zeki",
+				"Doğaüstü olayları normal karşılar gibi görünür"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Vera",
+			"description": "Sisli Vadi'nin yaşlı sakini, kendisini tarihçi olarak tanıtır ve malikânenin geçmişi hakkında derin bilgiye sahiptir, ancak anlattıklarında her zaman bir şeyleri saklıyor gibidir ve bazı sırları gizlediği bellidir.",
+			"avatar_url": "/resources/characters/story_6/vera.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 60,
+			"personality": [
+				"Bilge",
+				"Gizemli",
+				"Temkinli",
+				"Konuşmalarında uyarı tonu vardır"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Lucas",
+			"description": "Sisli Vadi'nin polis memuru, kayıp vakasını araştırıyor ve Carter'ın gelişinden şüphe duyuyor. Davranışları malikâne hakkındaki söylentilerden haberdar olduğunu gösteriyor, ancak bu konuyu derinlemesine tartışmaktan kaçınıyor.",
+			"avatar_url": "/resources/characters/story_6/lucas.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"Ciddi",
+				"Tetikte",
+				"Muhafazakâr",
+				"Doğaüstü olaylara karşı belirsiz bir tutum sergiler"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Sisli Malikâne"
+		}
+	]
+}

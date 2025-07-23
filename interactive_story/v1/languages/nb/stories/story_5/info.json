@@ -1,0 +1,84 @@
+{
+	"story_id": "story_5",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Calian",
+			"description": "En ung prins fratatt sin trone, opprinnelig kjent som Calian Valencia, bærer byrden av hevn og frelse.",
+			"avatar_url": "/resources/characters/story_5/calian.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 22,
+			"personality": [
+				"Motstandsdyktig",
+				"Smart",
+				"Indre konflikt",
+				"Lengter etter rettferdighet men tviler på menneskeheten"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Elina",
+			"description": "En mystisk trubadur, egentlig en prinsesse fra fiendtlig land, dyktig i forkledning og manipulasjon, men bærer et håp om fred i hjertet.",
+			"avatar_url": "/resources/characters/story_5/elina.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 20,
+			"personality": [
+				"Snarrådig",
+				"Forførende",
+				"Kompleks",
+				"Flink til å skjule sanne følelser"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Roland",
+			"description": "En lojal ridder, tidligere Calians vakt, helt hengiven til prinsen.",
+			"avatar_url": "/resources/characters/story_5/roland.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Rettskaffen",
+				"Modig",
+				"Sta"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Victor",
+			"description": "En slu tyv, dyktig i tyveri og informasjonsinnhenting, skeptisk til Calians idealisme.",
+			"avatar_url": "/resources/characters/story_5/victor.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 28,
+			"personality": [
+				"Slu",
+				"Kynisk",
+				"Tvilsom lojalitet"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Marian",
+			"description": "En vis heks som behersker eldgammel magi, bor tilbaketrukket i skogen og kjenner kongefamiliens hemmeligheter.",
+			"avatar_url": "/resources/characters/story_5/marian.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 40,
+			"personality": [
+				"Rolig",
+				"Mystisk",
+				"Skarpsindig"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Den landsforvistes hjemreise"
+		}
+	]
+}

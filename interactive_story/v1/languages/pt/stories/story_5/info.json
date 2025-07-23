@@ -1,0 +1,84 @@
+{
+	"story_id": "story_5",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Calian",
+			"description": "Um jovem príncipe destronado, nascido Calian Valencia, que carrega a missão de vingança e redenção.",
+			"avatar_url": "/resources/characters/story_5/calian.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 22,
+			"personality": [
+				"Resiliente",
+				"Inteligente",
+				"Conflituoso internamente",
+				"Anseia por justiça mas duvida da natureza humana"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Elina",
+			"description": "Uma misteriosa trovadora que na verdade é uma princesa inimiga, habilidosa em disfarces e manipulação, mas secretamente esperançosa pela paz.",
+			"avatar_url": "/resources/characters/story_5/elina.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 20,
+			"personality": [
+				"Astuta",
+				"Encantadora",
+				"Complexa",
+				"Hábil em esconder emoções verdadeiras"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Roland",
+			"description": "Um cavaleiro leal, ex-guarda de Calian, devotadamente fiel ao príncipe.",
+			"avatar_url": "/resources/characters/story_5/roland.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Honesto",
+				"Corajoso",
+				"Teimoso"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Victor",
+			"description": "Um ladrão astuto, especialista em roubo e coleta de informações, cético quanto ao idealismo de Calian.",
+			"avatar_url": "/resources/characters/story_5/victor.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 28,
+			"personality": [
+				"Perspicaz",
+				"Irreverente",
+				"Lealdade questionável"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Marian",
+			"description": "Uma bruxa sábia que domina magia antiga, vive reclusa na floresta e conhece os segredos da realeza.",
+			"avatar_url": "/resources/characters/story_5/marian.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 40,
+			"personality": [
+				"Calma",
+				"Misteriosa",
+				"Perspicaz"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "O Retorno do Exilado"
+		}
+	]
+}

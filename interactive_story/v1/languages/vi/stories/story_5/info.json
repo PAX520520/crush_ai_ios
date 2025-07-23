@@ -1,0 +1,84 @@
+{
+	"story_id": "story_5",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Calian",
+			"description": "Hoàng tử trẻ bị tước đoạt ngai vàng, tên thật là Calian Valencia, mang trong mình sứ mệnh trả thù và cứu chuộc.",
+			"avatar_url": "/resources/characters/story_5/calian.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 22,
+			"personality": [
+				"Kiên cường",
+				"Thông minh",
+				"Mâu thuẫn nội tâm",
+				"Khao khát công lý nhưng hoài nghi bản chất con người"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Elina",
+			"description": "Một nhà thơ du ca bí ẩn, thực chất là công chúa của nước thù địch, giỏi ngụy trang và thao túng tâm lý, trong lòng vẫn ấp ủ một chút hy vọng về hòa bình.",
+			"avatar_url": "/resources/characters/story_5/elina.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 20,
+			"personality": [
+				"Mưu trí",
+				"Quyến rũ",
+				"Phức tạp",
+				"Giỏi che giấu cảm xúc thật"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Roland",
+			"description": "Một hiệp sĩ trung thành, từng là vệ sĩ của Calian, tận tụy với hoàng tử.",
+			"avatar_url": "/resources/characters/story_5/roland.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Chính trực",
+				"Dũng cảm",
+				"Cứng đầu"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Victor",
+			"description": "Tên trộm xảo quyệt, giỏi ăn cắp và thu thập thông tin, nửa tin nửa ngờ về chủ nghĩa lý tưởng của Calian.",
+			"avatar_url": "/resources/characters/story_5/victor.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 28,
+			"personality": [
+				"Nhanh trí",
+				"Phóng túng",
+				"Lòng trung thành đáng ngờ"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Marian",
+			"description": "Một phù thủy thông thái, nắm giữ phép thuật cổ xưa, sống ẩn dật trong rừng, biết những bí mật của hoàng gia.",
+			"avatar_url": "/resources/characters/story_5/marian.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 40,
+			"personality": [
+				"Điềm tĩnh",
+				"Bí ẩn",
+				"Nhạy bén"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Con đường trở về của kẻ lưu đày"
+		}
+	]
+}

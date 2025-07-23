@@ -1,0 +1,113 @@
+{
+	"title": "Die Rückkehr des Verbannten",
+	"summary": "Calian erwacht in einem Gasthaus in einer Grenzstadt und erkennt, dass er seines Throns beraubt und verbannt wurde. Er trifft auf die mysteriöse Bardin Elina, die seine Identität zu kennen scheint, aber rätselhaft bleibt. Calian steht vor einer Wahl: Elina vertrauen und mit ihr nach der Wahrheit suchen; allein handeln und riskant in die Hauptstadt zurückkehren; oder in der Stadt bleiben und seine Identität verbergen.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Die Nacht war tintenschwarz, und im Gasthaus der Grenzstadt hing der Geruch von Bier und Schweiß in der Luft. Das schwache Kerzenlicht tanzte über den Holztisch und beleuchtete ein erschöpftes, aber gutaussehendes Gesicht. Calian Valencia, einst ein Prinz, jetzt nur noch ein Wanderer in einem zerschlissenen Umhang, saß in der Ecke und starrte mit leerem Blick in sein leeres Glas."
+		},
+		{
+			"type": "narrator",
+			"content": "Das Letzte, woran er sich erinnerte, war das Fest im Palast, wo zwischen den klirrenden Gläsern das hinterhältige Lächeln seines Onkels Edmund zu sehen war. Dann kam die Dunkelheit und schließlich das Verbannungsurteil. Er wusste nicht, warum er des Verrats beschuldigt wurde oder wie er in diese öde Stadt gekommen war."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(flüstert zu sich selbst, das Glas fest umklammernd) Wer bin ich? Warum bin ich hier?"
+		},
+		{
+			"type": "narrator",
+			"content": "Die Tür des Gasthauses wurde aufgestoßen, kalter Wind und Regen wehten herein. Eine Gestalt trat ein, in einen grünen Umhang gehüllt, eine Harfe in den Armen. Sie nahm ihre Kapuze ab und enthüllte goldenes Haar, das wie Mondlicht schimmerte. Ihr Erscheinen ließ das Gasthaus verstummen, alle Augen waren auf sie gerichtet."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(geht auf Calian zu, ihre Stimme klar wie ein Quell) Ihr seht aus wie jemand, der seine Seele verloren hat, Fremder."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(hebt wachsam den Kopf, mit scharfem Blick) Kennt Ihr mich?"
+		},
+		{
+			"type": "narrator",
+			"content": "Ihr Lächeln trug einen Hauch von Spott, als hätte sie sein Geheimnis längst durchschaut. Sie setzte sich Calian gegenüber und zupfte an ihrer Harfe, die Saiten gaben einen leisen Ton von sich."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(spricht leise, mit einem schlauen Funkeln in den Augen) Vielleicht. Calian Valencia, der verlorene Stern des Königreichs Valencia, nicht wahr?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(springt auf, die Hand am Schwertgriff) Wer seid Ihr? Woher kennt Ihr meinen Namen?"
+		},
+		{
+			"type": "narrator",
+			"content": "Die Gäste im Gasthaus begannen zu tuscheln, und Calian spürte einen unsichtbaren Druck. Seine Hand zitterte leicht, nicht aus Furcht, sondern weil der lang vergessene Name die Wut in seinem Herzen wieder entfachte."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(hebt die Hände in einer friedlichen Geste) Beruhigt Euch, Hoheit. Ich bin Elina, eine wandernde Bardin. Ich weiß vieles, zum Beispiel... wie Euer Onkel Edmund den Thron an sich riss."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(mit tiefer, zweifelnder Stimme) Ihr wollt, dass ich Euch vertraue? Einer Fremden?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(lächelt mit einem Hauch von Herausforderung) Ich verlange kein Vertrauen, aber ich kann Euch zur Wahrheit führen. Oder Ihr bleibt hier und trinkt weiter, bis Euch jemand erkennt."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian starrte sie an und versuchte, in ihren tiefblauen Augen zu lesen. Ihre Stimme klang aufrichtig, aber ihr Lächeln blieb undurchschaubar. In seinem Inneren kämpfte er: Sie könnte eine Verbündete sein oder eine Falle."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(setzt sich langsam, mit harter Stimme) Wenn Ihr mich betrügt, werdet Ihr es bereuen."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(lacht leise und zupft die Saiten) Ein fairer Handel, Hoheit. Wir brechen morgen bei Tagesanbruch zum Schwarzwald auf. Dort wartet jemand auf Euch."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian spürte einen Schauer. Der Schwarzwald, dieser sagenumwobene verbotene Ort, was verbarg sich dort? Elinas Identität und Absichten blieben ein Rätsel, doch er hatte keine andere Wahl."
+		},
+		{
+			"type": "narrator",
+			"content": "Die Nacht wurde tiefer, der Lärm im Gasthaus verebbte allmählich. Calian beobachtete den Sturm draußen vor dem Fenster, während in seinem Herzen ein Funken Hoffnung aufflammte – oder vielleicht eine noch größere Gefahr."
+		}
+	],
+	"choice": {
+		"title": "Eure Entscheidung",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Vertraut Elina und folgt ihr in den Schwarzwald."
+			},
+			{
+				"content": "Lehnt Elina ab und schleicht allein zurück zur Hauptstadt, um die Wahrheit zu finden."
+			},
+			{
+				"content": "Bleibt in der Stadt, verbergt Eure Identität und stellt heimlich Nachforschungen an."
+			}
+		]
+	}
+}

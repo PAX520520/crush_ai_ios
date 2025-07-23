@@ -60,6 +60,67 @@
 			],
 			"cover_image_url": "resources/covers/story_3_cover.jpg",
 			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
+		},
+		{
+			"id": "story_4",
+			"title": "Gema Jurang Bintang",
+			"description": "Pada masa hadapan yang jauh, tamadun manusia berkembang pesat dalam penjajahan antara bintang, tetapi hampir musnah akibat kejadian misteri 'Kejatuhan Bintang'. Watak utama, seorang juruterbang kapal angkasa yang dilupakan, terjaga dan mendapati dirinya berada di dalam kapal angkasa yang terbengkalai, tanpa ingatan. Pembantu AI pintar di sisinya, seorang wanita misteri yang mengaku 'tahu segalanya', dan ancaman yang semakin mendekat memaksanya memulakan perjalanan mencari kebenaran dan jati diri. Dalam alam semesta yang penuh dengan teknologi dan misteri ini, dia akan membongkar rahsia Kejatuhan Bintang, dan memutuskan sama ada untuk menyelamatkan tamadun, atau membiarkan segalanya lenyap.",
+			"category_id": 4,
+			"tags": [
+				"Fiksyen Sains",
+				"Misteri",
+				"Pengembaraan",
+				"Penemuan Diri",
+				"Kecerdasan Buatan"
+			],
+			"plot_direction": [
+				"Permulaan: Watak utama terjaga dalam pod tidur di sebuah kapal angkasa yang terbengkalai, tanpa ingatan, hanya dengan serpihan mimpi yang kabur: sebuah planet yang terbakar dan suara wanita yang berbisik. Pembantu AI pintarnya Nova memanggilnya 'Captain Ethan', dan memberi amaran bahawa sistem kapal sedang gagal. Tidak lama kemudian, seorang wanita misteri bernama Ava muncul, mendakwa sebagai rakannya, dan membantunya melarikan diri dari kapal yang hampir meletup. Semasa dalam pelarian, Ethan mendapati dia memiliki kebolehan luar biasa untuk mengawal teknologi purba, tetapi ini juga menarik perhatian kuasa yang tidak dikenali yang cuba membunuhnya.",
+				"Pertengahan: Ethan, Ava dan Nova melintasi beberapa sistem bintang, mencari petunjuk tentang kejadian Kejatuhan Bintang. Mereka mendapati bahawa Kejatuhan Bintang bukan fenomena semula jadi, tetapi akibat daripada teknologi purba yang tidak terkawal dari tamadun kuno. Ava secara beransur-ansur mendedahkan identiti sebenarnya - seorang ejen rahsia dari Persekutuan Antara Bintang yang cuba menggunakan kebolehan Ethan untuk mengaktifkan 'Teras Bintang', alat yang boleh membentuk semula alam semesta. Pada masa yang sama, mimpi Ethan menjadi semakin jelas, dan dia mula mengesyaki bahawa dia mungkin salah seorang pencipta Kejatuhan Bintang, manakala Nova seolah-olah menyembunyikan maklumat penting.",
+				"Pengakhiran: Ethan menghadapi pilihan: sama ada mengaktifkan Teras Bintang, membentuk semula alam semesta tetapi mungkin menghapuskan tamadun sedia ada; atau memusnahkannya, melindungi keadaan semasa tetapi membiarkan kebenaran terkubur selamanya. Motif Ava menjadi semakin jelas, dia boleh menjadi sekutu atau musuh. Akhirnya, melalui ingatan yang pulih, Ethan mendapati bahawa dia pernah mengorbankan segalanya untuk menghentikan Kejatuhan Bintang, dan Nova adalah salinan kesedaran dirinya, membawa misi yang belum selesai. Kesudahan bergantung pada pilihan pemain: mengorbankan diri untuk menyelamatkan alam semesta, atau melepaskan segalanya untuk mencari kebebasan."
+			],
+			"cover_image_url": "resources/covers/story_4_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_4_bg.jpg"
+		},
+		{
+			"id": "story_5",
+			"title": "Mahkota Yang Pecah",
+			"description": "Di sebuah kerajaan di Eropah zaman pertengahan, satu konspirasi menolak putera muda ke dalam jurang takdir. Watak utama yang kehilangan hak warisannya terpaksa bergerak di antara bangsawan Stuart yang setia dan rakyat biasa, membongkar rahsia yang tersembunyi dalam istana diraja, untuk mendapatkan kembali kehormatannya - atau tenggelam sepenuhnya dalam pusaran kuasa dan pengkhianatan.",
+			"category_id": 5,
+			"tags": [
+				"Zaman Pertengahan",
+				"Konspirasi",
+				"Kuasa Diraja",
+				"Pengkhianatan",
+				"Dendam",
+				"Misteri"
+			],
+			"plot_direction": [
+				"Permulaan: Watak utama Calian, seorang putera yang telah dilucutkan hak warisannya, difitnah sebagai pengkhianat dalam rampasan kuasa istana dan dibuang ke bandar sempadan. Di kedai minuman bandar, dia bertemu dengan penyair misteri Ellena, yang seolah-olah mengetahui identiti sebenar Calian tetapi menyembunyikan tujuannya. Calian mula mengesyaki kejatuhan keluarga diraja mempunyai cerita tersembunyi, dan memutuskan untuk memulakan perjalanan mencari kebenaran dan pembalasan.",
+				"Pertengahan: Dengan bantuan Ellena, Calian bertemu dengan sekumpulan pemberontak, termasuk Roland si kesatria yang setia, Victor si pencuri yang licik dan Marian si ahli sihir yang bijak. Mereka bersama-sama membongkar konspirasi Pakcik Edmund yang merampas takhta: dia bersubahat dengan kerajaan musuh, cuba untuk menelan homeland Calian. Perjalanan Calian dipenuhi dengan cabaran, dia perlu memilih antara kesetiaan dan pengkhianatan, sambil menghadapi perasaan yang kompleks terhadap takhta dan keluarga.",
+				"Pengakhiran: Calian akhirnya menyelinap masuk ke istana, menentang Edmund, dan membongkar konspirasi yang lebih besar: Ellena sebenarnya adalah puteri dari negara musuh, cuba menggunakan Calian untuk mencapai tujuan politiknya. Calian perlu memutuskan sama ada untuk memaafkan pengkhianatannya, dan memilih sama ada untuk merampas kembali takhta, atau melepaskan segalanya untuk mengejar kehidupan yang bebas."
+			],
+			"cover_image_url": "resources/covers/story_5_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_5_bg.jpg"
+		},
+		{
+			"id": "story_6",
+			"title": "Bisikan Hantu",
+			"description": "Di bandar Lembah Kabus yang seram, seorang wartawan muda Carter secara tidak sengaja memasuki sebuah manor terbengkalai ketika menyiasat kes kehilangan yang misteri. Manor itu dipenuhi dengan aura yang tidak menyenangkan, bisikan hantu bergema dalam kegelapan, mendedahkan rahsia seram dari beberapa dekad yang lalu. Carter mesti memecahkan misteri sumpahan manor, menghadapi bahaya yang tersembunyi dalam bayang-bayang, untuk melarikan diri - atau menjadi sebahagian daripada hantu selamanya.",
+			"category_id": 6,
+			"tags": [
+				"Paranormal",
+				"Misteri",
+				"Sumpahan",
+				"Seram",
+				"Pengembaraan"
+			],
+			"plot_direction": [
+				"Permulaan: Carter, seorang wartawan yang ingin tahu, datang ke Lembah Kabus untuk menyiasat kes kehilangan bertahun-tahun yang lalu. Petunjuk mengarah ke Manor Blackwood yang terbengkalai, yang dikatakan terkutuk, di mana sesiapa yang masuk tidak dapat keluar hidup-hidup. Carter menemui sebuah diari kuno di dalam manor yang merakamkan nasib tragis Elizabeth, pemilik manor, dan satu sumpahan yang berkaitan dengan 'Upacara Bulan Darah'. Kejadian pelik berlaku di manor: bayang-bayang yang bergerak, sentuhan sejuk, bisikan di telinga, menyebabkan Carter mula meragui sanity dirinya.",
+				"Pertengahan: Carter meneroka lebih jauh ke dalam manor, mendapati hantu Elizabeth seolah-olah membimbingnya untuk membongkar kebenaran sumpahan. Dia bertemu dengan watak-watak lain - Aiden si pengembara misteri, Vera si penduduk bandar yang mendakwa mengetahui sejarah manor, dan Pegawai Lucas yang seolah-olah tahu lebih banyak tetapi tidak berterus terang. Carter secara beransur-ansur mendapati bahawa sumpahan itu berkaitan dengan urusan gelap beberapa keluarga di bandar, dan bulan darah akan muncul tidak lama lagi, upacara akan dimulakan semula. Dia perlu memilih antara kebenaran dan ketakutan, sambil mengelak dari hantu-hantu yang semakin aktif di manor.",
+				"Pengakhiran: Carter membongkar kebenaran sumpahan - Elizabeth dikhianati oleh keluarganya, dikorbankan dalam upacara untuk mendapatkan kekayaan dan kuasa. Pada malam bulan darah, dia perlu memutuskan sama ada untuk menggagalkan upacara, mengambil risiko membangkitkan kemarahan hantu, atau bekerjasama dengan seseorang, cuba menggunakan upacara untuk membalikkan sumpahan. Pilihan berbeza akan membawa kepada Carter melarikan diri dari manor, terperangkap dalam sumpahan, atau menemui konspirasi yang lebih dalam, malah menjadi korban baru untuk upacara."
+			],
+			"cover_image_url": "resources/covers/story_6_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_6_bg.jpg"
 		}
 	]
 }

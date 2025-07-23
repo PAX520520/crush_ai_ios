@@ -1,0 +1,97 @@
+{
+	"title": "La Tenuta nella Nebbia",
+	"summary": "Il giornalista Carter arriva a Fog Valley per indagare su un caso di scomparsa ed entra nella tenuta abbandonata dei Blackwood. Scopre un diario misterioso, incontra fenomeni inquietanti e si imbatte nel fantasma di Elizabeth. Carter deve decidere come affrontare questi eventi soprannaturali.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "La notte è profonda e Fog Valley è avvolta nella nebbia, le strade sono deserte con solo i lampioni che proiettano un bagliore giallastro attraverso la foschia. Tu, Carter, un giovane giornalista, sei in piedi davanti al cancello di ferro della tenuta Blackwood, stringendo saldamente una torcia. Il profilo della tenuta appare e scompare nella nebbia, come una bestia dormiente che emana un'aura inquietante."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(mormorando, aggiustandosi gli occhiali) Questo posto... è dannatamente inquietante. Tutte le tracce della scomparsa portano qui, ma perché ho la sensazione che non sia una buona idea?"
+		},
+		{
+			"type": "narrator",
+			"content": "Spingi il cancello arrugginito, che emette un cigolio stridente nel silenzio. Il portone della tenuta è spalancato, il portico è coperto di ragnatele, e l'aria è impregnata di muffa e di un freddo indefinibile. Entri nell'atrio, il fascio della torcia illumina mobili logori e pareti screpolate, e in lontananza senti dei sussurri, come il vento o mormorii umani."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(aggrottando le sopracciglia, stringendo la torcia) Chi c'è là? Vieni fuori!"
+		},
+		{
+			"type": "narrator",
+			"content": "Nessuno risponde, ma i sussurri sembrano avvicinarsi. Noti un diario polveroso sul tavolo al centro dell'atrio, con il nome \"Eliza Blackwood\" inciso sulla copertina. Apri il diario e trovi una scrittura frettolosa che parla del \"rituale della luna di sangue\": \"Mi hanno tradita... hanno usato il mio sangue per ottenere potere... la maledizione perdurerà...\""
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(mormorando) Rituale della luna di sangue? Che diavolo è questa cosa? Potrebbe essere collegato alla scomparsa?"
+		},
+		{
+			"type": "narrator",
+			"content": "Improvvisamente, una folata di vento freddo attraversa l'ambiente, e le candele sul candelabro si accendono spontaneamente, emanando una luce blu spettrale. Senti un brivido lungo la schiena e, quando ti giri, vedi una figura femminile sfocata in cima alle scale dell'atrio. Indossa un vestito logoro, tiene in mano una lanterna tremolante, il suo viso pallido è inespressivo, ma i suoi occhi sono pieni di profondo dolore."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(con voce eterea, profonda come un sospiro) Perché... sei venuto qui? Questo non è un luogo per i vivi..."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(facendo un passo indietro, con il cuore che batte forte) Chi sei?! Io... sono qui per scoprire la verità! Sulla scomparsa, su questa tenuta!"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(avvicinandosi lentamente, con un tono di rabbia) La verità? La verità è sepolta nel sangue... Se vuoi saperla, resta... ma attento, la tua anima potrebbe essere divorata."
+		},
+		{
+			"type": "narrator",
+			"content": "La sua figura svanisce improvvisamente, le candele si spengono e l'atrio piomba nell'oscurità. La tua torcia inizia a tremolare e l'aria diventa ancora più fredda. Senti una pressione invisibile, come se qualcosa ti stesse osservando."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(ansimando, cercando di calmarsi) Calmati, Carter, è solo un'allucinazione... vero? Ma questo diario... questo posto... devo scoprire la verità!"
+		},
+		{
+			"type": "narrator",
+			"content": "Senti dei passi scricchiolanti sul pavimento, sembrano provenire dal piano di sopra. Puoi scegliere di salire le scale per investigare la fonte del rumore, continuare a esaminare il diario per trovare altri indizi, o lasciare questo posto infestato e tornare in città per chiedere aiuto."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(digrignando i denti, sottovoce) Non posso semplicemente arrendermi... ma questo posto è davvero maledetto."
+		},
+		{
+			"type": "narrator",
+			"content": "Il battito del tuo cuore risuona nelle tue orecchie, mentre le ombre della tenuta sembrano muoversi minacciosamente. Cosa farai?"
+		}
+	],
+	"choice": {
+		"prompt": "Come agirai?",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Sali le scale per investigare i misteriosi passi ed esplorare il piano superiore della tenuta."
+			},
+			{
+				"content": "Rimani nell'atrio e continua a leggere il diario di Elizabeth per trovare più indizi."
+			},
+			{
+				"content": "Lascia la tenuta e torna a Fog Valley per chiedere aiuto all'agente Lucas o alla cittadina Vera."
+			}
+		]
+	}
+}

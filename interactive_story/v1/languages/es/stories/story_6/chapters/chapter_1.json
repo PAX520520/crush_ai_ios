@@ -1,0 +1,97 @@
+{
+	"title": "La Mansión en la Niebla",
+	"summary": "El periodista Carter llega al pueblo de Valle Niebla para investigar casos de desapariciones y entra en la abandonada mansión Blackwood. Descubre un diario misterioso, experimenta fenómenos extraños y se encuentra con el fantasma de Elizabeth. Carter debe decidir cómo enfrentar estos eventos sobrenaturales.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "La noche es profunda y el pueblo de Valle Niebla está envuelto en una densa niebla, las calles están desiertas, solo las farolas proyectan un resplandor amarillento en la bruma. Tú, Carter, un joven periodista, estás de pie frente a la verja de hierro de la mansión Blackwood, agarrando firmemente una linterna. El contorno de la mansión aparece y desaparece en la niebla, como una bestia dormida, emanando una inquietante presencia."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(Murmurando, ajustándose las gafas) Este lugar... es jodidamente espeluznante. Todas las pistas de las desapariciones apuntan aquí, pero ¿por qué siento que esto no es una buena idea?"
+		},
+		{
+			"type": "narrator",
+			"content": "Empujas la oxidada verja de hierro, que emite un chirrido estridente en el silencio. La puerta principal de la mansión está abierta, el porche cubierto de telarañas, y el aire está impregnado de moho y una inexplicable sensación de frío. Entras en el vestíbulo, la luz de tu linterna recorre los muebles desgastados y las paredes agrietadas, y escuchas vagamente susurros distantes, como el viento o murmullos humanos."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(Frunciendo el ceño, agarrando con fuerza la linterna) ¿Quién está ahí? ¡Salga!"
+		},
+		{
+			"type": "narrator",
+			"content": "Nadie responde, pero los susurros parecen más cercanos. Notas un diario polvoriento sobre la mesa central del vestíbulo, con el nombre \"Eliza Blackwood\" grabado en la cubierta. Al abrirlo, descubres una escritura descuidada con fragmentos sobre un \"ritual de la luna de sangre\": \"Me traicionaron... usaron mi sangre para obtener poder... la maldición perdurará...\""
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(Murmurando) ¿Ritual de la luna de sangre? ¿Qué demonios es esto? ¿Tendrán relación las desapariciones con esto?"
+		},
+		{
+			"type": "narrator",
+			"content": "De repente, una ráfaga de aire frío pasa, y las velas en los candelabros se encienden solas, emitiendo un resplandor azulado. Sientes un escalofrío recorrer tu espalda y, al girarte, una figura femenina borrosa aparece al final de la escalera del vestíbulo. Lleva un vestido desgastado, sostiene una lámpara parpadeante, y su rostro pálido carece de expresión, aunque sus ojos reflejan una profunda aflicción."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(Con voz etérea, profunda como un suspiro) ¿Por qué... has venido? Este no es lugar para los vivos..."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(Retrocediendo un paso, con el corazón acelerado) ¿Quién eres tú? ¡Yo... he venido a buscar la verdad! ¡Sobre las desapariciones, sobre esta mansión!"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(Acercándose lentamente, con un toque de ira en la voz) ¿La verdad? La verdad está enterrada en sangre... Si deseas saberla, quédate... pero ten cuidado, tu alma también será devorada."
+		},
+		{
+			"type": "narrator",
+			"content": "Su figura desaparece repentinamente, las velas se apagan, y el vestíbulo queda en oscuridad. Tu linterna comienza a parpadear, el aire se vuelve más frío. Sientes una presión invisible, como si algo te estuviera observando."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(Jadeando, intentando mantener la calma) Tranquilo, Carter, solo es una alucinación... ¿verdad? Pero este diario... este lugar... ¡Tengo que descubrir la verdad!"
+		},
+		{
+			"type": "narrator",
+			"content": "Oyes pasos crujientes en el suelo, que parecen venir de arriba. Puedes elegir subir para investigar el origen del sonido, continuar examinando el diario en busca de pistas, o simplemente abandonar este lugar maldito y volver al pueblo en busca de ayuda."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(Apretando los dientes, en voz baja) No puedo simplemente retirarme... pero este lugar es realmente siniestro."
+		},
+		{
+			"type": "narrator",
+			"content": "Los latidos de tu corazón resuenan en tus oídos, y las sombras de la mansión parecen moverse con vida propia. ¿Qué harás?"
+		}
+	],
+	"choice": {
+		"prompt": "¿Cómo actuarás?",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Subir las escaleras para investigar los misteriosos pasos y explorar las profundidades de la mansión."
+			},
+			{
+				"content": "Quedarte en el vestíbulo y continuar leyendo el diario de Elizabeth en busca de más pistas."
+			},
+			{
+				"content": "Abandonar la mansión y regresar al pueblo para buscar ayuda del oficial Lucas o de la aldeana Vera."
+			}
+		]
+	}
+}

@@ -1,0 +1,127 @@
+{
+	"title": "Tomhedens hvisken",
+	"summary": "Den hukommelsesløse hovedperson Ethan vågner op i et forladt rumskib og står over for et kollapsende skrog og den mystiske kvinde Avas tilsynekomst. Han skal beslutte, om han vil stole på Ava, blive på skibet for at lede efter spor eller flygte alene for at overleve.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "I mørket samles din bevidsthed som fragmenter, som om du blev tvunget tilbage fra en endeløs afgrund. En skinger alarm gennemborer dine trommehinder, og rødt lys blinker i den snævre kahyt. Du ligger i en kold kryogenisk kapsel, din krop føles tung, og dit sind er tomt som udhulet. Omkring dig er fremmede metalvægge, og luften er fyldt med lugten af brændte kredsløb."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Stønner lavt og forsøger at rejse sig) Hvor... hvor er jeg? Hvem... hvem er jeg?"
+		},
+		{
+			"type": "narrator",
+			"content": "Du kæmper dig op i siddende stilling med sløret syn, mens kryokammerets glaslåg langsomt åbner sig. Et blødt blåt lys tændes fra implantatet i din arm og projicerer et hologram - en kvinde med sølvfarvet hår, rolige øjne, men med en stemme der bærer præg af hastværk."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Med klar stemme og mekanisk ro) Velkommen tilbage, Captain Ethan. Skibets systemer er ved at bryde sammen, øjeblikkelig evakuering anbefales."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Rynker panden og forsøger at huske) Captain? Ethan? Det betyder intet for mig... Hvem er du? Hvorfor kalder du mig det navn?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Hologrammet flimrer let, tonen uændret) Jeg er Nova, din navigations-AI-assistent. Din hukommelse er beskadiget på grund af en fejl i kryokammeret, men dette er ikke tiden til diskussion. Skibet vil gå i opløsning om 17 minutter."
+		},
+		{
+			"type": "narrator",
+			"content": "Før du kan nå at fordøje denne information, bliver døren pludselig tvunget op. En kvinde træder ind, smidig i sine bevægelser, med grønne øjne der glimter i det dæmpede lys. Hun er iført en tætsiddende kampdragt og holder en lysende energidolk, med et næsten umærkeligt smil på læberne."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Med let tone og et strejf af drilleri) Har du sovet længe nok, Ethan? Jeg er Ava, din partner. Vi må skynde os væk, ellers ender vi som kosmisk støv."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Træder agtpågivende et skridt tilbage og stirrer på hende) Partner? Jeg husker dig ikke. Hvordan kender du mit navn?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Trækker på skuldrene, stadig smilende) Hukommelsestab? Hvor besværligt. Stol på mig, vi er gamle venner. Skibet er ved at eksplodere, kom med mig, jeg skal nok forklare alt."
+		},
+		{
+			"type": "narrator",
+			"content": "Hendes stemme er fuld af selvtillid, men du opfanger et glimt af tøven i hendes øjne. Skibets alarmer bliver mere intense, gulvet vibrerer svagt og minder dig om, at tiden er knap. Du mærker implantatet i din arm blive varmt, som om det reagerer på et ukendt signal."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Mumler for sig selv, forsøger at gribe fat i fragmenterne i sit sind) Hvorfor føles det... som om noget er helt galt?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Hologrammet vender sig mod Ava med mistænksom tone) Ava, ingen identifikationsgodkendelse registreret. Anbefaler forsigtighed, Captain."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Ler let og vinker afværgende) Lad være med at lytte til det elektroniske nonsens. Ethan, vi må gå, nu!"
+		},
+		{
+			"type": "narrator",
+			"content": "Du står stille, mens et uklart billede flimrer gennem dit sind: en brændende planet, en kvindelig stemme der hvisker dit navn. Avas tilstedeværelse gør dig instinktivt urolig, men at blive her er tydeligvis ikke klogt. Hvad skal du gøre?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Tager en dyb indånding og forsøger at bevare roen) Okay... fortæl mig, Ava, hvem er du egentlig? Hvorfor føler jeg, at du ved mere, end du fortæller?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Med et glimt i øjet og alvorlig tone) Dette er ikke tiden til spørgsmål, Ethan. Stol på mig, eller bliv her og dø. Dit valg."
+		},
+		{
+			"type": "narrator",
+			"content": "Alarmerne bliver mere og mere skingre, og skibet begynder at ryste voldsomt. Du må træffe en hurtig beslutning. Der er hemmeligheder gemt i Avas blik, Novas advarsler ekkoer i dine ører, og dybt i dit indre synes en stemme at tilskynde dig til at søge sandheden."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Tilføjer roligt) Ekstern signalforstyrelse detekteret, muligvis uidentificerede fartøjer i nærheden. Øjeblikkelig handling anbefales."
+		},
+		{
+			"type": "narrator",
+			"content": "Du føler tiden presse på, mens tågen i dit sind bliver tættere. Skal du stole på Ava og følge med hende? Blive og lede efter flere spor? Eller vove at flygte alene og søge dine egne svar?"
+		}
+	],
+	"choice": {
+		"prompt": "Hvad vil du vælge",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Stol på Ava og følg med hende væk fra skibet"
+			},
+			{
+				"content": "Bliv på skibet og søg efter spor i kryokammeret eller på broen"
+			},
+			{
+				"content": "Ignorer Ava og find redningskapslen på egen hånd"
+			}
+		]
+	}
+}

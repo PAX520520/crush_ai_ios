@@ -1,0 +1,113 @@
+{
+	"title": "El Regreso del Exiliado",
+	"summary": "Calian despierta en una taberna de un pueblo fronterizo, consciente de que ha sido despojado de su trono y exiliado. Se encuentra con Elina, una misteriosa trovadora que parece conocer su identidad, aunque habla con ambigüedad. Calian se enfrenta a una elección: confiar en Elina y seguirla en busca de la verdad; actuar solo y arriesgarse a volver a la capital; o quedarse en el pueblo, ocultando su identidad.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "La noche era oscura como tinta, y la taberna del pueblo fronterizo estaba impregnada con el olor a cerveza y sudor. La tenue luz de las velas bailaba sobre la mesa de madera, iluminando un rostro demacrado pero apuesto. Calian Valencia, antes príncipe, ahora no más que un vagabundo con una capa raída, sentado en un rincón, mirando con ojos vacíos su copa vacía."
+		},
+		{
+			"type": "narrator",
+			"content": "Lo último que recordaba era el banquete en el palacio real, entre copas y risas, la sonrisa de su tío Edmund tenía un toque siniestro. Luego vino la oscuridad, seguida por la sentencia de exilio. No sabía por qué había sido acusado de traición, ni cómo había llegado a este desolado pueblo."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(murmurando, agarrando fuerte su copa) ¿Quién soy? ¿Por qué estoy aquí?"
+		},
+		{
+			"type": "narrator",
+			"content": "La puerta de la taberna se abrió, dejando entrar el viento frío y la lluvia. Una figura entró, vestida con una capa verde y llevando un arpa. Se quitó la capucha, revelando una cabellera dorada, brillante como la luz de la luna. Su presencia hizo que la taberna quedara en silencio instantáneamente, todos los ojos fijos en ella."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(acercándose a Calian, con voz melodiosa como un manantial) Pareces alguien que ha perdido su alma, extraño."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(levantando la cabeza con cautela, mirada penetrante) ¿Me conoces?"
+		},
+		{
+			"type": "narrator",
+			"content": "Su sonrisa tenía un toque de burla, como si ya conociera todos sus secretos. Se sentó frente a Calian y tocó suavemente el arpa, haciendo que las cuerdas emitieran un suave murmullo."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(hablando suavemente, con un destello de astucia en sus ojos) Tal vez. Calian Valencia, la estrella perdida del Reino de Valencia, ¿no es así?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(levantándose bruscamente, con la mano en la empuñadura de su espada) ¿Quién eres realmente? ¿Cómo sabes mi nombre?"
+		},
+		{
+			"type": "narrator",
+			"content": "Los clientes de la taberna comenzaron a murmurar, y Calian sintió una presión invisible. Su mano temblaba ligeramente, no por miedo, sino porque ese nombre largamente olvidado había despertado la ira en su corazón."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(levantando las manos en señal de paz) Tranquilo, Alteza. Soy Elina, una trovadora errante. Sé muchas cosas, como... cómo tu tío Edmund usurpó el trono."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(con voz profunda, llena de dudas) ¿Quieres que confíe en ti? ¿Una mujer que acabo de conocer?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(sonriendo, con un tono desafiante) No exijo tu confianza, pero puedo llevarte a la verdad. O puedes seguir aquí, bebiendo solo, hasta que alguien te reconozca."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian la miró fijamente, intentando descifrar esos ojos azules. Su tono era sincero, pero esa sonrisa era indescifrable. Su mente luchaba: ella podría ser una aliada, o podría ser una trampa."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(sentándose lentamente, con voz fría) Si me engañas, te haré arrepentirte."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(riendo suavemente, tocando las cuerdas) Un trato justo, Alteza. Partiremos al amanecer hacia el Bosque Negro. Alguien te espera allí."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian sintió un escalofrío. El Bosque Negro, ese lugar prohibido lleno de leyendas, ¿qué secretos escondía? La identidad y los motivos de Elina eran un misterio, pero no tenía otra opción."
+		},
+		{
+			"type": "narrator",
+			"content": "La noche se hizo más profunda, y el bullicio de la taberna fue disminuyendo. Calian miraba la tormenta a través de la ventana, mientras una chispa de esperanza se encendía en su corazón... o quizás, era un peligro aún mayor."
+		}
+	],
+	"choice": {
+		"title": "Tu Decisión",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Confiar en Elina y seguirla al Bosque Negro."
+			},
+			{
+				"content": "Rechazar a Elina y regresar solo a la capital en busca de la verdad."
+			},
+			{
+				"content": "Quedarse en el pueblo, mantener oculta tu identidad e investigar en secreto."
+			}
+		]
+	}
+}

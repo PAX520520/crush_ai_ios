@@ -1,0 +1,87 @@
+{
+	"story_id": "story_6",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Carter",
+			"description": "Ein junger und hartnäckiger Reporter, dessen Lebensmotto die Suche nach der Wahrheit ist. Er kommt in die Nebeltalstadt, um einen Vermisstenfall zu untersuchen, wird aber unerwarteterweise in übernatürliche Ereignisse verwickelt.",
+			"avatar_url": "/resources/characters/story_6/carter.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 27,
+			"personality": [
+				"neugierig",
+				"mutig",
+				"hartnäckig",
+				"logisch denkend, aber skeptisch gegenüber übernatürlichen Phänomenen"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Eliza",
+			"description": "Die ehemalige Besitzerin des Blackwood-Anwesens, die vor hundert Jahren von ihrer Familie verraten und als Opfer für das Blutmondritual benutzt wurde. Ihr Geist wandert durch das Anwesen und versucht durch Carter den Fluch zu brechen, aber ihre Motive scheinen nicht ganz aufrichtig zu sein.",
+			"avatar_url": "/resources/characters/story_6/eliza.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"kummervoll",
+				"geheimnisvoll",
+				"komplex",
+				"hat sowohl den Wunsch nach Hilfe als auch das Feuer der Rache"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Aiden",
+			"description": "Ein Einzelgänger und Wanderer, der häufig in der Nähe der Nebeltalstadt umherstreift und behauptet, die Geheimnisse des Anwesens zu kennen. Seine wahre Identität und Motivation bleiben unklar.",
+			"avatar_url": "/resources/characters/story_6/aiden.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"schweigsam",
+				"vorsichtig",
+				"scharfsinnig",
+				"scheint an übernatürliche Phänomene gewöhnt zu sein"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Vera",
+			"description": "Eine ältere Bewohnerin der Nebeltalstadt, die sich als Historikerin ausgibt und viel über die Vergangenheit des Anwesens weiß, aber ihre Erzählungen scheinen unvollständig und sie verbirgt anscheinend einige Geheimnisse.",
+			"avatar_url": "/resources/characters/story_6/vera.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 60,
+			"personality": [
+				"weise",
+				"geheimnisvoll",
+				"vorsichtig",
+				"spricht mit warnender Bedeutung"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Lucas",
+			"description": "Der Polizist der Nebeltalstadt, der den Vermisstenfall untersucht und Carters Ankunft skeptisch gegenübersteht. Sein Verhalten deutet darauf hin, dass er über die Gerüchte um das Anwesen Bescheid weiß, aber nicht darüber sprechen möchte.",
+			"avatar_url": "/resources/characters/story_6/lucas.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"ernst",
+				"wachsam",
+				"konservativ",
+				"hat eine zwiespältige Haltung zu übernatürlichen Phänomenen"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Das Anwesen im Nebel"
+		}
+	]
+}

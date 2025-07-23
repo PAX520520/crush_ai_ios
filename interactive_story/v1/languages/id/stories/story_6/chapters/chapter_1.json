@@ -1,0 +1,97 @@
+{
+	"title": "Manor dalam Kabut",
+	"summary": "Carter, seorang jurnalis, tiba di Kota Misty Valley untuk menyelidiki kasus orang hilang dan memasuki Manor Blackwood yang terbengkalai. Dia menemukan buku harian misterius, mengalami kejadian aneh, dan bertemu dengan hantu Elizabeth. Carter harus memutuskan bagaimana menghadapi kejadian supernatural ini.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Malam yang gelap, Kota Misty Valley diselimuti kabut tebal, jalanan kosong tanpa seorang pun, hanya lampu jalan yang memancarkan cahaya redup dalam kabut. Kamu, Carter, seorang jurnalis muda, berdiri di depan gerbang besi Manor Blackwood, menggenggam erat senter. Siluet manor samar-samar terlihat dalam kabut, seperti monster tidur yang memancarkan aura mencekam."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(berbisik, memperbaiki kacamata) Tempat ini... benar-benar menyeramkan. Semua petunjuk kasus orang hilang mengarah ke sini, tapi kenapa aku merasa ini bukan ide yang bagus?"
+		},
+		{
+			"type": "narrator",
+			"content": "Kamu mendorong gerbang besi berkarat, suara deritnya menggema dalam kesunyian. Pintu manor terbuka lebar, teras dipenuhi sarang laba-laba, udara dipenuhi bau apek dan hawa dingin yang sulit dijelaskan. Kamu melangkah ke aula, cahaya senter menyapu perabotan usang dan dinding retak, samar-samar terdengar bisikan dari kejauhan, seperti angin, atau gumaman manusia."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(mengerutkan dahi, menggenggam senter erat) Siapa di sana? Keluarlah!"
+		},
+		{
+			"type": "narrator",
+			"content": "Tak ada jawaban, tapi suara bisikan terdengar semakin dekat. Kamu melihat sebuah buku harian berdebu di atas meja di tengah aula, dengan nama \"Eliza Blackwood\" terukir di sampulnya. Kamu membuka buku harian itu, menemukan tulisan tangan yang berantakan, mencatat tentang \"Ritual Bulan Darah\": \"Mereka mengkhianatiku... menggunakan darahku untuk mendapatkan kekuatan... kutukan akan abadi...\""
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(bergumam) Ritual Bulan Darah? Apa-apaan ini? Mungkinkah kasus orang hilang ada hubungannya dengan ini?"
+		},
+		{
+			"type": "narrator",
+			"content": "Tiba-tiba, angin dingin bertiup, lilin di atas tempat lilin menyala sendiri, memancarkan cahaya biru. Kamu merasakan hawa dingin menjalar di punggung, saat berbalik, sosok wanita kabur muncul di ujung tangga aula. Dia mengenakan gaun panjang usang, memegang lentera berkedip, wajahnya pucat tanpa ekspresi, tapi matanya memancarkan kesedihan mendalam."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(suara mengambang, rendah seperti desahan) Kamu... mengapa datang? Ini bukan tempat untuk yang hidup..."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(mundur selangkah, jantung berdebar) Siapa kamu?! Aku... aku datang mencari kebenaran! Tentang kasus orang hilang, tentang manor ini!"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(perlahan mendekat, suara dengan sedikit kemarahan) Kebenaran? Kebenaran telah terkubur dalam darah... Jika kau ingin tahu, tetaplah di sini... tapi hati-hati, jiwamu juga akan tertelan."
+		},
+		{
+			"type": "narrator",
+			"content": "Sosoknya tiba-tiba menghilang, lilin padam, aula menjadi gelap. Senter di tanganmu mulai berkedip, udara menjadi semakin dingin. Kamu merasakan tekanan tak terlihat, seolah ada sesuatu yang mengawasimu."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(terengah, mencoba tenang) Tenang, Carter, ini hanya halusinasi... kan? Tapi buku harian ini... tempat ini... aku harus mencari tahu!"
+		},
+		{
+			"type": "narrator",
+			"content": "Kamu mendengar suara langkah kaki berderit dari lantai, sepertinya dari lantai atas. Kamu bisa memilih untuk naik dan mencari sumber suara, atau terus mempelajari buku harian mencari petunjuk, atau meninggalkan tempat terkutuk ini dan kembali ke kota mencari bantuan."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(menggertakkan gigi, berbisik) Aku tidak bisa mundur begitu saja... tapi tempat ini benar-benar mengerikan."
+		},
+		{
+			"type": "narrator",
+			"content": "Suara detak jantungmu bergema di telinga, bayangan manor seolah bergerak-gerak. Apa yang akan kamu lakukan?"
+		}
+	],
+	"choice": {
+		"prompt": "Apa yang akan kamu lakukan?",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Naik ke atas untuk menyelidiki suara langkah kaki misterius dan menjelajahi bagian dalam manor."
+			},
+			{
+				"content": "Tetap di aula, lanjutkan membaca buku harian Elizabeth untuk mencari petunjuk lebih banyak."
+			},
+			{
+				"content": "Tinggalkan manor, kembali ke Misty Valley, dan minta bantuan pada Petugas Lucas atau penduduk kota Vera."
+			}
+		]
+	}
+}

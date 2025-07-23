@@ -1,0 +1,70 @@
+{
+	"story_id": "story_4",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "En hukommelsesløs romskipsnavigator, opprinnelig navn ukjent, tidligere en legendarisk figur i romflåten, muligens en av skaperne av stjernefallets hendelse.",
+			"avatar_url": "/resources/characters/story_4/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Rolig",
+				"Bestemt",
+				"Full av tvil",
+				"Besatt av sannheten"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Ava",
+			"description": "En mystisk agent som hevder å være Ethans partner, men er faktisk et hemmelig medlem av den interstellare alliansen, med oppdrag om å skaffe stjernekjernen. Hennes motiver er komplekse, med både lojalitet og egeninteresse.",
+			"avatar_url": "/resources/characters/story_4/ava.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"Smart",
+				"Slu",
+				"God til å kamuflere seg",
+				"Indre konflikt"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Nova",
+			"description": "Ethans AI-assistent, som eksisterer i romskipets systemer og hans implantater, med nesten menneskelig intelligens. Tilsynelatende lojal, men ser ut til å skjule hemmeligheter om Ethans fortid.",
+			"avatar_url": "/resources/characters/story_4/nova.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"Rolig",
+				"Logisk",
+				"Viser av og til menneskelig omsorg"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Kael",
+			"description": "En avhoppet romleiesoldat som jakter på Ethan for dusøren på stjernekjernen, men er lei av korrupsjonen i den interstellare alliansen og kan være en potensiell alliert.",
+			"avatar_url": "/resources/characters/story_4/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Røff",
+				"Bestemt",
+				"Tilsynelatende hard, men med egen moral"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Tomrommets hvisken"
+		}
+	]
+}

@@ -2,18 +2,33 @@
 	"categories": [
 		{
 			"id": 1,
-			"name": "🎭 Tajemnica",
-			"description": "Trzymające w napięciu historie pełne tajemnic i dreszczyku emocji"
+			"name": "🌆 Miejskie",
+			"description": "Fascynujące historie rozgrywające się we współczesnym mieście"
 		},
 		{
 			"id": 2,
 			"name": "💘 Romans",
-			"description": "Namiętne historie miłosne pełne głębokich emocji"
+			"description": "Namiętne historie miłosne pełne emocjonalnej głębi"
 		},
 		{
 			"id": 3,
-			"name": "✨ Fantazja",
+			"name": "✨ Fantastyka",
 			"description": "Epickie przygody pełne magii i cudów"
+		},
+		{
+			"id": 4,
+			"name": "🚀 Science Fiction",
+			"description": "Fascynująca podróż odkrywająca przyszłe technologie i nieznany wszechświat"
+		},
+		{
+			"id": 5,
+			"name": "👑 Średniowiecze",
+			"description": "Epicka opowieść o średniowiecznych krajach i postaciach"
+		},
+		{
+			"id": 6,
+			"name": "🎭 Tajemnica",
+			"description": "Trzymające w napięciu historie pełne tajemnic i dreszczy"
 		}
 	]
 }

@@ -2,18 +2,33 @@
 	"categories": [
 		{
 			"id": 1,
-			"name": "🎭 Mystery",
-			"description": "Thrilling stories full of mystery and suspense"
+			"name": "🌆 Urban",
+			"description": "Exciting stories set in modern cities"
 		},
 		{
 			"id": 2,
 			"name": "💘 Romance",
-			"description": "Passionate love stories with emotional depth"
+			"description": "Passionate love stories filled with emotional depth"
 		},
 		{
 			"id": 3,
 			"name": "✨ Fantasy",
-			"description": "Epic adventures filled with magic and miracles."
+			"description": "Epic adventures filled with magic and miracles"
+		},
+		{
+			"id": 4,
+			"name": "🚀 Sci-Fi",
+			"description": "Amazing journeys exploring future technology and unknown universe"
+		},
+		{
+			"id": 5,
+			"name": "👑 Medieval",
+			"description": "Grand narratives about medieval nations and characters"
+		},
+		{
+			"id": 6,
+			"name": "🎭 Mystery",
+			"description": "Thrilling stories full of mystery and suspense"
 		}
 	]
 }

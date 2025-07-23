@@ -1,0 +1,97 @@
+{
+	"title": "Le Manoir dans la Brume",
+	"summary": "Le journaliste Carter arrive à Mistvalley pour enquêter sur des disparitions et entre dans le manoir abandonné des Blackwood. Il découvre un journal mystérieux, fait face à des phénomènes étranges et rencontre le fantôme d'Elizabeth. Carter doit décider comment faire face à ces événements surnaturels.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "La nuit est profonde, Mistvalley est enveloppée de brume, les rues sont désertes, seuls les lampadaires projettent un halo jaunâtre dans le brouillard. Vous, Carter, un jeune journaliste, vous tenez devant le portail en fer du manoir Blackwood, une lampe torche fermement serrée dans la main. La silhouette du manoir apparaît et disparaît dans la brume, tel un monstre endormi, dégageant une aura inquiétante."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(murmurant, ajustant ses lunettes) Cet endroit... est vraiment flippant. Toutes les pistes des disparitions mènent ici, mais pourquoi ai-je l'impression que ce n'est pas une bonne idée ?"
+		},
+		{
+			"type": "narrator",
+			"content": "Vous poussez le portail rouillé, qui grince sinistrement dans le silence. La porte du manoir est ouverte, le porche couvert de toiles d'araignées, l'air imprégné d'une odeur de moisissure et d'un froid indescriptible. Vous entrez dans le hall, votre lampe balayant les meubles usés et les murs fissurés, percevant au loin des murmures, comme le vent, ou des chuchotements humains."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(fronçant les sourcils, serrant la lampe) Qui est là ? Montrez-vous !"
+		},
+		{
+			"type": "narrator",
+			"content": "Pas de réponse, mais les murmures semblent se rapprocher. Vous remarquez un journal poussiéreux sur la table centrale du hall, le nom \"Eliza Blackwood\" gravé sur la couverture. Vous l'ouvrez et découvrez une écriture brouillonne, relatant des passages sur un \"rituel de la lune de sang\" : \"Ils m'ont trahie... ils ont utilisé mon sang pour obtenir le pouvoir... la malédiction perdurera...\""
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(murmurant) Le rituel de la lune de sang ? C'est quoi ce truc ? Les disparitions auraient-elles un lien avec ça ?"
+		},
+		{
+			"type": "narrator",
+			"content": "Soudain, un courant d'air froid passe, les bougies du chandelier s'allument spontanément, émettant une lueur bleutée. Un frisson vous parcourt l'échine et, en vous retournant, vous apercevez une silhouette féminine floue au bout de l'escalier du hall. Elle porte une robe déchirée, tient une lanterne scintillante, son visage pâle est inexpressif, mais ses yeux reflètent une profonde mélancolie."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(voix éthérée, profonde comme un soupir) Pourquoi... êtes-vous venu ? Ce lieu n'est pas pour les vivants..."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(reculant d'un pas, le cœur battant) Qui êtes-vous ?! Je... je suis venu chercher la vérité ! Sur les disparitions, sur ce manoir !"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(s'approchant lentement, la voix teintée de colère) La vérité ? La vérité est ensevelie sous le sang... Si vous voulez la connaître, restez... mais prenez garde, votre âme pourrait être dévorée."
+		},
+		{
+			"type": "narrator",
+			"content": "Sa silhouette disparaît soudainement, les bougies s'éteignent, plongeant le hall dans l'obscurité. Votre lampe torche commence à vaciller, l'air devient plus glacial. Vous ressentez une pression invisible, comme si quelque chose vous observait."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(haletant, essayant de garder son calme) Calme-toi, Carter, ce n'est qu'une hallucination... n'est-ce pas ? Mais ce journal... cet endroit... je dois comprendre !"
+		},
+		{
+			"type": "narrator",
+			"content": "Vous entendez des bruits de pas grinçants sur le plancher, semblant provenir de l'étage. Vous pouvez choisir de monter pour en chercher l'origine, continuer d'étudier le journal pour trouver des indices, ou quitter cet endroit maudit pour chercher de l'aide en ville."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(serrant les dents, à voix basse) Je ne peux pas reculer maintenant... mais cet endroit est vraiment flippant."
+		},
+		{
+			"type": "narrator",
+			"content": "Les battements de votre cœur résonnent à vos oreilles, les ombres du manoir semblent s'animer. Que ferez-vous ?"
+		}
+	],
+	"choice": {
+		"prompt": "Comment allez-vous agir ?",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Monter à l'étage pour suivre les mystérieux bruits de pas et explorer les profondeurs du manoir."
+			},
+			{
+				"content": "Rester dans le hall pour continuer à lire le journal d'Elizabeth et chercher plus d'indices."
+			},
+			{
+				"content": "Quitter le manoir et retourner à Mistvalley pour demander l'aide de l'officier Lucas ou de Vera, l'habitante."
+			}
+		]
+	}
+}

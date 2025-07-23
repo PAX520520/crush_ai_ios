@@ -2,18 +2,33 @@
 	"categories": [
 		{
 			"id": 1,
-			"name": "🎭 Mysteeri",
-			"description": "Jännittäviä ja mysteerisiä trilleritarinoita"
+			"name": "🌆 Kaupunki",
+			"description": "Kiehtovia tarinoita modernissa kaupunkiympäristössä"
 		},
 		{
 			"id": 2,
-			"name": "💘 Romantiikka", 
+			"name": "💘 Romantiikka",
 			"description": "Tunteikkaita ja intohimoisia rakkaustarinoita"
 		},
 		{
 			"id": 3,
 			"name": "✨ Fantasia",
-			"description": "Eeppisiä seikkailuja täynnä taikuutta ja ihmeitä."
+			"description": "Eeppisiä seikkailuja täynnä taikuutta ja ihmeitä"
+		},
+		{
+			"id": 4,
+			"name": "🚀 Sci-fi",
+			"description": "Ihmeellinen matka tulevaisuuden teknologian ja tuntemattoman universumin parissa"
+		},
+		{
+			"id": 5,
+			"name": "👑 Keskiaika",
+			"description": "Suurenmoisia tarinoita keskiajan valtakunnista ja henkilöistä"
+		},
+		{
+			"id": 6,
+			"name": "🎭 Mysteeri",
+			"description": "Jännittäviä tarinoita täynnä mysteereitä ja jännitystä"
 		}
 	]
 }

@@ -1,0 +1,127 @@
+{
+	"title": "Fluisteringen uit de Leegte",
+	"summary": "De geheugenverloren protagonist Ethan wordt wakker in een verlaten ruimteschip, geconfronteerd met een op instorten staand schip en de mysterieuze verschijning van Ava. Hij moet beslissen of hij Ava kan vertrouwen, aan boord blijft om aanwijzingen te zoeken, of alleen vlucht om te overleven.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "In de duisternis komt je bewustzijn als scherven bij elkaar, alsof je met geweld uit een eindeloze afgrond wordt getrokken. Oorverdovende alarmen doorboren je trommelvliezen, rood licht flikkert in de nauwe cabine. Je ligt in een koude slaapkamer, je lichaam zwaar, je geest leeg als een uitgeholde schelp. Om je heen staan vreemde metalen muren, de lucht is doordrenkt met de geur van verbrande elektronica."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(kreunend, proberend op te staan) Waar... waar ben ik? Wie... wie ben ik?"
+		},
+		{
+			"type": "narrator",
+			"content": "Je worstelt om overeind te komen, je zicht is wazig, de glazen kap van de slaapkamer gaat langzaam open. Een zacht blauw licht straalt uit het implantaat in je arm en projecteert een hologram - een vrouw met zilveren haar, kalme ogen, maar haar stem klinkt dringend."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(met heldere, mechanisch stabiele stem) Welkom terug, Captain Ethan. Scheepssystemen staan op instorten, onmiddellijke evacuatie wordt aanbevolen."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(fronsend, proberend zich te herinneren) Captain? Ethan? Dit betekent niets voor mij... Wie ben jij? Waarom noem je me zo?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(hologram flikkert licht, toon onveranderd) Ik ben Nova, je AI-navigatie assistent. Je geheugen is beschadigd door een storing in de slaapkamer, maar dit is niet het moment voor discussie. Het schip valt uiteen in 17 minuten."
+		},
+		{
+			"type": "narrator",
+			"content": "Voordat je deze informatie kunt verwerken, wordt de deur geforceerd. Een vrouw stapt binnen, atletisch gebouwd, met groene ogen die glinsteren in het gedimde licht. Ze draagt een strakzittend gevechtsuniform en houdt een gloeiend energiedolk vast, met een nauwelijks merkbare glimlach op haar gezicht."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(opgewekte toon, licht plagerig) Lang genoeg geslapen, Ethan? Ik ben Ava, je partner. We moeten snel weg, anders worden we kosmisch stof."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(alert een stap achteruit zettend, haar aanstarend) Partner? Ik herinner me jou niet. Hoe weet je mijn naam?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(schouderophalend, nog steeds glimlachend) Geheugenverlies? Vervelend. Vertrouw me, we zijn oude vrienden. Dit schip staat op ontploffen, kom met me mee, ik zal alles uitleggen."
+		},
+		{
+			"type": "narrator",
+			"content": "Haar stem klinkt zelfverzekerd, maar je vangt een glimp van twijfel in haar ogen. Het alarm wordt dringender, de vloer trilt licht, herinnerend dat er weinig tijd is. Je voelt het implantaat in je arm warm worden, alsof het reageert op een onbekend signaal."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(mompelend, proberend gedachten vast te houden) Waarom voelt dit alles... niet juist?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(hologram draait naar Ava, met twijfel in de stem) Ava, geen identiteitsverificatie gevonden. Voorzichtigheid geboden, Captain."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(lachend, wuivend) Negeer dat elektronische gezwets. Ethan, we moeten gaan, nu!"
+		},
+		{
+			"type": "narrator",
+			"content": "Je staat stil, een vaag beeld flitst door je hoofd: een brandende planeet, een vrouwenstem die fluisterend je naam roept. Ava's aanwezigheid maakt je instinctief onrustig, maar hier blijven lijkt geen verstandige keuze. Wat moet je doen?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(diep ademhalend, proberend kalm te blijven) Oké... vertel me, Ava, wie ben je echt? Waarom heb ik het gevoel dat je meer weet dan je zegt?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(ogen flitsen, toon wordt ernstig) Dit is geen tijd voor vragen, Ethan. Vertrouw me, of blijf hier en sterf. Jouw keuze."
+		},
+		{
+			"type": "narrator",
+			"content": "Het alarm wordt oorverdovend, het schip begint hevig te schudden. Je moet snel beslissen. Ava's ogen verbergen geheimen, Nova's waarschuwing echoot in je oren, en diep vanbinnen dringt een stem aan om de waarheid te zoeken."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(kalm toevoegend) Externe signaalverstoringen gedetecteerd, mogelijk onbekende schepen in de buurt. Onmiddellijke actie aanbevolen."
+		},
+		{
+			"type": "narrator",
+			"content": "Je voelt de tijd dringen, maar de mist in je hoofd wordt alleen maar dikker. Vertrouw je Ava en ga je met haar mee? Of blijf je om meer aanwijzingen te zoeken? Of waag je het erop en vlucht je alleen, op zoek naar je eigen antwoorden?"
+		}
+	],
+	"choice": {
+		"prompt": "Wat ga je doen",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Vertrouw Ava en volg haar van het schip"
+			},
+			{
+				"content": "Blijf aan boord en doorzoek de slaapkamer of brug voor aanwijzingen"
+			},
+			{
+				"content": "Negeer Ava en zoek zelf naar een ontsnappingscapsule"
+			}
+		]
+	}
+}

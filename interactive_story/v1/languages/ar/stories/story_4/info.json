@@ -1,0 +1,70 @@
+{
+	"story_id": "story_4",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "ملاح سفينة فضائية فقد ذاكرته، اسمه الحقيقي غير معروف، كان شخصية أسطورية في أسطول الفضاء، وربما كان أحد صانعي حادثة سقوط النجوم.",
+			"avatar_url": "/resources/characters/story_4/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"هادئ",
+				"حازم",
+				"مليء بالشكوك",
+				"متمسك بالحقيقة"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Ava",
+			"description": "عميلة غامضة تدعي أنها شريكة Ethan، وهي في الواقع عضو سري في الاتحاد الفضائي، مهمتها الحصول على النواة النجمية. دوافعها معقدة، تجمع بين الولاء والمصلحة الشخصية.",
+			"avatar_url": "/resources/characters/story_4/ava.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"ذكية",
+				"ماكرة",
+				"بارعة في التخفي",
+				"متناقضة داخلياً"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Nova",
+			"description": "مساعد Ethan الذكي الاصطناعي، موجود في نظام السفينة الفضائية وفي غرساته، يمتلك ذكاءً يقارب البشر. يبدو مخلصاً ظاهرياً، لكنه يخفي أسراراً تتعلق بماضي Ethan.",
+			"avatar_url": "/resources/characters/story_4/nova.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"هادئ",
+				"منطقي بدقة",
+				"يظهر أحياناً اهتماماً إنسانياً"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Kael",
+			"description": "مرتزق فضائي منشق يطارد Ethan للحصول على مكافأة النواة النجمية، لكنه متعب من فساد الاتحاد الفضائي، وقد يكون حليفاً محتملاً.",
+			"avatar_url": "/resources/characters/story_4/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"خشن",
+				"حاسم",
+				"قاسٍ ظاهرياً لكن لديه مبادئه الخاصة"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "همس الفراغ"
+		}
+	]
+}

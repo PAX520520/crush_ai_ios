@@ -1,0 +1,113 @@
+{
+	"title": "Sürgünün Dönüş Yolu",
+	"summary": "Calian sınır kasabasındaki bir meyhanede uyanır ve tahtından mahrum bırakılıp sürgüne gönderildiğini fark eder. Kimliğini biliyor gibi görünen gizemli ozan Elina ile karşılaşır, ancak detaylar belirsizdir. Calian bir seçimle karşı karşıyadır: Elina'ya güvenip gerçeği aramak için onu takip etmek; tek başına hareket edip başkente gizlice dönmek; veya kasabada kalıp kimliğini gizlemek.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Gece mürekkep gibiydi, sınır kasabasındaki meyhanede bira ve ter kokusu vardı. Loş mum ışığı ahşap masada dans ediyor, yorgun ama yakışıklı bir yüzü aydınlatıyordu. Calian Valencia, bir zamanların prensi, şimdi yırtık pelerinli bir gezgin olarak köşede oturuyor, boş bardağına boş gözlerle bakıyordu."
+		},
+		{
+			"type": "narrator",
+			"content": "Hatırladığı son şey saraydaki ziyafetti, kadehler havadayken amcası Edmund'un gülümsemesinde bir kurnazlık vardı. Sonra karanlık çöktü ve ardından sürgün kararı geldi. Vatana ihanetle suçlanmasının nedenini ya da bu ıssız kasabaya nasıl geldiğini bilmiyordu."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(Alçak sesle mırıldanarak, bardağı sıkıca tutarak) Ben kimim? Neden buradayım?"
+		},
+		{
+			"type": "narrator",
+			"content": "Meyhanenin kapısı açıldı, soğuk rüzgar yağmur damlalarıyla içeri doldu. Yeşil pelerinli, elinde arp tutan bir figür içeri girdi. Başlığını çıkardığında ay ışığı gibi parlayan altın saçları göründü. Onun gelişiyle meyhane bir anda sessizleşti, herkes ona bakıyordu."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(Calian'a doğru yürüyerek, sesi berrak bir pınar gibi) Ruhunu kaybetmiş biri gibi görünüyorsun, yabancı."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(Tetikte başını kaldırarak, keskin bakışlarla) Beni tanıyor musun?"
+		},
+		{
+			"type": "narrator",
+			"content": "Gülümsemesinde bir alay vardı, sanki onun sırrını çoktan biliyormuş gibiydi. Calian'ın karşısına oturdu ve arpını hafifçe tıngırdattı, teller alçak sesle inledi."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(Alçak sesle, gözlerinde kurnaz bir parıltıyla) Belki. Calian Valencia, Valencia Krallığı'nın kayıp yıldızı, değil mi?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(Aniden ayağa kalkarak, eli kılıcının kabzasında) Sen kimsin? Adımı nereden biliyorsun?"
+		},
+		{
+			"type": "narrator",
+			"content": "Meyhanedeki insanlar fısıldaşmaya başladı, Calian görünmez bir baskı hissetti. Elleri titriyordu, korkudan değil, uzun zamandır duymadığı ismin içindeki öfkeyi uyandırmasından."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(Ellerini kaldırarak, zararsız olduğunu göstererek) Sakin olun, majesteleri. Ben Elina, gezgin bir ozanım. Çok şey biliyorum, mesela... amcanız Edmund'un tahtı nasıl ele geçirdiği gibi."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(Sesi derin, şüpheyle dolu) Sana güvenmemi mi istiyorsun? Yeni tanıştığım bir kadına?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(Gülümseyerek, sesinde hafif bir meydan okuma ile) Güvenini zorlamıyorum, ama seni gerçeğe götürebilirim. Ya da burada oturup içmeye devam edebilirsin, ta ki biri seni tanıyana kadar."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian ona bakıyordu, o masmavi gözlerdeki anlamı çözmeye çalışıyordu. Ses tonu samimiydi ama o gülümseme anlaşılmazdı. İçinde bir çatışma vardı: O bir müttefik olabilirdi, ya da bir tuzak."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(Yavaşça oturarak, sesi soğuk) Eğer beni kandırıyorsan, pişman olursun."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(Hafifçe gülerek, arp tellerine dokunarak) Adil bir anlaşma, majesteleri. Yarın şafakta Kara Orman'a doğru yola çıkıyoruz. Orada sizi bekleyen biri var."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian bir ürperti hissetti. Kara Orman, efsanelerle dolu o yasak bölge, acaba ne saklıyordu? Elina'nın kimliği ve amacı bir muammaydı, ama başka seçeneği yoktu."
+		},
+		{
+			"type": "narrator",
+			"content": "Gece derinleşti, meyhanenin gürültüsü yavaş yavaş dindi. Calian pencereden dışarıdaki fırtınaya bakarak içinde bir umut kıvılcımı hissetti - ya da belki de daha büyük bir tehlike."
+		}
+	],
+	"choice": {
+		"title": "Seçiminiz",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Elina'ya güven ve onunla Kara Orman'a git."
+			},
+			{
+				"content": "Elina'yı reddet ve tek başına başkente gizlice dön."
+			},
+			{
+				"content": "Kasabada kal, kimliğini gizle ve gizlice araştır."
+			}
+		]
+	}
+}

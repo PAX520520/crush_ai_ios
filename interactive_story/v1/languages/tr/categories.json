@@ -2,8 +2,8 @@
 	"categories": [
 		{
 			"id": 1,
-			"name": "🎭 Gizem",
-			"description": "Gizemli ve gerilim dolu heyecan verici hikayeler"
+			"name": "🌆 Şehir",
+			"description": "Modern şehirde geçen heyecan verici hikayeler"
 		},
 		{
 			"id": 2,
@@ -14,6 +14,21 @@
 			"id": 3,
 			"name": "✨ Fantastik",
 			"description": "Büyü ve mucizelerle dolu epik maceralar"
+		},
+		{
+			"id": 4,
+			"name": "🚀 Bilim Kurgu",
+			"description": "Gelecekteki teknoloji ve bilinmeyen evreni keşfeden harika bir yolculuk"
+		},
+		{
+			"id": 5,
+			"name": "👑 Orta Çağ",
+			"description": "Orta Çağ ülkeleri ve karakterleri hakkında destansı hikayeler"
+		},
+		{
+			"id": 6,
+			"name": "🎭 Gizem",
+			"description": "Gizem ve gerilim dolu heyecanlı hikayeler"
 		}
 	]
 }

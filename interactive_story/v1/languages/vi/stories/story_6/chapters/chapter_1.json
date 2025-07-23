@@ -1,0 +1,97 @@
+{
+	"title": "Dinh thự trong sương mù",
+	"summary": "Phóng viên Carter đến thị trấn Sương Mù để điều tra một vụ mất tích và đi vào dinh thự Blackwood bỏ hoang. Anh phát hiện ra một cuốn nhật ký bí ẩn, gặp phải những hiện tượng kỳ lạ và gặp hồn ma Elizabeth. Carter phải quyết định cách đối phó với những sự kiện siêu nhiên này.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Đêm sâu thẳm, thị trấn Sương Mù chìm trong màn sương dày đặc, đường phố vắng tanh, chỉ có ánh đèn đường hắt bóng vàng nhạt trong sương. Bạn, Carter, một phóng viên trẻ, đứng trước cổng sắt của dinh thự Blackwood, tay nắm chặt chiếc đèn pin. Hình dáng dinh thự ẩn hiện trong sương mù như một con thú khổng lồ đang ngủ, toát ra bầu không khí bất an."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(Lẩm bẩm, chỉnh kính) Nơi này... quái quỷ thật. Mọi manh mối về vụ mất tích đều dẫn đến đây, nhưng sao tôi cảm thấy đây không phải là ý kiến hay?"
+		},
+		{
+			"type": "narrator",
+			"content": "Bạn đẩy cánh cổng sắt rỉ sét, tiếng kẽo kẹt chói tai vang vọng trong không gian tĩnh lặng. Cửa chính của dinh thự mở toang, hiên nhà phủ đầy mạng nhện, không khí nồng nặc mùi mốc và một cảm giác lạnh lẽo khó tả. Bạn bước vào đại sảnh, ánh đèn pin quét qua những đồ đạc cũ kỹ và những bức tường nứt nẻ, xa xa vọng lại tiếng thì thầm, như tiếng gió, như tiếng người rì rầm."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(Nhíu mày, nắm chặt đèn pin) Ai đó? Ra đây!"
+		},
+		{
+			"type": "narrator",
+			"content": "Không ai trả lời, nhưng tiếng thì thầm dường như gần hơn. Bạn nhận thấy trên bàn giữa đại sảnh có một cuốn nhật ký phủ bụi, trên bìa khắc tên \"Eliza Blackwood\". Bạn mở cuốn nhật ký ra, thấy những dòng chữ nguệch ngoạc ghi lại về \"nghi lễ trăng máu\": \"Họ đã phản bội tôi... dùng máu tôi để đổi lấy sức mạnh... lời nguyền sẽ tồn tại mãi mãi...\""
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(Lẩm bẩm) Nghi lễ trăng máu? Cái quái gì thế này? Liệu vụ mất tích có liên quan đến chuyện này không?"
+		},
+		{
+			"type": "narrator",
+			"content": "Đột nhiên, một cơn gió lạnh thổi qua, những ngọn nến trên giá nến tự bốc cháy, tỏa ra ánh sáng xanh nhợt. Bạn cảm thấy một luồng khí lạnh chạy dọc sống lưng, khi quay người lại, một bóng người phụ nữ mờ ảo xuất hiện ở cuối cầu thang trong đại sảnh. Cô ta mặc chiếc váy dài rách nát, tay cầm một chiếc đèn lồng nhấp nháy, khuôn mặt tái nhợt không biểu cảm, nhưng đôi mắt chứa đầy oán hận sâu sắc."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(Giọng nói như gió thoảng, trầm như tiếng thở dài) Ngươi... đến đây làm gì? Đây không phải nơi dành cho người sống..."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(Lùi lại một bước, tim đập nhanh) Cô là ai?! Tôi... tôi đến đây để tìm sự thật! Về vụ mất tích, về dinh thự này!"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(Từ từ tiến lại gần, giọng nói mang chút giận dữ) Sự thật? Sự thật đã bị chôn vùi trong máu... Nếu ngươi muốn biết, hãy ở lại... Nhưng cẩn thận, linh hồn ngươi cũng sẽ bị nuốt chửng."
+		},
+		{
+			"type": "narrator",
+			"content": "Bóng hình cô ta đột ngột biến mất, ngọn nến tắt ngấm, đại sảnh chìm trong bóng tối. Chiếc đèn pin trong tay bạn bắt đầu nhấp nháy, không khí trở nên lạnh giá hơn. Bạn cảm thấy một áp lực vô hình, như thể có điều gì đó đang theo dõi bạn."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(Thở gấp, cố bình tĩnh) Bình tĩnh, Carter, đây chỉ là ảo giác... phải không? Nhưng cuốn nhật ký này... nơi này... tôi phải làm rõ mọi chuyện!"
+		},
+		{
+			"type": "narrator",
+			"content": "Bạn nghe thấy tiếng bước chân kẽo kẹt trên sàn nhà, như thể đang vọng xuống từ tầng trên. Bạn có thể chọn lên lầu để điều tra nguồn gốc của âm thanh, hoặc tiếp tục nghiên cứu cuốn nhật ký để tìm manh mối, hoặc rời khỏi nơi quỷ quái này và quay về thị trấn để tìm sự giúp đỡ."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(Nghiến răng, nói khẽ) Mình không thể rút lui như thế này... nhưng nơi này thật sự quá quái đản."
+		},
+		{
+			"type": "narrator",
+			"content": "Tiếng tim đập vang dội bên tai bạn, những cái bóng trong dinh thự dường như đang rục rịch chuyển động. Bạn sẽ làm gì?"
+		}
+	],
+	"choice": {
+		"prompt": "Bạn sẽ hành động thế nào?",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Lên lầu điều tra tiếng bước chân bí ẩn, khám phá sâu hơn vào dinh thự."
+			},
+			{
+				"content": "Ở lại đại sảnh, tiếp tục đọc nhật ký của Elizabeth để tìm thêm manh mối."
+			},
+			{
+				"content": "Rời khỏi dinh thự, quay về thị trấn Sương Mù để nhờ sự giúp đỡ của Cảnh sát Lucas hoặc dân làng Vera."
+			}
+		]
+	}
+}

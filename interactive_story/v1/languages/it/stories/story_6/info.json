@@ -1,0 +1,87 @@
+{
+	"story_id": "story_6",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Carter",
+			"description": "Un giovane giornalista testardo che vive secondo il principio di cercare la verità. Arriva a Fog Valley per indagare su un caso di scomparsa, ma si trova involontariamente coinvolto in eventi paranormali.",
+			"avatar_url": "/resources/characters/story_6/carter.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 27,
+			"personality": [
+				"Curioso",
+				"Coraggioso",
+				"Testardo",
+				"Forte pensiero logico ma scettico verso i fenomeni soprannaturali"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Eliza",
+			"description": "L'ex proprietaria di Blackwood Manor, tradita dalla sua famiglia un secolo fa e sacrificata durante il rituale della luna di sangue. Il suo spirito vaga per la tenuta, cercando di rompere la maledizione attraverso Carter, ma le sue motivazioni non sembrano pure.",
+			"avatar_url": "/resources/characters/story_6/eliza.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"Addolorata",
+				"Misteriosa",
+				"Complessa",
+				"Divisa tra il desiderio di aiuto e la sete di vendetta"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Aiden",
+			"description": "Un vagabondo solitario che si aggira nei dintorni di Fog Valley, affermando di conoscere i segreti della tenuta. La sua vera identità e le sue motivazioni rimangono poco chiare.",
+			"avatar_url": "/resources/characters/story_6/aiden.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Taciturno",
+				"Cauto",
+				"Perspicace",
+				"Sembra abituato ai fenomeni paranormali"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Vera",
+			"description": "Un'anziana residente di Fog Valley che si definisce storica, con una profonda conoscenza del passato della tenuta, ma le sue narrazioni sono sempre riservate, come se nascondesse dei segreti.",
+			"avatar_url": "/resources/characters/story_6/vera.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 60,
+			"personality": [
+				"Saggia",
+				"Misteriosa",
+				"Cauta",
+				"Parla con toni di avvertimento"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Lucas",
+			"description": "L'ufficiale di polizia di Fog Valley, incaricato di indagare sui casi di scomparsa, è scettico sull'arrivo di Carter. Il suo comportamento suggerisce che conosce le voci sulla tenuta, ma è riluttante a discuterne.",
+			"avatar_url": "/resources/characters/story_6/lucas.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"Serio",
+				"Vigile",
+				"Conservatore",
+				"Ambiguo verso i fenomeni soprannaturali"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "La Tenuta nella Nebbia"
+		}
+	]
+}

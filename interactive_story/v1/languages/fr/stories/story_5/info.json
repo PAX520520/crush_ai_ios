@@ -1,0 +1,84 @@
+{
+	"story_id": "story_5",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Calian",
+			"description": "Un jeune prince déchu, né Calian Valencia, portant le fardeau de la vengeance et de la rédemption.",
+			"avatar_url": "/resources/characters/story_5/calian.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 22,
+			"personality": [
+				"Tenace",
+				"Intelligent",
+				"Conflictuel intérieur",
+				"Assoiffé de justice mais sceptique envers la nature humaine"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Elina",
+			"description": "Une mystérieuse barde, en réalité une princesse ennemie, experte en déguisement et manipulation, gardant un espoir secret pour la paix.",
+			"avatar_url": "/resources/characters/story_5/elina.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 20,
+			"personality": [
+				"Rusée",
+				"Séduisante",
+				"Complexe",
+				"Habile à cacher ses véritables sentiments"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Roland",
+			"description": "Un chevalier loyal, ancien garde de Calian, fidèle au prince jusqu'au bout.",
+			"avatar_url": "/resources/characters/story_5/roland.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Droit",
+				"Courageux",
+				"Têtu"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Victor",
+			"description": "Un voleur rusé, expert en vol et collecte d'informations, sceptique face à l'idéalisme de Calian.",
+			"avatar_url": "/resources/characters/story_5/victor.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 28,
+			"personality": [
+				"Astucieux",
+				"Insouciant",
+				"Loyauté douteuse"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Marian",
+			"description": "Une sorcière sage, maîtrisant l'ancienne magie, vivant recluse dans la forêt et connaissant les secrets de la famille royale.",
+			"avatar_url": "/resources/characters/story_5/marian.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 40,
+			"personality": [
+				"Calme",
+				"Mystérieuse",
+				"Perspicace"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Le Retour de l'Exilé"
+		}
+	]
+}

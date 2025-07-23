@@ -1,0 +1,113 @@
+{
+	"title": "Den landsforvistes hjemreise",
+	"summary": "Calian våkner opp i en taverna i en grenseby og innser at han har blitt fratatt tronen og forvist. Han møter den mystiske trubaduren Elina, som ser ut til å kjenne hans identitet, men er vag om detaljene. Calian står overfor et valg: stole på Elina og følge henne for å finne sannheten; handle på egen hånd og snike seg tilbake til hovedstaden; eller bli i byen og skjule sin identitet.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Natten var mørk som blekk, og tavernaen i grensebyen var fylt med lukten av øl og svette. Det dunkle stearinlyset danset over trebordet og lyste opp et utmattet men kjent ansikt. Calian Valencia, den tidligere prinsen, nå bare en vandrer i en slitt kappe, satt i hjørnet og stirret tomt på det tomme glasset i hånden."
+		},
+		{
+			"type": "narrator",
+			"content": "Det siste han husket var banketten i palasset, hvor onkel Edmonds smil hadde et snev av ondskap mellom skålene. Så var det mørkt, etterfulgt av dommen om landsforvisning. Han visste ikke hvorfor han var blitt anklaget for forræderi, eller hvordan han hadde havnet i denne øde byen."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(mumler lavt, griper glasset hardt) Hvem er jeg? Hvorfor er jeg her?"
+		},
+		{
+			"type": "narrator",
+			"content": "Døren til tavernaen ble skjøvet opp, og den kalde vinden blåste inn med regnet. En skikkelse kom inn, kledd i en grønn kappe med en harpe i armene. Hun tok av seg hetten og avslørte gyllent hår som skinte som månelys. Hennes ankomst gjorde tavernaen stille øyeblikkelig, alle stirret på henne."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(går mot Calian, med en stemme klar som en bekk) Du ser ut som en som har mistet sin sjel, fremmed."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(ser opp årvåkent, med skarpt blikk) Kjenner du meg?"
+		},
+		{
+			"type": "narrator",
+			"content": "Smilet hennes hadde et snev av spott, som om hun allerede kjente hans hemmeligheter. Hun satte seg overfor Calian og strøk over harpestrengene som ga fra seg en lav tone."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(sier lavt, med et glimt av list i øynene) Kanskje det. Calian Valencia, den tapte stjernen av Valencia-riket, ikke sant?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(reiser seg brått, med hånden på sverdheftet) Hvem er du egentlig? Hvordan kjenner du navnet mitt?"
+		},
+		{
+			"type": "narrator",
+			"content": "Folk i tavernaen begynte å hviske, og Calian kjente et usynlig press. Hånden hans skalv lett, ikke av frykt, men fordi det velkjente navnet vekket sinnet i hans hjerte."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(løfter hendene i en fredelig gest) Slapp av, deres høyhet. Jeg er Elina, en omreisende trubadur. Jeg vet mye, for eksempel... hvordan din onkel Edmond tok over tronen."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(med dyp, mistenksom stemme) Du vil at jeg skal stole på deg? En kvinne jeg nettopp møtte?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(smiler, med en utfordrende tone) Jeg krever ikke tillit, men jeg kan lede deg til sannheten. Eller så kan du fortsette å drikke her til noen gjenkjenner deg."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian stirret på henne, forsøkte å lese de asurblå øynene hennes. Tonen var oppriktig, men smilet var ugjennomtrengelig. Han kjempet med seg selv: hun kunne være en alliert, eller en felle."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Calian",
+			"content": "(setter seg langsomt, med hard stemme) Hvis du lyver for meg, vil jeg få deg til å angre."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Elina",
+			"content": "(ler lett, slår an en streng) En rettferdig avtale, deres høyhet. Vi drar i morgen tidlig til Den mørke skogen. Noen venter på deg der."
+		},
+		{
+			"type": "narrator",
+			"content": "Calian kjente en kuldegysning. Den mørke skogen, det forbudte stedet fylt med legender, hva skjulte seg der? Elinas identitet og motiver var et mysterium, men han hadde ikke noe valg."
+		},
+		{
+			"type": "narrator",
+			"content": "Natten var dyp, og larmen i tavernaen døde gradvis ut. Calian så ut på stormen utenfor, og et glimt av håp tentes i hans hjerte - eller kanskje en større fare."
+		}
+	],
+	"choice": {
+		"title": "Ditt valg",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Stol på Elina og følg henne til Den mørke skogen."
+			},
+			{
+				"content": "Avvis Elina og snike deg tilbake til hovedstaden alene for å finne sannheten."
+			},
+			{
+				"content": "Bli i byen, skjul din identitet og undersøk i det skjulte."
+			}
+		]
+	}
+}

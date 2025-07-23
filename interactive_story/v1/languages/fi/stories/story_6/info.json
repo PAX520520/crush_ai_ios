@@ -1,0 +1,87 @@
+{
+	"story_id": "story_6",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Carter",
+			"description": "Nuori ja itsepäinen toimittaja, jolle totuuden etsiminen on elämän ohjenuora. Hän saapuu Sumukylään tutkimaan katoamistapauksia, mutta joutuu odottamatta yliluonnollisten tapahtumien keskelle.",
+			"avatar_url": "/resources/characters/story_6/carter.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 27,
+			"personality": [
+				"utelias",
+				"rohkea", 
+				"itsepäinen",
+				"looginen ajattelija, joka suhtautuu epäilevästi yliluonnollisiin ilmiöihin"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Eliza",
+			"description": "Blackwoodin kartanon entinen omistaja, joka sata vuotta sitten joutui perheensä pettämäksi ja verikuurituaalien uhriksi. Hänen henkensä vaeltaa kartanossa yrittäen murtaa kirouksen Carterin avulla, mutta hänen motiivinsa eivät vaikuta puhtailta.",
+			"avatar_url": "/resources/characters/story_6/eliza.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"surumielinen",
+				"salaperäinen",
+				"monimutkainen",
+				"kaipaa apua mutta kantaa myös kostonhimoa"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Aiden",
+			"description": "Yksinäinen kulkuri, joka vaeltaa Sumukylän lähistöllä ja väittää tuntevansa kartanon salaisuudet. Hänen todellinen identiteettinsä ja motiivinsa ovat hämärän peitossa.",
+			"avatar_url": "/resources/characters/story_6/aiden.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"hiljainen",
+				"varovainen",
+				"tarkkaavainen",
+				"vaikuttaa tottuneelta yliluonnollisiin ilmiöihin"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Vera",
+			"description": "Sumukylän iäkäs asukas, joka väittää olevansa historioitsija ja tuntee kartanon menneisyyden hyvin, mutta hänen kertomuksensa vaikuttavat vajavaisilta, kuin hän salaisi jotakin.",
+			"avatar_url": "/resources/characters/story_6/vera.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 60,
+			"personality": [
+				"viisas",
+				"salaperäinen",
+				"varovainen",
+				"puheissa varoituksen sävyä"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Lucas",
+			"description": "Sumukylän poliisi, joka tutkii katoamistapauksia ja suhtautuu epäilevästi Carterin saapumiseen. Hänen käytöksensä viittaa siihen, että hän tietää kartanon huhuista mutta ei halua keskustella niistä.",
+			"avatar_url": "/resources/characters/story_6/lucas.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"vakava",
+				"valpas",
+				"konservatiivinen",
+				"suhtautuu yliluonnollisiin ilmiöihin kaksijakoisesti"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Kartano sumussa"
+		}
+	]
+}

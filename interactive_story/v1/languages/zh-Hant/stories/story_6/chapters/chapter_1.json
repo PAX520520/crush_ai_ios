@@ -1,0 +1,97 @@
+{
+	"title": "霧中莊園",
+	"summary": "記者卡特來到霧谷鎮，調查失蹤案，進入廢棄的布萊克伍德莊園。他發現了一本神秘日記，遭遇了詭異的現象，並遇到了幽靈伊麗莎白。卡特必須決定如何應對這些超自然事件。",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "夜色深沉，霧谷鎮被濃霧籠罩，街道上空無一人，只有路燈在霧中投下昏黃的光暈。你，卡特，一位年輕的記者，站在布萊克伍德莊園的鐵門前，手中緊握著一支手電筒。莊園的輪廓在霧中若隱若現，像一頭沉睡的巨獸，散發著令人不安的氣息。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(低聲自語，調整眼鏡) 這地方……真他媽詭異。失蹤案的線索都指向這裡，但我怎麼覺得這不是個好主意？"
+		},
+		{
+			"type": "narrator",
+			"content": "你推開生鏽的鐵門，刺耳的吱吱聲在寂靜中迴盪。莊園的大門敞開，門廊上布滿蛛網，空氣中瀰漫著黴味和某種難以名狀的寒意。你踏入大廳，手電光掃過破舊的家具和龜裂的牆壁，隱約聽到遠處傳來低語，像風聲，又像人的呢喃。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(皺眉，握緊手電筒) 誰在那兒？出來！"
+		},
+		{
+			"type": "narrator",
+			"content": "無人回應，但低語聲似乎更近了。你注意到大廳中央的桌上放著一本蒙塵的日記，封面上刻著\"Eliza Blackwood\"的名字。你翻開日記，發現字跡潦草，記載著關於\"血月儀式\"的片段：\"他們背叛了我……用我的血換取了力量……詛咒將永存……\""
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(喃喃自語) 血月儀式？這是什麼鬼東西？難道失蹤案和這個有關？"
+		},
+		{
+			"type": "narrator",
+			"content": "突然，一陣冷風吹過，燭台上的蠟燭無火自燃，發出幽藍的光芒。你感到一股寒意爬上脊背，轉身時，一個模糊的女性身影出現在大廳盡頭的樓梯上。她穿著破舊的長裙，手持一盞閃爍的提燈，蒼白的臉上沒有表情，眼中卻透著深深的哀怨。"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(聲音空靈，低沉如嘆息) 你……為何而來？這裡不是生者的居所……"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(後退一步，心跳加速) 你是誰？！我……我是來找真相的！關於失蹤案，關於這個莊園！"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(緩緩靠近，聲音帶著一絲憤怒) 真相？真相已被鮮血掩埋……你若想知曉，便留下……但小心，你的靈魂也將被吞噬。"
+		},
+		{
+			"type": "narrator",
+			"content": "她的身影突然消失，燭火熄滅，大廳陷入黑暗。你手中的手電筒開始閃爍，空氣變得更加冰冷。你感到一股無形的壓力，彷彿有什麼東西在注視著你。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(喘息，試圖冷靜) 冷靜，卡特，這只是幻覺……對吧？但這日記……這地方……我得弄清楚！"
+		},
+		{
+			"type": "narrator",
+			"content": "你聽到地板上傳來吱吱的腳步聲，像是從樓上傳來。你可以選擇上樓追查聲音的來源，或者繼續研究日記尋找線索，或者乾脆離開這個鬼地方，回到鎮上尋求幫助。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(咬牙，低聲) 我不能就這麼退縮……但這地方真的太邪門了。"
+		},
+		{
+			"type": "narrator",
+			"content": "你的心跳聲在耳邊迴響，莊園的陰影似乎在蠢蠢欲動。你會怎麼做？"
+		}
+	],
+	"choice": {
+		"prompt": "你將如何行動？",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "上樓追查神秘的腳步聲，探索莊園的深處。"
+			},
+			{
+				"content": "留在大廳，繼續閱讀伊麗莎白的日記，尋找更多線索。"
+			},
+			{
+				"content": "離開莊園，返回霧谷鎮，向警官盧卡斯或鎮民薇拉求助。"
+			}
+		]
+	}
+}

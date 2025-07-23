@@ -1,0 +1,70 @@
+{
+	"story_id": "story_4",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "Un navigatore di astronavi con amnesia, il cui vero nome è sconosciuto. Era una figura leggendaria della flotta stellare e potrebbe essere uno dei creatori dell'Evento della Caduta delle Stelle.",
+			"avatar_url": "/resources/characters/story_4/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Calmo",
+				"Determinato",
+				"Pieno di dubbi",
+				"Ossessionato dalla verità"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Ava",
+			"description": "Un'agente misteriosa che si presenta come partner di Ethan, ma in realtà è un membro segreto dell'Alleanza Stellare con la missione di ottenere il Nucleo Stellare. Le sue motivazioni sono complesse, divisa tra lealtà e interessi personali.",
+			"avatar_url": "/resources/characters/story_4/ava.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"Astuta",
+				"Scaltra",
+				"Abile nel fingere",
+				"Conflitto interiore"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Nova",
+			"description": "L'assistente AI intelligente di Ethan, presente nel sistema della nave stellare e nei suoi impianti. Possiede un'intelligenza quasi umana. Apparentemente leale, ma sembra nascondere segreti legati al passato di Ethan.",
+			"avatar_url": "/resources/characters/story_4/nova.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"Calma",
+				"Logica rigorosa",
+				"Occasionalmente mostra cure umane"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Kael",
+			"description": "Un mercenario stellare disertore che dà la caccia a Ethan per la taglia sul Nucleo Stellare. Stanco della corruzione nell'Alleanza Stellare, potrebbe rivelarsi un potenziale alleato.",
+			"avatar_url": "/resources/characters/story_4/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Rude",
+				"Deciso",
+				"Apparentemente freddo ma con un proprio codice morale"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Sussurri del Vuoto"
+		}
+	]
+}

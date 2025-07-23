@@ -60,6 +60,67 @@
 			],
 			"cover_image_url": "resources/covers/story_3_cover.jpg",
 			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
+		},
+		{
+			"id": "story_4",
+			"title": "L'Écho de l'Abîme Stellaire",
+			"description": "Dans un futur lointain, la civilisation humaine prospère dans la colonisation interstellaire, jusqu'à ce qu'un mystérieux événement appelé 'Chute des Étoiles' la mène au bord de l'effondrement. Le protagoniste, un navigateur stellaire oublié, se réveille dans un vaisseau spatial abandonné, sans aucun souvenir. Accompagné d'une IA assistante, d'une femme mystérieuse qui prétend 'tout savoir', et face à des menaces inconnues qui se rapprochent, il est forcé d'entreprendre un voyage à la recherche de la vérité et de lui-même. Dans cet univers rempli de technologie et de mystère, il devra découvrir le secret de la Chute des Étoiles et décider s'il doit sauver la civilisation ou laisser tout sombrer dans le néant.",
+			"category_id": 4,
+			"tags": [
+				"Science-fiction",
+				"Mystère",
+				"Aventure",
+				"Découverte de soi",
+				"Intelligence artificielle"
+			],
+			"plot_direction": [
+				"Début : Le protagoniste se réveille dans une capsule de stase d'un vaisseau spatial abandonné, amnésique, avec seulement des fragments de rêves flous : une planète en flammes et une voix féminine qui murmure. Son assistante IA Nova l'appelle 'Captain Ethan' et l'avertit que les systèmes du vaisseau sont en train de s'effondrer. Rapidement, une femme mystérieuse nommée Ava apparaît, prétendant être sa partenaire, et le guide pour échapper au vaisseau sur le point d'exploser. Pendant leur fuite, Ethan découvre qu'il possède une capacité étrange à manipuler l'ancienne technologie, mais cela attire également l'attention de forces inconnues qui le poursuivent.",
+				"Milieu : Ethan, Ava et Nova traversent plusieurs systèmes stellaires, cherchant des indices sur l'événement de la Chute des Étoiles. Ils découvrent que ce n'était pas un phénomène naturel, mais le résultat d'une technologie ancienne hors de contrôle. Ava révèle progressivement sa véritable identité - une agent secrète de l'Alliance Stellaire, cherchant à utiliser les capacités d'Ethan pour activer le 'Noyau Stellaire', un dispositif capable de remodeler l'univers. Pendant ce temps, les rêves d'Ethan deviennent plus clairs, et il commence à soupçonner qu'il était l'un des créateurs de la Chute des Étoiles, tandis que Nova semble cacher des informations cruciales.",
+				"Fin : Ethan fait face à un choix : activer le Noyau Stellaire pour remodeler l'univers au risque d'effacer la civilisation existante, ou le détruire, préservant le présent mais enterrant la vérité à jamais. Les motivations d'Ava deviennent plus claires, elle est à la fois alliée et potentiellement ennemie. Finalement, à travers ses souvenirs retrouvés, Ethan découvre qu'il s'était sacrifié pour arrêter la Chute des Étoiles, et que Nova est une sauvegarde de sa conscience, portant sa mission inachevée. La fin dépend du choix du joueur : se sacrifier pour sauver l'univers ou tout abandonner pour poursuivre la liberté."
+			],
+			"cover_image_url": "resources/covers/story_4_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_4_bg.jpg"
+		},
+		{
+			"id": "story_5",
+			"title": "La Couronne Brisée",
+			"description": "Dans un royaume médiéval européen, un complot pousse un jeune prince vers un destin tragique. Privé de son droit au trône, le protagoniste doit naviguer entre les nobles fidèles à Stuart et le peuple, découvrir les secrets cachés de la famille royale, et retrouver sa gloire - ou sombrer définitivement dans le tourbillon du pouvoir et de la trahison.",
+			"category_id": 5,
+			"tags": [
+				"Médiéval",
+				"Intrigue",
+				"Pouvoir royal",
+				"Trahison",
+				"Vengeance",
+				"Mystère"
+			],
+			"plot_direction": [
+				"Début : Le protagoniste Calian, un prince déchu de ses droits de succession, est accusé à tort de trahison lors d'un coup d'État et exilé dans une ville frontalière. Dans une taverne locale, il rencontre une mystérieuse barde nommée Elena, qui semble connaître sa véritable identité mais cache ses propres intentions. Calian commence à soupçonner que le déclin de la famille royale cache une autre vérité et décide de s'engager sur la voie de la vengeance et de la vérité.",
+				"Milieu : Avec l'aide d'Elena, Calian rencontre un groupe de rebelles, comprenant le loyal chevalier Roland, le rusé voleur Victor et la sage sorcière Marian. Ensemble, ils découvrent le complot de son oncle Edmund qui a usurpé le trône : il conspire avec un royaume ennemi pour annexer la patrie de Calian. Le voyage de Calian est rempli d'épreuves, il doit choisir entre loyauté et trahison, tout en confrontant ses sentiments complexes envers le trône et sa famille.",
+				"Fin : Calian s'infiltre finalement dans le palais pour affronter Edmund et découvre une conspiration plus vaste : Elena est en réalité une princesse du royaume ennemi, tentant d'utiliser Calian pour ses propres fins politiques. Calian doit décider s'il pardonne sa trahison et choisir entre reprendre le trône ou tout abandonner pour une vie de liberté."
+			],
+			"cover_image_url": "resources/covers/story_5_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_5_bg.jpg"
+		},
+		{
+			"id": "story_6",
+			"title": "Les Murmures des Fantômes",
+			"description": "Dans la sinistre ville de Valbrume, un jeune journaliste, Carter, enquêtant sur une mystérieuse disparition, pénètre accidentellement dans un manoir abandonné. Une aura menaçante imprègne les lieux, des murmures fantomatiques résonnent dans l'obscurité, révélant des secrets terrifiants vieux de plusieurs décennies. Carter doit résoudre le mystère de la malédiction du manoir et affronter les dangers tapis dans l'ombre pour s'échapper - ou devenir à jamais partie intégrante des spectres.",
+			"category_id": 6,
+			"tags": [
+				"Paranormal",
+				"Mystère",
+				"Malédiction",
+				"Horreur",
+				"Exploration"
+			],
+			"plot_direction": [
+				"Début : Carter, un journaliste curieux, arrive à Valbrume pour enquêter sur une disparition datant de plusieurs années. Les indices mènent au manoir Blackwood abandonné, réputé maudit, où nul n'est censé ressortir vivant. Dans le manoir, Carter découvre un ancien journal relatant le destin tragique d'Elizabeth, la maîtresse des lieux, et une malédiction liée au 'Rituel de la Lune de Sang'. Des événements étranges se multiplient dans le manoir : ombres mouvantes, contacts glacials, murmures, faisant douter Carter de sa sanity.",
+				"Milieu : Carter s'enfonce plus profondément dans le manoir, où le fantôme d'Elizabeth semble le guider vers la vérité de la malédiction. Il rencontre d'autres personnages - Aiden le mystérieux vagabond, Vera l'habitante qui prétend connaître l'histoire du manoir, et Lucas l'officier de police évasif qui semble en savoir plus qu'il ne le dit. Carter découvre progressivement que la malédiction est liée à un pacte obscur impliquant certaines familles de la ville, et que la lune de sang approche, annonçant un nouveau rituel. Il doit choisir entre la vérité et la peur, tout en évitant les esprits malveillants de plus en plus actifs dans le manoir.",
+				"Fin : Carter découvre la vérité sur la malédiction - Elizabeth fut trahie par sa famille et sacrifiée lors d'un rituel en échange de richesse et de pouvoir. La nuit de la lune de sang, il doit décider s'il interrompt le rituel au risque de provoquer la colère des esprits, ou s'il collabore pour tenter d'inverser la malédiction. Ses choix détermineront s'il s'échappe du manoir, reste piégé par la malédiction, découvre une conspiration plus profonde, ou devient la nouvelle offrande du rituel."
+			],
+			"cover_image_url": "resources/covers/story_6_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_6_bg.jpg"
 		}
 	]
 }

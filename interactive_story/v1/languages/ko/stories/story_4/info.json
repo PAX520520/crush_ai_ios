@@ -1,0 +1,70 @@
+{
+	"story_id": "story_4",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "기억을 잃은 우주선 항해사로, 본명은 알 수 없으며, 한때 우주 함대의 전설적인 인물이었고, 스타폴 사건의 주역 중 한 명일 수 있다.",
+			"avatar_url": "/resources/characters/story_4/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"침착함",
+				"강인함",
+				"의문으로 가득함",
+				"진실에 대한 집착"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Ava",
+			"description": "신비로운 요원으로, Ethan의 파트너라고 주장하지만 실제로는 우주 연합의 비밀 요원이며, 스타코어를 획득하는 것이 임무다. 그녀의 동기는 복잡하며, 충성심과 사심이 공존한다.",
+			"avatar_url": "/resources/characters/story_4/ava.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"영리함",
+				"교활함",
+				"위장에 능함",
+				"내면의 갈등"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Nova",
+			"description": "Ethan의 AI 조수로, 우주선 시스템과 그의 임플란트에 존재하며, 인간에 가까운 지능을 가지고 있다. 겉으로는 충실하지만, Ethan의 과거와 관련된 비밀을 숨기고 있는 것 같다.",
+			"avatar_url": "/resources/characters/story_4/nova.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"침착함",
+				"논리적 정확성",
+				"때때로 인간적인 관심을 보임"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Kael",
+			"description": "도망친 우주 용병으로, 스타코어의 현상금을 얻기 위해 Ethan을 쫓고 있지만, 우주 연합의 부패에 염증을 느끼고 있어 잠재적 동맹이 될 수 있다.",
+			"avatar_url": "/resources/characters/story_4/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"거칠음",
+				"단호함",
+				"겉으로는 냉혹하지만 자신만의 도의가 있음"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "공허의 속삭임"
+		}
+	]
+}

@@ -1,0 +1,84 @@
+{
+	"story_id": "story_5",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Calian",
+			"description": "Un joven príncipe despojado de su trono, nacido como Calian Valencia, que lleva la misión de venganza y redención.",
+			"avatar_url": "/resources/characters/story_5/calian.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 22,
+			"personality": [
+				"Tenaz",
+				"Inteligente",
+				"Conflictivo interno",
+				"Anhela la justicia pero duda de la naturaleza humana"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Elina",
+			"description": "Una misteriosa trovadora que en realidad es una princesa enemiga, experta en el engaño y la manipulación, pero que mantiene una esperanza secreta por la paz.",
+			"avatar_url": "/resources/characters/story_5/elina.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 20,
+			"personality": [
+				"Astuta",
+				"Seductora",
+				"Compleja",
+				"Hábil ocultando sus verdaderos sentimientos"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Roland",
+			"description": "Un caballero leal, antiguo guardián de Calian, devotamente fiel al príncipe.",
+			"avatar_url": "/resources/characters/story_5/roland.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Honesto",
+				"Valiente",
+				"Terco"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Victor",
+			"description": "Un ladrón astuto, experto en robo y recolección de información, escéptico del idealismo de Calian.",
+			"avatar_url": "/resources/characters/story_5/victor.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 28,
+			"personality": [
+				"Perspicaz",
+				"Cínico",
+				"Lealtad cuestionable"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Marian",
+			"description": "Una sabia bruja que domina la magia antigua, vive recluida en el bosque y conoce los secretos de la familia real.",
+			"avatar_url": "/resources/characters/story_5/marian.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 40,
+			"personality": [
+				"Serena",
+				"Misteriosa",
+				"Perspicaz"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "El Regreso del Exiliado"
+		}
+	]
+}

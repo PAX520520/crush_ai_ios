@@ -1,0 +1,97 @@
+{
+	"title": "Herregården i tågen",
+	"summary": "Journalisten Carter ankommer til Tågedalen for at undersøge en forsvindingssag og går ind i den forladte Blackwood herregård. Han finder en mystisk dagbog, oplever overnaturlige fænomener og møder spøgelset Elizabeth. Carter må beslutte, hvordan han skal håndtere disse overnaturlige begivenheder.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Natten er dyb, og Tågedalen er indhyllet i tæt tåge. Gaderne er tomme, kun gadelygterne kaster et svagt gulligt skær gennem tågen. Du, Carter, en ung journalist, står foran Blackwood herregårdens jernport med en lommelygte i hånden. Herregårdens silhuet dukker op og forsvinder i tågen som et sovende uhyre, der udstråler en foruroligende atmosfære."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(mumler lavt mens han justerer sine briller) Dette sted... er fandeme uhyggeligt. Alle spor i forsvindingssagen peger herhen, men hvorfor har jeg på fornemmelsen, at dette ikke er en god idé?"
+		},
+		{
+			"type": "narrator",
+			"content": "Du skubber den rustne jernport op, og den knirker højlydt i stilheden. Herregårdens hoveddør står åben, verandaen er dækket af spindelvæv, og luften er tung af mug og en ubeskrivelig kulde. Du træder ind i hallen, hvor lommelygtens stråle glider hen over slidte møbler og revnede vægge, og i det fjerne hører du en svag hvisken, som både lyder som vinden og menneskelige stemmer."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(rynker panden og holder fast i lommelygten) Hvem er der? Kom frem!"
+		},
+		{
+			"type": "narrator",
+			"content": "Ingen svarer, men hviskene synes at komme tættere på. Du bemærker en støvet dagbog på bordet midt i hallen, med navnet 'Eliza Blackwood' indgraveret på forsiden. Du åbner dagbogen og finder krakelerede notater om 'blodmåneritualet': 'De forrådte mig... brugte mit blod til at opnå kraft... forbandelsen vil vare evigt...'"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(mumler) Blodmåneritual? Hvad fanden er det for noget? Kan forsvindingssagen have noget med dette at gøre?"
+		},
+		{
+			"type": "narrator",
+			"content": "Pludselig blæser en kold vind gennem rummet, og lysene i kandelabrene tænder sig selv med en blålig flamme. Du mærker en kuldegysen løbe ned ad ryggen, og da du vender dig om, står en utydelig kvindeskikkelse for enden af trappen i hallen. Hun er iført en forrevet kjole og holder en flakkende lanterne, hendes blege ansigt er udtryksløst, men øjnene er fyldt med dyb sorg."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(med en ætherisk, dyb sukkende stemme) Hvorfor... er du kommet? Dette er ikke et sted for de levende..."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(træder tilbage med bankende hjerte) Hvem er du?! Jeg... jeg er her for at finde sandheden! Om forsvindingssagen, om denne herregård!"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(nærmer sig langsomt med vrede i stemmen) Sandheden? Sandheden er begravet i blod... Hvis du ønsker at vide den, så bliv... men pas på, din sjæl vil også blive fortæret."
+		},
+		{
+			"type": "narrator",
+			"content": "Hendes skikkelse forsvinder pludselig, lysene slukkes, og hallen hensynker i mørke. Din lommelygte begynder at blinke, og luften bliver endnu koldere. Du mærker et usynligt pres, som om noget iagttager dig."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(gisper og prøver at bevare roen) Tag det roligt, Carter, det er bare en hallucination... ikke? Men denne dagbog... dette sted... jeg må finde ud af det!"
+		},
+		{
+			"type": "narrator",
+			"content": "Du hører knirkende fodtrin på gulvet, som ser ud til at komme fra overetagen. Du kan vælge at gå ovenpå for at undersøge lydens oprindelse, fortsætte med at studere dagbogen for at finde flere spor, eller forlade dette hjemsøgte sted og søge hjælp i byen."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(bider tænderne sammen og hvisker) Jeg kan ikke bare give op nu... men dette sted er virkelig uhyggeligt."
+		},
+		{
+			"type": "narrator",
+			"content": "Dit hjertes banken genlyder i dine ører, og herregårdens skygger synes at bevæge sig. Hvad vil du gøre?"
+		}
+	],
+	"choice": {
+		"prompt": "Hvad vil du gøre?",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Gå ovenpå for at undersøge de mystiske fodtrin og udforske herregårdens dybder."
+			},
+			{
+				"content": "Bliv i hallen og fortsæt med at læse Elizabeths dagbog for at finde flere spor."
+			},
+			{
+				"content": "Forlad herregården og vend tilbage til Tågedalen for at søge hjælp hos betjent Lucas eller byboeren Vera."
+			}
+		]
+	}
+}

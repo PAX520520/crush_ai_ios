@@ -1,0 +1,87 @@
+{
+	"story_id": "story_6",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Carter",
+			"description": "A young and stubborn journalist whose life creed is pursuing the truth. He came to Mist Valley Town to investigate a missing person case but unexpectedly became involved in supernatural events.",
+			"avatar_url": "/resources/characters/story_6/carter.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 27,
+			"personality": [
+				"curious",
+				"brave",
+				"stubborn",
+				"strong logical thinking but skeptical of supernatural phenomena"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Eliza",
+			"description": "The former owner of Blackwood Manor, betrayed by her family a century ago and became a sacrifice in the blood moon ritual. Her ghost wanders the manor, trying to break the curse through Carter, but her motives seem not entirely pure.",
+			"avatar_url": "/resources/characters/story_6/eliza.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"melancholic",
+				"mysterious",
+				"complex",
+				"harbors both a desire for help and a fire for revenge"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Aiden",
+			"description": "A lone wanderer who frequently roams near Mist Valley Town, claiming to know the manor's secrets. His true identity and motives remain unclear.",
+			"avatar_url": "/resources/characters/story_6/aiden.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"reticent",
+				"cautious",
+				"sharp-witted",
+				"seems accustomed to supernatural phenomena"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Vera",
+			"description": "An elderly resident of Mist Valley Town who claims to be a historian with extensive knowledge of the manor's past, but her narratives always seem reserved, as if hiding certain secrets.",
+			"avatar_url": "/resources/characters/story_6/vera.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 60,
+			"personality": [
+				"wise",
+				"mysterious",
+				"cautious",
+				"speaks with warning undertones"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Lucas",
+			"description": "The police officer of Mist Valley Town in charge of the missing person case, skeptical of Carter's arrival. His behavior suggests he knows about the manor's rumors but is unwilling to discuss them in depth.",
+			"avatar_url": "/resources/characters/story_6/lucas.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"serious",
+				"vigilant",
+				"conservative",
+				"ambiguous attitude towards supernatural phenomena"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Manor in the Mist"
+		}
+	]
+}

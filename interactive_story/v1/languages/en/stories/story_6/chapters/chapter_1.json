@@ -1,0 +1,97 @@
+{
+	"title": "Manor in the Mist",
+	"summary": "Reporter Carter arrives in Fog Valley to investigate disappearances and enters the abandoned Blackwood Manor. He discovers a mysterious diary, encounters supernatural phenomena, and meets the ghost Elizabeth. Carter must decide how to deal with these supernatural events.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "The night is deep, and Fog Valley is shrouded in thick mist, with empty streets where only streetlamps cast dim halos through the fog. You, Carter, a young reporter, stand before the iron gates of Blackwood Manor, clutching a flashlight. The manor's silhouette looms in and out of the mist like a sleeping beast, emanating an unsettling presence."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(muttering, adjusting glasses) This place... it's damn creepy. All the missing persons clues point here, but why do I feel this isn't a good idea?"
+		},
+		{
+			"type": "narrator",
+			"content": "You push open the rusty iron gate, its piercing creak echoing in the silence. The manor's front door stands open, its porch covered in cobwebs, the air thick with mold and an inexplicable chill. You step into the hall, your flashlight beam sweeping across worn furniture and cracked walls, faintly hearing distant whispers that sound like both wind and human murmurs."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(frowning, gripping the flashlight) Who's there? Come out!"
+		},
+		{
+			"type": "narrator",
+			"content": "No one responds, but the whispers seem closer. You notice a dust-covered diary on the central table, with \"Eliza Blackwood\" engraved on its cover. You open it to find messy handwriting with fragments about a \"Blood Moon Ritual\": \"They betrayed me... used my blood for power... the curse shall endure...\""
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(mumbling) Blood Moon Ritual? What the hell is that? Could the disappearances be connected to this?"
+		},
+		{
+			"type": "narrator",
+			"content": "Suddenly, a cold wind blows through, and the candles in the chandelier ignite without flame, emitting an eerie blue light. You feel a chill crawl up your spine, and as you turn, a blurry female figure appears at the far end of the hall's staircase. She wears a tattered dress, holds a flickering lantern, her pale face expressionless but her eyes filled with deep sorrow."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(voice ethereal, deep as a sigh) Why... have you come? This is no place for the living..."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(stepping back, heart racing) Who are you?! I... I'm here for the truth! About the disappearances, about this manor!"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(approaching slowly, voice tinged with anger) Truth? Truth lies buried in blood... Stay if you wish to know... but beware, your soul may be devoured."
+		},
+		{
+			"type": "narrator",
+			"content": "Her figure suddenly vanishes, the candles extinguish, and the hall plunges into darkness. Your flashlight begins to flicker, and the air grows even colder. You feel an invisible pressure, as if something is watching you."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(panting, trying to stay calm) Stay calm, Carter, it's just an illusion... right? But this diary... this place... I need to figure this out!"
+		},
+		{
+			"type": "narrator",
+			"content": "You hear creaking footsteps on the floor, seemingly coming from upstairs. You can choose to go upstairs to investigate the source of the sound, continue studying the diary for clues, or leave this haunted place and return to town for help."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(gritting teeth, speaking softly) I can't just back down... but this place is seriously creepy."
+		},
+		{
+			"type": "narrator",
+			"content": "Your heartbeat echoes in your ears as the manor's shadows seem to stir. What will you do?"
+		}
+	],
+	"choice": {
+		"prompt": "What will you do?",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Go upstairs to investigate the mysterious footsteps and explore deeper into the manor."
+			},
+			{
+				"content": "Stay in the hall and continue reading Elizabeth's diary to find more clues."
+			},
+			{
+				"content": "Leave the manor and return to Fog Valley to seek help from Officer Lucas or townsperson Vera."
+			}
+		]
+	}
+}

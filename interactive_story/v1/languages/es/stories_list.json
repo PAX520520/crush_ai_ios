@@ -60,6 +60,67 @@
 			],
 			"cover_image_url": "resources/covers/story_3_cover.jpg",
 			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
+		},
+		{
+			"id": "story_4",
+			"title": "El Eco del Abismo Estelar",
+			"description": "En un futuro lejano, la civilización humana prospera en la colonización interestelar, pero se encuentra al borde del colapso debido a un misterioso evento llamado 'Caída Estelar'. El protagonista, un navegante olvidado de una nave estelar, despierta para encontrarse en una nave abandonada, sin memoria. Acompañado por una asistente AI, una misteriosa mujer que dice 'saberlo todo', y amenazas desconocidas que se acercan, se ve obligado a emprender un viaje en busca de la verdad y su identidad. En este universo lleno de tecnología y misterio, deberá descubrir el secreto de la Caída Estelar y decidir entre salvar la civilización o dejar que todo se desvanezca en la nada.",
+			"category_id": 4,
+			"tags": [
+				"Ciencia Ficción",
+				"Misterio",
+				"Aventura",
+				"Autodescubrimiento",
+				"Inteligencia Artificial"
+			],
+			"plot_direction": [
+				"Inicio: El protagonista despierta en una cápsula de hibernación de una nave abandonada, sin memoria, solo con fragmentos borrosos de un sueño: un planeta en llamas y una voz femenina susurrante. Su asistente AI Nova lo llama 'Captain Ethan' y le advierte que los sistemas de la nave están colapsando. Pronto aparece una misteriosa mujer llamada Ava, quien dice ser su compañera y lo guía para escapar de la nave que está a punto de explotar. Durante la huida, Ethan descubre que posee una extraña habilidad para controlar tecnología antigua, lo que atrae la persecución de fuerzas desconocidas.",
+				"Desarrollo: Ethan, Ava y Nova viajan a través de múltiples sistemas estelares, buscando pistas sobre el incidente de la Caída Estelar. Descubren que no fue un fenómeno natural, sino el resultado de una tecnología antigua fuera de control. Ava gradualmente revela su verdadera identidad: una agente secreta de la Alianza Estelar que intenta usar las habilidades de Ethan para activar el 'Núcleo Estelar', un dispositivo capaz de remodelar el universo. Mientras tanto, los sueños de Ethan se vuelven más claros, y comienza a sospechar que fue uno de los creadores de la Caída Estelar, mientras Nova parece ocultar información crucial.",
+				"Final: Ethan enfrenta una decisión: activar el Núcleo Estelar para remodelar el universo, arriesgándose a borrar la civilización existente, o destruirlo, preservando el presente pero enterrando la verdad para siempre. Las motivaciones de Ava se aclaran, revelándose como aliada y posible enemiga. Finalmente, Ethan recupera sus memorias y descubre que sacrificó todo para detener la Caída Estelar, y que Nova es una copia de su conciencia, portadora de su misión inconclusa. El final depende de la elección del jugador: sacrificarse para salvar el universo o abandonarlo todo en busca de la libertad."
+			],
+			"cover_image_url": "resources/covers/story_4_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_4_bg.jpg"
+		},
+		{
+			"id": "story_5",
+			"title": "La Corona Rota",
+			"description": "En un reino de la Europa medieval, una conspiración empuja a un joven príncipe hacia el abismo del destino. El protagonista, despojado de sus derechos de sucesión, debe navegar entre la lealtad de los nobles Stuart y los plebeyos, descubrir los secretos ocultos en la familia real, y recuperar su honor, o hundirse completamente en el torbellino del poder y la traición.",
+			"category_id": 5,
+			"tags": [
+				"Medieval",
+				"Conspiración",
+				"Realeza",
+				"Traición",
+				"Venganza",
+				"Misterio"
+			],
+			"plot_direction": [
+				"Inicio: El protagonista Calian, un príncipe despojado de sus derechos de sucesión, es acusado falsamente de traición durante un golpe palaciego y exiliado a un pueblo fronterizo. En la taberna del pueblo, conoce a una misteriosa trovadora, Elena, quien parece conocer su verdadera identidad pero oculta sus propios motivos. Calian comienza a sospechar que hay más detrás de la caída de la familia real y decide emprender un camino de venganza y verdad.",
+				"Desarrollo: Con la ayuda de Elena, Calian conoce a un grupo de rebeldes, incluyendo al leal caballero Roland, al astuto ladrón Victor y a la sabia bruja Marian. Juntos descubren la conspiración de su tío Edmund, quien usurpó el trono: está confabulado con un reino enemigo para anexar la patria de Calian. El viaje de Calian está lleno de pruebas, debiendo elegir entre lealtad y traición, mientras lidia con sentimientos complejos sobre el trono y la familia.",
+				"Final: Calian finalmente se infiltra en el palacio, enfrenta a Edmund y descubre una conspiración mayor: Elena es en realidad una princesa del reino enemigo, intentando usar a Calian para sus propios fines políticos. Calian debe decidir si perdona su traición y elegir entre reclamar el trono o abandonarlo todo en busca de una vida libre."
+			],
+			"cover_image_url": "resources/covers/story_5_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_5_bg.jpg"
+		},
+		{
+			"id": "story_6",
+			"title": "Susurros Fantasmales",
+			"description": "En el siniestro pueblo de Valle Niebla, un joven periodista, Carter, mientras investiga un misterioso caso de desaparición, se adentra accidentalmente en una mansión abandonada. La mansión está impregnada de un aura ominosa, con susurros fantasmales que resuenan en la oscuridad, revelando secretos terroríficos de décadas atrás. Carter debe resolver el misterio de la maldición de la mansión y enfrentar los peligros ocultos en las sombras para escapar con vida, o convertirse para siempre en parte de los espectros.",
+			"category_id": 6,
+			"tags": [
+				"Paranormal",
+				"Misterio",
+				"Maldición",
+				"Terror",
+				"Aventura"
+			],
+			"plot_direction": [
+				"Inicio: Carter, un periodista curioso, llega a Valle Niebla para investigar casos de desaparición ocurridos años atrás. Las pistas lo llevan a la abandonada Mansión Blackwood, que según las leyendas está maldita y nadie que entra sale con vida. Carter encuentra un antiguo diario que documenta el trágico destino de Elizabeth, la dueña de la mansión, y una maldición relacionada con el 'Ritual de la Luna Sangrienta'. Sucesos extraños comienzan a ocurrir en la mansión: sombras que se mueven, sensaciones gélidas, susurros al oído, haciendo que Carter cuestione su cordura.",
+				"Desarrollo: Carter explora más profundamente la mansión y descubre que el espectro de Elizabeth parece guiarlo hacia la verdad de la maldición. Conoce a otros personajes: Aiden, un misterioso vagabundo; Vera, una aldeana que dice conocer la historia de la mansión; y Lucas, un policía que parece saber más de lo que dice. Carter gradualmente descubre que la maldición está relacionada con oscuros pactos entre algunas familias del pueblo, y que la luna sangrienta se acerca, cuando el ritual se activará nuevamente. Debe elegir entre la verdad y el miedo, mientras evita los espíritus cada vez más activos en la mansión.",
+				"Final: Carter descubre la verdad de la maldición: Elizabeth fue traicionada por su familia, sacrificada en un ritual para obtener riqueza y poder. En la noche de la luna sangrienta, debe decidir si interrumpir el ritual arriesgándose a enfurecer a los espíritus, o colaborar con alguien para intentar revertir la maldición. Sus diferentes elecciones pueden llevarlo a escapar de la mansión, quedar atrapado en la maldición, descubrir conspiraciones más profundas, o incluso convertirse en el nuevo sacrificio del ritual."
+			],
+			"cover_image_url": "resources/covers/story_6_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_6_bg.jpg"
 		}
 	]
 }

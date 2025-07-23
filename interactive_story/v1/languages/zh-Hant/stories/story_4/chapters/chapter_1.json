@@ -1,0 +1,127 @@
+{
+	"title": "虛空的低語",
+	"summary": "失憶的主角 Ethan 在一艘廢棄星艦中醒來，面對即將崩潰的艦體和神秘女子 Ava 的出現。他必須決定是否信任 Ava，留在艦內尋找線索，還是獨自逃離以求生存。",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "黑暗中，你的意識如碎片般拼湊，像是從無盡的深淵中被強行拉回。刺耳的警報聲刺穿耳膜，紅光在狹窄的艙室內閃爍。你躺在冰冷的休眠艙中，身體沉重，腦海空蕩如被掏空。周圍是陌生的金屬牆壁，空氣中瀰漫著燒焦的電路氣味。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(低聲呻吟，試圖起身) 這是……哪裡？我……我是誰？"
+		},
+		{
+			"type": "narrator",
+			"content": "你掙扎著坐起，視野模糊，休眠艙的玻璃罩緩緩打開。一道柔和的藍光從你的手臂植入物中亮起，投射出一個全息影像——一個銀髮女子，眼神冷靜，聲音卻帶著一絲急迫。"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(聲音清晰，帶著機械的平穩) 歡迎回來，Captain Ethan。檢測到艦體系統即將崩潰，建議立即撤離。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(皺眉，試圖回憶) Captain？Ethan？這些對我來說毫無意義……你是誰？為什麼叫我這個名字？"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(全息影像微微閃爍，語氣不變) 我是 Nova，你的導航AI助手。你的記憶因休眠艙故障受損，但現在不是討論的時候。艦體將在 17 分鐘內解體。"
+		},
+		{
+			"type": "narrator",
+			"content": "你還沒來得及消化這些資訊，艙門突然被強行打開。一名女子走了進來，身姿矯健，綠色眼眸在昏暗的燈光下閃著光。她身穿緊身戰鬥服，手握一把發光的能量匕首，臉上帶著一絲不易察覺的笑意。"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(語氣輕快，帶著一絲戲謔) 睡得夠久了吧，Ethan？我是 Ava，你的搭檔。得快點離開，不然我們都會變成宇宙塵埃。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(警覺地後退一步，盯著她) 搭檔？我不記得你。你怎麼知道我的名字？"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(聳肩，笑容不減) 失憶了？真麻煩。相信我，我們是老朋友了。這艘船快炸了，跟我走，我會解釋一切。"
+		},
+		{
+			"type": "narrator",
+			"content": "她的聲音充滿自信，但你捕捉到她眼中一閃而過的猶豫。艦內的警報聲愈發急促，地板微微震動，提醒你時間不多了。你感到手臂上的植入物微微發熱，似乎在回應某種未知的信號。"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(低聲自語，試圖抓住腦海中的碎片) 為什麼我感覺……這一切不對勁？"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(全息影像轉向 Ava，語氣中帶著一絲懷疑) Ava，未檢測到你的身份認證。建議謹慎 Captain。"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(輕笑，擺手) 別聽這堆電路廢話。Ethan，我們得走，現在！"
+		},
+		{
+			"type": "narrator",
+			"content": "你站在原地，腦海中閃過一個模糊的畫面：一顆燃燒的星球，低語的女聲在呼喚你的名字。Ava 的出現讓你本能地感到不安，但留在這裡顯然不是明智的選擇。你該怎麼辦？"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(深吸一口氣，試圖保持冷靜) 好吧……告訴我，Ava，你到底是誰？為什麼我感覺你知道的比你說的多？"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(眼神一閃，語氣變得嚴肅) 現在不是問問題的時候，Ethan。相信我，或者留下來等死。你選。"
+		},
+		{
+			"type": "narrator",
+			"content": "警報聲越來越刺耳，艦體開始劇烈震動。你必須迅速做出決定。Ava 的眼神中藏著秘密，Nova 的警告在耳邊迴響，而你的內心深處，似乎有一個聲音在催促你尋找真相。"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(冷靜地補充) 檢測到外部信號干擾，可能有不明艦船靠近。建議立即行動。"
+		},
+		{
+			"type": "narrator",
+			"content": "你感到時間緊迫，腦海中的迷霧卻愈發濃重。是相信 Ava，跟隨她離開？還是留下來尋找更多線索？或者，冒險獨自逃離，尋找自己的答案？"
+		}
+	],
+	"choice": {
+		"prompt": "你將如何選擇",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "信任 Ava，跟隨她離開星艦"
+			},
+			{
+				"content": "留在艦內，搜索休眠艙或艦橋以尋找線索"
+			},
+			{
+				"content": "無視 Ava，獨自尋找逃生艙逃離"
+			}
+		]
+	}
+}

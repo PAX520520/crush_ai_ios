@@ -1,0 +1,127 @@
+{
+	"title": "Lời thì thầm từ hư không",
+	"summary": "Nhân vật chính Ethan tỉnh dậy trên một con tàu vũ trụ bị bỏ hoang với trí nhớ bị mất, đối mặt với thân tàu sắp sụp đổ và sự xuất hiện của người phụ nữ bí ẩn Ava. Anh phải quyết định liệu có tin tưởng Ava, ở lại tàu tìm manh mối, hay một mình trốn thoát để sinh tồn.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Trong bóng tối, ý thức của bạn dần hồi phục như những mảnh vỡ được ghép lại, như thể bị kéo ra khỏi vực thẳm vô tận. Tiếng cảnh báo chói tai xuyên thủng màng nhĩ, ánh sáng đỏ nhấp nháy trong khoang tàu chật hẹp. Bạn nằm trong khoang ngủ đông lạnh lẽo, cơ thể nặng nề, tâm trí trống rỗng như bị móc sạch. Xung quanh là những bức tường kim loại xa lạ, không khí nồng nặc mùi mạch điện cháy khét."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Rên rỉ khẽ, cố gắng ngồi dậy) Đây là... đâu? Tôi... tôi là ai?"
+		},
+		{
+			"type": "narrator",
+			"content": "Bạn vật vã ngồi dậy, tầm nhìn mờ ảo, nắp kính của khoang ngủ đông từ từ mở ra. Một tia sáng xanh dịu nhẹ phát ra từ thiết bị cấy ghép trên cánh tay bạn, chiếu ra một hình ảnh ba chiều - một phụ nữ tóc bạc, ánh mắt điềm tĩnh nhưng giọng nói lại mang chút gấp gáp."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Giọng nói rõ ràng, mang âm điệu máy móc ổn định) Chào mừng trở lại, Captain Ethan. Phát hiện hệ thống thân tàu sắp sụp đổ, đề nghị sơ tán ngay lập tức."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Nhíu mày, cố gắng nhớ lại) Captain? Ethan? Những cái tên này chẳng có ý nghĩa gì với tôi cả... Cô là ai? Tại sao lại gọi tôi bằng cái tên đó?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Hình ảnh ba chiều chớp nhẹ, giọng điệu không đổi) Tôi là Nova, trợ lý AI điều hướng của anh. Ký ức của anh bị tổn thương do sự cố khoang ngủ đông, nhưng bây giờ không phải lúc thảo luận. Thân tàu sẽ tan rã trong vòng 17 phút nữa."
+		},
+		{
+			"type": "narrator",
+			"content": "Bạn chưa kịp tiêu hóa những thông tin này thì cửa khoang đột nhiên bị mở ra. Một người phụ nữ bước vào, dáng người nhanh nhẹn, đôi mắt xanh lục lấp lánh dưới ánh đèn mờ. Cô ấy mặc bộ đồ chiến đấu bó sát, tay cầm một con dao năng lượng phát sáng, trên môi là nụ cười khó nhận thấy."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Giọng nhẹ nhàng, mang chút trêu đùa) Ngủ đủ rồi chứ, Ethan? Tôi là Ava, đối tác của anh. Phải rời khỏi đây nhanh thôi, không thì chúng ta sẽ biến thành bụi vũ trụ mất."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Lùi lại một bước đề phòng, nhìn chằm chằm vào cô) Đối tác? Tôi không nhớ cô. Sao cô biết tên tôi?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Nhún vai, nụ cười không thay đổi) Mất trí nhớ à? Phiền thật. Tin tôi đi, chúng ta là bạn cũ rồi. Con tàu này sắp nổ tung, đi với tôi, tôi sẽ giải thích mọi thứ."
+		},
+		{
+			"type": "narrator",
+			"content": "Giọng nói của cô ấy đầy tự tin, nhưng bạn bắt gặp một thoáng do dự trong mắt cô. Tiếng cảnh báo trên tàu ngày càng gấp gáp, sàn tàu rung nhẹ, nhắc nhở bạn không còn nhiều thời gian. Bạn cảm thấy thiết bị cấy ghép trên cánh tay hơi nóng lên, như thể đang phản ứng với một tín hiệu không xác định nào đó."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Lẩm bẩm, cố nắm bắt những mảnh ký ức) Tại sao tôi cảm thấy... tất cả điều này không ổn?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Hình ảnh ba chiều quay về phía Ava, giọng nói mang chút nghi ngờ) Ava, không phát hiện xác thực danh tính của cô. Đề nghị Captain thận trọng."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Cười nhẹ, vẫy tay) Đừng nghe đống mạch điện này nói. Ethan, chúng ta phải đi, ngay bây giờ!"
+		},
+		{
+			"type": "narrator",
+			"content": "Bạn đứng tại chỗ, trong đầu lóe lên một hình ảnh mờ ảo: một hành tinh đang cháy, giọng nói của một người phụ nữ thì thầm gọi tên bạn. Sự xuất hiện của Ava khiến bạn bản năng cảm thấy bất an, nhưng ở lại đây rõ ràng không phải là lựa chọn khôn ngoan. Bạn nên làm gì?"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Ethan",
+			"content": "(Hít sâu một hơi, cố giữ bình tĩnh) Được rồi... nói cho tôi biết, Ava, cô thực sự là ai? Tại sao tôi cảm thấy cô biết nhiều hơn những gì cô nói?"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Ava",
+			"content": "(Ánh mắt lóe lên, giọng nói trở nên nghiêm túc) Bây giờ không phải lúc đặt câu hỏi, Ethan. Tin tôi, hoặc ở lại đây chờ chết. Anh chọn đi."
+		},
+		{
+			"type": "narrator",
+			"content": "Tiếng cảnh báo ngày càng chói tai, thân tàu bắt đầu rung chuyển dữ dội. Bạn phải quyết định nhanh chóng. Trong ánh mắt của Ava ẩn chứa bí mật, lời cảnh báo của Nova vẫn vang vọng bên tai, và sâu thẳm trong tâm hồn, dường như có một giọng nói thúc giục bạn tìm kiếm sự thật."
+		},
+		{
+			"type": "character",
+			"character_id": "char_3",
+			"character_name": "Nova",
+			"content": "(Bình tĩnh bổ sung) Phát hiện nhiễu tín hiệu từ bên ngoài, có thể có tàu lạ đang tiếp cận. Đề nghị hành động ngay lập tức."
+		},
+		{
+			"type": "narrator",
+			"content": "Bạn cảm thấy thời gian gấp rút, nhưng sương mù trong tâm trí lại càng dày đặc. Tin tưởng Ava và đi theo cô ấy? Hay ở lại tìm kiếm thêm manh mối? Hoặc, mạo hiểm một mình trốn thoát, tìm kiếm câu trả lời cho riêng mình?"
+		}
+	],
+	"choice": {
+		"prompt": "Bạn sẽ chọn như thế nào",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Tin tưởng Ava, đi theo cô ấy rời khỏi tàu"
+			},
+			{
+				"content": "Ở lại tàu, tìm kiếm manh mối trong khoang ngủ đông hoặc cầu tàu"
+			},
+			{
+				"content": "Bỏ qua Ava, tự mình tìm khoang cứu sinh để thoát thân"
+			}
+		]
+	}
+}

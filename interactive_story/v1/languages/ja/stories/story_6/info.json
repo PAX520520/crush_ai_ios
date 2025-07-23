@@ -1,0 +1,87 @@
+{
+	"story_id": "story_6",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Carter",
+			"description": "若く頑固な記者で、真実を追求することが人生の信条です。霧谷町に失踪事件の調査に来たものの、思いがけず超常現象に巻き込まれることになります。",
+			"avatar_url": "/resources/characters/story_6/carter.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 27,
+			"personality": [
+				"好奇心旺盛",
+				"勇敢",
+				"頑固",
+				"論理的思考力が強いが超常現象には懐疑的"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Eliza",
+			"description": "ブラックウッド屋敷の元当主で、百年前に家族に裏切られ、血月の儀式の生贄となりました。彼女の亡霊は屋敷をさまよい、カーターを通じて呪いを解こうとしていますが、その動機は単純ではないようです。",
+			"avatar_url": "/resources/characters/story_6/eliza.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"哀愁を帯びた",
+				"神秘的",
+				"複雑",
+				"助けを求める願望と復讐心の両方を持つ"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Aiden",
+			"description": "孤独な放浪者で、霧谷町の周辺をさまよっており、屋敷の秘密を知っていると主張します。彼の本当の身分と動機は不明瞭です。",
+			"avatar_url": "/resources/characters/story_6/aiden.jpg",
+			"role": "co-star",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"寡黙",
+				"慎重",
+				"機敏",
+				"超常現象に慣れている様子"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Vera",
+			"description": "霧谷町の年配の住民で、自称歴史学者。屋敷の過去について詳しい知識を持っていますが、その語りには常に何かが隠されているようで、秘密を抱えているようです。",
+			"avatar_url": "/resources/characters/story_6/vera.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 60,
+			"personality": [
+				"賢明",
+				"神秘的",
+				"慎重",
+				"警告めいた言葉を発する"
+			]
+		},
+		{
+			"id": "char_5",
+			"name": "Lucas",
+			"description": "霧谷町の警官で、失踪事件の捜査を担当しており、カーターの来訪に疑いの目を向けています。彼の行動は屋敷の噂を知っていることを示唆していますが、深く追及することを避けています。",
+			"avatar_url": "/resources/characters/story_6/lucas.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 40,
+			"personality": [
+				"厳格",
+				"警戒心が強い",
+				"保守的",
+				"超常現象に対して曖昧な態度を取る"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "霧の屋敷"
+		}
+	]
+}

@@ -60,6 +60,67 @@
 			],
 			"cover_image_url": "resources/covers/story_3_cover.jpg",
 			"background_image_url": "resources/backgrounds/story_3_bg.jpg"
+		},
+		{
+			"id": "story_4",
+			"title": "Echo of the Stellar Abyss",
+			"description": "In the distant future, human civilization flourishes through interstellar colonization until a mysterious 'Starfall' event brings it to the brink of collapse. The protagonist, a forgotten starship navigator, wakes up on an abandoned vessel with no memory. Accompanied by an AI assistant, a mysterious woman claiming to 'know everything,' and faced with approaching unknown threats, he is forced to embark on a journey to find truth and self-discovery. In this universe filled with technology and mystery, he must uncover the secrets of Starfall and decide whether to save civilization or let everything fade into nothingness.",
+			"category_id": 4,
+			"tags": [
+				"Sci-fi",
+				"Mystery",
+				"Adventure",
+				"Self-discovery",
+				"Artificial Intelligence"
+			],
+			"plot_direction": [
+				"Beginning: The protagonist awakens in a stasis pod aboard an abandoned starship, with no memories except fragments of dreams: a burning planet and a whispering female voice. His AI assistant Nova addresses him as 'Captain Ethan' and warns of failing ship systems. Soon, a mysterious woman named Ava appears, claiming to be his partner, leading him to escape the soon-to-explode ship. During their escape, Ethan discovers his unusual ability to control ancient technology, which attracts pursuit from unknown forces.",
+				"Middle: Ethan, Ava, and Nova traverse multiple star systems, searching for clues about the Starfall event. They discover Starfall wasn't a natural phenomenon but caused by malfunctioning technology left by an ancient civilization. Ava gradually reveals her true identity—a secret agent of the Interstellar Alliance, attempting to use Ethan's abilities to activate the 'Star Core,' a device capable of reshaping the universe. Meanwhile, Ethan's dreams become clearer, leading him to suspect he was one of Starfall's creators, while Nova seems to be hiding crucial information.",
+				"Ending: Ethan faces a choice: activate the Star Core to reshape the universe but potentially erase existing civilization, or destroy it, preserving the present but burying the truth forever. Ava's motives become clear, revealing her as both ally and potential enemy. Finally, through recovered memories, Ethan discovers he once sacrificed everything to stop Starfall, and Nova is a backup of his consciousness, carrying his unfinished mission. The ending depends on player choice: self-sacrifice to save the universe or abandoning everything to pursue freedom."
+			],
+			"cover_image_url": "resources/covers/story_4_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_4_bg.jpg"
+		},
+		{
+			"id": "story_5",
+			"title": "The Broken Crown",
+			"description": "In a medieval European kingdom, a conspiracy pushes a young prince into the abyss of fate. Having lost his right to succession, the protagonist must navigate between loyal Stuart nobles and commoners, uncover secrets hidden within the royal family, and reclaim his honor—or sink completely into the whirlpool of power and betrayal.",
+			"category_id": 5,
+			"tags": [
+				"Medieval",
+				"Conspiracy",
+				"Royal Power",
+				"Betrayal",
+				"Revenge",
+				"Mystery"
+			],
+			"plot_direction": [
+				"Beginning: Calian, a prince stripped of his inheritance rights, is framed as a traitor during a court coup and exiled to a border town. In a local tavern, he meets a mysterious minstrel, Elena, who seems to know his true identity but conceals her own motives. Calian begins to suspect there's more to the royal family's decline and decides to embark on a path of revenge and truth.",
+				"Middle: With Elena's help, Calian befriends a group of rebels, including the loyal knight Roland, cunning thief Victor, and wise witch Marian. Together, they uncover his uncle Edmund's plot: collaborating with enemy kingdoms to annex Calian's homeland. Calian's journey is filled with trials as he must choose between loyalty and betrayal while confronting his complex feelings about the throne and family.",
+				"Ending: Calian finally infiltrates the palace to confront Edmund, uncovering a bigger conspiracy: Elena is actually a princess from an enemy kingdom, trying to use Calian for her political agenda. Calian must decide whether to forgive her betrayal and choose between reclaiming the throne or abandoning everything to pursue a life of freedom."
+			],
+			"cover_image_url": "resources/covers/story_5_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_5_bg.jpg"
+		},
+		{
+			"id": "story_6",
+			"title": "Whispers of the Phantom",
+			"description": "In the eerie Mist Valley town, young reporter Carter stumbles upon an abandoned manor while investigating a mysterious disappearance case. The manor is shrouded in an ominous atmosphere, with ghostly whispers echoing in the darkness, revealing horrific secrets from decades ago. Carter must solve the manor's curse mystery and face the dangers lurking in the shadows to escape—or become part of the phantom realm forever.",
+			"category_id": 6,
+			"tags": [
+				"Supernatural",
+				"Mystery",
+				"Curse",
+				"Horror",
+				"Adventure"
+			],
+			"plot_direction": [
+				"Beginning: Carter, a curious reporter, arrives in Mist Valley to investigate years-old disappearances. Clues lead to the abandoned Blackwood Manor, rumored to be cursed, where no one who enters leaves alive. Inside, Carter discovers an ancient diary documenting the tragic fate of Elizabeth, the manor's owner, and a curse related to the 'Blood Moon Ritual.' Strange occurrences plague the manor: moving shadows, cold touches, and whispers that make Carter question his sanity.",
+				"Middle: Delving deeper into the manor, Carter finds Elizabeth's ghost seemingly guiding him to uncover the curse's truth. He meets other characters—the mysterious wanderer Aiden, Vera, a villager claiming to know the manor's history, and Officer Lucas, who seems to know more than he reveals. Carter gradually discovers the curse is connected to dark deals made by certain town families, and with the blood moon approaching, the ritual will begin again. He must choose between truth and fear while avoiding increasingly active evil spirits in the manor.",
+				"Ending: Carter uncovers the curse's truth—Elizabeth was betrayed by her family and sacrificed in a ritual for wealth and power. On the night of the blood moon, he must decide whether to disrupt the ritual, risking the wrath of evil spirits, or collaborate with someone to attempt reversing the curse. Different choices lead to Carter escaping the manor, becoming trapped in the curse, discovering deeper conspiracies, or becoming the ritual's new sacrifice."
+			],
+			"cover_image_url": "resources/covers/story_6_cover.jpg",
+			"background_image_url": "resources/backgrounds/story_6_bg.jpg"
 		}
 	]
 }

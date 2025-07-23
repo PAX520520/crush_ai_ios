@@ -1,0 +1,97 @@
+{
+	"title": "Das Herrenhaus im Nebel",
+	"summary": "Der Reporter Carter kommt in die Stadt Mistvalley, um einen Vermisstenfall zu untersuchen und betritt das verlassene Blackwood-Herrenhaus. Er entdeckt ein mysteriöses Tagebuch, erlebt unheimliche Phänomene und begegnet dem Geist von Elizabeth. Carter muss entscheiden, wie er mit diesen übernatürlichen Ereignissen umgeht.",
+	"segments": [
+		{
+			"type": "narrator",
+			"content": "Die Nacht ist tief, Mistvalley ist in dichten Nebel gehüllt, die Straßen sind menschenleer, nur die Straßenlaternen werfen einen gelblichen Schein durch den Nebel. Du, Carter, ein junger Reporter, stehst vor dem eisernen Tor des Blackwood-Herrenhauses, eine Taschenlampe fest in der Hand. Die Silhouette des Herrenhauses erscheint schemenhaft im Nebel wie ein schlafendes Ungeheuer und strahlt eine beunruhigende Atmosphäre aus."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(leise murmelnd, Brille zurechtrückend) Dieser Ort... verdammt unheimlich. Alle Spuren des Vermisstenfalls führen hierher, aber warum habe ich das Gefühl, dass das keine gute Idee ist?"
+		},
+		{
+			"type": "narrator",
+			"content": "Du stößt das rostige Eisentor auf, ein schrilles Quietschen hallt durch die Stille. Die Haustür des Herrenhauses steht offen, die Veranda ist von Spinnweben überzogen, in der Luft liegt der Geruch von Schimmel und eine unbeschreibliche Kälte. Du betrittst die Halle, der Strahl deiner Taschenlampe streift über abgenutzte Möbel und rissige Wände, aus der Ferne hörst du ein leises Flüstern, wie Wind oder menschliches Gemurmel."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(die Stirn runzelnd, die Taschenlampe fest umklammernd) Wer ist da? Kommen Sie raus!"
+		},
+		{
+			"type": "narrator",
+			"content": "Keine Antwort, aber das Flüstern scheint näher zu kommen. Du bemerkst ein staubbedecktes Tagebuch auf dem Tisch in der Mitte der Halle, auf dem Cover ist der Name 'Eliza Blackwood' eingraviert. Du schlägst es auf und findest hastig geschriebene Einträge über ein 'Blutmondritual': 'Sie haben mich verraten... nutzten mein Blut für Macht... der Fluch wird ewig währen...'"
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(murmelnd) Blutmondritual? Was zum Teufel ist das? Könnte der Vermisstenfall damit zusammenhängen?"
+		},
+		{
+			"type": "narrator",
+			"content": "Plötzlich weht ein kalter Wind durch den Raum, die Kerzen im Leuchter entzünden sich von selbst und geben ein bläuliches Licht ab. Du spürst, wie dir ein Schauer über den Rücken läuft, und als du dich umdrehst, erscheint eine verschwommene Frauengestalt am Ende der Treppe. Sie trägt ein zerschlissenes langes Kleid, hält eine flackernde Laterne in der Hand, ihr bleiches Gesicht ist ausdruckslos, aber ihre Augen sind voller tiefer Trauer."
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(mit ätherischer, seufzender Stimme) Warum... bist du hier? Dies ist kein Ort für die Lebenden..."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(einen Schritt zurückweichend, mit pochendem Herzen) Wer sind Sie?! Ich... ich bin hier, um die Wahrheit zu finden! Über die Vermissten, über dieses Herrenhaus!"
+		},
+		{
+			"type": "character",
+			"character_id": "char_2",
+			"character_name": "Eliza",
+			"content": "(langsam näherkommend, mit einem Hauch von Zorn in der Stimme) Die Wahrheit? Die Wahrheit liegt begraben unter Blut... Wenn du sie wissen willst, dann bleib... aber sei gewarnt, deine Seele könnte verschlungen werden."
+		},
+		{
+			"type": "narrator",
+			"content": "Ihre Gestalt verschwindet plötzlich, die Kerzen erlöschen, und die Halle versinkt in Dunkelheit. Deine Taschenlampe beginnt zu flackern, die Luft wird noch kälter. Du spürst einen unsichtbaren Druck, als würde dich etwas beobachten."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(keuchend, versucht ruhig zu bleiben) Ruhig, Carter, das ist nur eine Halluzination... oder? Aber dieses Tagebuch... dieser Ort... ich muss das aufklären!"
+		},
+		{
+			"type": "narrator",
+			"content": "Du hörst knarrende Schritte auf dem Boden, sie scheinen von oben zu kommen. Du kannst nach oben gehen, um der Quelle der Geräusche nachzugehen, weiter im Tagebuch nach Hinweisen suchen oder diesen Spukort verlassen und in der Stadt Hilfe holen."
+		},
+		{
+			"type": "protagonist",
+			"character_id": "char_1",
+			"character_name": "Carter",
+			"content": "(zähneknirschend, leise) Ich kann jetzt nicht einfach aufgeben... aber dieser Ort ist verdammt unheimlich."
+		},
+		{
+			"type": "narrator",
+			"content": "Dein Herzschlag hallt in deinen Ohren wider, die Schatten des Herrenhauses scheinen sich zu regen. Was wirst du tun?"
+		}
+	],
+	"choice": {
+		"prompt": "Wie willst du vorgehen?",
+		"is_ai_generated": true,
+		"options": [
+			{
+				"content": "Nach oben gehen und den mysteriösen Schritten folgen, das Herrenhaus weiter erkunden."
+			},
+			{
+				"content": "In der Halle bleiben und weiter in Elizas Tagebuch nach Hinweisen suchen."
+			},
+			{
+				"content": "Das Herrenhaus verlassen, nach Mistvalley zurückkehren und Officer Lucas oder die Dorfbewohnerin Vera um Hilfe bitten."
+			}
+		]
+	}
+}

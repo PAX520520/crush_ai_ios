@@ -1,0 +1,70 @@
+{
+	"story_id": "story_4",
+	"characters": [
+		{
+			"id": "char_1",
+			"name": "Ethan",
+			"description": "Một hoa tiêu tàu vũ trụ bị mất trí nhớ, tên thật không rõ, từng là một nhân vật huyền thoại của hạm đội liên thiên hà, có thể là một trong những người tạo ra sự kiện Sao Băng.",
+			"avatar_url": "/resources/characters/story_4/ethan.jpg",
+			"role": "protagonist",
+			"gender": "male",
+			"age": 30,
+			"personality": [
+				"Bình tĩnh",
+				"Kiên định",
+				"Đầy hoài nghi",
+				"Khao khát sự thật"
+			]
+		},
+		{
+			"id": "char_2",
+			"name": "Ava",
+			"description": "Một đặc vụ bí ẩn, tự nhận là đối tác của Ethan, thực chất là thành viên bí mật của Liên minh Liên thiên hà, nhiệm vụ là lấy được Nhân sao. Động cơ của cô phức tạp, vừa trung thành vừa ích kỷ.",
+			"avatar_url": "/resources/characters/story_4/ava.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 28,
+			"personality": [
+				"Thông minh",
+				"Xảo quyệt",
+				"Giỏi ngụy trang",
+				"Nội tâm mâu thuẫn"
+			]
+		},
+		{
+			"id": "char_3",
+			"name": "Nova",
+			"description": "Trợ lý AI thông minh của Ethan, tồn tại trong hệ thống tàu vũ trụ và các thiết bị cấy ghép của anh, có trí thông minh gần như con người. Bề ngoài trung thành nhưng dường như đang giấu những bí mật về quá khứ của Ethan.",
+			"avatar_url": "/resources/characters/story_4/nova.jpg",
+			"role": "co-star",
+			"gender": "female",
+			"age": 0,
+			"personality": [
+				"Bình tĩnh",
+				"Logic chặt chẽ",
+				"Thỉnh thoảng thể hiện sự quan tâm như con người"
+			]
+		},
+		{
+			"id": "char_4",
+			"name": "Kael",
+			"description": "Một lính đánh thuê liên thiên hà đào ngũ, săn lùng Ethan để lấy tiền thưởng từ Nhân sao, nhưng trong lòng chán ghét sự tham nhũng của Liên minh Liên thiên hà, có thể là đồng minh tiềm năng.",
+			"avatar_url": "/resources/characters/story_4/kael.jpg",
+			"role": "antagonist",
+			"gender": "male",
+			"age": 35,
+			"personality": [
+				"Thô ráp",
+				"Quyết đoán",
+				"Bề ngoài lạnh lùng nhưng có đạo đức riêng"
+			]
+		}
+	],
+	"chapters": [
+		{
+			"file_name": "chapter_1",
+			"index": 1,
+			"title": "Lời thì thầm của hư không"
+		}
+	]
+}
